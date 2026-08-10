@@ -9,8 +9,7 @@ import re
 import sys
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
-from xml.etree import ElementTree as ET
-
+import feedparser
 import requests
 
 JST = timezone(timedelta(hours=9))
@@ -21,8 +20,6 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; it-news-digest/1.0; +https://github.com/kawanishikoudai/it-news-digest)",
     "Accept": "application/rss+xml, application/xml, text/xml, */*",
 }
-
-ATOM_NS = {"a": "http://www.w3.org/2005/Atom"}
 
 
 def parse_date(s):
@@ -71,47 +68,32 @@ def fetch_hn(limit=15):
     return items
 
 
-def fetch_rss(url, source, limit=12, needs_translation=True):
+def fetch_feed(url, source, limit=12, needs_translation=True):
+    """RSS2.0 / Atom 両対応。多少壊れたXMLでもfeedparserが寛容にパースする。"""
     resp = requests.get(url, headers=HEADERS, timeout=15)
     resp.raise_for_status()
-    root = ET.fromstring(resp.content)
+    parsed = feedparser.parse(resp.content)
     items = []
-    for it in root.findall(".//item")[:limit]:
-        title = (it.findtext("title") or "").strip()
-        link = (it.findtext("link") or "").strip()
-        pub = it.findtext("pubDate")
-        desc = strip_html(it.findtext("description"))[:160]
+    for e in parsed.entries[:limit]:
+        title = (getattr(e, "title", "") or "").strip()
+        link = (getattr(e, "link", "") or "").strip()
         if not title or not link:
             continue
+
+        time_struct = getattr(e, "published_parsed", None) or getattr(e, "updated_parsed", None)
+        if time_struct:
+            dt = datetime(*time_struct[:6], tzinfo=timezone.utc)
+            time_iso = dt.astimezone(JST).isoformat()
+        else:
+            time_iso = datetime.now(JST).isoformat()
+
+        summary = strip_html(getattr(e, "summary", "") or "")[:160]
+
         items.append({
             "source": source,
             "title": title,
             "url": link,
-            "time_iso": parse_date(pub),
-            "excerpt": desc,
-            "needs_translation": needs_translation,
-        })
-    return items
-
-
-def fetch_atom(url, source, limit=12, needs_translation=False):
-    resp = requests.get(url, headers=HEADERS, timeout=15)
-    resp.raise_for_status()
-    root = ET.fromstring(resp.content)
-    items = []
-    for en in root.findall("a:entry", ATOM_NS)[:limit]:
-        title = (en.findtext("a:title", default="", namespaces=ATOM_NS) or "").strip()
-        link_el = en.find("a:link", ATOM_NS)
-        link = link_el.get("href") if link_el is not None else ""
-        updated = en.findtext("a:updated", default=None, namespaces=ATOM_NS)
-        summary = strip_html(en.findtext("a:summary", default="", namespaces=ATOM_NS))[:160]
-        if not title or not link:
-            continue
-        items.append({
-            "source": source,
-            "title": title,
-            "url": link,
-            "time_iso": parse_date(updated),
+            "time_iso": time_iso,
             "excerpt": summary,
             "needs_translation": needs_translation,
         })
@@ -181,9 +163,9 @@ def main():
 
     for name, fn in [
         ("hn", lambda: fetch_hn()),
-        ("tc", lambda: fetch_rss("https://techcrunch.com/feed/", "tc")),
-        ("itm", lambda: fetch_rss("https://rss.itmedia.co.jp/rss/2.0/news.xml", "itm", needs_translation=False)),
-        ("pk", lambda: fetch_atom("https://www.publickey1.jp/atom.xml", "pk", needs_translation=False)),
+        ("tc", lambda: fetch_feed("https://techcrunch.com/feed/", "tc")),
+        ("itm", lambda: fetch_feed("https://rss.itmedia.co.jp/rss/2.0/news.xml", "itm", needs_translation=False)),
+        ("pk", lambda: fetch_feed("https://www.publickey1.jp/atom.xml", "pk", needs_translation=False)),
     ]:
         result, err = safe_fetch(name, fn)
         items += result
