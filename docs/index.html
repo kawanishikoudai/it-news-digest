@@ -3,80 +3,77 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>news --today</title>
+<title>今日のITニュース</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#0B0D10; --panel:#12151A; --line:#20242B;
-    --text:#DCE1E8; --muted:#6B7280; --muted-2:#454B54;
-    --accent:#5EEAD4; --accent-dim:rgba(94,234,212,0.12);
-    --heart:#FB7185;
-    --hn:#FF6600; --tc:#2ECC71; --itm:#4EA1FF; --pk:#C084FC;
+    --bg:#101317; --card:#1A1E24; --card-border:#262B33;
+    --text:#F1F3F5; --muted:#9BA3AF; --muted-2:#6B7280;
+    --accent:#6EE7D8; --heart:#FB7185;
+    --hn-fg:#FF9A52; --hn-bg:rgba(255,102,0,0.16);
+    --tc-fg:#4ADE80; --tc-bg:rgba(34,197,94,0.16);
+    --itm-fg:#60A5FA; --itm-bg:rgba(59,130,246,0.16);
+    --pk-fg:#C084FC; --pk-bg:rgba(168,85,247,0.16);
   }
   *{box-sizing:border-box;}
   html,body{margin:0;padding:0;background:var(--bg);color:var(--text);}
-  body{font-family:'Inter',sans-serif;min-height:100vh;display:flex;justify-content:center;padding:20px 12px 60px;}
-  .terminal{width:100%;max-width:680px;}
-  .statusbar{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;
-    padding-bottom:12px;border-bottom:1px solid var(--line);margin-bottom:10px;}
-  .prompt{font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--muted);}
-  .prompt .user{color:var(--accent);}
-  .prompt .path{color:var(--text);}
-  .cursor{display:inline-block;width:6px;height:12px;background:var(--accent);margin-left:2px;vertical-align:-1px;animation:blink 1.1s steps(1) infinite;}
-  @keyframes blink{50%{opacity:0;}}
-  .meta{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--muted-2);}
+  body{font-family:'Inter',sans-serif;min-height:100vh;display:flex;justify-content:center;padding:20px 14px 60px;}
+  .page{width:100%;max-width:620px;}
 
-  .tabs{display:flex;gap:6px;margin-bottom:12px;}
-  .tab{font-family:'JetBrains Mono',monospace;font-size:11.5px;background:transparent;border:1px solid var(--line);
-    color:var(--muted);padding:6px 12px;border-radius:6px;cursor:pointer;}
-  .tab[data-active="true"]{color:var(--text);border-color:var(--accent-dim);background:var(--accent-dim);}
+  header{margin-bottom:18px;}
+  h1{font-size:22px;font-weight:800;margin:0 0 4px;letter-spacing:-0.01em;}
+  .updated{font-size:13px;color:var(--muted-2);}
 
-  .filters{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px;}
-  .flag{font-family:'JetBrains Mono',monospace;font-size:10.5px;background:transparent;border:1px solid var(--line);
-    color:var(--muted-2);padding:4px 9px;border-radius:16px;cursor:pointer;display:flex;align-items:center;gap:5px;transition:all .15s ease;}
-  .flag .dot{width:5px;height:5px;border-radius:50%;background:currentColor;}
-  .flag[data-active="true"]{color:var(--text);border-color:var(--accent-dim);background:var(--accent-dim);}
-  .flag[data-src="hn"][data-active="true"]{color:var(--hn);}
-  .flag[data-src="tc"][data-active="true"]{color:var(--tc);}
-  .flag[data-src="itm"][data-active="true"]{color:var(--itm);}
-  .flag[data-src="pk"][data-active="true"]{color:var(--pk);}
+  .tabs{display:flex;gap:20px;border-bottom:1px solid var(--card-border);margin-bottom:16px;}
+  .tab{background:none;border:none;color:var(--muted);font-size:15px;font-weight:600;
+    padding:8px 2px 10px;cursor:pointer;border-bottom:2px solid transparent;}
+  .tab[data-active="true"]{color:var(--text);border-bottom-color:var(--accent);}
 
-  .count-line{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--muted);min-height:16px;margin-bottom:8px;}
-  .feed{border-top:1px solid var(--line);}
-  .item{padding:11px 2px;border-bottom:1px solid var(--line);}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;}
+  .flag{font-family:'Inter',sans-serif;font-size:13px;font-weight:600;background:var(--card);
+    border:1px solid var(--card-border);color:var(--muted);padding:7px 14px;border-radius:20px;cursor:pointer;}
+  .flag[data-active="true"][data-src="hn"]{color:var(--hn-fg);background:var(--hn-bg);border-color:transparent;}
+  .flag[data-active="true"][data-src="tc"]{color:var(--tc-fg);background:var(--tc-bg);border-color:transparent;}
+  .flag[data-active="true"][data-src="itm"]{color:var(--itm-fg);background:var(--itm-bg);border-color:transparent;}
+  .flag[data-active="true"][data-src="pk"]{color:var(--pk-fg);background:var(--pk-bg);border-color:transparent;}
 
-  .item-head{display:flex;align-items:center;gap:6px;font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--muted-2);margin-bottom:4px;}
-  .item-src{display:flex;align-items:center;gap:4px;flex-shrink:0;}
-  .item-src .dot{width:5px;height:5px;border-radius:50%;flex-shrink:0;}
-  .src-hn{color:var(--hn);} .src-tc{color:var(--tc);} .src-itm{color:var(--itm);} .src-pk{color:var(--pk);}
-  .item-time{color:var(--muted-2);}
-  .item-sep{color:var(--line);}
+  .count-line{font-size:13px;color:var(--muted-2);margin-bottom:10px;}
+  .feed{display:flex;flex-direction:column;gap:10px;}
 
-  .item-body{display:flex;align-items:flex-start;gap:8px;}
-  .item-title{font-weight:500;font-size:13px;line-height:1.55;flex:1;cursor:pointer;}
-  .item-title:hover{color:var(--accent);}
-  .like-btn{flex-shrink:0;background:none;border:none;font-size:15px;line-height:1;cursor:pointer;
-    padding:2px 4px;color:var(--muted-2);opacity:0.6;}
-  .like-btn[data-liked="true"]{color:var(--heart);opacity:1;}
+  .item{background:var(--card);border:1px solid var(--card-border);border-radius:14px;padding:14px 16px;}
+  .item-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:10px;}
+  .item-meta{display:flex;align-items:center;gap:8px;}
+  .src-pill{font-size:11.5px;font-weight:700;padding:3px 9px;border-radius:20px;}
+  .src-pill.hn{color:var(--hn-fg);background:var(--hn-bg);}
+  .src-pill.tc{color:var(--tc-fg);background:var(--tc-bg);}
+  .src-pill.itm{color:var(--itm-fg);background:var(--itm-bg);}
+  .src-pill.pk{color:var(--pk-fg);background:var(--pk-bg);}
+  .item-time{font-size:12.5px;color:var(--muted-2);}
 
-  .item-excerpt{font-size:11.5px;line-height:1.65;color:var(--muted);margin:8px 0 2px 0;display:none;}
+  .like-btn{background:none;border:none;font-size:20px;line-height:1;cursor:pointer;
+    padding:2px 4px;color:var(--muted-2);}
+  .like-btn[data-liked="true"]{color:var(--heart);}
+
+  .item-title{display:block;font-size:16px;font-weight:600;line-height:1.65;color:var(--text);cursor:pointer;}
+  .item-title:active{opacity:0.8;}
+
+  .item-excerpt{font-size:13.5px;line-height:1.75;color:var(--muted);margin-top:10px;display:none;}
   .item.open .item-excerpt{display:block;}
-  .item-link{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--accent);display:none;}
-  .item.open .item-link{display:inline-block;margin-top:5px;}
-  .item-link:hover{text-decoration:underline;}
+  .item-link{display:none;margin-top:12px;font-size:13.5px;font-weight:600;color:var(--accent);}
+  .item.open .item-link{display:inline-block;}
 
-  .liked-date{font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--muted-2);}
-  .empty{font-family:'JetBrains Mono',monospace;color:var(--muted);font-size:12px;padding:26px 4px;text-align:center;}
+  .liked-date{font-size:12px;color:var(--muted-2);}
+  .empty{color:var(--muted);font-size:14px;padding:40px 10px;text-align:center;line-height:1.7;}
   a{color:inherit;text-decoration:none;}
 </style>
 </head>
 <body>
-<div class="terminal">
-  <div class="statusbar">
-    <div class="prompt"><span class="user">guest@it-news</span> <span class="path">~$</span> tail -f today<span class="cursor"></span></div>
-    <div class="meta" id="genTime">読み込み中...</div>
-  </div>
+<div class="page">
+  <header>
+    <h1>今日のITニュース</h1>
+    <div class="updated" id="genTime">読み込み中...</div>
+  </header>
 
   <div class="tabs">
     <button class="tab" data-tab="today" data-active="true">今日</button>
@@ -84,10 +81,10 @@
   </div>
 
   <div class="filters" id="filters">
-    <button class="flag" data-src="hn" data-active="true"><span class="dot"></span>--hn</button>
-    <button class="flag" data-src="tc" data-active="true"><span class="dot"></span>--techcrunch</button>
-    <button class="flag" data-src="itm" data-active="true"><span class="dot"></span>--itmedia</button>
-    <button class="flag" data-src="pk" data-active="true"><span class="dot"></span>--publickey</button>
+    <button class="flag" data-src="hn" data-active="true">Hacker News</button>
+    <button class="flag" data-src="tc" data-active="true">TechCrunch</button>
+    <button class="flag" data-src="itm" data-active="true">ITmedia</button>
+    <button class="flag" data-src="pk" data-active="true">Publickey</button>
   </div>
 
   <div class="count-line" id="countLine"></div>
@@ -96,14 +93,13 @@
 
 <script>
 const SOURCES = {
-  hn:  { label: 'HN',        cls: 'src-hn'  },
-  tc:  { label: 'TechCrunch',cls: 'src-tc'  },
-  itm: { label: 'ITmedia',   cls: 'src-itm' },
-  pk:  { label: 'Publickey', cls: 'src-pk'  },
+  hn:  { label: 'Hacker News', cls: 'hn'  },
+  tc:  { label: 'TechCrunch',  cls: 'tc'  },
+  itm: { label: 'ITmedia',     cls: 'itm' },
+  pk:  { label: 'Publickey',   cls: 'pk'  },
 };
 const LIKE_KEY = 'it-news-liked-v1';
 
-// news.json がまだ無い/取得失敗した時のフォールバック表示
 const FALLBACK = {
   generated_at: null,
   items: [{
@@ -120,9 +116,7 @@ function loadLiked(){
   try{ return JSON.parse(localStorage.getItem(LIKE_KEY) || '{}'); }
   catch(e){ return {}; }
 }
-function saveLiked(map){
-  localStorage.setItem(LIKE_KEY, JSON.stringify(map));
-}
+function saveLiked(map){ localStorage.setItem(LIKE_KEY, JSON.stringify(map)); }
 let liked = loadLiked();
 
 function relTime(iso){
@@ -144,9 +138,7 @@ function escapeHtml(s){
   return d.innerHTML;
 }
 
-function displayTitle(it){
-  return it.title_ja || it.title;
-}
+function displayTitle(it){ return it.title_ja || it.title; }
 
 function renderItem(it, opts){
   opts = opts || {};
@@ -160,15 +152,13 @@ function renderItem(it, opts){
   el.className = 'item';
   el.innerHTML = `
     <div class="item-head">
-      <span class="item-src ${meta.cls}"><span class="dot"></span>${meta.label}</span>
-      <span class="item-sep">・</span>
-      <span class="item-time">${relTime(it.time_iso)}</span>
-      ${likedDateHtml}
-    </div>
-    <div class="item-body">
-      <span class="item-title">${escapeHtml(displayTitle(it))}</span>
+      <div class="item-meta">
+        <span class="src-pill ${meta.cls}">${meta.label}</span>
+        <span class="item-time">${relTime(it.time_iso)}${likedDateHtml}</span>
+      </div>
       <button class="like-btn" data-liked="${isLiked}" aria-label="いいね">${isLiked ? '♥' : '♡'}</button>
     </div>
+    <span class="item-title">${escapeHtml(displayTitle(it))}</span>
     ${excerptHtml}
     <a class="item-link" href="${it.url}" target="_blank" rel="noopener">記事を開く →</a>
   `;
@@ -212,7 +202,7 @@ function render(){
 
   if (list.length === 0){
     const msg = currentTab === 'today'
-      ? '表示できる記事がありません。--flag を有効にしてください。'
+      ? '表示できる記事がありません。ソースを選び直してください。'
       : 'まだいいねした記事がありません。♡ をタップすると保存されます。';
     feed.innerHTML = `<div class="empty">${msg}</div>`;
     return;
