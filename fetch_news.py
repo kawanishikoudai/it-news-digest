@@ -17,7 +17,10 @@ JST = timezone(timedelta(hours=9))
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(HERE, "docs")
 NEWS_JSON = os.path.join(OUT_DIR, "news.json")
-HEADERS = {"User-Agent": "it-news-digest/1.0 (+github actions)"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; it-news-digest/1.0; +https://github.com/kawanishikoudai/it-news-digest)",
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+}
 
 ATOM_NS = {"a": "http://www.w3.org/2005/Atom"}
 
@@ -161,14 +164,36 @@ def translate_titles(items):
         print(f"翻訳に失敗しました（原題のまま表示します）: {e}", file=sys.stderr)
 
 
+def safe_fetch(name, fn):
+    try:
+        result = fn()
+        print(f"[OK] {name}: {len(result)} 件")
+        return result, None
+    except Exception as e:
+        msg = f"{type(e).__name__}: {e}"
+        print(f"[ERROR] {name}: {msg}", file=sys.stderr)
+        return [], {"source": name, "error": msg}
+
+
 def main():
     items = []
-    items += fetch_hn()
-    items += fetch_rss("https://techcrunch.com/feed/", "tc")
-    items += fetch_rss("https://rss.itmedia.co.jp/rss/2.0/news.xml", "itm", needs_translation=False)
-    items += fetch_atom("https://www.publickey1.jp/atom.xml", "pk", needs_translation=False)
+    errors = []
 
-    translate_titles(items)
+    for name, fn in [
+        ("hn", lambda: fetch_hn()),
+        ("tc", lambda: fetch_rss("https://techcrunch.com/feed/", "tc")),
+        ("itm", lambda: fetch_rss("https://rss.itmedia.co.jp/rss/2.0/news.xml", "itm", needs_translation=False)),
+        ("pk", lambda: fetch_atom("https://www.publickey1.jp/atom.xml", "pk", needs_translation=False)),
+    ]:
+        result, err = safe_fetch(name, fn)
+        items += result
+        if err:
+            errors.append(err)
+
+    try:
+        translate_titles(items)
+    except Exception as e:
+        errors.append({"source": "translate", "error": f"{type(e).__name__}: {e}"})
 
     for it in items:
         it.pop("needs_translation", None)
@@ -178,10 +203,14 @@ def main():
     os.makedirs(OUT_DIR, exist_ok=True)
     with open(NEWS_JSON, "w", encoding="utf-8") as f:
         json.dump(
-            {"generated_at": datetime.now(JST).isoformat(), "items": items},
+            {
+                "generated_at": datetime.now(JST).isoformat(),
+                "items": items,
+                "errors": errors,
+            },
             f, ensure_ascii=False, indent=2,
         )
-    print(f"{len(items)} 件書き出しました -> {NEWS_JSON}")
+    print(f"{len(items)} 件書き出しました -> {NEWS_JSON} (errors: {len(errors)})")
 
 
 if __name__ == "__main__":
