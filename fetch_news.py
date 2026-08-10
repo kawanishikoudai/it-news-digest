@@ -73,6 +73,15 @@ def fetch_feed(url, source, limit=12, needs_translation=True):
     resp = requests.get(url, headers=HEADERS, timeout=15)
     resp.raise_for_status()
     parsed = feedparser.parse(resp.content)
+
+    if not parsed.entries:
+        bozo_msg = str(getattr(parsed, "bozo_exception", "")) if getattr(parsed, "bozo", 0) else ""
+        raise RuntimeError(
+            f"0 entries (status={resp.status_code}, len={len(resp.content)}, "
+            f"content-type={resp.headers.get('content-type')}, bozo={getattr(parsed, 'bozo', 0)}, "
+            f"bozo_exception={bozo_msg}, head={resp.content[:120]!r})"
+        )
+
     items = []
     for e in parsed.entries[:limit]:
         title = (getattr(e, "title", "") or "").strip()
