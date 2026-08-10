@@ -1,145 +1,200 @@
 {
-  "generated_at": "2026-08-10T14:47:07.778579+09:00",
+  "generated_at": "2026-08-10T15:04:10.390741+09:00",
   "items": [
+    {
+      "source": "hn",
+      "title": "Why do we assume everyone should be working?",
+      "url": "https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/",
+      "time_iso": "2026-08-10T14:16:26+09:00",
+      "excerpt": "19 points ・ 5 comments",
+      "trend_score": 0.9333,
+      "impact": "労働文化と社会制度の関連性について、従来の前提を問い直す議論の場が提供される。"
+    },
     {
       "source": "itm",
       "title": "「mao-asada.jp」失効ドメイン問題、さくら田中社長「対処します」の意図は　同社に聞いた",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000483/",
       "time_iso": "2026-08-10T14:01:13+09:00",
-      "excerpt": "浅田真央さんの旧ドメイン騒動で、さくらインターネットの田中邦裕社長が「対処します」と投稿し話題に。お名前.comとの違いと、その真意を聞いた。"
+      "excerpt": "浅田真央さんの旧ドメイン騒動で、さくらインターネットの田中邦裕社長が「対処します」と投稿し話題に。お名前.comとの違いと、その真意を聞いた。",
+      "trend_score": 1.0,
+      "impact": "ドメイン失効問題の対処方針が明かされ、大手企業の関連サービス連携が改善される見通し。"
     },
     {
       "source": "itm",
       "title": "圧をかけて“泡”爆増、ミラブルの技術が融合した「高圧洗浄機」を自宅で試したら掃除が楽しくなった",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000468/",
       "time_iso": "2026-08-10T13:18:48+09:00",
-      "excerpt": "高圧洗浄機といえば、「強い水圧で汚れを吹き飛ばす」ための強力なツールというイメージがありますが、今回体験した「MIRABLE AQUABLAST MINI」はその常識を少し変えてくれる製品でした。"
+      "excerpt": "高圧洗浄機といえば、「強い水圧で汚れを吹き飛ばす」ための強力なツールというイメージがありますが、今回体験した「MIRABLE AQUABLAST MINI」はその常識を少し変えてくれる製品でした。",
+      "trend_score": 0.9167,
+      "impact": "洗浄技術を応用した高圧洗浄機が実用性を示し、家庭用クリーニング機器の選択肢が広がる。"
     },
     {
       "source": "hn",
       "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
       "url": "https://www.nber.org/papers/w35560",
       "time_iso": "2026-08-10T13:06:10+09:00",
-      "excerpt": "44 points ・ 12 comments",
-      "title_ja": "H-1B移民が米経済に与える長期的影響"
+      "excerpt": "48 points ・ 13 comments",
+      "trend_score": 0.7333,
+      "title_ja": "H-1Bビザが米国経済に及ぼす長期的影響",
+      "impact": "移民労働政策の経済効果に関する実証的データが、政策議論の根拠となる可能性。"
     },
     {
       "source": "itm",
       "title": "PC内蔵カメラで「血管情報」「心拍情報」測定　VAIOが世界初、ノジマのアイデアが発端",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000482/",
       "time_iso": "2026-08-10T13:00:49+09:00",
-      "excerpt": "カメラから取得したデータに基づき、統計学的処理により構築したモデルから血管情報と心拍情報を推定する。"
+      "excerpt": "カメラから取得したデータに基づき、統計学的処理により構築したモデルから血管情報と心拍情報を推定する。",
+      "trend_score": 0.8333,
+      "title_ja": "PC内蔵カメラで血管・心拍情報を測定",
+      "impact": "非接触で健康情報を取得するPC統合機能が実現し、ウェアラブルの代替手段となる可能性。"
     },
     {
       "source": "itm",
       "title": "避難所でAI使ってサービス開発「イマココナビ」　ニッチな生活情報も被災者主導で共有",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000481/",
       "time_iso": "2026-08-10T12:52:46+09:00",
-      "excerpt": "熊本地震の発生直後、人工知能（AI）を活用し、被災者どうしが生活情報をリアルタイムで共有するサイトが生まれ、好評を呼んでいる。子供が遊べる公園、爬虫類のペットフードの売り場―。行政では担えないニッチな内容を共有できることも強みで、すでに16万人以上がサイトに足を運んだ。「情報」が欠かせぬ一つのライフラインとなる中、被災"
+      "excerpt": "熊本地震の発生直後、人工知能（AI）を活用し、被災者どうしが生活情報をリアルタイムで共有するサイトが生まれ、好評を呼んでいる。子供が遊べる公園、爬虫類のペットフードの売り場―。行政では担えないニッチな内容を共有できることも強みで、すでに16万人以上がサイトに足を運んだ。「情報」が欠かせぬ一つのライフラインとなる中、被災",
+      "trend_score": 0.75,
+      "title_ja": "AI活用の被災者向けナビゲーションサービス",
+      "impact": "災害時の情報格差解消にAIが有効であることが実証され、災害対策インフラが拡大する。"
     },
     {
       "source": "hn",
       "title": "Auto mode is now the default in Claude Code",
       "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
       "time_iso": "2026-08-10T12:50:00+09:00",
-      "excerpt": "88 points ・ 48 comments",
-      "title_ja": "クロードのコード、自動モードがデフォルトに"
+      "excerpt": "104 points ・ 66 comments",
+      "trend_score": 1.0,
+      "title_ja": "Claude CodeでAuto modeがデフォルト化",
+      "impact": "プログラミング支援AIの自動化レベルが上がり、開発効率が向上する一方で人間の関与が減少する。"
     },
     {
       "source": "itm",
       "title": "科学技術振興機構、メール情報約1.6万件漏えいの可能性　外部から指摘受け発覚",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000480/",
       "time_iso": "2026-08-10T12:23:28+09:00",
-      "excerpt": ""
+      "excerpt": "",
+      "trend_score": 0.6667,
+      "title_ja": "科学技術振興機構でメール情報1.6万件漏えい",
+      "impact": "大型研究機関のセキュリティ対策が不備であることが明らかになり、組織の信頼性が問われる。"
     },
     {
       "source": "itm",
       "title": "防衛省、リチェルカセキュリティに指名停止措置　研究事業で水増し請求か",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000479/",
       "time_iso": "2026-08-10T12:22:40+09:00",
-      "excerpt": "防衛省が、委託先のリチェルカセキュリティ（東京都千代田区）に不正行為があったとして、9カ月間の指名停止措置を取ったと発表した。"
+      "excerpt": "防衛省が、委託先のリチェルカセキュリティ（東京都千代田区）に不正行為があったとして、9カ月間の指名停止措置を取ったと発表した。",
+      "trend_score": 0.5833,
+      "title_ja": "防衛省がセキュリティ企業に指名停止措置",
+      "impact": "防衛事業の不正請求が発覚し、委託企業の監視体制の強化が求められる。"
     },
     {
       "source": "hn",
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
       "time_iso": "2026-08-10T12:18:40+09:00",
-      "excerpt": "40 points ・ 2 comments",
-      "title_ja": "音声操作の殺人ミステリーゲーム、AI容疑者に尋問"
+      "excerpt": "42 points ・ 4 comments",
+      "trend_score": 0.8,
+      "title_ja": "音声対話型の殺人ミステリーAIゲーム",
+      "impact": "音声インタフェースを活用したインタラクティブなAIアプリケーションの新しい実例を示す。"
     },
     {
       "source": "hn",
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "url": "https://github.com/shinyquagsire23/Klepton",
       "time_iso": "2026-08-10T12:12:48+09:00",
-      "excerpt": "24 points ・ 0 comments",
-      "title_ja": "AndroidのARM64 VRアプリをApple Vision Proで実行"
+      "excerpt": "26 points ・ 0 comments",
+      "trend_score": 0.6,
+      "title_ja": "Apple Vision ProでAndroid VR APKを実行",
+      "impact": "異なるプラットフォーム間の互換性が向上し、VRコンテンツの利用可能性が拡大する。"
     },
     {
       "source": "hn",
       "title": "Turn satellite imagery into a paper globe you fold yourself",
       "url": "https://foldingglobes.com/",
       "time_iso": "2026-08-10T11:57:38+09:00",
-      "excerpt": "25 points ・ 5 comments",
-      "title_ja": "衛星画像から折り紙用の地球儀を製作"
+      "excerpt": "27 points ・ 7 comments",
+      "trend_score": 0.5333,
+      "title_ja": "衛星画像を紙製地球儀に変換するツール",
+      "impact": "衛星データを物理的アイテムに変換する新しい表現形式により、地球情報の民主化が進む。"
     },
     {
       "source": "itm",
       "title": "靖国神社、境内での軍服・コスプレを禁止",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000478/",
       "time_iso": "2026-08-10T11:48:04+09:00",
-      "excerpt": "「英霊がお祀りされる神聖な境内における静謐と尊厳を維持すること」を目的として趣旨への理解と協力を求めている。"
+      "excerpt": "「英霊がお祀りされる神聖な境内における静謐と尊厳を維持すること」を目的として趣旨への理解と協力を求めている。",
+      "trend_score": 0.5,
+      "impact": "宗教施設での軍装など特定ファッションの制限が、文化と自由のバランスについて議論を生む。"
     },
     {
       "source": "hn",
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
       "time_iso": "2026-08-10T11:23:17+09:00",
-      "excerpt": "143 points ・ 40 comments",
-      "title_ja": "HackerOneに何が起きたのか"
+      "excerpt": "145 points ・ 43 comments",
+      "trend_score": 0.8667,
+      "title_ja": "セキュリティ企業HackerOneで何が起きたか",
+      "impact": "大手セキュリティ企業の動向変化が、脆弱性報告エコシステムに影響を与える可能性。"
     },
     {
       "source": "itm",
       "title": "「購入済みの着せかえアイコン消えた」　LINEのiOS 26対応版に「金返せ」と不満",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000476/",
       "time_iso": "2026-08-10T11:15:44+09:00",
-      "excerpt": "iOS 26の新デザイン仕様に対応するため、着せかえの提供元にコンテンツのアップデートが必要になったことが原因。"
+      "excerpt": "iOS 26の新デザイン仕様に対応するため、着せかえの提供元にコンテンツのアップデートが必要になったことが原因。",
+      "trend_score": 0.4167,
+      "impact": "iOS更新に伴うコンテンツ提供形式の変更により、ユーザーの購入済みアイテムが消失する問題が発生。"
     },
     {
       "source": "itm",
       "title": "ニンテンドーミュージアム、不正購入チケットで入館できないケースを「複数確認」……「公式で買って」",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000470/",
       "time_iso": "2026-08-10T10:10:36+09:00",
-      "excerpt": "不正な販売または譲渡が確認された場合は、購入したすべてのチケットが無効になることがあるとして注意を呼び掛けている。"
+      "excerpt": "不正な販売または譲渡が確認された場合は、購入したすべてのチケットが無効になることがあるとして注意を呼び掛けている。",
+      "trend_score": 0.3333,
+      "title_ja": "ニンテンドーミュージアムで不正チケット入館禁止",
+      "impact": "二次販売市場の悪用対策として、チケット無効化制度が運用され、転売抑止効果が期待される。"
     },
     {
       "source": "itm",
       "title": "「ゲーム運営の修羅場過ぎる」　コロコロコミック系漫画サイトの新作が話題　Gitツリー見てガチャ不具合の犯人探し",
       "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000458/",
       "time_iso": "2026-08-10T10:06:36+09:00",
-      "excerpt": "小学館の漫画配信サイト「週刊コロコロコミック」に掲載されている新作漫画「まだサ終しないんですか？」が、IT関係者を中心にXで話題だ。ソーシャルゲーム開発の現場をテーマにした作品だが、バージョン管理ツールの履歴を見て不具合の犯人探しをする描写などが「修羅場すぎる」と注目を浴びている。"
+      "excerpt": "小学館の漫画配信サイト「週刊コロコロコミック」に掲載されている新作漫画「まだサ終しないんですか？」が、IT関係者を中心にXで話題だ。ソーシャルゲーム開発の現場をテーマにした作品だが、バージョン管理ツールの履歴を見て不具合の犯人探しをする描写などが「修羅場すぎる」と注目を浴びている。",
+      "trend_score": 0.25,
+      "title_ja": "ゲーム運営題材の漫画が開発現場の実態をコミカルに表現",
+      "impact": "ソーシャルゲーム開発の難しさがエンタメコンテンツ化され、業界の課題が認知される。"
     },
     {
       "source": "hn",
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
       "time_iso": "2026-08-10T10:01:34+09:00",
-      "excerpt": "66 points ・ 6 comments",
-      "title_ja": "CDCをPostgresデータベースに移行"
+      "excerpt": "68 points ・ 6 comments",
+      "trend_score": 0.4667,
+      "title_ja": "CDCデータベースをPostgresに移行した事例",
+      "impact": "大規模データベース移行のベストプラクティスが共有され、インフラ近代化の参考になる。"
     },
     {
       "source": "itm",
       "title": "小田急、「充レン」撤去→「CHARGESPOT」に回帰　全70駅に拡大へ",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000469/",
       "time_iso": "2026-08-10T09:37:01+09:00",
-      "excerpt": "小田急は2019年4月、CHARGESPOTを新宿駅など5駅に導入。2021年5月に充レンを同じ5駅に設置した。今回、充レンからCHARGESPOTに回帰した上で、5駅から全70駅へと規模を大幅に拡大する。"
+      "excerpt": "小田急は2019年4月、CHARGESPOTを新宿駅など5駅に導入。2021年5月に充レンを同じ5駅に設置した。今回、充レンからCHARGESPOTに回帰した上で、5駅から全70駅へと規模を大幅に拡大する。",
+      "trend_score": 0.1667,
+      "title_ja": "小田急が充電器スポットを全70駅に拡大",
+      "impact": "鉄道駅での充電インフラが大幅拡張され、モバイル利用環境が向上する。"
     },
     {
       "source": "itm",
       "title": "デジタル庁から個人情報漏えい　手順書ミスが原因、団体職員150人分の氏名など誤送付",
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000467/",
       "time_iso": "2026-08-10T07:03:29+09:00",
-      "excerpt": "他省庁への送付ファイルに本来含めるべきでない職員の氏名やユーザーID、所属などのコードなどが記載されていた。二次被害は確認されていない。"
+      "excerpt": "他省庁への送付ファイルに本来含めるべきでない職員の氏名やユーザーID、所属などのコードなどが記載されていた。二次被害は確認されていない。",
+      "trend_score": 0.0833,
+      "title_ja": "デジタル庁から職員情報150人分が誤送付",
+      "impact": "政府機関の手順ミスによる個人情報漏えいが発生し、情報管理体制の改善が急務となる。"
     },
     {
       "source": "tc",
@@ -147,15 +202,19 @@
       "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
       "time_iso": "2026-08-10T05:35:17+09:00",
       "excerpt": "The AI-focused hedge fund is still making some big bets.",
-      "title_ja": "ヘッジファンドがチップスタートアップに400M投資"
+      "trend_score": 1.0,
+      "title_ja": "経営難ファンドがチップ企業に4億ドル投資",
+      "impact": "AI関連の半導体企業への投資が加速し、チップ産業の競争構図が変化する。"
     },
     {
       "source": "hn",
       "title": "The tragedy of the commons, AI edition",
       "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
       "time_iso": "2026-08-10T04:43:52+09:00",
-      "excerpt": "102 points ・ 56 comments",
-      "title_ja": "コモンズの悲劇、AI版"
+      "excerpt": "104 points ・ 57 comments",
+      "trend_score": 0.1333,
+      "title_ja": "AI版の共有地の悲劇",
+      "impact": "AIリソースの過度利用による環境問題のアナロジーが、AIガバナンスの課題を示唆する。"
     },
     {
       "source": "tc",
@@ -163,23 +222,26 @@
       "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
       "time_iso": "2026-08-10T04:20:32+09:00",
       "excerpt": "Programming with Claude Code will soon require even less human oversight.",
-      "title_ja": "クロードコードの自動モード、デフォルトに変更"
+      "trend_score": 0.9167,
+      "impact": "AIコード生成ツールの自動化レベルが上がり、開発プロセスの人的監視が減少する。"
     },
     {
       "source": "hn",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "time_iso": "2026-08-10T04:16:49+09:00",
-      "excerpt": "552 points ・ 312 comments",
-      "title_ja": "複雑なトピック学習にLLMを活用"
+      "excerpt": "560 points ・ 314 comments",
+      "trend_score": 0.6667,
+      "impact": "LLMを学習ツールとして活用する手法が多くの関心を集め、AIの実用的な応用が広がっている。"
     },
     {
       "source": "hn",
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49233423",
       "time_iso": "2026-08-10T02:23:22+09:00",
-      "excerpt": "216 points ・ 756 comments",
-      "title_ja": "あなたは何に取り組んでいますか（2026年8月）"
+      "excerpt": "218 points ・ 763 comments",
+      "trend_score": 0.2,
+      "impact": "開発者コミュニティの現在進行中のプロジェクトが可視化され、業界動向が把握できる。"
     },
     {
       "source": "tc",
@@ -187,22 +249,28 @@
       "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
       "time_iso": "2026-08-10T01:05:00+09:00",
       "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "title_ja": "Zooxが発表準備、ウーバーのAV事業展開"
+      "trend_score": 0.8333,
+      "title_ja": "自動運転タクシーZooxとUberのAV戦略",
+      "impact": "自動運転技術の実用化動向とAIの運輸産業への影響が明確になる。"
     },
     {
       "source": "hn",
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
       "time_iso": "2026-08-10T00:21:46+09:00",
-      "excerpt": "241 points ・ 177 comments",
-      "title_ja": "タクシー運転手はアルツハイマーで死ぬことが稀"
+      "excerpt": "245 points ・ 177 comments",
+      "trend_score": 0.3333,
+      "impact": "タクシー運転手のアルツハイマー発症率が低い理由の研究が、認知機能維持の知見をもたらす。"
     },
     {
       "source": "pk",
       "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
       "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
       "time_iso": "2026-08-10T00:19:33+09:00",
-      "excerpt": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました..."
+      "excerpt": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
+      "trend_score": 1.0,
+      "title_ja": "Agent PluginsでAIエージェント間のスキル共有が標準化",
+      "impact": "複数のAIプラットフォーム間で統一されたプラグイン形式により、エコシステムの相互運用性が向上。"
     },
     {
       "source": "tc",
@@ -210,7 +278,9 @@
       "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
       "time_iso": "2026-08-10T00:00:00+09:00",
       "excerpt": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-      "title_ja": "歴史家がシリコンバレーのSF誤読を批判"
+      "trend_score": 0.75,
+      "title_ja": "SFの誤読がシリコンバレーの民主主義を損なう",
+      "impact": "SF小説の解釈と技術企業の意思決定の関連性が指摘され、文化的影響が論じられる。"
     },
     {
       "source": "tc",
@@ -218,7 +288,9 @@
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
       "time_iso": "2026-08-09T23:30:00+09:00",
       "excerpt": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry stand",
-      "title_ja": "AI安全テストが安全リスクになっている"
+      "trend_score": 0.6667,
+      "title_ja": "AI安全テストがセキュリティリスクに変貌",
+      "impact": "AIエージェントがテスト環境から脱出し実環境に到達する問題が顕在化し、安全対策強化が求められる。"
     },
     {
       "source": "tc",
@@ -226,7 +298,9 @@
       "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
       "time_iso": "2026-08-09T23:00:00+09:00",
       "excerpt": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surv",
-      "title_ja": "監視カメラ検出を回避する対抗的パターン"
+      "trend_score": 0.5833,
+      "title_ja": "監視カメラの検出を回避する敵対的パターン",
+      "impact": "AIベースの監視システムを迂回する技術が開発され、プライバシー保護と監視制度のバランスが問われる。"
     },
     {
       "source": "tc",
@@ -234,7 +308,9 @@
       "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
       "time_iso": "2026-08-09T22:00:00+09:00",
       "excerpt": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
-      "title_ja": "かつての歓楽街が世界有数のAIハブに"
+      "trend_score": 0.5,
+      "title_ja": "かつての風俗街がAIハブへ転換",
+      "impact": "ロンドンの地域再生事例がAI産業の地理的集中を示し、都市開発のモデルとなる可能性。"
     },
     {
       "source": "tc",
@@ -242,7 +318,8 @@
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "time_iso": "2026-08-09T06:24:02+09:00",
       "excerpt": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in th",
-      "title_ja": "アマゾンのデータセンターが米国最大汚染源に"
+      "trend_score": 0.4167,
+      "impact": "アマゾンのデータセンター電力施設が米国最大の気候汚染源となる懸念が提起される。"
     },
     {
       "source": "tc",
@@ -250,7 +327,8 @@
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "time_iso": "2026-08-09T04:41:13+09:00",
       "excerpt": "NextSlide says its team members are now working on ChatGPT.",
-      "title_ja": "OpenAIがプレゼン作成企業NextSlideを買収"
+      "trend_score": 0.3333,
+      "impact": "プレゼンテーション作成スタートアップの買収により、ChatGPTの機能拡張が進む。"
     },
     {
       "source": "tc",
@@ -258,7 +336,9 @@
       "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
       "time_iso": "2026-08-09T01:34:22+09:00",
       "excerpt": "X is winding down its existing Revenue Sharing program.",
-      "title_ja": "XがRevenue Sharingプログラムを改編"
+      "trend_score": 0.25,
+      "title_ja": "Xが収益化プログラムをリニューアル",
+      "impact": "プラットフォームのクリエイター報酬制度が見直され、コンテンツ戦略が変化する。"
     },
     {
       "source": "tc",
@@ -266,7 +346,8 @@
       "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
       "time_iso": "2026-08-09T01:00:00+09:00",
       "excerpt": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-      "title_ja": "Kindle Scribe Colorsoftは楽しいが必須ではない"
+      "trend_score": 0.1667,
+      "impact": "電子ペーパー端末の色化技術は高機能ですが、価格と用途の限定性から普及性に課題がある。"
     },
     {
       "source": "tc",
@@ -274,116 +355,147 @@
       "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
       "time_iso": "2026-08-09T00:00:00+09:00",
       "excerpt": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to unde",
-      "title_ja": "グーグルの有名ハッカーが犯人グループの命名理由を説明"
+      "trend_score": 0.0833,
+      "title_ja": "Googleのハッキング対策責任者が犯人集団の命名理由を解説",
+      "impact": "サイバー脅威アクターの分類方法が変更され、セキュリティ業界の追跡戦略が進化する。"
     },
     {
       "source": "hn",
       "title": "Slap ROM Patcher",
       "url": "https://nyuu.page/projects/slap/",
       "time_iso": "2026-08-07T13:54:52+09:00",
-      "excerpt": "5 points ・ 0 comments",
-      "title_ja": "ROMパッチャーツール"
+      "excerpt": "6 points ・ 0 comments",
+      "trend_score": 0.2667,
+      "title_ja": "ROMパッチャーツール紹介",
+      "impact": "レトロゲーム改造ツールの開発進展を示す。"
     },
     {
       "source": "hn",
       "title": "ATProto for Distributed Systems Engineers",
       "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
       "time_iso": "2026-08-07T06:35:37+09:00",
-      "excerpt": "42 points ・ 7 comments",
-      "title_ja": "分散システムエンジニア向けATPro"
+      "excerpt": "44 points ・ 7 comments",
+      "trend_score": 0.0667,
+      "title_ja": "分散システムエンジニア向けATProto解説",
+      "impact": "分散プロトコルの技術的理解が深まり、次世代インフラの設計参考になる。"
     },
     {
       "source": "pk",
       "title": "ミッチェル・ハシモト氏が新会社「Superlogical」を設立、あらゆる仕事に使えるマルチプレクサの開発へ",
       "url": "https://www.publickey1.jp/blog/26/superlogical.html",
       "time_iso": "2026-08-07T00:26:54+09:00",
-      "excerpt": "HashiCorpの共同創業者であり、同社を退社後は個人開発者としてターミナルソフト「Ghostty」の開発を進めていたミッチェル・ハシモト氏が、新会社［Superlogical」の設立を発表しました。 I've started a..."
+      "excerpt": "HashiCorpの共同創業者であり、同社を退社後は個人開発者としてターミナルソフト「Ghostty」の開発を進めていたミッチェル・ハシモト氏が、新会社［Superlogical」の設立を発表しました。 I've started a...",
+      "trend_score": 0.9167,
+      "title_ja": "Ghostty開発者がSuperlogical設立、マルチプレクサ開発へ",
+      "impact": "著名開発者による新スタートアップが、開発ツール分野に新しいアプローチをもたらす。"
     },
     {
       "source": "pk",
       "title": "npm代替を目指すセキュリティファーストなパッケージマネージャ「vlt」バージョン1.0に到達。npmのミラーレジストリ、プライベートレジストリも提供開始",
       "url": "https://www.publickey1.jp/blog/26/npmvlt10npm.html",
       "time_iso": "2026-08-06T03:03:20+09:00",
-      "excerpt": "npmに代わる新しいJavaScriptのパッケージシステム「vlt」（vōlt：ボールト）を開発しているvlt technologyは、npm互換のパッケージマネージャ「vlt」がバージョン1.0に到達したことを発表しました。 あわせてn..."
-    },
-    {
-      "source": "hn",
-      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-      "url": "https://gitlab.com/Kazade/picophysics",
-      "time_iso": "2026-08-05T21:52:00+09:00",
-      "excerpt": "39 points ・ 10 comments",
-      "title_ja": "N64向けシングルファイル物理エンジン"
+      "excerpt": "npmに代わる新しいJavaScriptのパッケージシステム「vlt」（vōlt：ボールト）を開発しているvlt technologyは、npm互換のパッケージマネージャ「vlt」がバージョン1.0に到達したことを発表しました。 あわせてn...",
+      "trend_score": 0.8333,
+      "title_ja": "npm代替のセキュリティ重視パッケージマネージャvltが1.0到達",
+      "impact": "JavaScriptエコシステムにおけるセキュリティ第一の新オプションが提供され、選択肢が増える。"
     },
     {
       "source": "hn",
       "title": "Nearest Pint",
       "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
       "time_iso": "2026-08-05T04:47:10+09:00",
-      "excerpt": "12 points ・ 1 comments",
-      "title_ja": "最寄りのパブ検索"
+      "excerpt": "15 points ・ 1 comments",
+      "trend_score": 0.4,
+      "impact": "飲食店検索などの実用的なツール開発事例が共有される。"
     },
     {
       "source": "pk",
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "url": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "time_iso": "2026-08-05T00:38:32+09:00",
-      "excerpt": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ..."
+      "excerpt": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...",
+      "trend_score": 0.75,
+      "title_ja": "1Passwordが複数AIサービスの支出を一元管理する機能",
+      "impact": "企業のAI支出可視化と制御が容易になり、AI導入コストの管理が進む。"
     },
     {
       "source": "pk",
       "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
       "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
       "time_iso": "2026-08-05T00:36:16+09:00",
-      "excerpt": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop..."
+      "excerpt": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
+      "trend_score": 0.6667,
+      "title_ja": "Windowsアプリ遅延原因をAIが自動分析する新ツール",
+      "impact": "AIがパフォーマンス分析を自動化することで、開発者の診断工数が削減される。"
     },
     {
       "source": "pk",
       "title": "Rust製のフルスタックWebアプリフレームワーク「Topcoat」登場。非同期ランタイム「Tokio」上でサーバサイドレンダリング、ルーティング、コンポーネントライブラリなど",
       "url": "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html",
       "time_iso": "2026-08-04T00:42:58+09:00",
-      "excerpt": "Rust言語の代表的な非同期ランタイムライブラリ「Tokio」の開発チームが、フルスタックのWebアプリケーションフレームワーク「Topcoat」のリリースを発表しました。 下記はTokioの作者でTopcoatの作者でもあるCarl Le..."
+      "excerpt": "Rust言語の代表的な非同期ランタイムライブラリ「Tokio」の開発チームが、フルスタックのWebアプリケーションフレームワーク「Topcoat」のリリースを発表しました。 下記はTokioの作者でTopcoatの作者でもあるCarl Le...",
+      "trend_score": 0.5833,
+      "title_ja": "Rust製フルスタックWebフレームワーク「Topcoat」登場",
+      "impact": "Rust言語によるWebアプリ開発の統合環境が整備され、言語の適用範囲が拡大する。"
     },
     {
       "source": "pk",
       "title": "クラウドインフラのシェア、AWSが28％と変わらず、Google Cloudは1ポイント上昇して15％に。市場全体が年42％と過去最高の成長率に。2026年第2四半期、Synergy Research",
       "url": "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
       "time_iso": "2026-08-04T00:39:50+09:00",
-      "excerpt": "調査会社のSynergy Research Groupは、グローバルにおける2026年第2四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた..."
+      "excerpt": "調査会社のSynergy Research Groupは、グローバルにおける2026年第2四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...",
+      "trend_score": 0.5,
+      "title_ja": "クラウドインフラ市場、年42%成長でGoogle Cloudが拡大",
+      "impact": "AWS優位が続くなか競争激化し、クラウド市場全体の急速な拡大が続く。"
     },
     {
       "source": "pk",
       "title": "アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリースへ。ウェイトリストへの登録開始",
       "url": "https://www.publickey1.jp/blog/26/aidiawindows.html",
       "time_iso": "2026-08-03T00:56:09+09:00",
-      "excerpt": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/..."
+      "excerpt": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/...",
+      "trend_score": 0.4167,
+      "title_ja": "アトラシアンのDiaブラウザWindows版が秋リリース予定",
+      "impact": "AI時代向けのワークブラウザがWindows対応により、利用者層が大幅に拡大する見通し。"
     },
     {
       "source": "pk",
       "title": "日本におけるクラウドネイティブコミュニティの開発者数が約100万人に、CNCFが調査結果を発表",
       "url": "https://www.publickey1.jp/blog/26/100cncf.html",
       "time_iso": "2026-08-03T00:28:02+09:00",
-      "excerpt": "Kubernetesをはじめとするクラウドネイティブなテクノロジーを推進するCloud Native Computing Foundation（以下、CNCF）とIT分野専門の調査会社であるSlashDataは、日本におけるクラウドネイティ..."
+      "excerpt": "Kubernetesをはじめとするクラウドネイティブなテクノロジーを推進するCloud Native Computing Foundation（以下、CNCF）とIT分野専門の調査会社であるSlashDataは、日本におけるクラウドネイティ...",
+      "trend_score": 0.3333,
+      "title_ja": "日本のクラウドネイティブ開発者数が約100万人に達した",
+      "impact": "クラウドネイティブ技術の日本での浸透が急速に進み、IT人材が集積している。"
     },
     {
       "source": "pk",
       "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
       "url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
       "time_iso": "2026-07-31T02:48:59+09:00",
-      "excerpt": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte..."
+      "excerpt": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
+      "trend_score": 0.25,
+      "title_ja": "JetBrains Contextでコード文脈をAIに効率供給",
+      "impact": "AIコード生成の精度向上が可能になり、開発支援の実用性が高まる。"
     },
     {
       "source": "pk",
       "title": "KubernetesはAIを動かすプラットフォームに。横浜でKubeCon＋CloudNativeCon Japan 2026が開幕",
       "url": "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
       "time_iso": "2026-07-30T00:02:00+09:00",
-      "excerpt": "クラウドネイティブ関連技術におけるIT業界最大のイベント「KubeCon+CloudNativeCon Japan 2026」が昨日（2026年7月29日）、パシフィコ横浜で開幕しました。日本でKubeCon＋CloudNativeConが..."
+      "excerpt": "クラウドネイティブ関連技術におけるIT業界最大のイベント「KubeCon+CloudNativeCon Japan 2026」が昨日（2026年7月29日）、パシフィコ横浜で開幕しました。日本でKubeCon＋CloudNativeConが...",
+      "trend_score": 0.1667,
+      "impact": "KubernetesがAI実行基盤として認識され、インフラ環境の役割が転換する。"
     },
     {
       "source": "pk",
       "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
       "url": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
       "time_iso": "2026-07-29T00:54:06+09:00",
-      "excerpt": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend..."
+      "excerpt": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
+      "trend_score": 0.0833,
+      "title_ja": "Google CloudのCodeMenderが脆弱性検出から修正を自動化",
+      "impact": "AIエージェントが脆弱性対応全体を自律実行することで、セキュリティ対応コストが削減される。"
     }
   ],
   "errors": []
