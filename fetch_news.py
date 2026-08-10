@@ -63,12 +63,11 @@ def fetch_hn(limit=15):
             "url": r.get("url") or f"https://news.ycombinator.com/item?id={r['id']}",
             "time_iso": datetime.fromtimestamp(r.get("time", 0), tz=timezone.utc).astimezone(JST).isoformat(),
             "excerpt": f"{r.get('score', 0)} points ・ {r.get('descendants', 0)} comments",
-            "needs_translation": True,
         })
     return items
 
 
-def fetch_feed(url, source, limit=12, needs_translation=True):
+def fetch_feed(url, source, limit=12):
     """RSS2.0 / Atom 両対応。多少壊れたXMLでもfeedparserが寛容にパースする。"""
     resp = requests.get(url, headers=HEADERS, timeout=15)
     resp.raise_for_status()
@@ -104,28 +103,34 @@ def fetch_feed(url, source, limit=12, needs_translation=True):
             "url": link,
             "time_iso": time_iso,
             "excerpt": summary,
-            "needs_translation": needs_translation,
         })
     return items
 
 
-def translate_titles(items):
-    """英語タイトルをまとめて Claude API で日本語要約に置き換える"""
-    targets = [it for it in items if it.get("needs_translation") and it["title"]]
-    if not targets:
+def enrich_items(items):
+    """Claude APIで(1)日本語タイトル要約 (2)影響・注目ポイントの一言解説 をまとめて生成する"""
+    if not items:
         return
 
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
-        print("ANTHROPIC_API_KEY 未設定のため翻訳をスキップします", file=sys.stderr)
+        print("ANTHROPIC_API_KEY 未設定のため要約・影響解説をスキップします", file=sys.stderr)
         return
 
-    titles = [it["title"] for it in targets]
+    payload = [
+        {"title": it["title"], "source": it["source"], "excerpt": it.get("excerpt", "")}
+        for it in items
+    ]
     prompt = (
-        "次の英語のIT/テックニュース見出しを、それぞれ日本語で25文字前後に要約してください。"
-        "固有名詞（社名・製品名・人名）は日本語表記があれば使い、なければそのまま残してください。"
-        "出力は入力と同じ順番・同じ件数のJSON配列のみを返してください。前置きや説明は不要です。\n\n"
-        + json.dumps(titles, ensure_ascii=False)
+        "あなたはITニュースダイジェストの編集者です。次のJSON配列にある各ニュースについて、"
+        "日本語で以下の2つを生成してください。\n"
+        "1. title_ja: 見出しが英語など日本語以外の場合のみ、25文字前後の日本語要約。"
+        "見出しがすでに日本語ならnullにしてください。\n"
+        "2. impact: このニュースがなぜ注目されるか・どんな影響がありそうかを1文、40〜60文字程度で。"
+        "憶測は避け、記事内容から読み取れる範囲で簡潔に。\n"
+        "出力は入力と同じ順番・同じ件数のJSON配列のみを返してください。"
+        '各要素は {"title_ja": string|null, "impact": string} の形式。前置きや説明文は不要です。\n\n'
+        + json.dumps(payload, ensure_ascii=False)
     )
 
     try:
@@ -138,21 +143,23 @@ def translate_titles(items):
             },
             json={
                 "model": "claude-haiku-4-5-20251001",
-                "max_tokens": 2000,
+                "max_tokens": 6000,
                 "messages": [{"role": "user", "content": prompt}],
             },
-            timeout=60,
+            timeout=90,
         )
         resp.raise_for_status()
         text = resp.json()["content"][0]["text"].strip()
         text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.MULTILINE).strip()
-        translated = json.loads(text)
-        if len(translated) != len(targets):
-            raise ValueError(f"件数不一致: {len(translated)} != {len(targets)}")
-        for it, jp in zip(targets, translated):
-            it["title_ja"] = jp
+        results = json.loads(text)
+        if len(results) != len(items):
+            raise ValueError(f"件数不一致: {len(results)} != {len(items)}")
+        for it, r in zip(items, results):
+            if r.get("title_ja"):
+                it["title_ja"] = r["title_ja"]
+            it["impact"] = r.get("impact", "")
     except Exception as e:
-        print(f"翻訳に失敗しました（原題のまま表示します）: {e}", file=sys.stderr)
+        print(f"要約・影響解説の生成に失敗しました: {e}", file=sys.stderr)
 
 
 def safe_fetch(name, fn):
@@ -173,21 +180,22 @@ def main():
     for name, fn in [
         ("hn", lambda: fetch_hn()),
         ("tc", lambda: fetch_feed("https://techcrunch.com/feed/", "tc")),
-        ("itm", lambda: fetch_feed("https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml", "itm", needs_translation=False)),
-        ("pk", lambda: fetch_feed("https://www.publickey1.jp/atom.xml", "pk", needs_translation=False)),
+        ("itm", lambda: fetch_feed("https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml", "itm")),
+        ("pk", lambda: fetch_feed("https://www.publickey1.jp/atom.xml", "pk")),
     ]:
         result, err = safe_fetch(name, fn)
+        # ソース内の掲載順(HNは投稿ランキング順、他は新着順)を「注目度」の目安スコアに変換
+        n = len(result)
+        for i, it in enumerate(result):
+            it["trend_score"] = round((n - i) / n, 4) if n else 0
         items += result
         if err:
             errors.append(err)
 
     try:
-        translate_titles(items)
+        enrich_items(items)
     except Exception as e:
-        errors.append({"source": "translate", "error": f"{type(e).__name__}: {e}"})
-
-    for it in items:
-        it.pop("needs_translation", None)
+        errors.append({"source": "enrich", "error": f"{type(e).__name__}: {e}"})
 
     items.sort(key=lambda x: x["time_iso"], reverse=True)
 

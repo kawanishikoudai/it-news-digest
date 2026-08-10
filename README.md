@@ -33,8 +33,10 @@ Hacker News / TechCrunch / ITmedia / Publickey を毎朝自動収集し、
 
 - Hacker News（公式API）/ TechCrunch・ITmedia・Publickey（RSS/Atom）を毎日取得
 - 英語タイトルはClaude Haikuで日本語に要約
+- 各記事に「なぜ注目されるか・どんな影響がありそうか」のAI一言解説を付与
+- 「新着順 / 注目順」を切り替え可能（注目順はHNは投稿ランキング、他は掲載順を基準にした目安）
 - ♡ タップで「お気に入り」に保存（ブラウザのlocalStorageに保存、記事一覧が更新されても残る）
-- ソースごとの絞り込み（`--hn` `--techcrunch` など）
+- ソースごとの絞り込み
 
 ## 注意
 
