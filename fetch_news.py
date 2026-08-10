@@ -173,7 +173,7 @@ def main():
     for name, fn in [
         ("hn", lambda: fetch_hn()),
         ("tc", lambda: fetch_feed("https://techcrunch.com/feed/", "tc")),
-        ("itm", lambda: fetch_feed("https://rss.itmedia.co.jp/rss/2.0/news.xml", "itm", needs_translation=False)),
+        ("itm", lambda: fetch_feed("https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml", "itm", needs_translation=False)),
         ("pk", lambda: fetch_feed("https://www.publickey1.jp/atom.xml", "pk", needs_translation=False)),
     ]:
         result, err = safe_fetch(name, fn)
