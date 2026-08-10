@@ -41,6 +41,13 @@ def strip_html(s):
     return re.sub(r"<[^>]+>", "", s or "").strip()
 
 
+JP_CHAR_RE = re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff]")
+
+
+def is_japanese(text):
+    return bool(JP_CHAR_RE.search(text or ""))
+
+
 def fetch_hn(limit=15):
     ids = requests.get(
         "https://hacker-news.firebaseio.com/v0/topstories.json",
@@ -107,13 +114,35 @@ def fetch_feed(url, source, limit=12):
     return items
 
 
+def call_claude_json(prompt, max_tokens=6000):
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        raise RuntimeError("ANTHROPIC_API_KEY 未設定")
+    resp = requests.post(
+        "https://api.anthropic.com/v1/messages",
+        headers={
+            "x-api-key": api_key,
+            "anthropic-version": "2023-06-01",
+            "content-type": "application/json",
+        },
+        json={
+            "model": "claude-haiku-4-5-20251001",
+            "max_tokens": max_tokens,
+            "messages": [{"role": "user", "content": prompt}],
+        },
+        timeout=90,
+    )
+    resp.raise_for_status()
+    text = resp.json()["content"][0]["text"].strip()
+    text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.MULTILINE).strip()
+    return json.loads(text)
+
+
 def enrich_items(items):
     """Claude APIで(1)日本語タイトル要約 (2)影響・注目ポイントの一言解説 をまとめて生成する"""
     if not items:
         return
-
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
+    if not os.environ.get("ANTHROPIC_API_KEY"):
         print("ANTHROPIC_API_KEY 未設定のため要約・影響解説をスキップします", file=sys.stderr)
         return
 
@@ -124,8 +153,9 @@ def enrich_items(items):
     prompt = (
         "あなたはITニュースダイジェストの編集者です。次のJSON配列にある各ニュースについて、"
         "日本語で以下の2つを生成してください。\n"
-        "1. title_ja: 見出しが英語など日本語以外の場合のみ、25文字前後の日本語要約。"
-        "見出しがすでに日本語ならnullにしてください。\n"
+        "1. title_ja: 見出しが日本語以外（英語など）の場合は、必ず25文字前後の日本語要約を入れてください。"
+        "「短いから」「固有名詞だけだから」等の理由でnullにするのは禁止です。"
+        "見出しがすでに日本語の場合のみnullにしてください。\n"
         "2. impact: このニュースがなぜ注目されるか・どんな影響がありそうかを1文、40〜60文字程度で。"
         "憶測は避け、記事内容から読み取れる範囲で簡潔に。\n"
         "出力は入力と同じ順番・同じ件数のJSON配列のみを返してください。"
@@ -134,24 +164,7 @@ def enrich_items(items):
     )
 
     try:
-        resp = requests.post(
-            "https://api.anthropic.com/v1/messages",
-            headers={
-                "x-api-key": api_key,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json",
-            },
-            json={
-                "model": "claude-haiku-4-5-20251001",
-                "max_tokens": 6000,
-                "messages": [{"role": "user", "content": prompt}],
-            },
-            timeout=90,
-        )
-        resp.raise_for_status()
-        text = resp.json()["content"][0]["text"].strip()
-        text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.MULTILINE).strip()
-        results = json.loads(text)
+        results = call_claude_json(prompt)
         if len(results) != len(items):
             raise ValueError(f"件数不一致: {len(results)} != {len(items)}")
         for it, r in zip(items, results):
@@ -160,6 +173,28 @@ def enrich_items(items):
             it["impact"] = r.get("impact", "")
     except Exception as e:
         print(f"要約・影響解説の生成に失敗しました: {e}", file=sys.stderr)
+        return
+
+    # 英語のままなのに title_ja が埋まらなかったものだけ、追加でリトライする
+    missing = [it for it in items if not is_japanese(it["title"]) and not it.get("title_ja")]
+    if not missing:
+        return
+    print(f"翻訳漏れ {len(missing)} 件を追加リクエストで補完します", file=sys.stderr)
+    retry_prompt = (
+        "次の英語のニュース見出しを、それぞれ必ず日本語で25文字前後に要約してください。"
+        "nullや空文字は禁止です。固有名詞は日本語表記があれば使い、なければそのまま残してください。"
+        "出力は入力と同じ順番・同じ件数のJSON配列（文字列の配列）のみを返してください。\n\n"
+        + json.dumps([it["title"] for it in missing], ensure_ascii=False)
+    )
+    try:
+        retried = call_claude_json(retry_prompt, max_tokens=2000)
+        if len(retried) != len(missing):
+            raise ValueError(f"件数不一致: {len(retried)} != {len(missing)}")
+        for it, jp in zip(missing, retried):
+            if jp:
+                it["title_ja"] = jp
+    except Exception as e:
+        print(f"翻訳漏れの補完に失敗しました（原題のまま表示されます）: {e}", file=sys.stderr)
 
 
 def safe_fetch(name, fn):
