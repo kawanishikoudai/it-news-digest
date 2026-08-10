@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-10T14:44:22.274698+09:00",
+  "generated_at": "2026-08-10T14:45:50.875033+09:00",
   "items": [
     {
       "source": "hn",
       "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
       "url": "https://www.nber.org/papers/w35560",
       "time_iso": "2026-08-10T13:06:10+09:00",
-      "excerpt": "41 points ・ 11 comments",
-      "title_ja": "H-1B移民が米国経済に与える長期的影響"
+      "excerpt": "43 points ・ 12 comments",
+      "title_ja": "H-1Bビザが米経済に及ぼす長期的影響"
     },
     {
       "source": "hn",
       "title": "Auto mode is now the default in Claude Code",
       "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
       "time_iso": "2026-08-10T12:50:00+09:00",
-      "excerpt": "83 points ・ 42 comments",
-      "title_ja": "ClaudeCodeのオートモードがデフォルト設定に変更"
+      "excerpt": "86 points ・ 44 comments",
+      "title_ja": "Claudeコードのオートモードがデフォルトに設定"
     },
     {
       "source": "hn",
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
       "time_iso": "2026-08-10T12:18:40+09:00",
-      "excerpt": "38 points ・ 2 comments",
-      "title_ja": "音声操作の殺人ミステリー、AI容疑者に音声で質問可能"
+      "excerpt": "39 points ・ 2 comments",
+      "title_ja": "音声操作型殺人ミステリー、AIを音声で尋問"
     },
     {
       "source": "hn",
@@ -31,7 +31,7 @@
       "url": "https://github.com/shinyquagsire23/Klepton",
       "time_iso": "2026-08-10T12:12:48+09:00",
       "excerpt": "24 points ・ 0 comments",
-      "title_ja": "AndroidARM64VRをAppleVisionProで実行"
+      "title_ja": "Apple Vision ProでAndroid ARM64 VRを実行"
     },
     {
       "source": "hn",
@@ -54,8 +54,8 @@
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
       "time_iso": "2026-08-10T10:01:34+09:00",
-      "excerpt": "65 points ・ 6 comments",
-      "title_ja": "CDCをPostgresに移行した経験"
+      "excerpt": "66 points ・ 6 comments",
+      "title_ja": "CDCをPostgresへ移行させた経緯"
     },
     {
       "source": "tc",
@@ -66,28 +66,36 @@
       "title_ja": "ヘッジファンドが新興チップ企業に4億ドル投資"
     },
     {
+      "source": "hn",
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "time_iso": "2026-08-10T04:43:52+09:00",
+      "excerpt": "102 points ・ 56 comments",
+      "title_ja": "共有地の悲劇、AI版"
+    },
+    {
       "source": "tc",
       "title": "Anthropic is turning Claude Code’s auto mode on by default",
       "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
       "time_iso": "2026-08-10T04:20:32+09:00",
       "excerpt": "Programming with Claude Code will soon require even less human oversight.",
-      "title_ja": "AnthropicがClaudeCodeの自動モードをデフォルト化"
+      "title_ja": "Anthropicがクロードコードのオートモード化"
     },
     {
       "source": "hn",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "time_iso": "2026-08-10T04:16:49+09:00",
-      "excerpt": "546 points ・ 312 comments",
-      "title_ja": "複雑なトピックを学ぶためのLLM活用法"
+      "excerpt": "549 points ・ 312 comments",
+      "title_ja": "LLMで複雑なトピックを学ぶ方法"
     },
     {
       "source": "hn",
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49233423",
       "time_iso": "2026-08-10T02:23:22+09:00",
-      "excerpt": "215 points ・ 755 comments",
-      "title_ja": "あなたは何を作っていますか？（2026年8月）"
+      "excerpt": "215 points ・ 756 comments",
+      "title_ja": "今何に取り組んでいますか（2026年8月）"
     },
     {
       "source": "tc",
@@ -95,15 +103,15 @@
       "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
       "time_iso": "2026-08-10T01:05:00+09:00",
       "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "title_ja": "Zooxの発売準備とUberの自動運転事業拡大"
+      "title_ja": "Zooxが市場投入準備、Uberの自動運転帝国"
     },
     {
       "source": "hn",
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
       "time_iso": "2026-08-10T00:21:46+09:00",
-      "excerpt": "239 points ・ 177 comments",
-      "title_ja": "タクシー運転手はアルツハイマー病で死ぬことはまれ"
+      "excerpt": "240 points ・ 177 comments",
+      "title_ja": "タクシー運転手のアルツハイマー病死は稀"
     },
     {
       "source": "pk",
@@ -118,15 +126,7 @@
       "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
       "time_iso": "2026-08-10T00:00:00+09:00",
       "excerpt": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-      "title_ja": "歴史家が述べるシリコンバレーのSF誤解と民主主義危機"
-    },
-    {
-      "source": "hn",
-      "title": "Cool URIs Don't Change (1998)",
-      "url": "https://www.w3.org/Provider/Style/URI",
-      "time_iso": "2026-08-09T23:32:53+09:00",
-      "excerpt": "215 points ・ 53 comments",
-      "title_ja": "良いURIは変わらない（1998年）"
+      "title_ja": "歴史家がシリコンバレーのSF解釈と民主主義への脅威を指摘"
     },
     {
       "source": "tc",
@@ -134,7 +134,7 @@
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
       "time_iso": "2026-08-09T23:30:00+09:00",
       "excerpt": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry stand",
-      "title_ja": "AI安全テストが安全リスクになる"
+      "title_ja": "AI安全テストが安全リスク化"
     },
     {
       "source": "tc",
@@ -142,7 +142,7 @@
       "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
       "time_iso": "2026-08-09T23:00:00+09:00",
       "excerpt": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surv",
-      "title_ja": "監視カメラの検出を回避するパターン"
+      "title_ja": "監視カメラの検知を防ぐ敵対的パターン"
     },
     {
       "source": "tc",
@@ -150,7 +150,7 @@
       "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
       "time_iso": "2026-08-09T22:00:00+09:00",
       "excerpt": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
-      "title_ja": "かつての歓楽街が世界有数のAIハブへ転変"
+      "title_ja": "元歓楽街が世界トップのAIハブに変貌"
     },
     {
       "source": "tc",
@@ -158,7 +158,7 @@
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "time_iso": "2026-08-09T06:24:02+09:00",
       "excerpt": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in th",
-      "title_ja": "アマゾンデータセンター計画が米最大汚染源の可能性"
+      "title_ja": "アマゾンのデータセンターが米最大の気候汚染源に"
     },
     {
       "source": "tc",
@@ -174,7 +174,7 @@
       "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
       "time_iso": "2026-08-09T01:34:22+09:00",
       "excerpt": "X is winding down its existing Revenue Sharing program.",
-      "title_ja": "Xが収益分配プログラムを新システムに変更"
+      "title_ja": "Xが収益シェアプログラムを新制度に変更"
     },
     {
       "source": "tc",
@@ -182,7 +182,7 @@
       "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
       "time_iso": "2026-08-09T01:00:00+09:00",
       "excerpt": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-      "title_ja": "KindleScribeColorsoft、楽しいが必須ではない"
+      "title_ja": "Kindle Scribe Colorsoftは楽しいが必須ではない"
     },
     {
       "source": "tc",
@@ -190,7 +190,7 @@
       "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
       "time_iso": "2026-08-09T00:00:00+09:00",
       "excerpt": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to unde",
-      "title_ja": "Googleのハッカー狩人が悪名高きグループの命名理由を説明"
+      "title_ja": "グーグルのトップハッカー追跡者がハッカー組織の命名理由を説明"
     },
     {
       "source": "hn",
@@ -198,7 +198,7 @@
       "url": "https://nyuu.page/projects/slap/",
       "time_iso": "2026-08-07T13:54:52+09:00",
       "excerpt": "5 points ・ 0 comments",
-      "title_ja": "SlapROMパッチャー"
+      "title_ja": "Slap ROMパッチャー"
     },
     {
       "source": "hn",
@@ -206,7 +206,7 @@
       "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
       "time_iso": "2026-08-07T06:35:37+09:00",
       "excerpt": "42 points ・ 7 comments",
-      "title_ja": "分散システムエンジニア向けATP proto"
+      "title_ja": "分散システムエンジニア向けATProto"
     },
     {
       "source": "pk",
@@ -228,7 +228,7 @@
       "url": "https://gitlab.com/Kazade/picophysics",
       "time_iso": "2026-08-05T21:52:00+09:00",
       "excerpt": "39 points ・ 10 comments",
-      "title_ja": "ゲーム向け軽量物理エンジンPicophysics"
+      "title_ja": "Picophysics: N64やPSX向けシンプルゲーム物理"
     },
     {
       "source": "hn",
@@ -236,7 +236,7 @@
       "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
       "time_iso": "2026-08-05T04:47:10+09:00",
       "excerpt": "12 points ・ 1 comments",
-      "title_ja": "最寄りのパブを探すアプリ"
+      "title_ja": "Nearest Pint"
     },
     {
       "source": "pk",
@@ -302,5 +302,10 @@
       "excerpt": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend..."
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "itm",
+      "error": "RuntimeError: 0 entries (status=200, len=85465, content-type=text/html, bozo=1, bozo_exception=<unknown>:11:67: not well-formed (invalid token), head=b'\\n\\n<!DOCTYPE html>\\n<html lang=\"ja\">\\n<head>\\n<meta charset=\"Shift_JIS\">\\n<meta name=\"robots\" content=\"noindex\">\\n<meta name=\"')"
+    }
+  ]
 }
