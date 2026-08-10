@@ -1,0 +1,311 @@
+{
+  "generated_at": "2026-08-10T14:42:34.746701+09:00",
+  "items": [
+    {
+      "source": "hn",
+      "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
+      "url": "https://www.nber.org/papers/w35560",
+      "time_iso": "2026-08-10T13:06:10+09:00",
+      "excerpt": "41 points ・ 11 comments",
+      "title_ja": "H-1B移民が米国経済に与える長期的影響"
+    },
+    {
+      "source": "hn",
+      "title": "Auto mode is now the default in Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "time_iso": "2026-08-10T12:50:00+09:00",
+      "excerpt": "82 points ・ 41 comments",
+      "title_ja": "Claude Codeのオートモードがデフォルトに設定"
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "time_iso": "2026-08-10T12:18:40+09:00",
+      "excerpt": "38 points ・ 2 comments",
+      "title_ja": "音声駆動型殺人ミステリーゲーム、AI容疑者に音声で取調べ"
+    },
+    {
+      "source": "hn",
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "time_iso": "2026-08-10T12:12:48+09:00",
+      "excerpt": "23 points ・ 0 comments",
+      "title_ja": "AndroidのARM64 VR APKをApple Vision Proで実行"
+    },
+    {
+      "source": "hn",
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "url": "https://foldingglobes.com/",
+      "time_iso": "2026-08-10T11:57:38+09:00",
+      "excerpt": "25 points ・ 5 comments",
+      "title_ja": "衛星画像を自分で折る紙製地球儀に変換"
+    },
+    {
+      "source": "hn",
+      "title": "What Happened to HackerOne?",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "time_iso": "2026-08-10T11:23:17+09:00",
+      "excerpt": "143 points ・ 40 comments",
+      "title_ja": "HackerOneに何が起きたのか"
+    },
+    {
+      "source": "hn",
+      "title": "How We Pushed CDC into Postgres",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "time_iso": "2026-08-10T10:01:34+09:00",
+      "excerpt": "65 points ・ 6 comments",
+      "title_ja": "CDCをPostgresに移行した方法"
+    },
+    {
+      "source": "pk",
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "time_iso": "2026-08-10T09:21:09+09:00",
+      "excerpt": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました..."
+    },
+    {
+      "source": "tc",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "time_iso": "2026-08-10T05:35:17+09:00",
+      "excerpt": "The AI-focused hedge fund is still making some big bets.",
+      "title_ja": "ヘッジファンドがチップスタートアップに4億ドル投資"
+    },
+    {
+      "source": "tc",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "time_iso": "2026-08-10T04:20:32+09:00",
+      "excerpt": "Programming with Claude Code will soon require even less human oversight.",
+      "title_ja": "AnthropicがClaude Codeのオートモードをデフォルト有効化"
+    },
+    {
+      "source": "hn",
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "time_iso": "2026-08-10T04:16:49+09:00",
+      "excerpt": "545 points ・ 312 comments",
+      "title_ja": "複雑なトピックを学ぶためのLLM活用法"
+    },
+    {
+      "source": "hn",
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "time_iso": "2026-08-10T02:23:22+09:00",
+      "excerpt": "215 points ・ 754 comments",
+      "title_ja": "今何を作っていますか？（2026年8月）"
+    },
+    {
+      "source": "tc",
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "time_iso": "2026-08-10T01:05:00+09:00",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title_ja": "ZooxのローンチとUberのAV帝国計画"
+    },
+    {
+      "source": "hn",
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "time_iso": "2026-08-10T00:21:46+09:00",
+      "excerpt": "238 points ・ 177 comments",
+      "title_ja": "タクシー運転手のアルツハイマー死亡率は低い"
+    },
+    {
+      "source": "tc",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "time_iso": "2026-08-10T00:00:00+09:00",
+      "excerpt": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "title_ja": "歴史家がシリコンバレーのSF誤読を批判"
+    },
+    {
+      "source": "hn",
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "time_iso": "2026-08-09T23:32:53+09:00",
+      "excerpt": "215 points ・ 53 comments",
+      "title_ja": "Cool URIは変わらない（1998年）"
+    },
+    {
+      "source": "tc",
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "time_iso": "2026-08-09T23:30:00+09:00",
+      "excerpt": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry stand",
+      "title_ja": "AI安全テストが安全リスク化している"
+    },
+    {
+      "source": "tc",
+      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "time_iso": "2026-08-09T23:00:00+09:00",
+      "excerpt": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surv",
+      "title_ja": "対抗パターンが監視カメラの検出を防ぐ"
+    },
+    {
+      "source": "tc",
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "time_iso": "2026-08-09T22:00:00+09:00",
+      "excerpt": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "title_ja": "かつての歓楽街がAI最大拠点に変貌"
+    },
+    {
+      "source": "tc",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "time_iso": "2026-08-09T06:24:02+09:00",
+      "excerpt": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in th",
+      "title_ja": "アマゾンのデータセンターが米最大汚染企業に"
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "time_iso": "2026-08-09T04:41:13+09:00",
+      "excerpt": "NextSlide says its team members are now working on ChatGPT.",
+      "title_ja": "OpenAIがプレゼンテーションスタートアップを買収"
+    },
+    {
+      "source": "tc",
+      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+      "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+      "time_iso": "2026-08-09T01:34:22+09:00",
+      "excerpt": "X is winding down its existing Revenue Sharing program.",
+      "title_ja": "Xがオリジナルコンテンツプログラムを廃止・新制度開始"
+    },
+    {
+      "source": "tc",
+      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+      "time_iso": "2026-08-09T01:00:00+09:00",
+      "excerpt": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
+      "title_ja": "Kindle Scribe Colorsoftは楽しいが必須ではない"
+    },
+    {
+      "source": "tc",
+      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "time_iso": "2026-08-09T00:00:00+09:00",
+      "excerpt": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to unde",
+      "title_ja": "グーグルのハッカー狩りの専門家がコードネーム命名の理由を説明"
+    },
+    {
+      "source": "hn",
+      "title": "Slap ROM Patcher",
+      "url": "https://nyuu.page/projects/slap/",
+      "time_iso": "2026-08-07T13:54:52+09:00",
+      "excerpt": "5 points ・ 0 comments",
+      "title_ja": "Slap ROMパッチャー"
+    },
+    {
+      "source": "hn",
+      "title": "ATProto for Distributed Systems Engineers",
+      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+      "time_iso": "2026-08-07T06:35:37+09:00",
+      "excerpt": "42 points ・ 7 comments",
+      "title_ja": "分散システム技術者向けATProto解説"
+    },
+    {
+      "source": "pk",
+      "title": "ミッチェル・ハシモト氏が新会社「Superlogical」を設立、あらゆる仕事に使えるマルチプレクサの開発へ",
+      "url": "https://www.publickey1.jp/blog/26/superlogical.html",
+      "time_iso": "2026-08-06T22:32:14+09:00",
+      "excerpt": "HashiCorpの共同創業者であり、同社を退社後は個人開発者としてターミナルソフト「Ghostty」の開発を進めていたミッチェル・ハシモト氏が、新会社［Superlogical」の設立を発表しました。 I've started a..."
+    },
+    {
+      "source": "pk",
+      "title": "npm代替を目指すセキュリティファーストなパッケージマネージャ「vlt」バージョン1.0に到達。npmのミラーレジストリ、プライベートレジストリも提供開始",
+      "url": "https://www.publickey1.jp/blog/26/npmvlt10npm.html",
+      "time_iso": "2026-08-05T23:06:53+09:00",
+      "excerpt": "npmに代わる新しいJavaScriptのパッケージシステム「vlt」（vōlt：ボールト）を開発しているvlt technologyは、npm互換のパッケージマネージャ「vlt」がバージョン1.0に到達したことを発表しました。 あわせてn..."
+    },
+    {
+      "source": "hn",
+      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+      "url": "https://gitlab.com/Kazade/picophysics",
+      "time_iso": "2026-08-05T21:52:00+09:00",
+      "excerpt": "39 points ・ 10 comments",
+      "title_ja": "N64やPSX向けシングルファイル物理エンジン"
+    },
+    {
+      "source": "hn",
+      "title": "Nearest Pint",
+      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
+      "time_iso": "2026-08-05T04:47:10+09:00",
+      "excerpt": "12 points ・ 1 comments",
+      "title_ja": "Nearest Pint"
+    },
+    {
+      "source": "pk",
+      "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
+      "url": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
+      "time_iso": "2026-08-04T23:41:25+09:00",
+      "excerpt": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ..."
+    },
+    {
+      "source": "pk",
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
+      "time_iso": "2026-08-04T23:38:30+09:00",
+      "excerpt": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop..."
+    },
+    {
+      "source": "pk",
+      "title": "Rust製のフルスタックWebアプリフレームワーク「Topcoat」登場。非同期ランタイム「Tokio」上でサーバサイドレンダリング、ルーティング、コンポーネントライブラリなど",
+      "url": "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html",
+      "time_iso": "2026-08-03T22:45:47+09:00",
+      "excerpt": "Rust言語の代表的な非同期ランタイムライブラリ「Tokio」の開発チームが、フルスタックのWebアプリケーションフレームワーク「Topcoat」のリリースを発表しました。 下記はTokioの作者でTopcoatの作者でもあるCarl Le..."
+    },
+    {
+      "source": "pk",
+      "title": "クラウドインフラのシェア、AWSが28％と変わらず、Google Cloudは1ポイント上昇して15％に。市場全体が年42％と過去最高の成長率に。2026年第2四半期、Synergy Research",
+      "url": "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
+      "time_iso": "2026-08-03T22:42:54+09:00",
+      "excerpt": "調査会社のSynergy Research Groupは、グローバルにおける2026年第2四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた..."
+    },
+    {
+      "source": "pk",
+      "title": "アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリースへ。ウェイトリストへの登録開始",
+      "url": "https://www.publickey1.jp/blog/26/aidiawindows.html",
+      "time_iso": "2026-08-02T23:32:42+09:00",
+      "excerpt": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/..."
+    },
+    {
+      "source": "pk",
+      "title": "日本におけるクラウドネイティブコミュニティの開発者数が約100万人に、CNCFが調査結果を発表",
+      "url": "https://www.publickey1.jp/blog/26/100cncf.html",
+      "time_iso": "2026-08-02T23:31:58+09:00",
+      "excerpt": "Kubernetesをはじめとするクラウドネイティブなテクノロジーを推進するCloud Native Computing Foundation（以下、CNCF）とIT分野専門の調査会社であるSlashDataは、日本におけるクラウドネイティ..."
+    },
+    {
+      "source": "pk",
+      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
+      "url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+      "time_iso": "2026-07-30T23:12:35+09:00",
+      "excerpt": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte..."
+    },
+    {
+      "source": "pk",
+      "title": "KubernetesはAIを動かすプラットフォームに。横浜でKubeCon＋CloudNativeCon Japan 2026が開幕",
+      "url": "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
+      "time_iso": "2026-07-29T23:15:07+09:00",
+      "excerpt": "クラウドネイティブ関連技術におけるIT業界最大のイベント「KubeCon+CloudNativeCon Japan 2026」が昨日（2026年7月29日）、パシフィコ横浜で開幕しました。日本でKubeCon＋CloudNativeConが..."
+    },
+    {
+      "source": "pk",
+      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+      "time_iso": "2026-07-28T23:58:27+09:00",
+      "excerpt": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend..."
+    }
+  ],
+  "errors": [
+    {
+      "source": "itm",
+      "error": "ParseError: not well-formed (invalid token): line 9, column 7"
+    }
+  ]
+}
