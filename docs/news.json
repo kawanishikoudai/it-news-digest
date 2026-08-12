@@ -1,172 +1,300 @@
 {
-  "generated_at": "2026-08-12T07:31:05.501141+09:00",
+  "generated_at": "2026-08-13T07:29:14.804359+09:00",
   "items": [
     {
-      "source": "hn",
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "time_iso": "2026-08-12T06:56:18+09:00",
-      "excerpt": "5 points ・ 0 comments",
-      "trend_score": 0.5333
-    },
-    {
       "source": "tc",
-      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-      "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-      "time_iso": "2026-08-12T06:39:58+09:00",
-      "excerpt": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "time_iso": "2026-08-13T07:26:37+09:00",
+      "excerpt": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
       "trend_score": 1.0
     },
     {
       "source": "tc",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "time_iso": "2026-08-12T06:39:11+09:00",
-      "excerpt": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "time_iso": "2026-08-13T07:24:00+09:00",
+      "excerpt": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the ",
       "trend_score": 0.9167
     },
     {
       "source": "hn",
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "url": "https://www.suzanne3d.com/",
-      "time_iso": "2026-08-12T06:28:26+09:00",
-      "excerpt": "7 points ・ 3 comments",
-      "trend_score": 0.1333
+      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+      "time_iso": "2026-08-13T06:45:29+09:00",
+      "excerpt": "17 points ・ 14 comments",
+      "trend_score": 0.7333
     },
     {
-      "source": "hn",
-      "title": "The 19th-Century Family Fortunes Funding Degrowth",
-      "url": "https://www.effort.news/p4ne",
-      "time_iso": "2026-08-12T05:56:00+09:00",
-      "excerpt": "10 points ・ 3 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "tc",
-      "title": "Uber surprised robotics company Serve by selling its entire stake",
-      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-      "time_iso": "2026-08-12T05:02:02+09:00",
-      "excerpt": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "time_iso": "2026-08-12T04:49:44+09:00",
-      "excerpt": "152 points ・ 63 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "tc",
-      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
-      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
-      "time_iso": "2026-08-12T04:38:23+09:00",
-      "excerpt": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "time_iso": "2026-08-12T04:35:52+09:00",
-      "excerpt": "132 points ・ 62 comments",
+      "source": "itm",
+      "title": "SpaceXAI、「Grok 4.6」を発表　総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+      "time_iso": "2026-08-13T06:32:01+09:00",
+      "excerpt": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン",
       "trend_score": 1.0
     },
     {
       "source": "tc",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "time_iso": "2026-08-12T04:15:35+09:00",
-      "excerpt": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "time_iso": "2026-08-13T05:53:41+09:00",
+      "excerpt": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "time_iso": "2026-08-13T05:10:40+09:00",
+      "excerpt": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "trend_score": 0.75
+    },
+    {
+      "source": "tc",
+      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "time_iso": "2026-08-13T03:34:21+09:00",
+      "excerpt": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.",
       "trend_score": 0.6667
     },
     {
       "source": "hn",
-      "title": "Making holograms with a pen plotter",
-      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "time_iso": "2026-08-12T03:51:35+09:00",
-      "excerpt": "78 points ・ 7 comments",
-      "trend_score": 0.7333
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "time_iso": "2026-08-13T03:19:59+09:00",
+      "excerpt": "285 points ・ 94 comments",
+      "trend_score": 0.9333
     },
     {
       "source": "tc",
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "time_iso": "2026-08-12T03:49:12+09:00",
-      "excerpt": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plu",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "time_iso": "2026-08-13T03:19:12+09:00",
+      "excerpt": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
       "trend_score": 0.5833
     },
     {
-      "source": "hn",
-      "title": "How we used to get jobs: A newspaper classifieds story",
-      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "time_iso": "2026-08-12T03:09:56+09:00",
-      "excerpt": "81 points ・ 64 comments",
-      "trend_score": 0.4667
-    },
-    {
       "source": "tc",
-      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
-      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-      "time_iso": "2026-08-12T02:46:14+09:00",
-      "excerpt": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relat",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "time_iso": "2026-08-13T02:51:00+09:00",
+      "excerpt": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America ca",
       "trend_score": 0.5
     },
     {
       "source": "tc",
-      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
-      "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
-      "time_iso": "2026-08-12T02:41:49+09:00",
-      "excerpt": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "time_iso": "2026-08-13T02:41:29+09:00",
+      "excerpt": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
       "trend_score": 0.4167
     },
     {
       "source": "tc",
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "time_iso": "2026-08-12T02:41:34+09:00",
-      "excerpt": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission",
+      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "time_iso": "2026-08-13T02:15:41+09:00",
+      "excerpt": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
       "trend_score": 0.3333
     },
     {
       "source": "tc",
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "time_iso": "2026-08-12T02:41:22+09:00",
-      "excerpt": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "time_iso": "2026-08-13T01:57:58+09:00",
+      "excerpt": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
       "trend_score": 0.25
     },
     {
       "source": "hn",
-      "title": "RSI Simulator",
-      "url": "https://www.paradigm.xyz/writing/rsi-simulator",
-      "time_iso": "2026-08-12T02:01:21+09:00",
-      "excerpt": "11 points ・ 5 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "Mojo 1.0",
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "time_iso": "2026-08-12T01:56:46+09:00",
-      "excerpt": "227 points ・ 102 comments",
-      "trend_score": 0.8667
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "time_iso": "2026-08-13T01:51:25+09:00",
+      "excerpt": "100 points ・ 89 comments",
+      "trend_score": 0.4667
     },
     {
       "source": "tc",
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "time_iso": "2026-08-12T01:25:20+09:00",
-      "excerpt": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's m",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "time_iso": "2026-08-13T01:46:02+09:00",
+      "excerpt": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribi",
       "trend_score": 0.1667
     },
     {
       "source": "tc",
-      "title": "Joby Aviation builds out defense business with $500M acquisition",
-      "url": "https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/",
-      "time_iso": "2026-08-12T01:06:08+09:00",
-      "excerpt": "Joby Aviation reached an agreement to acquire Resonant Sciences, which will kick off its new defense business.",
+      "title": "Tesla wants to build a $10B solar factory in Texas",
+      "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
+      "time_iso": "2026-08-13T01:18:31+09:00",
+      "excerpt": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "Pixel Watch 5",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "time_iso": "2026-08-13T01:14:37+09:00",
+      "excerpt": "72 points ・ 122 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "hn",
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "time_iso": "2026-08-13T01:04:50+09:00",
+      "excerpt": "635 points ・ 227 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "time_iso": "2026-08-13T00:32:50+09:00",
+      "excerpt": "327 points ・ 335 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "hn",
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "time_iso": "2026-08-13T00:01:17+09:00",
+      "excerpt": "416 points ・ 87 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "itm",
+      "title": "Google版“AirTag”こと「Pixel Tag」登場　10億台のAndroidネットワークで居場所を探知",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
+      "time_iso": "2026-08-12T23:34:21+09:00",
+      "excerpt": "米Googleが紛失防止タグ「Google Pixel Tag」を発表した。鍵や財布に取り付け、10億台超のAndroid端末で構成されるFind Hubのネットワークで位置を探せる。UWBで距離と方向も分かる。日本では単品5010円、4個セット1万6940円で11月に発売する。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "time_iso": "2026-08-12T23:22:30+09:00",
+      "excerpt": "691 points ・ 112 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "itm",
+      "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表　10％軽く、1mm薄くしつつ耐久性強化",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000517/",
+      "time_iso": "2026-08-12T23:10:09+09:00",
+      "excerpt": "米Googleは8月12日、折りたたみスマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルより約10％軽く約1mm薄いが、新しいヒンジとセラミックガラスの採用で3倍の強度を実現したという。Googleストアでの価格は256GBモデルが27万9900円。8月20日に発売する。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "time_iso": "2026-08-12T23:09:11+09:00",
+      "excerpt": "207 points ・ 27 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "itm",
+      "title": "Google新スマホ「Pixel 11シリーズ」正式発表　「Gemini Intelligence」向けに設計　カメラも強化",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+      "time_iso": "2026-08-12T23:03:56+09:00",
+      "excerpt": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "time_iso": "2026-08-12T23:02:46+09:00",
+      "excerpt": "207 points ・ 130 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "Why tiny JPEGs look different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "time_iso": "2026-08-12T23:00:54+09:00",
+      "excerpt": "228 points ・ 51 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "hn",
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "time_iso": "2026-08-12T20:53:01+09:00",
+      "excerpt": "446 points ・ 121 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "GeminiアプリのMAUが10億人を突破　Googleで14番目の大台到達製品に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
+      "time_iso": "2026-08-12T18:59:59+09:00",
+      "excerpt": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "RIZAP運営のECサイトに不正アクセス　カード情報含む個人情報が流出の可能性　サイトは一時閉鎖",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000512/",
+      "time_iso": "2026-08-12T18:19:37+09:00",
+      "excerpt": "RIZAPは8月10日、運営するスポーツ・アウトドア用品の通販サイト「APORITOオンラインストア」が不正アクセスを受け、利用者の個人情報とクレジットカード情報が外部へ流出した可能性があると発表した。サイトは5日から閉鎖しており、再開時期は未定。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "提出した課題の口頭試問が必須に―─デンマーク、AI不正対策で高校課程に新ルール",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000509/",
+      "time_iso": "2026-08-12T17:54:02+09:00",
+      "excerpt": "デンマーク教育省は、高校でのAI不正対策として、自宅で作成する試験課題に口頭試問を義務付ける方針を発表した。対象は2年間の高校教育課程「HF」の筆記課題「SSO」。筆記試験中のPC画面監視や、学校管理下での課題作成も促す。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "「10月以降も継続」　楽天のKDDIローミング終了について三木谷氏がコメント　縮小はカバー済みエリアのみ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000510/",
+      "time_iso": "2026-08-12T16:52:24+09:00",
+      "excerpt": "楽天グループの三木谷浩史会長兼社長は8月12日、楽天モバイルがKDDIから通信網を借りるローミング契約について「現在も詰めの協議を行っている」と自身のXアカウントで説明した。カバーに時間を要するエリアでは10月以降も継続する一方、十分カバーできているエリアは縮小するという。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "hn",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "time_iso": "2026-08-12T16:51:20+09:00",
+      "excerpt": "107 points ・ 18 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "itm",
+      "title": "SpaceXAI、AIエージェント「Grok Bot」発表　クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
+      "time_iso": "2026-08-12T15:33:57+09:00",
+      "excerpt": "米SpaceXAIは8月11日（現地時間）、常時稼働型のAIエージェント「Grok Bot」（β版）を発表した。チャットでタスクを渡すとBotがアプリやWebサイトを操作して作業を進め、役割の異なる複数のBotを並列で働かせることもできる。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "中国発AIエージェント「Manus」、Metaから独立へ　中国政府が買収に反発、一部ユーザーデータは削除に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
+      "time_iso": "2026-08-12T15:09:00+09:00",
+      "excerpt": "AIエージェント「Manus」を提供するManusは8月11日（現地時間）、独立企業としての運営をまもなく再開すると発表した。米Metaからの分離に伴い、一部ユーザーのデータを23日から削除するとして、事前のバックアップを呼び掛けている。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "「めっちゃカメレオン」2000万本突破　日本の2人が開発、発売から2カ月で",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000507/",
+      "time_iso": "2026-08-12T15:05:08+09:00",
+      "excerpt": "個人開発として異次元とも言える“超大ヒット”が続いている。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "通知なしで送れるLINE「ミュートメッセージ」有料提供へ　無料のテスト機能から昇格",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000502/",
+      "time_iso": "2026-08-12T12:31:21+09:00",
+      "excerpt": "新機能を試せる「LINEラボ」で無償提供してきたが、8月下旬ごろから有料の「LYPプレミアム」ユーザー限定になる。",
       "trend_score": 0.0833
     },
     {
@@ -179,131 +307,11 @@
     },
     {
       "source": "hn",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "time_iso": "2026-08-11T22:22:00+09:00",
-      "excerpt": "429 points ・ 174 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "England set to be one of the first countries to eliminate hepatitis C",
-      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "time_iso": "2026-08-11T21:41:59+09:00",
-      "excerpt": "465 points ・ 332 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "time_iso": "2026-08-11T21:23:07+09:00",
-      "excerpt": "205 points ・ 282 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "hn",
-      "title": "Nvidia's Risky Business",
-      "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "time_iso": "2026-08-11T19:02:00+09:00",
-      "excerpt": "268 points ・ 120 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "itm",
-      "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に　特化型「GPT-5.6-Cyber」投入",
-      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
-      "time_iso": "2026-08-11T11:48:40+09:00",
-      "excerpt": "OpenAIはサイバー防御者向けイニシアチブ「Daybreak」を拡張し、2つのアクセス階層「Blue」「Red」と、Red向けの専用モデル「GPT-5.6-Cyber」を発表した。正当なセキュリティ研究におけるAIの過度な拒否動作を抑制し、未知のゼロデイ脆弱性発見やエクスプロイト検証などの高度な防御タスクを支援する。",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",
-      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
-      "time_iso": "2026-08-11T09:21:44+09:00",
-      "excerpt": "YouTubeは「YouTubeパートナープログラム」の改定を発表した。2027年2月より新規参加の条件が再生時間8000時間またはショート2000万回再生へと引き上げられる。既存クリエイターの長尺動画への影響はないが、ショート動画の広告分配維持には直近90日間で1000万回再生の継続が必要となる。",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "itm",
-      "title": "ザッカーバーグCEO、超知能の集中化に警鐘 「単一の善意ある超知能は存在しない」とオープンモデル公開再開へ",
-      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000494/",
-      "time_iso": "2026-08-11T07:21:33+09:00",
-      "excerpt": "MetaのザッカーバーグCEOは、超知能の分散化と個人のエンパワーメントを訴える論考を公開した。単一の超知能への集権化を否定し、権力の均衡が安全の基礎であると主張。モデル公開審査の独立組織委任や政府へのチェックポイント提供などの管理策を提示しつつ、オープンソースモデルの公開再開と新モデルのウェイト提供を明言した。",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "itm",
-      "title": "親が子にAIを使わせる理由は「勉強に役立つ」ではなく「うちの子だけは遅れさせたくない」？　2000人を調査",
-      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
-      "time_iso": "2026-08-11T07:00:00+09:00",
-      "excerpt": "米シカゴ大学などに所属する研究者らがPNASで発表した論文「Social dynamics of AI adoption in parents’ educational decisions」は、親が子どもに生成AIを使わせる判断の背景を調査した研究報告だ。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "itm",
-      "title": "トクリュウ上位者のスマホ情報、遠隔入手へ　警察庁、是非巡り検討会初会合　未然防止図る",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000491/",
-      "time_iso": "2026-08-10T18:40:16+09:00",
-      "excerpt": "特殊詐欺や強盗など匿名・流動型犯罪グループ（トクリュウ）が関与する深刻な被害を防ごうと、警察庁は8月10日、指示役らが使っているスマートフォンなどの端末の通信内容を遠隔で入手する新たな捜査手法導入の是非を議論する有識者検討会の初会合を開いた。検討会がまとめた提言を基に、警察庁は必要な法改正を進めたい考えだ。",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "itm",
-      "title": "韓国発の次世代スリープテック「Sleepisol＋」を試す　すんなり二度寝ができるようになった",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000490/",
-      "time_iso": "2026-08-10T18:32:53+09:00",
-      "excerpt": "夏本番ということで、快適な睡眠にはなかなか厳しい日が続いている。そこで、2025年のCESで「Beauty＆Personal care」部門でイノベーションアワードを受賞した韓国LEESOLの最新モデル「Sleepisol＋」を試した。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "itm",
-      "title": "秋田県幹部職員が喫煙しながらバスローブでオンライン報道対応　「自宅」との説明に疑義……背景はラブホ客室のよう",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000489/",
-      "time_iso": "2026-08-10T17:48:39+09:00",
-      "excerpt": "秋田県は、オンラインで報道対応していた産業労働部企業誘致推進監（課長級）の男性が、バスローブのような姿で喫煙するなどの不適切な行動をしたと明らかにし、謝罪した。8月7日の記者会見で、推進監が対応した場所を「自宅」と説明していたが、疑義が生じたため、10日もさらに事実確認を進めている。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "AIが変えた震災支援……熊本の被災者がスマホで作った「イマココナビ」活況　“乱立”に課題も",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000486/",
-      "time_iso": "2026-08-10T15:22:26+09:00",
-      "excerpt": "被災者がスマホの生成AIで9時間で立ち上げた生活情報サイト「イマココナビ」は、16万人が利用した。AIは「作るハードル」を下げたが……。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "防衛省、リチェルカセキュリティに指名停止措置　研究事業で水増し請求か",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000479/",
-      "time_iso": "2026-08-10T15:21:39+09:00",
-      "excerpt": "防衛省が、委託先のリチェルカセキュリティ（東京都千代田区）に不正行為があったとして、9カ月間の指名停止措置を取ったと発表した。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "浅田真央さん旧ドメイン失効問題、さくら田中社長「対処します」の意図は　同社に聞いた",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000483/",
-      "time_iso": "2026-08-10T14:45:31+09:00",
-      "excerpt": "浅田真央さんの旧ドメイン騒動で、さくらインターネットの田中邦裕社長が「対処します」と投稿し話題に。お名前.comとの違いと、その真意を聞いた。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "圧をかけて“泡”爆増、ミラブルの技術が融合した「高圧洗浄機」を自宅で試したら掃除が楽しくなった",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000468/",
-      "time_iso": "2026-08-10T13:18:48+09:00",
-      "excerpt": "高圧洗浄機といえば、「強い水圧で汚れを吹き飛ばす」ための強力なツールというイメージがありますが、今回体験した「MIRABLE AQUABLAST MINI」はその常識を少し変えてくれる製品でした。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "PC内蔵カメラで「血管情報」「心拍情報」測定　VAIOが世界初、ノジマのアイデアが発端",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000482/",
-      "time_iso": "2026-08-10T13:00:49+09:00",
-      "excerpt": "カメラから取得したデータに基づき、統計学的処理により構築したモデルから血管情報と心拍情報を推定する。",
-      "trend_score": 0.0833
+      "title": "A Tale of Dynamic Programming (2022)",
+      "url": "https://iagoleal.com/posts/dynamic-programming/",
+      "time_iso": "2026-08-10T00:26:07+09:00",
+      "excerpt": "43 points ・ 2 comments",
+      "trend_score": 0.1333
     },
     {
       "source": "pk",
@@ -315,19 +323,11 @@
     },
     {
       "source": "hn",
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "url": "https://photosynthesis.camera",
-      "time_iso": "2026-08-09T07:47:10+09:00",
-      "excerpt": "151 points ・ 158 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
-      "url": "https://jolt-lang.github.io",
-      "time_iso": "2026-08-09T02:38:20+09:00",
-      "excerpt": "129 points ・ 47 comments",
-      "trend_score": 0.2667
+      "title": "Debugging Information for Inlined Functions",
+      "url": "https://lwn.net/Articles/1083985/",
+      "time_iso": "2026-08-09T22:37:59+09:00",
+      "excerpt": "9 points ・ 0 comments",
+      "trend_score": 0.2
     },
     {
       "source": "pk",
