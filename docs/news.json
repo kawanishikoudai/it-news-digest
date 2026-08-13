@@ -1,9 +1,129 @@
 {
-  "generated_at": "2026-08-13T07:29:14.804359+09:00",
+  "generated_at": "2026-08-13T20:19:15.105474+09:00",
   "items": [
     {
+      "source": "hn",
+      "title": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "time_iso": "2026-08-13T19:23:51+09:00",
+      "excerpt": "31 points ・ 26 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "itm",
+      "title": "ドコモ・バイクシェア、全エリアでサービス再開　全面停止から9日ぶり",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000532/",
+      "time_iso": "2026-08-13T18:47:38+09:00",
+      "excerpt": "8月4日の全面停止から9日ぶりに全エリアで利用可能になった。",
+      "trend_score": 1.0
+    },
+    {
+      "source": "itm",
+      "title": "サービス終了した「Link！Like！ラブライブ！」開発元が破産　負債103億円超　東京商工リサーチ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000526/",
+      "time_iso": "2026-08-13T18:14:29+09:00",
+      "excerpt": "東京商工リサーチは8月13日、スマートフォンアプリ「Link！Like！ラブライブ！」を開発・運営していたオッドナンバーと関連2社が、東京地裁から破産開始決定を受けたと報じた。決定は8月5日付。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "itm",
+      "title": "東京ガス子会社、社員が飲酒後にPCを紛失　個人情報約2万件を保存",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000531/",
+      "time_iso": "2026-08-13T18:07:24+09:00",
+      "excerpt": "東京ガス子会社の東京ガスネットワークは8月13日、顧客の個人情報約2万件を保存した業務用PCを社員が紛失したと発表した。社員が同僚らと飲酒した後、電車で帰宅する途中にPCなどが入ったかばんを紛失したという。13日時点で、第三者による不正操作や個人情報の不正利用は確認していないとしている。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "itm",
+      "title": "LINE、送信後のメッセージを編集可能に　15分以内限定　秋以降は有料化",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000530/",
+      "time_iso": "2026-08-13T15:21:45+09:00",
+      "excerpt": "まず「LINEラボ」で無償提供し、秋以降は有料の「LYPプレミアム」会員向け特典として正式に提供する予定だ。",
+      "trend_score": 0.75
+    },
+    {
+      "source": "itm",
+      "title": "「Google Store 表参道」13日オープン　AIを使った“お土産作り”から限定グッズまで、店内を詳細レポート",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000519/",
+      "time_iso": "2026-08-13T14:28:42+09:00",
+      "excerpt": "米Googleは8月13日午後2時、直営店「Google Store 表参道」を東京・表参道の商業施設「東急プラザ表参道『オモカド』」にオープンする。AI体験スタジオ「Pixel Studio」など3フロアで構成し、製品購入から店頭修理まで対応する。オープンに先立ち店内を取材した。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex/",
+      "time_iso": "2026-08-13T13:53:41+09:00",
+      "excerpt": "184 points ・ 103 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "itm",
+      "title": "ヨネックス、公式ECショップに不正ログイン　氏名や住所、購入履歴が閲覧された恐れ　パスワード変更呼び掛け",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000527/",
+      "time_iso": "2026-08-13T13:51:04+09:00",
+      "excerpt": "ヨネックスは8月12日、公式オンラインショップで第三者による不正ログインが発生したと発表した。リスト型攻撃によるもので、利用者に対しパスワードの再設定を呼び掛けている。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "一部テレビで「BSテレ東」映らず　信号データ不備が原因か",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000523/",
+      "time_iso": "2026-08-13T11:07:19+09:00",
+      "excerpt": "主にシャープ製テレビの一部機種で10日から発生しているという。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "ドコモ・バイクシェア、都内でも再開　全面停止から8日ぶり",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000522/",
+      "time_iso": "2026-08-13T10:35:55+09:00",
+      "excerpt": "東京広域エリアは、千代田区や中央区、港区、新宿区、渋谷区など都内16区を1エリアとしてまとめ、区をまたいで貸出・返却できる相互利用の枠組み。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "「Made by Google」イベントで発表したこと　手話のリアルタイムテキスト化や「Health Guardian」など",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000521/",
+      "time_iso": "2026-08-13T10:14:35+09:00",
+      "excerpt": "Googleは新製品発表イベント「Made by Google 2026」で、「Pixel 11」シリーズなどの最新ハードウェアに加え、手話をテキスト化する「SL2T」機能や、既存センサーのデータで健康状態を推定する「Health Guardian」などを発表した。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "個人開発のAIデザインツール「Rikyū」　“幾何学的なデザイン”機能が秀逸と話題に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000514/",
+      "time_iso": "2026-08-13T10:00:00+09:00",
+      "excerpt": "幾何学的にロゴをデザインできる個人開発のAIサービス「Rikyū」がXで話題だ。生成ロゴや“設計図”風の画像にも注目が集まり、Xでは成果物の投稿が相次いでいる。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "hn",
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "time_iso": "2026-08-13T08:50:33+09:00",
+      "excerpt": "97 points ・ 34 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "hn",
+      "title": "Flutter 3.47",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "time_iso": "2026-08-13T08:46:00+09:00",
+      "excerpt": "123 points ・ 125 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "time_iso": "2026-08-13T08:26:21+09:00",
+      "excerpt": "175 points ・ 76 comments",
+      "trend_score": 0.6
+    },
+    {
       "source": "tc",
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
       "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
       "time_iso": "2026-08-13T07:26:37+09:00",
       "excerpt": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
@@ -18,12 +138,12 @@
       "trend_score": 0.9167
     },
     {
-      "source": "hn",
-      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-      "time_iso": "2026-08-13T06:45:29+09:00",
-      "excerpt": "17 points ・ 14 comments",
-      "trend_score": 0.7333
+      "source": "itm",
+      "title": "悪酔いにチェイサーは効果なし？　日本酒4合＋水1Lを飲ませ二日酔い調査　大分大などが研究",
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000472/",
+      "time_iso": "2026-08-13T07:00:00+09:00",
+      "excerpt": "大分大学や三和酒類株式会社研究所に所属する研究者らが国際学術誌「Frontiers in Pharmacology」で発表した論文「Water intake during drinking does not alleviate hangover symptoms」は、飲酒中に水（チェイサー）を飲んでも二日酔いは緩和され",
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -31,7 +151,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
       "time_iso": "2026-08-13T06:32:01+09:00",
       "excerpt": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン",
-      "trend_score": 1.0
+      "trend_score": 0.0833
     },
     {
       "source": "tc",
@@ -62,8 +182,8 @@
       "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
       "time_iso": "2026-08-13T03:19:59+09:00",
-      "excerpt": "285 points ・ 94 comments",
-      "trend_score": 0.9333
+      "excerpt": "569 points ・ 207 comments",
+      "trend_score": 0.6667
     },
     {
       "source": "tc",
@@ -106,14 +226,6 @@
       "trend_score": 0.25
     },
     {
-      "source": "hn",
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "time_iso": "2026-08-13T01:51:25+09:00",
-      "excerpt": "100 points ・ 89 comments",
-      "trend_score": 0.4667
-    },
-    {
       "source": "tc",
       "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
       "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
@@ -131,171 +243,43 @@
     },
     {
       "source": "hn",
-      "title": "Pixel Watch 5",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "time_iso": "2026-08-13T01:14:37+09:00",
-      "excerpt": "72 points ・ 122 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "hn",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "time_iso": "2026-08-13T01:04:50+09:00",
-      "excerpt": "635 points ・ 227 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "time_iso": "2026-08-13T00:32:50+09:00",
-      "excerpt": "327 points ・ 335 comments",
-      "trend_score": 0.4
+      "excerpt": "950 points ・ 396 comments",
+      "trend_score": 0.8667
     },
     {
       "source": "hn",
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "time_iso": "2026-08-13T00:01:17+09:00",
-      "excerpt": "416 points ・ 87 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "itm",
-      "title": "Google版“AirTag”こと「Pixel Tag」登場　10億台のAndroidネットワークで居場所を探知",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
-      "time_iso": "2026-08-12T23:34:21+09:00",
-      "excerpt": "米Googleが紛失防止タグ「Google Pixel Tag」を発表した。鍵や財布に取り付け、10億台超のAndroid端末で構成されるFind Hubのネットワークで位置を探せる。UWBで距離と方向も分かる。日本では単品5010円、4個セット1万6940円で11月に発売する。",
-      "trend_score": 0.9167
+      "excerpt": "643 points ・ 150 comments",
+      "trend_score": 0.7333
     },
     {
       "source": "hn",
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "time_iso": "2026-08-12T23:22:30+09:00",
-      "excerpt": "691 points ・ 112 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "itm",
-      "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表　10％軽く、1mm薄くしつつ耐久性強化",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000517/",
-      "time_iso": "2026-08-12T23:10:09+09:00",
-      "excerpt": "米Googleは8月12日、折りたたみスマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルより約10％軽く約1mm薄いが、新しいヒンジとセラミックガラスの採用で3倍の強度を実現したという。Googleストアでの価格は256GBモデルが27万9900円。8月20日に発売する。",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "time_iso": "2026-08-12T23:09:11+09:00",
-      "excerpt": "207 points ・ 27 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "itm",
-      "title": "Google新スマホ「Pixel 11シリーズ」正式発表　「Gemini Intelligence」向けに設計　カメラも強化",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
-      "time_iso": "2026-08-12T23:03:56+09:00",
-      "excerpt": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "time_iso": "2026-08-12T23:02:46+09:00",
-      "excerpt": "207 points ・ 130 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "hn",
-      "title": "Why tiny JPEGs look different in Chrome",
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "time_iso": "2026-08-12T23:00:54+09:00",
-      "excerpt": "228 points ・ 51 comments",
-      "trend_score": 0.3333
+      "excerpt": "1071 points ・ 199 comments",
+      "trend_score": 0.8
     },
     {
       "source": "hn",
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
       "time_iso": "2026-08-12T20:53:01+09:00",
-      "excerpt": "446 points ・ 121 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "itm",
-      "title": "GeminiアプリのMAUが10億人を突破　Googleで14番目の大台到達製品に",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
-      "time_iso": "2026-08-12T18:59:59+09:00",
-      "excerpt": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "itm",
-      "title": "RIZAP運営のECサイトに不正アクセス　カード情報含む個人情報が流出の可能性　サイトは一時閉鎖",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000512/",
-      "time_iso": "2026-08-12T18:19:37+09:00",
-      "excerpt": "RIZAPは8月10日、運営するスポーツ・アウトドア用品の通販サイト「APORITOオンラインストア」が不正アクセスを受け、利用者の個人情報とクレジットカード情報が外部へ流出した可能性があると発表した。サイトは5日から閉鎖しており、再開時期は未定。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "itm",
-      "title": "提出した課題の口頭試問が必須に―─デンマーク、AI不正対策で高校課程に新ルール",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000509/",
-      "time_iso": "2026-08-12T17:54:02+09:00",
-      "excerpt": "デンマーク教育省は、高校でのAI不正対策として、自宅で作成する試験課題に口頭試問を義務付ける方針を発表した。対象は2年間の高校教育課程「HF」の筆記課題「SSO」。筆記試験中のPC画面監視や、学校管理下での課題作成も促す。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "「10月以降も継続」　楽天のKDDIローミング終了について三木谷氏がコメント　縮小はカバー済みエリアのみ",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000510/",
-      "time_iso": "2026-08-12T16:52:24+09:00",
-      "excerpt": "楽天グループの三木谷浩史会長兼社長は8月12日、楽天モバイルがKDDIから通信網を借りるローミング契約について「現在も詰めの協議を行っている」と自身のXアカウントで説明した。カバーに時間を要するエリアでは10月以降も継続する一方、十分カバーできているエリアは縮小するという。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "hn",
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "time_iso": "2026-08-12T16:51:20+09:00",
-      "excerpt": "107 points ・ 18 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "itm",
-      "title": "SpaceXAI、AIエージェント「Grok Bot」発表　クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
-      "time_iso": "2026-08-12T15:33:57+09:00",
-      "excerpt": "米SpaceXAIは8月11日（現地時間）、常時稼働型のAIエージェント「Grok Bot」（β版）を発表した。チャットでタスクを渡すとBotがアプリやWebサイトを操作して作業を進め、役割の異なる複数のBotを並列で働かせることもできる。",
+      "excerpt": "494 points ・ 133 comments",
       "trend_score": 0.3333
     },
     {
-      "source": "itm",
-      "title": "中国発AIエージェント「Manus」、Metaから独立へ　中国政府が買収に反発、一部ユーザーデータは削除に",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
-      "time_iso": "2026-08-12T15:09:00+09:00",
-      "excerpt": "AIエージェント「Manus」を提供するManusは8月11日（現地時間）、独立企業としての運営をまもなく再開すると発表した。米Metaからの分離に伴い、一部ユーザーのデータを23日から削除するとして、事前のバックアップを呼び掛けている。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "「めっちゃカメレオン」2000万本突破　日本の2人が開発、発売から2カ月で",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000507/",
-      "time_iso": "2026-08-12T15:05:08+09:00",
-      "excerpt": "個人開発として異次元とも言える“超大ヒット”が続いている。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "通知なしで送れるLINE「ミュートメッセージ」有料提供へ　無料のテスト機能から昇格",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000502/",
-      "time_iso": "2026-08-12T12:31:21+09:00",
-      "excerpt": "新機能を試せる「LINEラボ」で無償提供してきたが、8月下旬ごろから有料の「LYPプレミアム」ユーザー限定になる。",
-      "trend_score": 0.0833
+      "source": "hn",
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "time_iso": "2026-08-12T20:28:27+09:00",
+      "excerpt": "544 points ・ 649 comments",
+      "trend_score": 0.4
     },
     {
       "source": "pk",
@@ -307,11 +291,19 @@
     },
     {
       "source": "hn",
-      "title": "A Tale of Dynamic Programming (2022)",
-      "url": "https://iagoleal.com/posts/dynamic-programming/",
-      "time_iso": "2026-08-10T00:26:07+09:00",
-      "excerpt": "43 points ・ 2 comments",
-      "trend_score": 0.1333
+      "title": "The lattice of sets of natural numbers is rich",
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "time_iso": "2026-08-10T22:53:13+09:00",
+      "excerpt": "29 points ・ 1 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "hn",
+      "title": "Antiqua–Fraktur dispute",
+      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+      "time_iso": "2026-08-10T21:22:53+09:00",
+      "excerpt": "107 points ・ 28 comments",
+      "trend_score": 0.5333
     },
     {
       "source": "pk",
@@ -323,11 +315,19 @@
     },
     {
       "source": "hn",
-      "title": "Debugging Information for Inlined Functions",
-      "url": "https://lwn.net/Articles/1083985/",
-      "time_iso": "2026-08-09T22:37:59+09:00",
-      "excerpt": "9 points ・ 0 comments",
-      "trend_score": 0.2
+      "title": "Picking berries is my meditation",
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "time_iso": "2026-08-09T04:24:02+09:00",
+      "excerpt": "6 points ・ 3 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "The punched card tabulator",
+      "url": "https://www.ibm.com/history/punched-card-tabulator",
+      "time_iso": "2026-08-08T00:01:58+09:00",
+      "excerpt": "18 points ・ 3 comments",
+      "trend_score": 0.4667
     },
     {
       "source": "pk",
@@ -410,5 +410,10 @@
       "trend_score": 0.0833
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "enrich_primary",
+      "error": "HTTPError: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+    }
+  ]
 }
