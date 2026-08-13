@@ -139,12 +139,14 @@ def call_claude_json(prompt, max_tokens=6000):
 
 
 def enrich_items(items):
-    """Claude APIで(1)日本語タイトル要約 (2)影響・注目ポイントの一言解説 をまとめて生成する"""
+    """Claude APIで(1)日本語タイトル要約 (2)影響・注目ポイントの一言解説 をまとめて生成する。
+    失敗しても例外を飲み込まず、エラー内容をリストで返す(news.jsonに記録するため)。"""
+    errors = []
     if not items:
-        return
+        return errors
     if not os.environ.get("ANTHROPIC_API_KEY"):
-        print("ANTHROPIC_API_KEY 未設定のため要約・影響解説をスキップします", file=sys.stderr)
-        return
+        errors.append({"source": "enrich", "error": "ANTHROPIC_API_KEY 未設定"})
+        return errors
 
     payload = [
         {"title": it["title"], "source": it["source"], "excerpt": it.get("excerpt", "")}
@@ -172,14 +174,14 @@ def enrich_items(items):
                 it["title_ja"] = r["title_ja"]
             it["impact"] = r.get("impact", "")
     except Exception as e:
-        print(f"要約・影響解説の生成に失敗しました: {e}", file=sys.stderr)
-        return
+        errors.append({"source": "enrich_primary", "error": f"{type(e).__name__}: {e}"})
+        return errors  # ベースがないのでリトライはせず終了
 
     # 英語のままなのに title_ja が埋まらなかったものだけ、追加でリトライする
     missing = [it for it in items if not is_japanese(it["title"]) and not it.get("title_ja")]
     if not missing:
-        return
-    print(f"翻訳漏れ {len(missing)} 件を追加リクエストで補完します", file=sys.stderr)
+        return errors
+
     retry_prompt = (
         "次の英語のニュース見出しを、それぞれ必ず日本語で25文字前後に要約してください。"
         "nullや空文字は禁止です。固有名詞は日本語表記があれば使い、なければそのまま残してください。"
@@ -194,7 +196,9 @@ def enrich_items(items):
             if jp:
                 it["title_ja"] = jp
     except Exception as e:
-        print(f"翻訳漏れの補完に失敗しました（原題のまま表示されます）: {e}", file=sys.stderr)
+        errors.append({"source": "enrich_retry", "error": f"{type(e).__name__}: {e}"})
+
+    return errors
 
 
 def safe_fetch(name, fn):
@@ -228,7 +232,8 @@ def main():
             errors.append(err)
 
     try:
-        enrich_items(items)
+        enrich_errors = enrich_items(items)
+        errors.extend(enrich_errors)
     except Exception as e:
         errors.append({"source": "enrich", "error": f"{type(e).__name__}: {e}"})
 
