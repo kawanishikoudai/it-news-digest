@@ -1,155 +1,383 @@
 {
-  "generated_at": "2026-08-19T07:12:02.639695+09:00",
+  "generated_at": "2026-08-20T07:14:24.749541+09:00",
   "items": [
     {
-      "source": "hn",
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "time_iso": "2026-08-19T06:14:21+09:00",
-      "excerpt": "54 points ・ 27 comments",
-      "trend_score": 0.9333,
-      "title_ja": "Claude Code、HP LeserでmacOS標準印刷に対応",
-      "impact": "AIコーディングツールが特定デバイスのネイティブ対応を実現し、開発効率向上の可能性が示された。"
-    },
-    {
-      "source": "hn",
-      "title": "Companies promote incompetent employees to management tolimit damage they can do",
-      "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
-      "time_iso": "2026-08-19T06:13:30+09:00",
-      "excerpt": "23 points ・ 10 comments",
-      "trend_score": 0.8667,
-      "title_ja": "無能な社員を管理職に昇進させる企業戦略",
-      "impact": "組織管理における逆説的な人事戦略が議論を呼び、企業文化への影響について関心が集まっている。"
-    },
-    {
-      "source": "hn",
-      "title": "Find Chicago Parking Cops",
-      "url": "https://www.secondcitycitation.com",
-      "time_iso": "2026-08-19T06:08:40+09:00",
-      "excerpt": "8 points ・ 5 comments",
-      "trend_score": 0.1333,
-      "title_ja": "シカゴ駐車違反取締官の位置情報検索",
-      "impact": "市民向けユーティリティの提供が始まり、交通行政の透明性向上に関心が集まっている。"
-    },
-    {
       "source": "tc",
-      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
-      "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-      "time_iso": "2026-08-19T05:36:20+09:00",
-      "excerpt": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "time_iso": "2026-08-20T07:10:46+09:00",
+      "excerpt": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
       "trend_score": 1.0,
-      "title_ja": "アンドリーセン・ホロウィッツへのDOJ調査に業界困惑",
-      "impact": "大手VCの経営判断に対する規制当局の調査が、VC業界の慣行に影響を与える可能性が指摘されている。"
+      "title_ja": "OpenAIがAnthropicに対抗して顧客プライバシー保護を強化",
+      "impact": "AI企業間でプライバシー保護の競争が加速し、エンタープライズ向けサービスが改善される。"
     },
     {
       "source": "tc",
-      "title": "TikTok explores peer-to-peer payments via DMs, report says",
-      "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-      "time_iso": "2026-08-19T05:03:56+09:00",
-      "excerpt": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "time_iso": "2026-08-20T06:51:23+09:00",
+      "excerpt": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropi",
       "trend_score": 0.9167,
-      "title_ja": "TikTok、DM経由のピアツーピア決済検討中",
-      "impact": "SNSプラットフォームが金融機能拡張を進め、デジタル決済市場の競争激化が予想される。"
-    },
-    {
-      "source": "hn",
-      "title": "Beware Management Consultants",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "time_iso": "2026-08-19T04:29:51+09:00",
-      "excerpt": "354 points ・ 57 comments",
-      "trend_score": 1.0,
-      "title_ja": "経営コンサルタント利用時の注意点",
-      "impact": "経営コンサルタントの実効性や影響についての議論が多く集まり、企業の意思決定に関わる重要なテーマとして注目されている。"
-    },
-    {
-      "source": "hn",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "time_iso": "2026-08-19T03:14:59+09:00",
-      "excerpt": "48 points ・ 21 comments",
-      "trend_score": 0.2667,
-      "title_ja": "AIモデル開発ペースの管理と規制検討",
-      "impact": "サイバー関連技術の急速な発展に対する社会的規制の必要性が議論されている。"
-    },
-    {
-      "source": "hn",
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "time_iso": "2026-08-19T03:11:53+09:00",
-      "excerpt": "171 points ・ 112 comments",
-      "trend_score": 0.3333,
-      "title_ja": "IKEA製品命名方法の秘密とは",
-      "impact": "大手グローバル企業のブランド戦略が明らかになり、マーケティング手法への理解が深まった。"
-    },
-    {
-      "source": "hn",
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "time_iso": "2026-08-19T03:07:21+09:00",
-      "excerpt": "178 points ・ 22 comments",
-      "trend_score": 0.8,
-      "title_ja": "Google TurboQuant、Rustでベクトル検索実装",
-      "impact": "高速なベクトル検索技術の実装が進み、AI・機械学習応用の性能向上が期待される。"
+      "title_ja": "Cognition CEOがSpaceXの買収報道を否定",
+      "impact": "AI系スタートアップの買収話が注目され、テック大手のAI投資戦略が明らかになる。"
     },
     {
       "source": "tc",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "time_iso": "2026-08-19T03:00:00+09:00",
-      "excerpt": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the p",
+      "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+      "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+      "time_iso": "2026-08-20T06:48:24+09:00",
+      "excerpt": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
       "trend_score": 0.8333,
-      "title_ja": "Hugging Face侵害後、OpenAIが新セーフガード導入",
-      "impact": "AIモデル開発プロセスのセキュリティ強化が業界標準化し、開発効率とのバランス課題が浮上。"
+      "title_ja": "Travis Kalanickが別ラウンドでVC批判を開始",
+      "impact": "ロボティクス企業立上時のVC投資の役割評価で、スタートアップ資金調達の議論が深まる。"
+    },
+    {
+      "source": "hn",
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "url": "https://inco.ai/blog/dflash2/",
+      "time_iso": "2026-08-20T05:28:43+09:00",
+      "excerpt": "34 points ・ 5 comments",
+      "trend_score": 0.6,
+      "title_ja": "DFlash 2: Keep Drafting Parallel",
+      "impact": "並列ドラフト処理により開発効率向上が期待される。"
+    },
+    {
+      "source": "hn",
+      "title": "Pressed Penny Machine Map",
+      "url": "https://pennypresses.net/home/map.php",
+      "time_iso": "2026-08-20T05:13:47+09:00",
+      "excerpt": "25 points ・ 18 comments",
+      "trend_score": 0.4,
+      "title_ja": "プレス加工ペニーマシンマップ",
+      "impact": "観光関連の地理情報が共有され、デジタルマッピング活用の例示になる。"
     },
     {
       "source": "tc",
-      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "time_iso": "2026-08-19T02:31:01+09:00",
-      "excerpt": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gatherin",
+      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+      "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+      "time_iso": "2026-08-20T05:12:33+09:00",
+      "excerpt": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
       "trend_score": 0.75,
-      "impact": "TechCrunch Disrupt 2026のチケット割引キャンペーンを告知し、スタートアップコミュニティの参加促進を図る。",
-      "title_ja": "TechCrunch Disrupt 2026チケットを8月21日までに最大300ドル割引。"
+      "title_ja": "RilletがシリーズCで1B達成、2年でユニコーン企業に",
+      "impact": "AI会計スタートアップの急速な成長で、企業向けAIソリューションの市場拡大が示される。"
     },
     {
       "source": "tc",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "time_iso": "2026-08-19T02:21:58+09:00",
-      "excerpt": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+      "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+      "time_iso": "2026-08-20T05:04:12+09:00",
+      "excerpt": "The actress' firm Kinship Ventures is an investor in the company.",
       "trend_score": 0.6667,
-      "title_ja": "Etched、1ヶ月で企業価値倍増の210億ドル到達",
-      "impact": "AI専用チップ企業の急速な成長が加速し、AI基盤インフラへの投資ブームが確認されている。"
+      "title_ja": "グウィネス・パルトローがサム・アルトマン名誉ディナーを開催",
+      "impact": "セレブ投資家とOpenAIの関係構築で、AI企業への社会的関心が高まる。"
     },
     {
       "source": "tc",
-      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-      "time_iso": "2026-08-19T02:12:13+09:00",
-      "excerpt": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier f",
+      "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+      "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
+      "time_iso": "2026-08-20T05:01:02+09:00",
+      "excerpt": "Have we tried turning off society and turning it back on again?",
       "trend_score": 0.5833,
-      "title_ja": "Apple、EU規制対応で手数料体系改革を実施",
-      "impact": "アプリ代替配布の5%手数料化により、EU市場でのアプリ流通構造が大きく変わる見通しがある。"
+      "title_ja": "リトルリーグワールドシリーズへのスポーツベッティングが過熱",
+      "impact": "子どもスポーツへのギャンブル浸透で、スポーツベッティング規制の議論が高まる可能性。"
     },
     {
       "source": "tc",
-      "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-      "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-      "time_iso": "2026-08-19T01:39:05+09:00",
-      "excerpt": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "time_iso": "2026-08-20T04:11:40+09:00",
+      "excerpt": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessaril",
       "trend_score": 0.5,
-      "title_ja": "Comcast、ルータに動き検知機能追加・プライバシー課題有",
-      "impact": "ISPが提供ルータにモーション検知機能を搭載し、プライバシー懸念との両立が議論になっている。"
+      "impact": "AI導入が想定以上に消費者に受け入れられておらず、技術企業の戦略見直しが迫られる。",
+      "title_ja": "AIは今までに人々を魅了するはずだったが失敗している。"
+    },
+    {
+      "source": "hn",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "time_iso": "2026-08-20T04:06:16+09:00",
+      "excerpt": "74 points ・ 21 comments",
+      "trend_score": 0.8,
+      "title_ja": "ロック済みCricut Makerのアンロック方法が共有される",
+      "impact": "電子廃棄物の修理・再利用が可能になり、デジタルRightToRepairの議論に関連する。"
     },
     {
       "source": "tc",
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "time_iso": "2026-08-19T01:19:10+09:00",
-      "excerpt": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "time_iso": "2026-08-20T04:00:00+09:00",
+      "excerpt": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it contin",
       "trend_score": 0.4167,
-      "title_ja": "Apple、カメラ搭載AirPodsのプライバシー配慮設計",
-      "impact": "AI搭載ウェアラブル製品が記録機能を制限し、プライバシー懸念に対する設計的対策の可能性を示唆している。"
+      "title_ja": "GoogleがSearchとGeminiに新しいAI学習機能を搭載",
+      "impact": "学生向けAI機能が充実し、Geminiの教育市場での競争力が高まる。"
+    },
+    {
+      "source": "tc",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "time_iso": "2026-08-20T03:46:14+09:00",
+      "excerpt": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, w",
+      "trend_score": 0.3333,
+      "title_ja": "研究者がOpenAIのサイバープログラムアクセス取消を報告",
+      "impact": "AIセキュリティ研究の透明性問題が浮上し、OpenAIの信頼性が問われる可能性がある。"
+    },
+    {
+      "source": "hn",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "time_iso": "2026-08-20T03:36:45+09:00",
+      "excerpt": "128 points ・ 36 comments",
+      "trend_score": 0.8667,
+      "title_ja": "Unsloth Dynamic 3.0 GGUFs",
+      "impact": "AI推論の効率化ツールが更新され、より多くのユーザーが高速推論を実現できる。"
+    },
+    {
+      "source": "hn",
+      "title": "Rules of good social skills (2025)",
+      "url": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
+      "time_iso": "2026-08-20T03:34:45+09:00",
+      "excerpt": "56 points ・ 21 comments",
+      "trend_score": 0.0667,
+      "impact": "良好な社交スキルのガイドが提供され、職場やコミュニティでの人間関係改善が期待される。",
+      "title_ja": "2025年の良好な社交スキルのルールについて。"
+    },
+    {
+      "source": "hn",
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "time_iso": "2026-08-20T03:33:49+09:00",
+      "excerpt": "344 points ・ 68 comments",
+      "trend_score": 0.9333,
+      "impact": "Go言語の最新版リリースにより開発者に新機能が提供され、コミュニティの関心が高い。",
+      "title_ja": "プログラミング言語Goのバージョン1.27がリリースされた。"
+    },
+    {
+      "source": "hn",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "time_iso": "2026-08-20T02:47:29+09:00",
+      "excerpt": "163 points ・ 46 comments",
+      "trend_score": 0.7333,
+      "title_ja": "GoogleがGitタグをGoogle Driveに置き換え",
+      "impact": "大規模ソースコード管理方法の変更で、開発プロセスやアクセス管理が影響を受ける。"
+    },
+    {
+      "source": "pk",
+      "title": "Docker社、コンテナ向けの高性能な新ハイパーバイザ「Docker VMM」パブリックベータ公開",
+      "url": "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
+      "time_iso": "2026-08-20T02:43:24+09:00",
+      "excerpt": "Docker社は独自開発したコンテナ向けの高性能な新ハイパーバイザ「Docker VMM」をパブリックベータとして公開しました。WindowsとmacOSに対応した最新の「Docker Desktop v4.86」で利用可能です。 Toda...",
+      "trend_score": 1.0,
+      "title_ja": "Dockerが高性能ハイパーバイザ「Docker VMM」をパブリックベータ公開",
+      "impact": "コンテナ環境の高速化で開発生産性が向上し、Docker利用企業が効率化を実現できる。"
+    },
+    {
+      "source": "hn",
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "time_iso": "2026-08-20T02:32:38+09:00",
+      "excerpt": "471 points ・ 261 comments",
+      "trend_score": 1.0,
+      "title_ja": "OpenRouterがStripeに参加",
+      "impact": "API統合企業が決済大手に買収され、AI APIの商用化が加速する可能性がある。"
+    },
+    {
+      "source": "tc",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "time_iso": "2026-08-20T02:26:48+09:00",
+      "excerpt": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#16",
+      "trend_score": 0.25,
+      "title_ja": "ウォール街がAIコンピュート価格設定スタートアップに注目",
+      "impact": "AI計算リソースの価格化により、データセンター投資の透明性が向上する。"
+    },
+    {
+      "source": "tc",
+      "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+      "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+      "time_iso": "2026-08-20T02:26:32+09:00",
+      "excerpt": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+      "trend_score": 0.1667,
+      "title_ja": "T-Mobileが中国系ハッカーをネットワークから追い出す",
+      "impact": "大規模データ侵害を早期検出・対応により、サイバーセキュリティ防御の重要性が実証される。"
+    },
+    {
+      "source": "tc",
+      "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "url": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "time_iso": "2026-08-20T01:16:18+09:00",
+      "excerpt": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gatherin",
+      "trend_score": 0.0833,
+      "title_ja": "TechCrunch Disrupt 2026早期割引キャンペーン",
+      "impact": "スタートアップカンファレンスの宣伝で、業界イベントへの参加促進を図っている。"
+    },
+    {
+      "source": "pk",
+      "title": "Pythonライクな新言語「Mojo」がオープンソースで公開、コンパイラやツールチェーンなど。Windows版の開発も表明",
+      "url": "https://www.publickey1.jp/blog/26/pythonmojowindows.html",
+      "time_iso": "2026-08-20T00:40:43+09:00",
+      "excerpt": "Pythonライクな新言語「Mojo」の開発元であるModular社は、Mojoをオープンソースとして公開したことを、同社主催のイベント「ModCon 2026」で発表しました。 具体的にはMojoのコンパイラとツールチェーンがGitHub...",
+      "trend_score": 0.9167,
+      "title_ja": "Pythonライク言語「Mojo」がオープンソース化、Windows版も予定",
+      "impact": "高速実行言語がOSS化でコミュニティに開放され、Pythonの代替案として普及が加速。"
+    },
+    {
+      "source": "hn",
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "time_iso": "2026-08-20T00:28:01+09:00",
+      "excerpt": "224 points ・ 177 comments",
+      "trend_score": 0.5333,
+      "impact": "カシオの腕時計モデルが高い関心を集め、スマートウォッチのトレンド把握に参考になる。",
+      "title_ja": "カシオの腕時計モデルF-B100W-1Aの新製品情報。"
+    },
+    {
+      "source": "hn",
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "time_iso": "2026-08-20T00:14:25+09:00",
+      "excerpt": "94 points ・ 75 comments",
+      "trend_score": 0.2,
+      "impact": "AI時代における数学の役割の変化についての議論が学術コミュニティで重要性を持つ。",
+      "title_ja": "AI時代における数学の役割と重要性について。"
+    },
+    {
+      "source": "hn",
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "time_iso": "2026-08-19T23:48:39+09:00",
+      "excerpt": "153 points ・ 49 comments",
+      "trend_score": 0.2667,
+      "title_ja": "Ornith-1.5: セルフスキャフォールディングからセルフ改善へ",
+      "impact": "自己改善するAIモデルの進化により、AI開発の新しいパラダイムが実現する。"
+    },
+    {
+      "source": "hn",
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "time_iso": "2026-08-19T21:19:52+09:00",
+      "excerpt": "378 points ・ 67 comments",
+      "trend_score": 0.3333,
+      "title_ja": "幾何学とCUDAを使ってランダムな島を地政学的に特定",
+      "impact": "地理情報技術とGPU計算の実用的な組み合わせで、AI応用の新しい可能性を示す。"
+    },
+    {
+      "source": "hn",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "time_iso": "2026-08-19T20:21:50+09:00",
+      "excerpt": "676 points ・ 95 comments",
+      "trend_score": 0.6667,
+      "title_ja": "ジョークドメイン購入が地政学的紛争に発展",
+      "impact": "ドメイン取得による予期しない国際紛争の事例が示され、デジタル資産管理の重要性が浮き彫りになる。"
+    },
+    {
+      "source": "itm",
+      "title": "生成AI画像で“架空の女性”に成り済まして政治投稿か　立憲栃木県連の男性党員　一部報道",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000632/",
+      "time_iso": "2026-08-19T20:21:49+09:00",
+      "excerpt": "立憲民主党栃木県連に党員登録している男性が、架空の女性に成り済ましてXで選挙や政治活動について投稿していたことが8月19日までに分かった。女性の画像は生成AIで作成したとみられ、アカウントは既に凍結されている。",
+      "trend_score": 1.0,
+      "impact": "生成AI画像による政治的なりすまし投稿が発覚し、フェイク情報対策が急務となる。"
+    },
+    {
+      "source": "itm",
+      "title": "氏名・住所など16万人分漏えい　学生向けPC販売サイト、不正アクセスの影響判明　明大・帝京など利用",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000625/",
+      "time_iso": "2026-08-19T18:25:36+09:00",
+      "excerpt": "加賀ソルネットは8月17日、ECサイト「アカデミコナビ」への不正アクセスに関する調査結果を公表した。16万5587人分の個人データの漏えいを確認したほか、停止中のサイトは10月末の再開を予定する。",
+      "trend_score": 0.9167,
+      "impact": "学生向け通販サイトの大規模漏えいで、個人情報管理強化と企業責任が問われる。"
+    },
+    {
+      "source": "itm",
+      "title": "香川の私鉄「ことでん」、券売機をほぼ廃止　スマホで買う「デジタル切符」に移行　地方鉄道で全国初",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000631/",
+      "time_iso": "2026-08-19T17:41:21+09:00",
+      "excerpt": "高松琴平電気鉄道（ことでん）とレシップは8月19日、一部主要駅を除いて物理券売機を廃止し、スマートフォンで購入するデジタル切符に移行すると発表した。無人駅の券売機をなくしてWebチケットに切り替える取り組みは地方鉄道で全国初といい、9月1日に運用を始める。",
+      "trend_score": 0.8333,
+      "impact": "地方鉄道がデジタル切符に全面移行、交通システムのデジタル化が加速する。"
+    },
+    {
+      "source": "itm",
+      "title": "さくら、別のシステムでも不正アクセスか　会員情報136万アカウントが漏えいの可能性　調査で判明",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000629/",
+      "time_iso": "2026-08-19T17:33:59+09:00",
+      "excerpt": "さくらインターネットは8月19日、同社販売管理システムへの不正アクセスによって、最大136万563アカウントの会員情報が第三者に閲覧または取得された可能性があると発表した。19日時点でデータの外部持ち出しは確認していない。",
+      "trend_score": 0.75,
+      "impact": "複数システムへの不正アクセス判明で、さくらインターネットのセキュリティ対策が厳しく問われる。"
+    },
+    {
+      "source": "itm",
+      "title": "「REALFORCE」ロゴ入りで「ATMと同じ打鍵感」　東プレ製テンキー、セブン銀がプレゼント",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000630/",
+      "time_iso": "2026-08-19T17:27:25+09:00",
+      "excerpt": "あの打鍵感を味わえる。",
+      "trend_score": 0.6667,
+      "impact": "キーボードメーカーとATMメーカーのコラボで、打鍵感の商品化が新しいマーケティング施策となる。"
+    },
+    {
+      "source": "itm",
+      "title": "CHARGESPOTのバッテリー、川に大量投棄か　SNSで動画拡散　「警察と連携して回収・調査」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000628/",
+      "time_iso": "2026-08-19T17:01:51+09:00",
+      "excerpt": "「警察や関係各所と連携し、現場の確認・回収対応と事実関係の調査を進めている」",
+      "trend_score": 0.5833,
+      "impact": "シェアバッテリー企業の大量投棄疑惑で、使い捨て型ビジネスモデルの環境問題が顕在化する。"
+    },
+    {
+      "source": "itm",
+      "title": "AIを活用した特殊詐欺対策、官民から募集　警察庁×GENIAC、懸賞金総額5000万円",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000621/",
+      "time_iso": "2026-08-19T14:13:13+09:00",
+      "excerpt": "金融機関、通信事業者、SNS事業者、警察、税務署などからの応募を想定して",
+      "trend_score": 0.5,
+      "impact": "官民連携の詐欺対策募集で、AIを活用した犯罪防止技術開発が急速に進む。"
+    },
+    {
+      "source": "itm",
+      "title": "フードデリバリー「menu」終了へ　「持続的なサービス提供が困難」　9月末まで",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000620/",
+      "time_iso": "2026-08-19T13:57:32+09:00",
+      "excerpt": "menu社（東京都新宿区）は8月19日、フードデリバリー・テイクアウトサービス「menu」の提供を9月30日に終了すると発表した。親会社のKDDIは同日、サービス終了後にmenu社を解散・清算すると明らかにした。",
+      "trend_score": 0.4167,
+      "impact": "フードデリバリーサービスの終了でKDDI傘下事業の戦略転換が示され、業界再編が進む。"
+    },
+    {
+      "source": "itm",
+      "title": "「Adobe半額」ヨドバシ、ビックカメラなどで　Proプラン12カ月版は5万1480円に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000618/",
+      "time_iso": "2026-08-19T13:09:57+09:00",
+      "excerpt": "ヨドバシカメラやビックカメラ、エディオン、Joshinにて、Adobe製品を正規価格の半額で販売する期間限定セールを実施している。Amazonでも同様のセールを実施していたが、売り切れている。",
+      "trend_score": 0.3333,
+      "impact": "Adobe製品の半額セールで大型オンライン販売が実施され、購買機会が消費者に広がる。"
+    },
+    {
+      "source": "itm",
+      "title": "「ポロクル」も「まちのり」も止まった　ドコモ・バイクシェア大規模障害、影響が全国に及んだ理由",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000612/",
+      "time_iso": "2026-08-19T12:10:00+09:00",
+      "excerpt": "シェアサイクル業界においては過去最大規模の障害とみられる、ドコモ・バイクシェアで8月に発生した全国エリアのサービス停止。実は、「ドコモ」ブランド以外のシェアサイクルでも同様にサービス停止が起きていた。何があったのかを解説する。",
+      "trend_score": 0.25,
+      "impact": "シェアサイクル大規模障害で、複数ブランドの統一システムの脆弱性が露呈する。"
+    },
+    {
+      "source": "itm",
+      "title": "ファミマ、全国約1万6000店で中古品を引き取りへ　「ブックオフ宅配買取」の窓口に　伊藤忠との提携で",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000616/",
+      "time_iso": "2026-08-19T12:08:15+09:00",
+      "excerpt": "ブックオフとファミリーマートは8月19日、宅配買取の荷物を全国のファミリーマート店舗から発送できる新サービスを25日に始めると発表した。本やCDのほか、家電やスマートフォンも売れる。",
+      "trend_score": 0.1667,
+      "impact": "ファミマが中古品買取窓口として機能し、リユース市場の流通網が大きく拡大する。"
+    },
+    {
+      "source": "itm",
+      "title": "駐車場シェアのakippa上場へ　想定時価総額約33.8億円",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000614/",
+      "time_iso": "2026-08-19T11:30:34+09:00",
+      "excerpt": "23年12月期に黒字転換し、25年12月期は利益が大きく伸びた。",
+      "trend_score": 0.0833,
+      "impact": "駐車場シェアサービスの上場により、シェアリング経済の収益性が市場で検証される。"
     },
     {
       "source": "pk",
@@ -157,18 +385,9 @@
       "url": "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
       "time_iso": "2026-08-19T01:03:06+09:00",
       "excerpt": "Cloud Native Computing Foundation（CNCF）は、アプリケーションのソースコードから直接OCIコンテナメージを構築するツールである「Cloud Native Buildpacks」が十分成熟したとして、卒業プ...",
-      "trend_score": 1.0,
-      "impact": "Cloud Native BuildpacksがCNCF卒業プロジェクト化し、コンテナビルドの標準化が加速する見込みがある。"
-    },
-    {
-      "source": "tc",
-      "title": "Bluesky says its recent outage was caused by another DDoS attack",
-      "url": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
-      "time_iso": "2026-08-19T00:59:48+09:00",
-      "excerpt": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
-      "trend_score": 0.3333,
-      "title_ja": "Bluesky、年内複数回のDDoS攻撃で揺らぐ安定性",
-      "impact": "SNS新興企業が大規模サイバー攻撃に繰り返し見舞われ、プラットフォーム安定性への信頼が問われている。"
+      "trend_score": 0.8333,
+      "title_ja": "Cloud Native BuildpacksがCNCFの卒業プロジェクトに、Dockerfile不要に",
+      "impact": "コンテナビルドプロセスが簡素化され、開発効率向上とDockerfile管理負担が軽減される。"
     },
     {
       "source": "pk",
@@ -176,8 +395,9 @@
       "url": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
       "time_iso": "2026-08-19T00:55:25+09:00",
       "excerpt": "Googleは、完全準同型暗号を利用したAIモデル用のオープンソースコンパイラ「HEIR」を発表しました。 AIモデルをコンパイルする「HEIR」 HEIRはAIモデル用のコンパイラとツールチェーンであり、これを用いて学習済みAIモデルのP...",
-      "trend_score": 0.9167,
-      "impact": "完全準同型暗号によるAIモデル実行が実現し、機密データ活用とプライバシー保護の両立が技術的に可能化。"
+      "trend_score": 0.75,
+      "title_ja": "GoogleがAIモデルを完全準同型暗号で保護する「HEIR」を発表",
+      "impact": "暗号化データ上でのAI実行が可能になり、プライバシー保護とセキュリティが飛躍的に向上。"
     },
     {
       "source": "pk",
@@ -185,206 +405,9 @@
       "url": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
       "time_iso": "2026-08-19T00:43:29+09:00",
       "excerpt": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
-      "trend_score": 0.8333,
-      "impact": "Cursorの新型Gitホスティング登場で、AIエージェント時代の開発環境基盤が再編成される可能性がある。"
-    },
-    {
-      "source": "tc",
-      "title": "Peacock is raising prices across all of its streaming plans",
-      "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
-      "time_iso": "2026-08-19T00:26:31+09:00",
-      "excerpt": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content ",
-      "trend_score": 0.25,
-      "title_ja": "Peacock、全プランで値上げを実施へ",
-      "impact": "ストリーミング配信各社の相次ぐ値上げにより、消費者の購読負担が増加し市場競争が変化する見込み。"
-    },
-    {
-      "source": "tc",
-      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-      "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-      "time_iso": "2026-08-18T23:00:00+09:00",
-      "excerpt": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
-      "trend_score": 0.1667,
-      "title_ja": "全固体電池製造へ、Anthro Energyが工場建設開始",
-      "impact": "全固体電池材料の国内製造拠点確立により、電池技術の国産化と供給チェーン強化が進展する期待がある。"
-    },
-    {
-      "source": "tc",
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "time_iso": "2026-08-18T23:00:00+09:00",
-      "excerpt": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-      "trend_score": 0.0833,
-      "title_ja": "Warp、AI開発向けソフトウェアファクトリシステム開始",
-      "impact": "AI開発インフラの自動化が進み、開発チームの生産性向上と導入障壁の低下が期待される。"
-    },
-    {
-      "source": "hn",
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "time_iso": "2026-08-18T22:22:38+09:00",
-      "excerpt": "760 points ・ 475 comments",
       "trend_score": 0.6667,
-      "title_ja": "Amazonの税務問題と経済への影響",
-      "impact": "大手テック企業の税務戦略に対する社会的議論が活発化し、政策立案への関心が高まっている。"
-    },
-    {
-      "source": "hn",
-      "title": "Fixing a bricked Framework laptop",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "time_iso": "2026-08-18T22:18:40+09:00",
-      "excerpt": "321 points ・ 211 comments",
-      "trend_score": 0.5333,
-      "title_ja": "Framework製ノートパソコンの復旧手法",
-      "impact": "修理可能性の高い製品設計への関心が集まり、デバイスの長期使用と環境配慮が重視されている。"
-    },
-    {
-      "source": "hn",
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "time_iso": "2026-08-18T21:43:54+09:00",
-      "excerpt": "365 points ・ 57 comments",
-      "trend_score": 0.6,
-      "title_ja": "鉄道網をフラットベッドスキャナー応用",
-      "impact": "既存インフラの創意工夫による新用途発見が注目され、技術活用の可能性を示唆している。"
-    },
-    {
-      "source": "itm",
-      "title": "LINE Creditに業務改善命令、システム不備で貸金業法違反　一部顧客に過剰貸付けも　東京都",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000603/",
-      "time_iso": "2026-08-18T19:14:09+09:00",
-      "excerpt": "LINE Creditは8月18日、個人向けローンサービス「LINEポケットマネー」を巡り、東京都から業務改善命令の行政処分を受けたと発表した。システムの不備により、収入証明書類の確認漏れや過剰貸付けなど、貸金業法に違反する契約を一部の顧客と結んでいた。",
-      "trend_score": 1.0,
-      "impact": "システム不備による法令違反で、金融プラットフォームのコンプライアンス体制強化が求められる状況が発生。"
-    },
-    {
-      "source": "itm",
-      "title": "ドコモ・バイクシェア障害、なぜ起きた？　同社が原因と再発防止策を公表　返金は9月末までに",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000601/",
-      "time_iso": "2026-08-18T18:17:28+09:00",
-      "excerpt": "ドコモ・バイクシェアは8月18日、7月末から続いた大規模システム障害について、原因と再発防止策、返金対応を報告した。新システム移行後の利用集中で処理能力が不足したことが原因といい、対象期間の利用料金は9月末までに返金を終える予定だ。",
-      "trend_score": 0.9167,
-      "impact": "大規模システム移行による処理能力不足で、シェアリング経済サービスの品質管理が重要課題として浮上。"
-    },
-    {
-      "source": "itm",
-      "title": "生成AIで巧妙化するデマ──熊本地震で露見した「10年前にはなかった新たな手法」　識者に聞く",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000600/",
-      "time_iso": "2026-08-18T18:03:55+09:00",
-      "excerpt": "2016年の熊本地震から10年という節目に同じ熊本県で発生した「令和8年熊本地震」。SNSでは発災直後から多くのデマやフェイク情報が拡散し、中には10年前には考えられなかった動きや傾向もみられた。",
-      "trend_score": 0.8333,
-      "impact": "生成AI活用によるデマ拡散が新たな段階に突入し、情報真正性の検証手段整備が急務となっている。"
-    },
-    {
-      "source": "itm",
-      "title": "バスローブ姿で取材対応の秋田県職員　ラブホ不倫現場からリモート対応だった　県が処分",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000599/",
-      "time_iso": "2026-08-18T18:01:52+09:00",
-      "excerpt": "秋田県は、産業労働部の報道取材対応時にリモート参加した課長級職員（55）が、参加時の滞在場所などについて虚偽の説明を行ったなどとして同日付で職位を2段階降格の主幹としたうえ、停職6カ月とする分限・懲戒処分にしたと発表した。",
-      "trend_score": 0.75,
-      "impact": "公務員の不適切な勤務態度が懲戒処分の対象となり、リモートワーク運用ルール整備の必要性が示唆された。"
-    },
-    {
-      "source": "itm",
-      "title": "通販生活が楽天市場から撤退　迎撃ドローン関連の報道受け「企業理念に反する」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000596/",
-      "time_iso": "2026-08-18T16:52:05+09:00",
-      "excerpt": "通信販売カタログ「通販生活」を手掛けるカタログハウスが、楽天グループのECモール「楽天市場」への出店を取りやめたと発表した。楽天グループが迎撃用ドローンを手掛ける独Helsingと提携するとの報道を受け、「企業理念に抵触する」（カタログハウス）として撤退に至った。",
-      "trend_score": 0.6667,
-      "impact": "商社が取引企業の兵器関連事業に反発し、企業理念とサプライチェーンの整合性が経営判断の重要要素化した。"
-    },
-    {
-      "source": "hn",
-      "title": "Linux 7.3 improves performance when running out of vRAM",
-      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "time_iso": "2026-08-18T16:51:50+09:00",
-      "excerpt": "486 points ・ 245 comments",
-      "trend_score": 0.2,
-      "title_ja": "Linux 7.3、VRAM不足時の性能向上実現",
-      "impact": "グラフィックス処理の効率化により、より低スペック環境でのAI活用が可能になる見込みがある。"
-    },
-    {
-      "source": "itm",
-      "title": "災害便乗の“〇〇Pay詐欺”に注意喚起　最初は多めに返金→信用したら10万円被害　国民生活センター",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000587/",
-      "time_iso": "2026-08-18T16:16:59+09:00",
-      "excerpt": "国民生活センターは8月17日、「令和8年熊本地震」に便乗し、SNSのダイレクトメッセージ（DM）からコード決済による詐欺に誘導する手口について注意を呼び掛けた。「〇〇Payで返金します」と言われたら詐欺を疑うよう求めている。",
-      "trend_score": 0.5833,
-      "impact": "決済サービス名義の詐欺手口が災害便乗で急増し、デジタル決済利用時の検証強化が必要とされている。"
-    },
-    {
-      "source": "itm",
-      "title": "「食欲が削られる」――AIで作られた“気色の悪い飲食店メニュー”がXで物議　「実物を見たい」の声も",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000580/",
-      "time_iso": "2026-08-18T16:14:46+09:00",
-      "excerpt": "生成AIで作ったとみられる飲食店のメニューやポスターを巡り、Xで物議が広がっている。8月13日ごろから関連する投稿がみられ、とあるサービスエリアの飲食店メニューを写した投稿が反響を呼ぶと、同様の事例を紹介する投稿が急増した。",
-      "trend_score": 0.5,
-      "impact": "生成AIの不自然な出力が食欲減退をもたらし、実用段階での品質管理と人間チェックの重要性が認識された。"
-    },
-    {
-      "source": "itm",
-      "title": "有名フリーBGMサイト「DOVA-SYNDROME」が改名＆URL刷新　音源利用者に影響は？",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000595/",
-      "time_iso": "2026-08-18T16:04:41+09:00",
-      "excerpt": "フリーBGMサイト「DOVA-SYNDROME」は8月18日、9月15日にサービス名称を「OpenTracks（オープントラックス）」に変更すると発表した。音源は引き続き全て無料で利用できる。",
-      "trend_score": 0.4167,
-      "impact": "フリーBGMサイトのブランド変更で、既存利用者への影響最小化と継続的サービス提供が実現される見通し。"
-    },
-    {
-      "source": "itm",
-      "title": "パイオニアのカーナビアプリ「COCCHi」終了へ　開始から約3年、累計150万ダウンロード",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000594/",
-      "time_iso": "2026-08-18T15:21:23+09:00",
-      "excerpt": "累計ダウンロード数は150万を突破したが、開始から約3年で終了することになる。",
-      "trend_score": 0.3333,
-      "impact": "カーナビアプリ終了で累積150万ダウンロード実績も事業継続困難となり、スマホ利用への市場シフトが確認された。"
-    },
-    {
-      "source": "itm",
-      "title": "エアコン「2027年問題」にらみ、中国勢が価格攻勢　8万円切る水準、日本勢も対応急ぐ",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000593/",
-      "time_iso": "2026-08-18T15:03:19+09:00",
-      "excerpt": "来年4月から家庭用エアコンの省エネ基準が厳しくなり、価格アップなどが予想される「エアコン2027年問題」をにらみ、中国メーカーが日本市場に安価な製品で攻勢を強めている。新基準を満たす6畳用の機種では、TCLが8万円を切る水準で投入し、国内メーカーの標準機より数万円安い。猛暑で生活必需品となったエアコン市場でシェア拡大を",
-      "trend_score": 0.25,
-      "impact": "エアコン基準強化に先駆けた中国勢の価格攻勢で、日本市場での競争激化と価格破壊リスクが高まっている。"
-    },
-    {
-      "source": "itm",
-      "title": "一部テレビで「BSテレ東」など映らなかった問題、NHKが謝罪　信号データに古いチャンネル情報混入",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000591/",
-      "time_iso": "2026-08-18T14:53:54+09:00",
-      "excerpt": "Sデジタルでは、他局も含めたチャンネル情報の信号データを放送波で送っている。その中に古いチャンネル情報が含まれていたため、一部機種の受信機で、対象のBSチャンネルが正常に選局できなくなったという。",
-      "trend_score": 0.1667,
-      "impact": "信号データの古い情報混入によるテレビ受信障害で、放送インフラの品質管理とテスト体制強化が課題。"
-    },
-    {
-      "source": "itm",
-      "title": "新顔相次ぐ小型電動モビリティー　優れた環境性能、免許返納した高齢者の「次の足」に注目",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000590/",
-      "time_iso": "2026-08-18T14:29:55+09:00",
-      "excerpt": "優れた環境性能や利便性、低コストに加え、免許返納者の「次の足」といった特徴を打ち出す「小型電動モビリティー」の新商品が相次ぎ登場している。「クルマほど大きすぎず、バイクより安全」な、都市の移動手段として注目される。",
-      "trend_score": 0.0833,
-      "impact": "環境性能と利便性を兼ねた小型電動モビリティーが普及期に入り、高齢者の移動選択肢が多様化する見通し。"
-    },
-    {
-      "source": "hn",
-      "title": "Memory prices climb 500% in 12 months",
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "time_iso": "2026-08-18T02:52:37+09:00",
-      "excerpt": "394 points ・ 302 comments",
-      "trend_score": 0.0667,
-      "title_ja": "メモリ価格12ヶ月で500%上昇の衝撃",
-      "impact": "PC部品の急騰がコンピュータ製品全般の価格上昇につながり、消費者負担が大幅に増加する懸念が広がっている。"
-    },
-    {
-      "source": "hn",
-      "title": "Cursor launches Origin, GitHub alternative",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "time_iso": "2026-08-18T02:02:44+09:00",
-      "excerpt": "399 points ・ 313 comments",
-      "trend_score": 0.4667,
-      "title_ja": "Cursor、GitHub対抗のOriginサービス開始",
-      "impact": "AIコーディングツールが独自の開発プラットフォームを構築し、開発環境の再編成が進む可能性がある。"
+      "title_ja": "CursorがAIエージェント向けGitホスティング「Origin」を発表",
+      "impact": "AI統合開発環境が充実し、AI駆動型コード作成と管理が一元化される。"
     },
     {
       "source": "pk",
@@ -392,8 +415,9 @@
       "url": "https://www.publickey1.jp/blog/26/saaspr_1.html",
       "time_iso": "2026-08-18T00:46:49+09:00",
       "excerpt": ".jetform-wrapper {     border: 2px solid #ccc;   /* 枠線 /     padding: 20px;            / 内側の余白 /     border-radius: 12p...",
-      "trend_score": 0.75,
-      "impact": "SaaS開発の効率化と品質向上の両立手法が事例で紹介され、ベストプラクティスの共有が進む。"
+      "trend_score": 0.5833,
+      "title_ja": "SaaSの開発加速とプロダクト品質向上を両立させる方法",
+      "impact": "開発効率化と品質維持の事例共有で、業界のベストプラクティスが確立される。"
     },
     {
       "source": "pk",
@@ -401,8 +425,9 @@
       "url": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
       "time_iso": "2026-08-18T00:42:34+09:00",
       "excerpt": "マイクロソフトはオープンソースで開発されているコードエディタの最新版「Visual Studio Code 1.133」（以下、VS Code 1.133）の正式リリースを発表しました。 The latest @code release b...",
-      "trend_score": 0.6667,
-      "impact": "VS Code 1.133で複数AIアシスタント共存が可能化し、開発環境の選択肢と柔軟性が大幅に拡充された。"
+      "trend_score": 0.5,
+      "title_ja": "Visual Studio Code 1.133がリリース、固定スクロール機能やClaudeなど新機能",
+      "impact": "エディタの使いやすさが向上しClaudeなど複数AI統合で、開発体験が大きく改善される。"
     },
     {
       "source": "pk",
@@ -410,18 +435,9 @@
       "url": "https://www.publickey1.jp/blog/26/pythonmojo10.html",
       "time_iso": "2026-08-18T00:40:38+09:00",
       "excerpt": "Modular社は、AIを高速に実行することを目指したPythonライクなプログラミング言語「Mojo」がバージョン1.0に到達したことを発表しました。 Mojo 1.0 is here.Since we open-sourced the ...",
-      "trend_score": 0.5833,
-      "impact": "Mojo言語が1.0到達でオープンソース化予定となり、AI高速実行向けの言語選択肢が本格普及に向かう見通し。"
-    },
-    {
-      "source": "hn",
-      "title": "Being Ambitious and Being a Dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "time_iso": "2026-08-17T01:08:57+09:00",
-      "excerpt": "60 points ・ 15 comments",
-      "trend_score": 0.7333,
-      "title_ja": "野心と父親業の両立について",
-      "impact": "仕事と育児の両立に関する実体験が共有され、働き方についての関心が集まった。"
+      "trend_score": 0.4167,
+      "title_ja": "Mojo言語がバージョン1.0到達、高速AI実行言語として本格化",
+      "impact": "高速AI実行言語が正式版に到達しOSS化で、Python代替の新標準として普及が加速。"
     },
     {
       "source": "pk",
@@ -429,8 +445,9 @@
       "url": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "time_iso": "2026-08-17T00:10:13+09:00",
       "excerpt": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
-      "trend_score": 0.5,
-      "impact": "CloudflareがAIエージェント専用軽量ブラウザを発表し、ヘッドレスブラウザの新カテゴリ形成が進む。"
+      "trend_score": 0.3333,
+      "title_ja": "Cloudflareが「Kitesurf」発表、AI専用超軽量ヘッドレスブラウザ",
+      "impact": "AI エージェント専用ブラウザが登場し、自動化タスク処理の効率が大幅に向上する。"
     },
     {
       "source": "pk",
@@ -438,8 +455,9 @@
       "url": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
       "time_iso": "2026-08-17T00:05:36+09:00",
       "excerpt": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
-      "trend_score": 0.4167,
-      "impact": "人間とAI対話とコード変更を共有するツール登場で、AI開発時のコンテキスト管理方法が革新される見込み。"
+      "trend_score": 0.25,
+      "title_ja": "Zed開発チームが「Delta」発表、人間とAIの全対話履歴を共有保存",
+      "impact": "AI協働開発の履歴管理が可能になり、チーム開発とAI統合の透明性が確保される。"
     },
     {
       "source": "pk",
@@ -447,18 +465,29 @@
       "url": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
       "time_iso": "2026-08-17T00:01:16+09:00",
       "excerpt": "米エンバカデロ・テクノロジーズは、無料で使える統合開発環境「Delphi 13 Community Edtion」の提供開始を発表しました。 Delphi 13 Community Edition is now available!The ...",
-      "trend_score": 0.3333,
-      "impact": "Delphi 13無料版提供開始で、クロスプラットフォーム開発の敷居が低下し利用層拡大が期待される。"
+      "trend_score": 0.1667,
+      "title_ja": "無料「Delphi 13 Community Edition」提供開始、Windows/Mac/iOS/Android対応",
+      "impact": "無料開発環境が拡充しマルチプラットフォーム対応で、初心者や企業の導入障壁が低下。"
     },
     {
       "source": "hn",
-      "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
-      "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
-      "time_iso": "2026-08-14T00:26:42+09:00",
-      "excerpt": "47 points ・ 14 comments",
-      "trend_score": 0.4,
-      "impact": "トルコのユネスコ遺産地で新たな古代彫刻が発見され、考古学的重要性が確認された。",
-      "title_ja": "トルコのユネスコ遺産地で2500年前の彫像が発見された。"
+      "title": "A portable, sensitive, low power, analog Geiger counter (2025)",
+      "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
+      "time_iso": "2026-08-16T16:12:59+09:00",
+      "excerpt": "20 points ・ 0 comments",
+      "trend_score": 0.1333,
+      "title_ja": "携帯型で感度が高く省電力なアナログ放射線量計（2025年）",
+      "impact": "低消費電力の放射線検出技術が実用化され、放射線安全管理が向上する可能性がある。"
+    },
+    {
+      "source": "hn",
+      "title": "The little-known winstart.bat batch file",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+      "time_iso": "2026-08-16T05:37:18+09:00",
+      "excerpt": "46 points ・ 4 comments",
+      "trend_score": 0.4667,
+      "title_ja": "あまり知られていないwinstart.batについて",
+      "impact": "Windowsのレガシー機能の解説により、システム管理の知識が深まる可能性がある。"
     },
     {
       "source": "pk",
@@ -466,26 +495,8 @@
       "url": "https://www.publickey1.jp/blog/26/content_4.html",
       "time_iso": "2026-08-12T00:33:09+09:00",
       "excerpt": "ネット上にはたくさんのIT系のコンテンツがあふれています。そのほとんどは文章として書かれていますが、一部にはマンガの形で面白く分かりやすくしたものもあります。 ここでは、マンガ化されたITコンテンツを集めてみました。毎年夏休みの恒例企画、I...",
-      "trend_score": 0.25,
-      "impact": "IT関連マンガコンテンツが無料提供され、AI概論など技術理解の初学者向けアクセス性が向上した。"
-    },
-    {
-      "source": "pk",
-      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-      "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-      "time_iso": "2026-08-10T00:19:33+09:00",
-      "excerpt": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "trend_score": 0.1667,
-      "impact": "Agent Plugins 1.0.0で異なるAIエージェント間の相互運用が標準化され、エコシステム統合が加速する見通し。"
-    },
-    {
-      "source": "pk",
-      "title": "ミッチェル・ハシモト氏が新会社「Superlogical」を設立、あらゆる仕事に使えるマルチプレクサの開発へ",
-      "url": "https://www.publickey1.jp/blog/26/superlogical.html",
-      "time_iso": "2026-08-07T00:26:54+09:00",
-      "excerpt": "HashiCorpの共同創業者であり、同社を退社後は個人開発者としてターミナルソフト「Ghostty」の開発を進めていたミッチェル・ハシモト氏が、新会社［Superlogical」の設立を発表しました。 I've started a...",
       "trend_score": 0.0833,
-      "impact": "HashiCorp共同創業者が新会社設立し、ターミナルツール領域での起業トレンドが強まる見込みがある。"
+      "impact": "2026年版IT漫画コンテンツが紹介され、技術学習の新しい分かりやすい形式が提供される。"
     }
   ],
   "errors": []
