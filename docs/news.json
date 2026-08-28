@@ -1,281 +1,382 @@
 {
-  "generated_at": "2026-08-27T11:23:53.118587+09:00",
+  "generated_at": "2026-08-28T14:52:35.041925+09:00",
   "items": [
     {
-      "source": "hn",
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "time_iso": "2026-08-27T10:46:22+09:00",
-      "excerpt": "19 points ・ 4 comments",
-      "trend_score": 0.4667,
-      "title_ja": "AI CEOに置き換えられた開発者がオープンソースのAI CEOを開発",
-      "impact": "AI導入による職場変化への開発者からの創意的な対抗として、オープンソースコミュニティの活動事例が注目されている。"
-    },
-    {
       "source": "itm",
-      "title": "MCPの新たなロードマップ公開　今後はAIエージェント対応、HTTP通信への統一などに注力",
-      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000831/",
-      "time_iso": "2026-08-27T10:25:36+09:00",
-      "excerpt": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表しました。",
+      "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表　将来オープンソース化へ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
+      "time_iso": "2026-08-28T14:20:45+09:00",
+      "excerpt": "Anthropicは、AIエージェントが実験・製造機器を安全に操作するための共通仕様「Model Hardware Standard」（MHS）を発表した。機器の統合作業を大幅に短縮し、基本命令や安全制限を標準化して自律制御を可能にする。先行導入事例を公開し、安全性評価を進めた上でオープンソース化する方針だ。",
       "trend_score": 1.0,
-      "impact": "MCPがAIエージェント対応とHTTP通信統一に向かうことで、生成AIの相互運用性が強化される見通しが示される。"
+      "impact": "AIエージェントが実験・製造機器を安全に操作する標準仕様により、自動化の導入が加速する。"
     },
     {
       "source": "itm",
-      "title": "「Yahoo!天気」石川・富山に“謎の赤丸”……線状降水帯エリア、3年前開始の機能",
-      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000830/",
-      "time_iso": "2026-08-27T10:23:22+09:00",
-      "excerpt": "「Yahoo!天気」アプリの雨雲レーダーでは、豪雨に襲われているエリアの雨雲の上に赤い楕円が表示されており、SNSで「謎の赤丸」「初めて見た」などの投稿が相次いだ。",
+      "title": "「5G SAにしたら圏外」──povo、一部スマホで接続不能に　KDDI「誤った設定だった」と謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000896/",
+      "time_iso": "2026-08-28T14:09:24+09:00",
+      "excerpt": "KDDIは8月28日、オンライン専用ブランド「povo2.0」で25日に始めた「5G SA」サービスで、一部の端末がネットワークに接続できない事象が起きていたと発表した。原因は同社側の設定ミスで、27日夜間に修正したという。",
       "trend_score": 0.9167,
-      "impact": "線状降水帯の視覚的警告機能により、ユーザーが豪雨リスクをより直感的に認識できる防災効果が期待される。"
-    },
-    {
-      "source": "hn",
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "time_iso": "2026-08-27T10:12:55+09:00",
-      "excerpt": "168 points ・ 79 comments",
-      "trend_score": 1.0,
-      "title_ja": "Nvidiaが約1.3兆円でHugging Faceを買収予定",
-      "impact": "AI開発の重要インフラとなったHugging Faceの買収により、Nvidiaの生成AI市場における支配力がさらに強化される可能性がある。"
-    },
-    {
-      "source": "tc",
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "time_iso": "2026-08-27T09:24:57+09:00",
-      "excerpt": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "trend_score": 1.0,
-      "title_ja": "AI新興企業Instinctが3年で約250億円調達、評価額2.5B",
-      "impact": "1年未満で大型資金調達を実現したAI企業の急速な成長により、投資家のAI企業への高い期待と競争の激化が示される。"
-    },
-    {
-      "source": "hn",
-      "title": "Mechanical Turk shutting down September 30",
-      "url": "https://www.mturk.com/",
-      "time_iso": "2026-08-27T08:55:44+09:00",
-      "excerpt": "142 points ・ 49 comments",
-      "trend_score": 0.9333,
-      "title_ja": "Amazon Mechanical Turkが9月30日にサービス終了",
-      "impact": "クラウドソーシングの黎明期を支えたプラットフォーム終了により、データラベリング業務の発注形態の変化が加速する可能性がある。"
-    },
-    {
-      "source": "hn",
-      "title": "Zohran and the Short Link",
-      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
-      "time_iso": "2026-08-27T08:50:15+09:00",
-      "excerpt": "99 points ・ 33 comments",
-      "trend_score": 0.6,
-      "impact": "短縮URLの管理に関する技術解説により、ウェブセキュリティやサービス設計の実装知見が共有される。",
-      "title_ja": "ゾーランと短いリンクに関する物語の紹介記事です"
-    },
-    {
-      "source": "tc",
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "time_iso": "2026-08-27T08:47:18+09:00",
-      "excerpt": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chi",
-      "trend_score": 0.9167,
-      "title_ja": "Amazonが2年でNvidia GPU 200万個の追加発注を表明",
-      "impact": "Amazon自社AI開発の急速な拡大により、Nvidia製チップの供給逼迫がさらに深刻化する可能性がある。"
+      "impact": "KDDIの5G SA設定ミスが修正されたことで、新サービス品質への信頼度に影響する可能性がある。"
     },
     {
       "source": "itm",
-      "title": "風速15mでも裏返らない晴雨兼用傘、アンベル「タフネス アンチフリップ」開発者に聞く「全天候での安心感」を支える技術",
-      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000825/",
-      "time_iso": "2026-08-27T08:31:00+09:00",
-      "excerpt": "傘専門メーカーのアンベルが発売した晴雨兼用折りたたみ傘「タフネス アンチフリップ」は、傘というツールが次のフェーズに入ったことを示す製品なのではと思っている。都市の過酷な天候から身を守る手段としての、傘メーカーからの提案だ。",
+      "title": "アイドルの宮本佳林さんが登壇したCloudflare開発者イベント、アーカイブ配信中",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000895/",
+      "time_iso": "2026-08-28T13:51:19+09:00",
+      "excerpt": "初心者が失敗しにくくするための「守り」として、個人情報はなるべく預からないこと、複数のAIにレビューしてもらうことなども挙げた。",
       "trend_score": 0.8333,
-      "impact": "暴風でも反転しない傘技術の開発により、気候変動時代の悪天候対策製品の進化が企業から提案されている。"
-    },
-    {
-      "source": "tc",
-      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
-      "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-      "time_iso": "2026-08-27T07:47:58+09:00",
-      "excerpt": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
-      "trend_score": 0.8333,
-      "title_ja": "Metaの180億円の児童安全対策合意、年齢確認技術の課題が浮上",
-      "impact": "年齢確認技術の限定的な実効性が法的和解と実装の乖離を生み、プライバシー保護との衝突を示す。"
-    },
-    {
-      "source": "hn",
-      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
-      "time_iso": "2026-08-27T07:44:03+09:00",
-      "excerpt": "76 points ・ 29 comments",
-      "trend_score": 0.7333,
-      "title_ja": "ヒマラヤ山脈の氷河湖決壊シナリオに関する2022年論文",
-      "impact": "気候変動による自然災害リスクの科学的評価が、インフラ整備や防災政策の重要な根拠となる。"
-    },
-    {
-      "source": "hn",
-      "title": "Asahi Linux Progress Report: Linux 7.2",
-      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
-      "time_iso": "2026-08-27T07:35:02+09:00",
-      "excerpt": "80 points ・ 8 comments",
-      "trend_score": 0.5333,
-      "title_ja": "Asahi LinuxがLinux 7.2進捗レポートを公表",
-      "impact": "Apple Silicon向けLinux実装の進展により、Macでのオープンソース開発環境の利便性が向上する。"
+      "impact": "アイドルがアーカイブ配信する開発イベントにより、IT技術への若年層の関心が高まる効果が期待できる。"
     },
     {
       "source": "itm",
-      "title": "個人で契約したChatGPTに、会社の情報を入力していいの？　超初心者向けAI解説",
-      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000827/",
-      "time_iso": "2026-08-27T07:00:00+09:00",
-      "excerpt": "もはや生活に欠かせない存在となりつつある生成AI。毎日の仕事においても例外でなく、便利に使っている人が多いでしょう。しかし、機密情報をむやみにAIに共有してしまうと、思わぬリスクにつながるかもしれません。",
+      "title": "大学入試センター、公式サイトの資料一覧ページが公開状態に　非公開化は「誤解を避けるため」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000890/",
+      "time_iso": "2026-08-28T13:34:09+09:00",
+      "excerpt": "大学入試センターは8月27日、公式Webサイトで本来は閲覧できないページが表示される状態になっていたと発表した。同センターは同日午前、ページを非公開化した。一覧に表示されていた資料は全て公表済みで、情報漏えいはなかったという。ITmedia NEWSは、一覧表示に至った経緯や非公開にした理由を聞いた。",
       "trend_score": 0.75,
-      "impact": "生成AIへの機密情報入力リスク教育により、企業のセキュリティ意識向上と個人利用のガイドライン確立が急務となっている。"
+      "impact": "大学入試センターのページ表示エラーが招いた非公開化は、情報公開ルールの見直しを促す可能性がある。"
     },
     {
-      "source": "tc",
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "time_iso": "2026-08-27T06:37:39+09:00",
-      "excerpt": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "trend_score": 0.75,
-      "title_ja": "Anthropicが約4.5兆円の計算資源調達契約、Nscaleと締結",
-      "impact": "AI開発企業による計算リソース確保競争の白熱化により、インフラ企業の地位が大幅に向上している。"
-    },
-    {
-      "source": "hn",
-      "title": "Stripe acquires Clerky",
-      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
-      "time_iso": "2026-08-27T06:09:32+09:00",
-      "excerpt": "66 points ・ 13 comments",
-      "trend_score": 0.3333,
-      "title_ja": "StripeがClerkyを買収",
-      "impact": "オンライン起業の法務手続き自動化ツール統合により、Stripeの起業家向けサービスの包括性が拡大する。"
-    },
-    {
-      "source": "hn",
-      "title": "GitHub Outage Tracker: Is GitHub Cooked?",
-      "url": "https://isgithubcooked.com/",
-      "time_iso": "2026-08-27T04:43:48+09:00",
-      "excerpt": "189 points ・ 114 comments",
-      "trend_score": 0.2667,
-      "title_ja": "GitHubダウンタイム追跡サイト「Is GitHub Cooked?」が話題に",
-      "impact": "GitHubの障害が開発業務に大きな影響を与えるほどの重要インフラ化が、コミュニティの関心で示されている。"
-    },
-    {
-      "source": "tc",
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-      "time_iso": "2026-08-27T04:37:34+09:00",
-      "excerpt": "Consumer AI apps need to stop making users learn their product architecture.",
+      "source": "itm",
+      "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
+      "time_iso": "2026-08-28T13:25:21+09:00",
+      "excerpt": "Googleは、信頼できる情報源をAI製品で活用する取り組み「Expert Intelligence」を発表した。第1弾として「Google Playブックス」の対象電子書籍を「Gemini Notebook」のソースに追加可能にした。大手出版社の10万冊以上が対象で、今後は他サービスにも拡大する。",
       "trend_score": 0.6667,
-      "title_ja": "Google Geminiのブランディング問題と業界全体の名称戦略課題",
-      "impact": "消費者向けAI製品の複雑な命名規則が混乱を招き、ユーザー体験と市場競争に悪影響を与えている可能性がある。"
+      "impact": "Gemini NotebookにGoogle Play Books統合により、AI学習の情報源が信頼できる出版物に拡大する。"
     },
     {
-      "source": "tc",
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "time_iso": "2026-08-27T04:34:04+09:00",
-      "excerpt": "Was Greg Brockman the right executive all along?",
+      "source": "itm",
+      "title": "「ライザAI」、配信開始2日で不正利用を警告　生成AIによる“偽画像”拡散も",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000892/",
+      "time_iso": "2026-08-28T13:21:28+09:00",
+      "excerpt": "生成AIスタートアップのSpiralAI（東京都千代田区）は8月27日、スマートフォン向けAIチャットアプリ「RyzaChat:AI ライザと創るあなただけのひと夏の夢物語」を巡り、利用規約に違反する行為が確認されたとして注意喚起した。国内での提供開始から2日後の発表となる。",
       "trend_score": 0.5833,
-      "title_ja": "OpenAIの経営幹部離職が相次ぐ理由を分析",
-      "impact": "OpenAI内での経営体制や方針への不透明感が、経営幹部の離職を招き、組織の安定性への懸念が生じている。"
+      "impact": "配信開始直後のAIアプリで不正利用警告が発令されたことで、生成AIの悪用防止が急務であることが明らかになった。"
     },
     {
-      "source": "hn",
-      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-      "time_iso": "2026-08-27T04:23:01+09:00",
-      "excerpt": "137 points ・ 68 comments",
-      "trend_score": 0.2,
-      "title_ja": "Actinideが濃縮度を低減したウラン燃料製造で業界初達成",
-      "impact": "核燃料サプライチェーンの民間化が進行し、原子力エネルギーの安定供給と核不拡散の両立が進展する可能性がある。"
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "time_iso": "2026-08-27T04:05:22+09:00",
-      "excerpt": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "source": "itm",
+      "title": "NISA口座「もぬけの殻」に　不正アクセス被害者らが証券4社に原状回復求め調停",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000891/",
+      "time_iso": "2026-08-28T13:10:56+09:00",
+      "excerpt": "不正アクセスで証券口座を乗っ取られ、保有する有価証券を勝手に売却されたとする79人が27日、大手証券会社4社に対し、原状回復を求める民事調停を東京簡裁に申し立てた。同日、都内で記者会見した被害者らは「口座から一銭もなくなっていた。もぬけの殻だった」などと訴え、早急な対応を求めた。",
       "trend_score": 0.5,
-      "title_ja": "OpenAIがHugging Face侵害事件の調査報告書を公開",
-      "impact": "複数のサイバーセキュリティ侵害の詳細な公開により、AI企業のセキュリティ体制と透明性への業界基準が形成されている。"
+      "impact": "証券口座不正アクセス被害者が調停を求めることで、取引業者のセキュリティ強化が促される。"
     },
     {
-      "source": "tc",
-      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
-      "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
-      "time_iso": "2026-08-27T03:35:40+09:00",
-      "excerpt": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing ",
+      "source": "itm",
+      "title": "避けるのか、とことん使いこなすのか──明治のCMに生成AIを取り入れた映像監督の本音",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000633/",
+      "time_iso": "2026-08-28T12:58:04+09:00",
+      "excerpt": "「AI動画はあまり好きになれない」。そう語る映像監督が、明治のプロテイン新商品「ザバス BIOPRO」のCMで、巨大なUFOが空を飛び交うSF映画のような映像をAIで作り上げた。景表法や薬機法による表現の制約、CGには足りない予算。AIをどこまで使い、どこから先を人の手に残したのかを解説する。",
       "trend_score": 0.4167,
-      "title_ja": "FlipboardがBlueskyフィード構築企業Grazeを買収",
-      "impact": "分散SNS向けフィード構築ツールのMainstream化により、オープン型ソーシャルメディア基盤の経済的価値が実証される。"
+      "impact": "映像監督が生成AIを活用することで、広告制作における予算配分とクリエイティブ手法が変化する可能性がある。"
     },
     {
-      "source": "tc",
-      "title": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
-      "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
-      "time_iso": "2026-08-27T03:23:09+09:00",
-      "excerpt": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
+      "source": "hn",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "time_iso": "2026-08-28T12:49:33+09:00",
+      "excerpt": "83 points ・ 27 comments",
+      "trend_score": 0.7333,
+      "title_ja": "OSSプロジェクトへの低質なAI生成コードの投稿が問題化",
+      "impact": "AI利用者による貢献資料の質低下は、OSSコミュニティの維持管理コストを増加させている。"
+    },
+    {
+      "source": "itm",
+      "title": "チューリッヒ保険、最大1668件の個人情報漏えいか　ドラレコデータのシステムに不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000888/",
+      "time_iso": "2026-08-28T12:04:01+09:00",
+      "excerpt": "チューリッヒ保険会社は8月27日、ドライブレコーダーのデータをアップロードするためのシステム「Z-Dash」が第三者による不正アクセスを受け、最大1668件の個人情報が漏えいした可能性があると発表した。",
       "trend_score": 0.3333,
-      "title_ja": "医療機器メーカーBoston Scientificが全世界で運用障害、サイバー攻撃原因",
-      "impact": "医療機関への重要な医療機器供給が途絶し、患者ケアと企業セキュリティ体制の脆弱性が顕在化している。"
+      "impact": "保険会社のドラレコシステム侵害により、利用者の位置情報や行動データの漏えいが顕在化する。"
     },
     {
       "source": "hn",
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "url": "https://github.com/tailscale/tailcat",
-      "time_iso": "2026-08-27T02:42:22+09:00",
-      "excerpt": "486 points ・ 91 comments",
-      "trend_score": 0.8,
-      "title_ja": "Tailscaleのネットワークをベースとしたセキュアなncクローンツール",
-      "impact": "Tailscaleの安全なプライベートネットワーク上でコマンドラインツールを利用可能にする組み合わせが、リモート開発環境の強化に貢献しうる。"
+      "title": "Bootstrappable Builds: How and Why",
+      "url": "https://lwn.net/Articles/1088279/",
+      "time_iso": "2026-08-28T12:02:42+09:00",
+      "excerpt": "19 points ・ 3 comments",
+      "trend_score": 0.2667,
+      "title_ja": "ブートストラップ可能なビルドの実装方法と意義",
+      "impact": "ビルドプロセスの透明性向上により、ソフトウェアの信頼性とセキュリティが強化される。"
     },
     {
       "source": "hn",
-      "title": "An ongoing 3D-printer AGPL violation",
-      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "time_iso": "2026-08-27T02:41:40+09:00",
-      "excerpt": "311 points ・ 139 comments",
-      "trend_score": 0.4,
-      "title_ja": "3Dプリンタ関連のAGPLライセンス違反問題が継続中",
-      "impact": "オープンソースライセンスの実装要件が物理デバイスメーカーに与える法的・商業的影響が可視化される。"
-    },
-    {
-      "source": "hn",
-      "title": "U.S. State Department pauses immigrant visa applications",
-      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-      "time_iso": "2026-08-27T02:22:16+09:00",
-      "excerpt": "291 points ・ 395 comments",
+      "title": "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
+      "url": "https://github.com/IndexFlowing/IndexFlow-core",
+      "time_iso": "2026-08-28T11:46:39+09:00",
+      "excerpt": "10 points ・ 5 comments",
       "trend_score": 0.1333,
-      "title_ja": "米国務省が移民ビザ申請受付を一時停止",
-      "impact": "米国の移民政策の急激な変化が、国際的な人材流動と技術産業に直結した影響をもたらす可能性がある。"
+      "title_ja": "Rust製のオープンソースインデックスシステム「IndexFlow」",
+      "impact": "Rust採用により、高速で安全なインデックス管理基盤が実現され、検索性能が向上する。"
+    },
+    {
+      "source": "hn",
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "time_iso": "2026-08-28T11:03:38+09:00",
+      "excerpt": "200 points ・ 88 comments",
+      "trend_score": 0.4667,
+      "title_ja": "トランプ政権によるAnthropicの違法な取引制限を裁判所が認定",
+      "impact": "AI企業への政治的圧力に対する司法判断が示され、企業の法的保護が強化される可能性がある。"
     },
     {
       "source": "tc",
-      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
-      "time_iso": "2026-08-27T02:01:05+09:00",
-      "excerpt": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the bo",
+      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+      "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+      "time_iso": "2026-08-28T11:02:44+09:00",
+      "excerpt": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, a",
+      "trend_score": 1.0,
+      "impact": "VC向けのネットワーキングイベントで、AI分野の最新動向とビジネス機会が共有される。",
+      "title_ja": "StrictlyVCが9月10日にニューヨークでAIと選手をテーマに開催"
+    },
+    {
+      "source": "hn",
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "time_iso": "2026-08-28T10:57:26+09:00",
+      "excerpt": "82 points ・ 34 comments",
+      "trend_score": 0.0667,
+      "title_ja": "Stripeが500億ドルのPayPal買収を断念",
+      "impact": "大型M&A中止により、決済業界の競争構造に変化が生じ、独立系企業の影響力が増す。"
+    },
+    {
+      "source": "itm",
+      "title": "「週刊ダイヤモンド」紙の発行終了　114年目で幕　完全デジタル化へ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000883/",
+      "time_iso": "2026-08-28T10:05:15+09:00",
+      "excerpt": "114年の紙媒体での歴史に幕を閉じる。",
       "trend_score": 0.25,
-      "title_ja": "米当局がNASA等を攻撃した中国ボットネットのドメイン押収",
-      "impact": "米政府機関へのサイバー攻撃インフラを実質的に無力化し、国家レベルの攻撃抑止と対中関係に影響をもたらす。"
+      "impact": "114年続いた紙媒体の経済誌が完全デジタル化することで、メディア産業の構造転換が加速する。"
     },
     {
-      "source": "tc",
-      "title": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
-      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-      "time_iso": "2026-08-27T02:00:00+09:00",
-      "excerpt": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.",
+      "source": "itm",
+      "title": "R-18ゲームをiPhoneでも……DMM GAMES、iOS向け独自ストアを31日に公開",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000881/",
+      "time_iso": "2026-08-28T09:49:50+09:00",
+      "excerpt": "App Storeを介さずにゲームアプリをインストールできる「代替マーケットプレイス」」で、R-18版タイトルも配信するのが特徴だ。",
       "trend_score": 0.1667,
-      "title_ja": "Capital Fが女性経済市場向けファンド初号で約17億円調達",
-      "impact": "女性をターゲットとした市場セグメントへの機関投資が本格化し、ヘルステック等の新興市場が成長局面へ入る可能性がある。"
+      "impact": "DMMが独自のApp Store代替を開く動きで、ゲーム配信のプラットフォーム多様化が促進される可能性がある。"
+    },
+    {
+      "source": "itm",
+      "title": "キオクシアとSanDisk、日本に約5兆円投資へ　フラッシュメモリ増産　政府の支援前提",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000879/",
+      "time_iso": "2026-08-28T09:11:09+09:00",
+      "excerpt": "「高市政権が掲げる経済政策目標に沿った投資」としており、政府からの支援が前提だ。",
+      "trend_score": 0.0833,
+      "impact": "キオクシアとSanDiskが5兆円投資で日本への生産集約を計画し、半導体サプライチェーン再構築が進む。"
+    },
+    {
+      "source": "hn",
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "time_iso": "2026-08-28T09:06:51+09:00",
+      "excerpt": "60 points ・ 14 comments",
+      "trend_score": 0.6667,
+      "title_ja": "AIエージェントを科学研究ワークフローで評価するベンチマーク",
+      "impact": "科学研究におけるAIエージェント活用の可能性を測定でき、実験自動化が前進する指標となる。"
     },
     {
       "source": "tc",
-      "title": "Apple is holding its iPhone launch event on September 9",
-      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
-      "time_iso": "2026-08-27T01:53:07+09:00",
-      "excerpt": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus ",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "time_iso": "2026-08-28T08:16:45+09:00",
+      "excerpt": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "trend_score": 0.9167,
+      "impact": "大手AI企業が技術カンファレンスで最新成果を発表することで、業界の技術トレンドが示される。",
+      "title_ja": "AnthropicとOpenAIがTechCrunch Disrupt 2026のAIステージに参加"
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "time_iso": "2026-08-28T07:10:47+09:00",
+      "excerpt": "128 points ・ 24 comments",
+      "trend_score": 0.8667,
+      "title_ja": "懐かしの名作ゲーム「Tie Fighter」と「X-Wing Alliance」が現代的に復刻",
+      "impact": "クラシックゲームの最新OS対応により、レトロゲーム資産の継承と新規プレイヤー獲得が実現する。"
+    },
+    {
+      "source": "hn",
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "time_iso": "2026-08-28T06:46:39+09:00",
+      "excerpt": "78 points ・ 9 comments",
+      "trend_score": 0.3333,
+      "title_ja": "Google Colabで使えるRAG・エージェント・評価ツール無料公開",
+      "impact": "Googleのツール統合により、高度なAI開発が低コストで始められる環境が整備される。"
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "time_iso": "2026-08-28T06:18:35+09:00",
+      "excerpt": "148 points ・ 26 comments",
+      "trend_score": 0.4,
+      "title_ja": "複数AIモデル統合プラットフォーム「OpenRouter」をオープン化",
+      "impact": "複数の生成AIを統合利用できることで、開発者の選択肢が増え、ベンダーロックインが低減する。"
+    },
+    {
+      "source": "tc",
+      "title": "Rivian’s CFO is leaving the company",
+      "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+      "time_iso": "2026-08-28T05:23:10+09:00",
+      "excerpt": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+      "trend_score": 0.8333,
+      "impact": "Rivianの財務責任者交代により、経営体制の変化と経営方針への影響が注視される。",
+      "title_ja": "Rivianの最高財務責任者が退職を発表"
+    },
+    {
+      "source": "tc",
+      "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+      "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+      "time_iso": "2026-08-28T05:15:26+09:00",
+      "excerpt": "Sometimes people just want to post to their followers, Bluesky says.",
+      "trend_score": 0.75,
+      "impact": "SNSプラットフォームがバイラル化の抑制機能を提供することで、利用者の自主性が尊重される。",
+      "title_ja": "Blueskyがバイラル拡散を避ける機能を追加"
+    },
+    {
+      "source": "tc",
+      "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+      "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+      "time_iso": "2026-08-28T05:04:26+09:00",
+      "excerpt": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-of",
+      "trend_score": 0.6667,
+      "impact": "Meta和解に児童データ活用が含まれることで、子ども保護とAI学習の相反性が浮き彫りになる。",
+      "title_ja": "Metaの180億ドル和解に子どもデータ利用の法的免除が含まれる"
+    },
+    {
+      "source": "tc",
+      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+      "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+      "time_iso": "2026-08-28T04:54:28+09:00",
+      "excerpt": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one",
+      "trend_score": 0.5833,
+      "impact": "YouTubeがAmazon連携を強化することで、動画クリエイターの直接的な収益化経路が拡大する。",
+      "title_ja": "YouTubeがクリエイターのAmazon商品タグ付けと販売手数料を開始"
+    },
+    {
+      "source": "tc",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "time_iso": "2026-08-28T04:52:52+09:00",
+      "excerpt": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "trend_score": 0.5,
+      "impact": "AI企業の経営人事交代は業界内の人材流動とビジネス方針の変化を示す重要な指標である。",
+      "title_ja": "Barret ZophがThinking Machines共同創業者からGoogle入社へ"
+    },
+    {
+      "source": "hn",
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "time_iso": "2026-08-28T03:03:42+09:00",
+      "excerpt": "220 points ・ 65 comments",
+      "trend_score": 0.6,
+      "title_ja": "Googleが新型音声書き起こしAI「Gemini-3.5-Transcribe」発表",
+      "impact": "高精度な音声認識により、多言語対応や字幕生成などのコンテンツ制作効率が向上する可能性がある。"
+    },
+    {
+      "source": "tc",
+      "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
+      "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+      "time_iso": "2026-08-28T02:54:23+09:00",
+      "excerpt": "The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its cybersecurity.",
+      "trend_score": 0.4167,
+      "impact": "米政府機関への大規模サイバー攻撃は、公的機関のセキュリティ脅威が深刻化していることを示す。",
+      "title_ja": "ATFがランサムウェア集団によるハッキングで重大事態を宣言"
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "time_iso": "2026-08-28T02:43:24+09:00",
+      "excerpt": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that t",
+      "trend_score": 0.3333,
+      "impact": "大手IT企業が協調してAIのセキュリティ対策を求めることで、業界基準の策定が進む可能性がある。",
+      "title_ja": "OpenAIら100社以上が危険なAIから防衛する行動を呼びかけ"
+    },
+    {
+      "source": "hn",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "time_iso": "2026-08-28T02:17:57+09:00",
+      "excerpt": "642 points ・ 197 comments",
+      "trend_score": 1.0,
+      "title_ja": "Cloudflareが1.1.1.1のDNSキャッシュを最適化し100TB削減",
+      "impact": "大規模DNSサービスのメモリ効率改善により、インフラコスト削減とサービス性能向上が期待できる。"
+    },
+    {
+      "source": "tc",
+      "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
+      "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
+      "time_iso": "2026-08-28T02:05:45+09:00",
+      "excerpt": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
+      "trend_score": 0.25,
+      "impact": "Googleとポケモンの協業により、スマートウェアラブルと既存IPの融合したサービスが拡大する。",
+      "title_ja": "Googleの新型Fitbit Airがポケモンスリープをスマートウォッチに搭載"
+    },
+    {
+      "source": "tc",
+      "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+      "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+      "time_iso": "2026-08-28T02:00:00+09:00",
+      "excerpt": "Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in hig",
+      "trend_score": 0.1667,
+      "impact": "ファッションスタートアップが流通構造を革新することで、消費者の購買選択肢が多様化する。",
+      "title_ja": "Atorie社が950万ドルを調達しラグジュアリー品販売を加速"
+    },
+    {
+      "source": "tc",
+      "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
+      "url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
+      "time_iso": "2026-08-28T01:53:50+09:00",
+      "excerpt": "Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.",
       "trend_score": 0.0833,
-      "title_ja": "Appleが9月9日にiPhone発表会を開催予定、折りたたみ新機種か",
-      "impact": "長年期待された折りたたみiPhoneの市場投入がスマートフォン業界の競争構図を大きく変える可能性がある。"
+      "impact": "ペット向けスマート機器とAI健康管理が組み合わさることで、獣医療の予防医学が前進する可能性がある。",
+      "title_ja": "Hoomanely社がペット用スマートボウルとAIプラットフォームを開発"
+    },
+    {
+      "source": "hn",
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "time_iso": "2026-08-28T00:56:58+09:00",
+      "excerpt": "571 points ・ 256 comments",
+      "trend_score": 0.9333,
+      "title_ja": "小規模AIモデルが本格的に実用段階へ突入",
+      "impact": "小規模モデルの実用化により、エッジデバイスやオンプレミス運用のAI活用が加速する可能性がある。"
+    },
+    {
+      "source": "pk",
+      "title": "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
+      "url": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
+      "time_iso": "2026-08-28T00:55:49+09:00",
+      "excerpt": "DuckDBの開発元であるDuckLabsは、来月（2026年9月）初旬にAWSの子会社となる予定であることを発表しました（DuckLabsの発表。AWSの発表） Today, @ducklabs_com is joining @awscl...",
+      "trend_score": 1.0,
+      "impact": "DuckDBの開発元がAWS傘下になることで、オープンソースDBの企業支援モデルが確立される。"
+    },
+    {
+      "source": "hn",
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "time_iso": "2026-08-27T23:08:18+09:00",
+      "excerpt": "539 points ・ 70 comments",
+      "trend_score": 0.8,
+      "impact": "機械装置の507種類の動作原理をまとめた資料は教育・設計に活用可能な技術的資産である。",
+      "title_ja": "507種類の機械的な動きの紹介と説明"
+    },
+    {
+      "source": "hn",
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "time_iso": "2026-08-27T19:57:56+09:00",
+      "excerpt": "585 points ・ 199 comments",
+      "trend_score": 0.5333,
+      "title_ja": "マイクロダック、不明なプロジェクトが高い関心集める",
+      "impact": "詳細が不明だが、技術コミュニティから多くの質問が寄せられている注目プロジェクトである。"
     },
     {
       "source": "pk",
@@ -283,110 +384,18 @@
       "url": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
       "time_iso": "2026-08-27T00:29:13+09:00",
       "excerpt": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを...",
-      "trend_score": 1.0,
-      "impact": "MCPの新ロードマップ公表により、AIエージェント時代の標準プロトコル確立が進み、互換性向上が促進される。"
+      "trend_score": 0.9167,
+      "impact": "MCPロードマップの更新により、AIエージェント向けのプロトコル標準が本格化する方向が示される。"
     },
     {
       "source": "hn",
-      "title": "GLM-5.3-Flash",
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "time_iso": "2026-08-26T23:08:50+09:00",
-      "excerpt": "897 points ・ 452 comments",
-      "trend_score": 0.8667,
-      "impact": "高速な軽量言語モデルの登場により、エッジデバイスやローコスト環境でのAI活用が拡大する見通しが示される。",
-      "title_ja": "GLM-5.3-Flash は新しい高速処理モデルとして開発されました"
-    },
-    {
-      "source": "hn",
-      "title": "AWS Acquires DuckLabs",
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "time_iso": "2026-08-26T21:59:26+09:00",
-      "excerpt": "976 points ・ 292 comments",
-      "trend_score": 0.6667,
-      "title_ja": "AWSがDuckLabsを買収",
-      "impact": "高性能なOLAPデータベース技術の獲得により、AWSのデータ分析サービス全体の競争力が強化される。"
-    },
-    {
-      "source": "hn",
-      "title": "Qwen3.8-Flash-Next",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "time_iso": "2026-08-26T21:52:12+09:00",
-      "excerpt": "630 points ・ 201 comments",
-      "trend_score": 0.0667,
-      "impact": "新型軽量言語モデルのリリースにより、推論コスト効率を重視する企業ユーザーの選択肢が拡大する。",
-      "title_ja": "Qwen3.8-Flash-Next の最新版が発表されました"
-    },
-    {
-      "source": "itm",
-      "title": "韓国SK Hynix、宮城県に半導体工場の計画浮上　「何か知り得ているものはない」と村井知事",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000820/",
-      "time_iso": "2026-08-26T17:55:22+09:00",
-      "excerpt": "韓国半導体大手SKハイニックスが宮城県にメモリー工場を建設する計画が浮上したことについて、宮城県の村井嘉浩知事は26日の定例記者会見で「いろんな半導体関連企業にアプローチしたのは事実だが、今回の件で県として何か知り得ているものはない」と述べ、今後も動向を注視する考えを示した。",
-      "trend_score": 0.6667,
-      "impact": "韓国大手半導体メーカーの日本工場計画検討により、日本の半導体産業育成と地域経済への投資が加速する可能性がある。"
-    },
-    {
-      "source": "itm",
-      "title": "悪質UIを体験できる「ダークパターン博物館」が話題　解約迷路、偽の閉じるボタンなど　全8種",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000817/",
-      "time_iso": "2026-08-26T17:22:17+09:00",
-      "excerpt": "Webサイトに仕掛けられた悪質なUIデザイン「ダークパターン」を安全に体験できるサイト「ダークパターン博物館」が、Xで話題を集めている。文化祭風の8つの展示を巡り、罠を見破るとスタンプがもらえる仕組みだ。",
-      "trend_score": 0.5833,
-      "impact": "悪質UI設計の体験学習を通じて、ユーザーのデジタルリテラシーが向上し、企業の不正慣行への耐性が強化される。"
-    },
-    {
-      "source": "itm",
-      "title": "「ホロライブ」カードゲームの公式サイトに不正アクセスの痕跡　CMSの脆弱性突かれたか",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000811/",
-      "time_iso": "2026-08-26T17:00:47+09:00",
-      "excerpt": "カバー（東京都港区）が企画・開発するトレーディングカードゲーム「hololive OFFICIAL CARD GAME」の公式サイトは8月25日、第三者による不正アクセスの痕跡が見つかったと発表した。同サイトが利用するコンテンツ管理システム（CMS）の脆弱性が7月17日に公表されたことを受けて調査したところ、判明したと",
-      "trend_score": 0.5,
-      "impact": "CMS脆弱性の悪用によるカードゲームサイト侵害が、ゲーム関連企業のセキュリティ強化の必要性を実証している。"
-    },
-    {
-      "source": "itm",
-      "title": "東京23区で「徒歩10分以内」に駅がない地域はどこ？　駅空白地帯マップが話題",
-      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000759/",
-      "time_iso": "2026-08-26T16:28:28+09:00",
-      "excerpt": "東京23区周辺で「徒歩10分内に駅がない地域」を示した地図が、Xで注目を集めている。統計データの地図表示サービス「47maps」が公式Xアカウントで公開した。",
-      "trend_score": 0.4167,
-      "impact": "駅空白地帯の可視化により、都市計画における交通インフラ整備の不均等が市民に認識され、政策改善への議論が促進される。"
-    },
-    {
-      "source": "itm",
-      "title": "「洋服の青山」初の空調ウェア、自腹レビュー　“きちんと感”なのに涼しい、よく考えられたデザインに驚いた",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000795/",
-      "time_iso": "2026-08-26T16:22:11+09:00",
-      "excerpt": "「洋服の青山」が発売ファン付きウェアを購入して何度か使ってみたところ、とてもよく考えられたデザインに驚いたので報告したい。",
-      "trend_score": 0.3333,
-      "impact": "クールビズ対応のビジネスウェアが実用化により、企業のワークウェア市場での競争が活性化する見通しが示される。"
-    },
-    {
-      "source": "itm",
-      "title": "「ペンギン入りSuicaカード」、在庫限りで販売終了　26年度末に卒業",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000808/",
-      "time_iso": "2026-08-26T16:04:42+09:00",
-      "excerpt": "JR東日本は8月26日、11月に誕生25周年を迎えるSuicaの記念企画を発表した。「Suicaのペンギン」を描いた現行のSuicaカードは、各発売箇所の在庫がなくなり次第、発売を終了。以降は無地のカードを発売する。",
-      "trend_score": 0.25,
-      "impact": "Suicaカードの意匠廃止により、25年続いたブランドアイデンティティの終焉が象徴的に受け止められている。"
-    },
-    {
-      "source": "itm",
-      "title": "法人パソコンにも高騰の波　“中古”の常識を変えた「リファービッシュPC」に企業が熱視線のワケ　VAIOに聞く",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000752/",
-      "time_iso": "2026-08-26T15:19:51+09:00",
-      "excerpt": "物価高を背景に、VAIOのリファービッシュPC「Reborn VAIO」が注目を集めている。企業の調達担当者も頷く、こだわりの仕様とは？　同社Reborn VAIO事業室の花村英樹室長に詳しい話を聞いた。",
-      "trend_score": 0.1667,
-      "impact": "リファービッシュPCの企業導入拡大により、新品PC高騰化への代替手段として法人調達戦略が転換する可能性がある。"
-    },
-    {
-      "source": "itm",
-      "title": "「Microsoft Teams」障害か　朝から「会議に入れない」【復旧】",
-      "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000784/",
-      "time_iso": "2026-08-26T14:37:24+09:00",
-      "excerpt": "午前9時過ぎごろから多くのユーザーが障害を報告しており、10時半時点でも復旧していないようだ。",
-      "trend_score": 0.0833,
-      "impact": "Microsoft Teamsの障害により、クラウド依存の業務環境におけるシステム停止リスクが可視化される。"
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "time_iso": "2026-08-26T20:23:54+09:00",
+      "excerpt": "256 points ・ 511 comments",
+      "trend_score": 0.2,
+      "title_ja": "AIの急速な進化により業界が大きく揺れる時代へ",
+      "impact": "AIの急速な技術進展が社会全体に及ぼす不確実性について、業界全体が議論を深めている。"
     },
     {
       "source": "pk",
@@ -394,8 +403,8 @@
       "url": "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
       "time_iso": "2026-08-26T02:58:38+09:00",
       "excerpt": "Vercelは同社が開発するWebアプリケーションフレームワークの最新版となる「Next.js 16.3」をリリースしました。 Next.jsは、ReactをベースとしたオープンソースのWebアプリケーションフレームワークです。ルーティング...",
-      "trend_score": 0.9167,
-      "impact": "Next.js 16.3のTurbopack最適化により、大規模Webアプリケーション開発の構築時間短縮で開発生産性が大幅に向上する。"
+      "trend_score": 0.8333,
+      "impact": "Next.js 16.3がパフォーマンス大幅改善により、Webアプリケーション開発の生産性向上が期待できる。"
     },
     {
       "source": "pk",
@@ -403,8 +412,8 @@
       "url": "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
       "time_iso": "2026-08-25T00:29:33+09:00",
       "excerpt": "オープンソースとして開発されているOLAPデータベース「DuckDB」の開発を主導しているDuckDB Foundationは、今年の秋にリリース予定の「DuckDB 2.0」にどのような新機能が搭載予定なのかを紹介したブログ「A Prev...",
-      "trend_score": 0.8333,
-      "impact": "DuckDB 2.0のサーバ機能安定化により、OLAPデータベースの実運用導入が加速し、データ分析基盤の民主化が進む。"
+      "trend_score": 0.75,
+      "impact": "DuckDB 2.0の正式リリースで、クライアント・サーバ機能が安定化しエンタープライズ利用が拡大する可能性がある。"
     },
     {
       "source": "pk",
@@ -412,8 +421,8 @@
       "url": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
       "time_iso": "2026-08-24T00:58:41+09:00",
       "excerpt": "サーバサイドJavaScriptランタイムのBunの最新版となる「Bun 1.4」正式版のリリースが発表されました。 Bun 1.4は、これまでZig言語で開発されていたものをClaude Codeを使ってRustに書き直した最初のバージョ...",
-      "trend_score": 0.75,
-      "impact": "Bun 1.4のRust移植によりNode.js互換性向上と性能改善が同時実現され、JavaScriptランタイムの選択肢が拡大する。"
+      "trend_score": 0.6667,
+      "impact": "Bun 1.4がRust移植でNode.js互換性が向上することで、サーバサイドJS実行環境の選択肢が強化される。"
     },
     {
       "source": "pk",
@@ -421,8 +430,8 @@
       "url": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
       "time_iso": "2026-08-24T00:52:28+09:00",
       "excerpt": "Salesforce傘下のSlack社は、同社のチャットサービス「Slack」の新機能として、開発チームの一員としてAIエージェントがチャットに加わり、それまでの開発チームの議論を把握してコーディングを行う「Slack Code」の提供開始...",
-      "trend_score": 0.6667,
-      "impact": "SlackのAIエージェント機能統合により、開発チームのコミュニケーション効率化とAI支援コーディングが一体化する。"
+      "trend_score": 0.5833,
+      "impact": "Slackに統合されたAIエージェント「Slack Code」により、開発チーム内の協業とコーディング効率が革新される。"
     },
     {
       "source": "pk",
@@ -430,8 +439,8 @@
       "url": "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
       "time_iso": "2026-08-21T00:02:15+09:00",
       "excerpt": "Googleは、Dart言語によるアプリケーションフレームワークの最新版「Flutter 3.47」正式リリースを発表しました。 We’ve pieced together something special... Flutter 3.47...",
-      "trend_score": 0.5833,
-      "impact": "FlutterのUI独立アップデート体制により、フレームワークの進化が加速し、開発者体験が向上する可能性がある。"
+      "trend_score": 0.5,
+      "impact": "Flutter 3.47のUIライブラリ独立化により、フレームワーク更新と機能追加の柔軟性が向上する。"
     },
     {
       "source": "pk",
@@ -439,8 +448,8 @@
       "url": "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
       "time_iso": "2026-08-20T02:43:24+09:00",
       "excerpt": "Docker社は独自開発したコンテナ向けの高性能な新ハイパーバイザ「Docker VMM」をパブリックベータとして公開しました。WindowsとmacOSに対応した最新の「Docker Desktop v4.86」で利用可能です。 Toda...",
-      "trend_score": 0.5,
-      "impact": "Docker VMMの高性能化により、コンテナ仮想化の効率が向上し、開発環境とCI/CDの速度改善が実現される。"
+      "trend_score": 0.4167,
+      "impact": "Docker社の新ハイパーバイザが公開されることで、コンテナ仮想化のパフォーマンス競争が活発化する。"
     },
     {
       "source": "pk",
@@ -448,8 +457,8 @@
       "url": "https://www.publickey1.jp/blog/26/pythonmojowindows.html",
       "time_iso": "2026-08-20T00:40:43+09:00",
       "excerpt": "Pythonライクな新言語「Mojo」の開発元であるModular社は、Mojoをオープンソースとして公開したことを、同社主催のイベント「ModCon 2026」で発表しました。 具体的にはMojoのコンパイラとツールチェーンがGitHub...",
-      "trend_score": 0.4167,
-      "impact": "Mojoのオープンソース化により、Pythonに次ぐ言語として高性能コンピューティング領域での選択肢が提供される。"
+      "trend_score": 0.3333,
+      "impact": "Pythonライクな新言語Mojoがオープンソース化されることで、高性能言語の選択肢が増える。"
     },
     {
       "source": "pk",
@@ -457,8 +466,8 @@
       "url": "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
       "time_iso": "2026-08-19T01:03:06+09:00",
       "excerpt": "Cloud Native Computing Foundation（CNCF）は、アプリケーションのソースコードから直接OCIコンテナメージを構築するツールである「Cloud Native Buildpacks」が十分成熟したとして、卒業プ...",
-      "trend_score": 0.3333,
-      "impact": "Cloud Native Buildpacksの卒業プロジェクト化により、Dockerfile不要の標準的なコンテナビルド手法が確立される。"
+      "trend_score": 0.25,
+      "impact": "Cloud Native BuildpacksのCNCF卒業により、Dockerfile不要のコンテナ構築が標準実装になる方向が確定する。"
     },
     {
       "source": "pk",
@@ -466,8 +475,8 @@
       "url": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
       "time_iso": "2026-08-19T00:55:25+09:00",
       "excerpt": "Googleは、完全準同型暗号を利用したAIモデル用のオープンソースコンパイラ「HEIR」を発表しました。 AIモデルをコンパイルする「HEIR」 HEIRはAIモデル用のコンパイラとツールチェーンであり、これを用いて学習済みAIモデルのP...",
-      "trend_score": 0.25,
-      "impact": "Googleの完全準同型暗号AIコンパイラにより、暗号化データ上での機械学習実行が現実化し、プライバシー保護が強化される。"
+      "trend_score": 0.1667,
+      "impact": "GoogleのHEIRコンパイラで完全準同型暗号対応により、プライバシーを保つAI推論が実現可能になる。"
     },
     {
       "source": "pk",
@@ -475,17 +484,8 @@
       "url": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
       "time_iso": "2026-08-19T00:43:29+09:00",
       "excerpt": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
-      "trend_score": 0.1667,
-      "impact": "CursorのOriginサービスにより、AIコーディング時代のGitホスティングが専門化され、開発ワークフローが最適化される。"
-    },
-    {
-      "source": "pk",
-      "title": "事例で学ぶ、SaaSの開発を加速しつつプロダクト品質も引き上げる上手な方法とは？［PR］",
-      "url": "https://www.publickey1.jp/blog/26/saaspr_1.html",
-      "time_iso": "2026-08-18T00:46:49+09:00",
-      "excerpt": ".jetform-wrapper {     border: 2px solid #ccc;   /* 枠線 /     padding: 20px;            / 内側の余白 /     border-radius: 12p...",
       "trend_score": 0.0833,
-      "impact": "SaaSプロダクト開発の品質と効率化事例を学ぶことで、スタートアップの開発戦略改善への実践的知見が提供される。"
+      "impact": "CursorのOriginプラットフォームにより、AIエージェント時代のGit運用モデルが新たに構築される。"
     }
   ],
   "errors": []
