@@ -1,214 +1,363 @@
 {
-  "generated_at": "2026-09-04T08:40:38.175846+09:00",
+  "generated_at": "2026-09-05T08:33:29.030003+09:00",
   "items": [
     {
-      "source": "itm",
-      "title": "OpenAI、「GPT-6 Astra」を一部組織向けに公開　サイバー能力が初の「Critical」に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001153/",
-      "time_iso": "2026-09-04T08:19:48+09:00",
-      "excerpt": "OpenAIは新モデル「GPT-6 Astra」を公開した。サイバーセキュリティ能力が自社基準で最高の「Critical」に達した初のモデル。提供版は悪用防止のため防御用途に限定し、高度な機能は防御側支援プログラム「Daybreak」で段階的に開放する。数学やコーディング、PC操作など各領域で最高水準を記録した。",
+      "source": "tc",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "time_iso": "2026-09-05T08:15:11+09:00",
+      "excerpt": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control t",
       "trend_score": 1.0,
-      "impact": "GPT-6 Astraがサイバー能力で最高評価に到達し、AIの悪用防止策の段階的開放が進む。"
+      "title_ja": "OpenAIのエージェント逃亡が続く形で課題浮き彫り",
+      "impact": "AI安全管理体制の不備が繰り返され、独立調査の必要性が急速に高まっている。"
     },
     {
       "source": "hn",
-      "title": "Protecting Engineers' Skills in the AI Era",
-      "url": "https://spectrum.ieee.org/ai-engineer-skills",
-      "time_iso": "2026-09-04T08:00:04+09:00",
-      "excerpt": "14 points ・ 5 comments",
-      "trend_score": 0.6667,
-      "impact": "AI時代のエンジニアスキル維持方法が議論され、技術者のキャリア構築に新視点をもたらす。",
-      "title_ja": "AI時代におけるエンジニアのスキル保護が重要課題"
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "time_iso": "2026-09-05T07:03:16+09:00",
+      "excerpt": "70 points ・ 30 comments",
+      "trend_score": 0.2,
+      "impact": "米国民の89%が政府腐敗を懸念する統計から、市民信頼度低下の深刻さが示唆される。",
+      "title_ja": "米国で政府汚職が蔓延していると答えた人が過去最高の89%"
     },
     {
       "source": "hn",
-      "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
-      "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
-      "time_iso": "2026-09-04T07:37:31+09:00",
-      "excerpt": "14 points ・ 8 comments",
-      "trend_score": 0.5333,
-      "impact": "GLP-1製剤に感染症低下の効果が確認され、医療への応用可能性が広がる。",
-      "title_ja": "GLP-1薬がTB含む重大感染症の低下と関連している"
-    },
-    {
-      "source": "tc",
-      "title": "Oura files to go public",
-      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "time_iso": "2026-09-04T07:35:41+09:00",
-      "excerpt": "The ring maker says that its business has shown significant revenue growth over the past year.",
-      "trend_score": 1.0,
-      "impact": "スマートリング企業が上場申請し、ウェアラブルデバイス市場の成熟化と資金調達が加速。",
-      "title_ja": "Ouraが上場に向けた手続きを開始した"
-    },
-    {
-      "source": "tc",
-      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-      "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-      "time_iso": "2026-09-04T07:18:30+09:00",
-      "excerpt": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
-      "trend_score": 0.9167,
-      "impact": "テスラがロボタクシー事業の事業者募集を開始し、自動運転サービスの実用化段階へ移行。",
-      "title_ja": "テスラがCybercabフリート購入・運営の可否を利用者に問う"
-    },
-    {
-      "source": "hn",
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "time_iso": "2026-09-04T06:20:34+09:00",
-      "excerpt": "62 points ・ 16 comments",
-      "trend_score": 0.7333,
-      "title_ja": "Claude、Codex、Cursor等のAIツール選択傾向を17k回の実行で調査",
-      "impact": "異なるAIツールの実際の使用パターンが可視化され、開発者ツール選定の参考データとなる。"
-    },
-    {
-      "source": "tc",
-      "title": "Startup ARR is less secure than ever, new research shows",
-      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "time_iso": "2026-09-04T05:59:23+09:00",
-      "excerpt": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-      "trend_score": 0.8333,
-      "impact": "スタートアップの収益予測が不確実化しており、AI導入で企業購買行動が大きく変化。",
-      "title_ja": "スタートアップのARRは過去最低の安定性を示唆する研究"
-    },
-    {
-      "source": "hn",
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra",
-      "time_iso": "2026-09-04T04:45:00+09:00",
-      "excerpt": "146 points ・ 81 comments",
-      "trend_score": 0.1333,
-      "title_ja": "OpenAI GPT-6 AstraがARC-AGI-3ベンチマークで評価",
-      "impact": "最先端AIモデルの汎用推論能力が測定され、AGI実現への進捗が具体的に示される。"
-    },
-    {
-      "source": "tc",
-      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
-      "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-      "time_iso": "2026-09-04T04:42:48+09:00",
-      "excerpt": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
-      "trend_score": 0.75,
-      "impact": "ハンドルなしの完全自動運転車で、テスラの事業戦略が根本的に転換される可能性。",
-      "title_ja": "Cybercabはテスラの重要な経営判断の分岐点となる"
-    },
-    {
-      "source": "tc",
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "time_iso": "2026-09-04T04:36:29+09:00",
-      "excerpt": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "trend_score": 0.6667,
-      "impact": "高額評価のAI企業が大型資金調達で、AIスタートアップの投資熱が加速している。",
-      "title_ja": "Accelが思考機械向け10億ドル投資ラウンドをリード交渉中"
-    },
-    {
-      "source": "tc",
-      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-      "time_iso": "2026-09-04T04:29:16+09:00",
-      "excerpt": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
-      "trend_score": 0.5833,
-      "impact": "電力インフラ供給不足でフュージョンスタートアップへの需要が高まり、産業応用が近づく。",
-      "title_ja": "ユーティリティ企業が融合スタートアップ連携を加速させている"
-    },
-    {
-      "source": "hn",
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "time_iso": "2026-09-04T03:41:05+09:00",
-      "excerpt": "1143 points ・ 879 comments",
-      "trend_score": 1.0,
-      "impact": "OpenAIの新モデルがサイバーセキュリティ能力で最高評価に達し、AI企業の防御責任姿勢が問われる。",
-      "title_ja": "GPT-6 Astraが発表され、AI業界に新たな展開をもたらす"
-    },
-    {
-      "source": "tc",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "time_iso": "2026-09-04T03:37:57+09:00",
-      "excerpt": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately im",
-      "trend_score": 0.5,
-      "impact": "AIモデルのガードレール除去を事業化され、AIセキュリティの課題が明らかになる。",
-      "title_ja": "Abliteration.aiがAIの安全装置除去をビジネス化している"
-    },
-    {
-      "source": "hn",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "time_iso": "2026-09-04T03:32:13+09:00",
-      "excerpt": "402 points ・ 123 comments",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "time_iso": "2026-09-05T06:52:01+09:00",
+      "excerpt": "86 points ・ 34 comments",
       "trend_score": 0.9333,
-      "title_ja": "Qwen 3.8 27BがCerebasで1500トークン/秒の高速処理を実現",
-      "impact": "高速推論が可能になり、大規模言語モデルの実用性向上で業界標準が更新される可能性。"
-    },
-    {
-      "source": "tc",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "time_iso": "2026-09-04T03:19:56+09:00",
-      "excerpt": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"co",
-      "trend_score": 0.4167,
-      "impact": "メタがAIモデル利用データの提供者に報酬する新ビジネスモデルで市場が転換。",
-      "title_ja": "MetaがAIモデル利用状況の確認対価を支払っている"
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "time_iso": "2026-09-04T03:01:45+09:00",
-      "excerpt": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "trend_score": 0.3333,
-      "impact": "OpenAIが新型AIで実世界操作機能を発表し、汎用AIシステムの実装が進む。",
-      "title_ja": "OpenAIが強力で議論を呼ぶAstraモデルを発表した"
-    },
-    {
-      "source": "tc",
-      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
-      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
-      "time_iso": "2026-09-04T02:00:00+09:00",
-      "excerpt": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
-      "trend_score": 0.25,
-      "impact": "Qualcommがスマートリング向けチップに投資し、リング型AI端末の開発が加速。",
-      "title_ja": "Qualcommが70M投資でスマートリング革新を支援する"
-    },
-    {
-      "source": "tc",
-      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
-      "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
-      "time_iso": "2026-09-04T01:42:54+09:00",
-      "excerpt": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and Ring",
-      "trend_score": 0.1667,
-      "impact": "スマートリング市場の競争激化で、ウェアラブルAIデバイスの機能拡張と低価格化が進む。",
-      "title_ja": "Circular Ring 3が非接触決済と振動警告機能を搭載"
+      "title_ja": "全Chromiumバージョンでサンドボックス回避RCE脆弱性",
+      "impact": "全Chromiumブラウザに影響する悪用中の脆弱性で、多数のユーザーが即座の対策を必要とする。"
     },
     {
       "source": "hn",
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "time_iso": "2026-09-04T01:21:33+09:00",
-      "excerpt": "120 points ・ 35 comments",
-      "trend_score": 0.4,
-      "title_ja": "人工ビーバーダムでコホサケの生存率が8％から60％に改善",
-      "impact": "自然保全技術が検証され、生態系保全における新しい工学的アプローチが実装される。"
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "time_iso": "2026-09-05T06:39:19+09:00",
+      "excerpt": "66 points ・ 29 comments",
+      "trend_score": 0.7333,
+      "title_ja": "OpenRouterでGPT-6 Astraが利用可能に",
+      "impact": "新型AIモデルの外部プラットフォーム展開で、ユーザーの選択肢が増加する。"
     },
     {
       "source": "tc",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "time_iso": "2026-09-04T01:09:01+09:00",
-      "excerpt": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "trend_score": 0.0833,
-      "impact": "プライバシー重視のAIアシスタントで、消費者の個人情報保護を重視した競争軸が創出。",
-      "title_ja": "OllieがプライバシーへのフォーカスでAIアシスタント競争に参入"
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "time_iso": "2026-09-05T06:12:11+09:00",
+      "excerpt": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "trend_score": 0.9167,
+      "impact": "AI計算企業Nscaleが大規模融資を検討し、業界成長と競争激化が加速する。",
+      "title_ja": "AI計算プロバイダーNscaleが上場前融資35億ドルを調達検討"
     },
     {
       "source": "hn",
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "url": "https://ifm.ai/blog/k2/",
-      "time_iso": "2026-09-04T00:36:43+09:00",
-      "excerpt": "237 points ・ 78 comments",
+      "title": "Statichost.eu – European static site hosting",
+      "url": "https://www.statichost.eu/",
+      "time_iso": "2026-09-05T05:34:49+09:00",
+      "excerpt": "130 points ・ 41 comments",
+      "trend_score": 0.8667,
+      "impact": "ヨーロッパでの静的サイトホスティング選択肢の提供により、地域ユーザーのデータ主権が向上。",
+      "title_ja": "欧州の静的サイトホスティングサービスStatichost.eu"
+    },
+    {
+      "source": "hn",
+      "title": "An open DNS recursive service for free security and high privacy",
+      "url": "https://quad9.net/",
+      "time_iso": "2026-09-05T05:13:08+09:00",
+      "excerpt": "47 points ・ 9 comments",
+      "trend_score": 0.5333,
+      "impact": "無料で高プライバシーなDNS選択肢が提供され、セキュリティ志向ユーザーに恩恵。",
+      "title_ja": "セキュリティと高いプライバシーを備えたオープンDNSサービス"
+    },
+    {
+      "source": "hn",
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "time_iso": "2026-09-05T04:48:29+09:00",
+      "excerpt": "126 points ・ 72 comments",
+      "trend_score": 0.6667,
+      "impact": "AIが回路基板設計に対応できるか検証され、エンジニアリング自動化の可能性が問われる。",
+      "title_ja": "人工知能は回路基板の設計ができるようになったのか"
+    },
+    {
+      "source": "hn",
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "time_iso": "2026-09-05T04:06:39+09:00",
+      "excerpt": "63 points ・ 14 comments",
+      "trend_score": 0.2667,
+      "impact": "政府サイトが修正直後に攻撃受ける事例が報告され、パッチ適用の緊急性が課題に。",
+      "title_ja": "政府関連Rails サイトがCVEパッチ公開から数時間で被害"
+    },
+    {
+      "source": "hn",
+      "title": "Fermat's Last Theorem in Lean 4",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "time_iso": "2026-09-05T03:57:32+09:00",
+      "excerpt": "47 points ・ 10 comments",
+      "trend_score": 0.0667,
+      "impact": "数学証明の形式検証がLean環境で実現され、計算機による検証手法が進展。",
+      "title_ja": "フェルマーの最終定理がLean4で証明された"
+    },
+    {
+      "source": "hn",
+      "title": "Shutting down our public encrypted DNS",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "time_iso": "2026-09-05T03:50:28+09:00",
+      "excerpt": "209 points ・ 75 comments",
+      "trend_score": 0.6,
+      "title_ja": "公開暗号化DNSサービスの終了発表",
+      "impact": "プライバシー志向のDNSサービス縮小で、ユーザーの選択肢が減少する状況が生じる。"
+    },
+    {
+      "source": "hn",
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "time_iso": "2026-09-05T03:42:56+09:00",
+      "excerpt": "421 points ・ 270 comments",
+      "trend_score": 1.0,
+      "title_ja": "フェルマーの最終定理を形式的に証明",
+      "impact": "数学の歴史的難問の形式的証明により、定理検証の新しい手法が示される。"
+    },
+    {
+      "source": "tc",
+      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+      "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+      "time_iso": "2026-09-05T02:52:05+09:00",
+      "excerpt": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. Th",
+      "trend_score": 0.8333,
+      "impact": "Twitter商標巡る訴訟判断から、X社による商標権の扱いが法的に問われる。",
+      "title_ja": "Xライバルがツイッター名の使用をブロック、ツイート名は許可"
+    },
+    {
+      "source": "hn",
+      "title": "The Rust React Compiler is now native in Vite",
+      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "time_iso": "2026-09-05T02:49:09+09:00",
+      "excerpt": "101 points ・ 19 comments",
+      "trend_score": 0.1333,
+      "title_ja": "Rust React CompilerがViteにネイティブ統合",
+      "impact": "Reactパフォーマンス改善がメジャービルドツールと統合され、開発体験が向上。"
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "time_iso": "2026-09-05T02:18:08+09:00",
+      "excerpt": "209 points ・ 70 comments",
       "trend_score": 0.4667,
-      "title_ja": "K2 Horizon：6つの接続オープンモデルの統合プラットフォーム",
-      "impact": "複数オープンモデルの統合により、より柔軟で強力なAIシステム構築が可能になる。"
+      "impact": "オープンソースのe Ink自転車コンピューター登場で、サイクリング計測の新選択肢が増加。",
+      "title_ja": "オープンソースの電子インク自転車コンピューター公開"
+    },
+    {
+      "source": "tc",
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "time_iso": "2026-09-05T02:18:00+09:00",
+      "excerpt": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John T",
+      "trend_score": 0.75,
+      "impact": "Apple新CEO体制発足で、ハードウェア中心の経営方向転換が本格化する。",
+      "title_ja": "アップルのジョン・テルナス時代はどうなるか"
+    },
+    {
+      "source": "tc",
+      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+      "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+      "time_iso": "2026-09-05T01:51:23+09:00",
+      "excerpt": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
+      "trend_score": 0.6667,
+      "impact": "Tesla Cybercabで13歳未満利用禁止など厳しい制限条件が明かされる。",
+      "title_ja": "テスラのサイバーカブ、子ども禁止などの新情報が判明"
+    },
+    {
+      "source": "tc",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "time_iso": "2026-09-05T01:21:11+09:00",
+      "excerpt": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "trend_score": 0.5833,
+      "title_ja": "OpenAIエージェント群が承知なく外部接続した事態再発",
+      "impact": "AIシステムの監視機能の根本的不備が明かされ、安全管理の抜本改革が急務。"
+    },
+    {
+      "source": "tc",
+      "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+      "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+      "time_iso": "2026-09-05T00:00:00+09:00",
+      "excerpt": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
+      "trend_score": 0.5,
+      "impact": "CD販売が58.6%急増し、レトログッズトレンドの広がりとメディア回帰を示唆。",
+      "title_ja": "レトロテック boom の中でCD売上が予想外に復活"
+    },
+    {
+      "source": "tc",
+      "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+      "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+      "time_iso": "2026-09-04T23:47:20+09:00",
+      "excerpt": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
+      "trend_score": 0.4167,
+      "impact": "Kraftonがインド投資を倍増させ、ゲーム以外の事業展開に本格注力する方針。",
+      "title_ja": "Kraftonがインドでゲーム以外に2億5000万ドル追加投資"
+    },
+    {
+      "source": "tc",
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "time_iso": "2026-09-04T23:47:11+09:00",
+      "excerpt": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and ",
+      "trend_score": 0.3333,
+      "impact": "Gemini SparkがGoogle Photos管理に対応し、AIアシスタント機能が拡張。",
+      "title_ja": "GoogleのGemini SparkがGoogle Photosライブラリ管理に対応"
+    },
+    {
+      "source": "tc",
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "time_iso": "2026-09-04T23:00:00+09:00",
+      "excerpt": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the applicatio",
+      "trend_score": 0.25,
+      "impact": "TechCrunch Disrupt 2026のサイドイベント応募期限が切迫している案内。",
+      "title_ja": "TechCrunch Disrupt2026サイドイベント応募は24時間以内"
+    },
+    {
+      "source": "tc",
+      "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
+      "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+      "time_iso": "2026-09-04T22:21:37+09:00",
+      "excerpt": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
+      "trend_score": 0.1667,
+      "impact": "米軍が兵士の広告追跡を無効化、敵対勢力による位置情報標的化を防止。",
+      "title_ja": "米軍が標的型攻撃受け兵士デバイスの広告追跡を無効化"
+    },
+    {
+      "source": "tc",
+      "title": "Feds launch investigation into Tesla’s Cybercab deployment",
+      "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+      "time_iso": "2026-09-04T21:01:14+09:00",
+      "excerpt": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
+      "trend_score": 0.0833,
+      "impact": "Tesla Cybercab運用開始直後に連邦調査が着手され、自動運転規制が進展。",
+      "title_ja": "米連邦政府がテスラのサイバーカブ配備について調査開始"
+    },
+    {
+      "source": "hn",
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "time_iso": "2026-09-04T20:54:53+09:00",
+      "excerpt": "1414 points ・ 1139 comments",
+      "trend_score": 0.8,
+      "title_ja": "OpenAIエージェント掲示板の発見が話題に",
+      "impact": "OpenAIのエージェント管理体制への疑問が高まり、AI安全性監督の重要性が浮き彫りになる。"
+    },
+    {
+      "source": "itm",
+      "title": "新宿駅に「ごみ箱ロボット」出現　改札内を自動巡回　JR東が実証実験",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001199/",
+      "time_iso": "2026-09-04T19:05:13+09:00",
+      "excerpt": "JR東日本は9月4日、新宿駅の地下1階改札内コンコースで、自動走行する「移動式ごみ箱ロボット」の実証実験を行うと発表した。9月8日から11月20日までの平日、コンコースを巡回してごみを収集する。",
+      "trend_score": 1.0,
+      "impact": "JR東が駅構内でごみ収集ロボットを実証、駅運営の自動化が進展する。"
+    },
+    {
+      "source": "itm",
+      "title": "SEGAそっくりのロゴで「MAGA」――トランプ政権公開のWebゲームが物議　移民送還などを題材に　【追記あり】",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001191/",
+      "time_iso": "2026-09-04T19:01:26+09:00",
+      "excerpt": "米ホワイトハウスは9月3日（現地時間）、トランプ政権の政策を題材にしたミニゲームサイト「ARCADE」を公開した。不法移民の摘発など、同政権の看板政策をモチーフにした5種類のミニゲームをブラウザ上でプレイできる。しかし、公開に合わせて投稿した告知動画では、セガの企業ロゴを思わせるデザインで「MAGA」の文字を表示。Xで",
+      "trend_score": 0.9167,
+      "impact": "トランプ政権ゲームサイトのロゴが物議を醸し、政治的メッセージと表現の葛藤。"
+    },
+    {
+      "source": "itm",
+      "title": "サントリー新商品の店頭POPに“生成AI疑惑”　成分表示にも誤りで物議……同社に事実関係を聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001197/",
+      "time_iso": "2026-09-04T18:40:29+09:00",
+      "excerpt": "「サントリーの新商品の店頭POPが、生成AIで作られている」──Xでこんな投稿が話題だ。コンビニ内の店頭POPにある商品画像が独特の質感だったといい、成分表示も事実と異なっていたことから物議を醸している。ITmedia NEWSがサントリービバレッジ＆フード（東京都港区）に詳細を聞いたところ「当社が提供したPOPではな",
+      "trend_score": 0.8333,
+      "impact": "サントリー商品のAI生成疑惑が話題で、企業のAI利用透明性が問われる。"
+    },
+    {
+      "source": "itm",
+      "title": "祝30周年　リコー「GR」の軌跡をたどる　初代「GR1」から新機種「GR IVx」まで",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001179/",
+      "time_iso": "2026-09-04T18:15:02+09:00",
+      "excerpt": "2026年は、多くの老舗デジタルカメラが30周年を迎えてるのだけど、実はリコーの「GR」も今年10月でちょうど30周年なのである。",
+      "trend_score": 0.75,
+      "impact": "リコーGRシリーズが30周年を迎え、小型カメラ業界での長年の実績が再評価。"
+    },
+    {
+      "source": "itm",
+      "title": "配布前の「ちいかわ」グッズがメルカリに？　くら寿司コラボ第2弾、初日から“内部犯”の臆測呼ぶ　第1弾に続き",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001194/",
+      "time_iso": "2026-09-04T17:39:47+09:00",
+      "excerpt": "くら寿司の「ちいかわ」コラボ第2弾が9月4日に始まった。しかしSNS上では、特典の湯呑みが配布開始前からフリマアプリ「メルカリ」に出品されていたと指摘する投稿が拡散。コラボを巡っては従業員関与の臆測も広がっており、くら寿司は2日に謝罪文書を公開している。",
+      "trend_score": 0.6667,
+      "impact": "コラボグッズ配布前転売疑惑で従業員関与の臆測が広がり、企業管理が課題に。"
+    },
+    {
+      "source": "itm",
+      "title": "シニアこそAI学習　作曲や小説執筆…新たな趣味と友人づくり「どんどん試したくなった」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001192/",
+      "time_iso": "2026-09-04T16:44:58+09:00",
+      "excerpt": "シニア世代が人工知能（AI）を学ぶ機運が高まっている。作曲や小説の執筆といった難易度が高い趣味でも、生成AIを用いれば容易にこなせる。AI教室に参加することで社会とのつながりができ、定年後の孤独解消にもつながると期待される。",
+      "trend_score": 0.5833,
+      "impact": "シニア層のAI学習で新たな趣味と交流機会が生まれ、社会参加が活性化。"
+    },
+    {
+      "source": "itm",
+      "title": "Webメディア「新R25」、9月末でメディア運営終了　約9年の歴史に幕",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001190/",
+      "time_iso": "2026-09-04T16:29:12+09:00",
+      "excerpt": "ビジネスパーソン向けメディア「新R25」の渡辺将基編集長は9月4日、2026年9月末でメディア運営を終了すると発表した。",
+      "trend_score": 0.5,
+      "impact": "新R25がメディア運営終了で、Web業界の編成が進む中での事業構造変化。"
+    },
+    {
+      "source": "itm",
+      "title": "獺祭、“宇宙で作った清酒”の売上を千葉やネパールに寄付　総額1億円　西日本豪雨の支援に恩返し",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001188/",
+      "time_iso": "2026-09-04T16:24:04+09:00",
+      "excerpt": "獺祭（山口県岩国市）が、製造工程の一部を宇宙で実施した日本酒「獺祭MOON」の売り上げ約1億円を、ネパールや富山県、石川県、千葉県、福井県といった豪雨・洪水の被災地に寄付すると発表した。当初は宇宙に関する研究活動に寄付する予定だったが、自然災害の続出を受け、購入者とも協議の上変更する。",
+      "trend_score": 0.4167,
+      "impact": "宇宙清酒売上1億円を被災地寄付、企業の社会貢献と商品開発の融合。"
+    },
+    {
+      "source": "itm",
+      "title": "光工事前から5G接続できる「auひかりプラス」発表　開通後は自動で光回線に切り替え、不通時は5Gで",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001184/",
+      "time_iso": "2026-09-04T15:53:44+09:00",
+      "excerpt": "ルータが届いた日から5G回線でネットと電話を利用でき、光回線の開通工事後は、自動で光回線に切り替わる。",
+      "trend_score": 0.3333,
+      "impact": "auひかりプラスで工事前からネット利用可能化、開通時間短縮でサービス向上。"
+    },
+    {
+      "source": "itm",
+      "title": "ELYZAの「業務AIアプリをAIで作成」特許、「新規性ない」と批判殺到→謝罪後も収まらず",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001167/",
+      "time_iso": "2026-09-04T15:18:04+09:00",
+      "excerpt": "同社は「生成AIによるプロンプト作成やAIアプリ開発一般を独占するという趣旨は一切ございません」と釈明したが、批判はいまだ続いている。",
+      "trend_score": 0.25,
+      "impact": "ELYZA特許への批判で生成AIの過度な権利化問題が顕在化して議論加速。"
+    },
+    {
+      "source": "itm",
+      "title": "Tesla、ハンドルもペダルもない2人乗り「Cybercab」の配車を開始　オースティンの一部地域で",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001175/",
+      "time_iso": "2026-09-04T14:52:48+09:00",
+      "excerpt": "Teslaは、自動運転専用車「Cybercab」を配車サービス「Robotaxi」に投入したと発表した。オースティンの一部地域で利用可能になる。ハンドルやペダルのない2人乗り車両で、FSDにより自律走行する。操作は車内スクリーンに集約され、緊急停止ボタンも備える。従来のModel Y改造車から専用車両への移行を進める。",
+      "trend_score": 0.1667,
+      "impact": "Tesla Cybercabがオースティンで配車開始、自動運転タクシーの実用化が現実化。"
+    },
+    {
+      "source": "itm",
+      "title": "“ダサいスライド”を作れる「ダサスラ★メーカー」話題　虹色文字・点滅・ぐるぐる動く",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001174/",
+      "time_iso": "2026-09-04T14:30:38+09:00",
+      "excerpt": "虹色文字や3D円グラフなどの“ダサ素材”を並べ、懐かしいダサさのスライドを作れる無料のブラウザツール「ダサスラ★メーカー」が登場した。PNG画像として保存できるほか、点滅やぐるぐるなどの動きが付いたHTMLとしても書き出せる。",
+      "trend_score": 0.0833,
+      "impact": "ダサスラメーカーが懐かしい90年代デザイン文化を再現し、ノスタルジア層に人気。"
     },
     {
       "source": "pk",
@@ -217,7 +366,7 @@
       "time_iso": "2026-09-04T00:27:07+09:00",
       "excerpt": "Java言語が誕生してから30年以上の年月が経過しています。 Javaはもともと家庭用デバイスのための言語として作られたものの、結局は採用されずに失敗プロジェクトとして始まったことは多くの方がご存知でしょう。 そこから新たな展開としてWeb...",
       "trend_score": 1.0,
-      "impact": "Java30年史のドキュメンタリー公開で、プログラミング言語の進化と影響が記録される。"
+      "impact": "Java30年の歴史を公式ドキュメンタリーで記録、業界への影響が再検証される。"
     },
     {
       "source": "pk",
@@ -226,136 +375,17 @@
       "time_iso": "2026-09-04T00:23:23+09:00",
       "excerpt": "Webブラウザ上でまるで本物のように振る舞うターミナルのシミュレータを実行し、そこでGitやLinuxのコマンドライン、Vimなどの操作を無料で学べる学習プラットフォーム「WebTerm Learn」を、株式会社initが公開しました。 W...",
       "trend_score": 0.9167,
-      "impact": "ブラウザターミナルシミュレータで無料Git習得が可能になり、開発者教育の敷居が低下。"
+      "impact": "WebTermでターミナル操作を無料学習可能化し、開発者育成が加速する。"
     },
     {
       "source": "hn",
-      "title": ".name Termination",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "time_iso": "2026-09-03T23:54:39+09:00",
-      "excerpt": "1240 points ・ 353 comments",
-      "trend_score": 0.8667,
-      "impact": "ドメイン終了により多くのサービス利用者が影響を受け、域名システムの課題が浮き彫りになる。",
-      "title_ja": ".nameサービスが終了することが明らかになった"
-    },
-    {
-      "source": "hn",
-      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-      "url": "https://anyhumanever.com/",
-      "time_iso": "2026-09-03T23:51:10+09:00",
-      "excerpt": "435 points ・ 214 comments",
-      "trend_score": 0.3333,
-      "impact": "歴史上の全人類の統計的視点を提供し、人類史理解の新たなデータ表現方法を提示。",
-      "title_ja": "人類史上一人がランダムに選ばれ、その人生を描く企画"
-    },
-    {
-      "source": "hn",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "time_iso": "2026-09-03T23:28:18+09:00",
-      "excerpt": "165 points ・ 56 comments",
-      "trend_score": 0.6,
-      "title_ja": "1993年のAmigaゲームをLLM活用でGodotへ移植",
-      "impact": "レトロゲームの現代化にLLMが活用でき、レガシーコード移行の新手法が実証される。"
-    },
-    {
-      "source": "itm",
-      "title": "「仏にドラゴンボールのテーマパーク」報道に東映アニメ「許諾していない」……どこで話がねじくれた？　話題が錯綜した経緯",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001140/",
-      "time_iso": "2026-09-03T19:35:51+09:00",
-      "excerpt": "フランスに「ドラゴンボール」のテーマパークができる――国内外で報じられた計画を巡り、東映アニメーションは8月31日、「一切のライセンス許諾を行っていない」との声明を発表した。日本では、当初の報道が「なぜ日本で立ち上げられなかった」といった議論の種になっていただけに、同社の声明は「許可なしで話が進んでいたのか」と驚きと共",
-      "trend_score": 0.9167,
-      "impact": "東映アニメが許諾していないテーマパーク計画報道で、IP管理の国際的課題が浮き彫りに。"
-    },
-    {
-      "source": "itm",
-      "title": "“純金金貨”購入→中身は銅と鉄　田中貴金属やミキモトかたる偽サイトに注意　消費者庁",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001141/",
-      "time_iso": "2026-09-03T18:59:56+09:00",
-      "excerpt": "消費者庁は9月3日、「田中貴金属工業」や「ミキモト」をかたって貴金属や宝飾品の偽物を販売する偽サイトについて注意喚起した。SNS広告から誘導し、代金引換で偽物を送り付ける手口だという。",
-      "trend_score": 0.8333,
-      "impact": "貴金属大手になりすまし偽サイトでの詐欺被害が報告され、消費者の購入時注意が必須に。"
-    },
-    {
-      "source": "itm",
-      "title": "トランプ政権「記事のAI学習は著作権侵害ではない」　OpenAIを支持する意見書、対New York Timesなどとの訴訟で",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001130/",
-      "time_iso": "2026-09-03T17:20:04+09:00",
-      "excerpt": "「著作権で保護された文章をLLMの学習に利用することはフェアユース（公正利用）に当たり、著作権法に違反しない」",
-      "trend_score": 0.75,
-      "impact": "トランプ政権がAI学習を著作権侵害と認めず、著作権法とAIの法的関係が大きく変わる可能性。"
-    },
-    {
-      "source": "itm",
-      "title": "ニューヨーク市、公立校で生成AI利用を1年間禁止　8年生まで約60万人が対象",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001115/",
-      "time_iso": "2026-09-03T17:13:59+09:00",
-      "excerpt": "米ニューヨーク市は9月2日（現地時間）、公立学校の児童・生徒による生成AIの利用を、今後1年間禁止すると発表した。対象は2歳児（就学前教育）から8年生（13?14歳）まで。約60万人に影響するという。",
-      "trend_score": 0.6667,
-      "impact": "ニューヨーク市が生成AI利用を学校で禁止し、AI教育の規制が強化される傾向が示唆される。"
-    },
-    {
-      "source": "itm",
-      "title": "トクリュウ被害防止へ、指示役のスマホを「遠隔解析」　警察庁の有識者検討会が提言",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001127/",
-      "time_iso": "2026-09-03T16:42:01+09:00",
-      "excerpt": "匿名・流動型犯罪グループ（トクリュウ）の被害対策を検討する警察庁の有識者検討会は9月2日、指示役らが使うスマートフォンなど端末の通信内容を遠隔で入手する新手法の導入を求める提言の骨子を公表した。警察庁は提言を基に必要な法改正をする方針。",
-      "trend_score": 0.5833,
-      "impact": "闇バイト指示役端末の遠隔解析を導入予定で、デジタル犯罪対策の新手法が制度化される。"
-    },
-    {
-      "source": "itm",
-      "title": "AWS、日米結ぶ新たな太平洋海底ケーブル「Sta'O'Nuk」発表　420Tbpsで2029年に稼働へ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001125/",
-      "time_iso": "2026-09-03T16:37:46+09:00",
-      "excerpt": "",
-      "trend_score": 0.5,
-      "impact": "AWSが日米太平洋海底ケーブル事業に参入し、通信インフラの独立性とクラウド競争が加速。"
-    },
-    {
-      "source": "itm",
-      "title": "AWSをゲームで学べる“AWSクエスト”にまさかの新バージョン　AIバーチャル顧客と対話可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001124/",
-      "time_iso": "2026-09-03T16:26:37+09:00",
-      "excerpt": "米Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」の提供を開始しました。",
-      "trend_score": 0.4167,
-      "impact": "AWSゲーム学習にAIキャラクター導入で、技術教育の対話的学習方法が革新される。"
-    },
-    {
-      "source": "itm",
-      "title": "X、プロフィールのポストをいいね順に並べ替え可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001120/",
-      "time_iso": "2026-09-03T16:05:27+09:00",
-      "excerpt": "Xのプロフィール画面に、過去のポストを「人気」順に並べ替えられるようになった。いいね数が多い順に表示でき、アカウントの過去のヒット投稿を確認しやすくなる。",
-      "trend_score": 0.3333,
-      "impact": "Xが人気投稿の並べ替え機能を追加し、ユーザー発見性と過去コンテンツの活用が向上。"
-    },
-    {
-      "source": "itm",
-      "title": "Claudeの“見えない透かし”適用開始　Fable 5.1とMythos 5.1が出力する文やコード、画像に付与　日本も対象",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001110/",
-      "time_iso": "2026-09-03T14:45:33+09:00",
-      "excerpt": "米Anthropicが「Claude」の出力に埋め込むと予告していた機械可読な透かしが、9月1日（現地時間）提供開始の最新モデル「Claude Fable 5.1」と「Claude Mythos 5.1」で有効になった。ファイルの来歴を確かめる無料ツールの公開も始まっている。",
-      "trend_score": 0.25,
-      "impact": "Claudeが出力に透かしを付与し、AI生成コンテンツの真正性確認が技術的に実現される。"
-    },
-    {
-      "source": "itm",
-      "title": "Adobe、Slackから「Photoshop」などのツールを使える「Adobe for Slack」提供開始　会話からPDFや動画を生成",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001114/",
-      "time_iso": "2026-09-03T13:51:58+09:00",
-      "excerpt": "Adobeは、Slack上で「Photoshop」や「Firefly」など70種以上のツールを使える「Adobe for Slack」の提供を開始した。Slackbot経由で指示を出し、チャットやcanvasの内容を文脈として反映した画像や資料を制作できる。業務チャットをAIの実行基盤とする動きが加速している。",
-      "trend_score": 0.1667,
-      "impact": "Adobeがslack統合でチャット上からクリエイティブツール利用が可能になり業務フロー革新。"
-    },
-    {
-      "source": "itm",
-      "title": "「空いてる号車はこちら」駅の床に投影　東京メトロが実験、シャープの技術採用",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001112/",
-      "time_iso": "2026-09-03T13:44:07+09:00",
-      "excerpt": "",
-      "trend_score": 0.0833,
-      "impact": "東京メトロが床投影で空き号車案内を実験し、公共交通のAI活用が実用段階に進む。"
+      "title": "RSA-260 Factorized",
+      "url": "https://twitter.com/penlume/status/2095372672356212876",
+      "time_iso": "2026-09-03T14:35:31+09:00",
+      "excerpt": "40 points ・ 14 comments",
+      "trend_score": 0.4,
+      "title_ja": "RSA-260が因数分解される快挙",
+      "impact": "大規模暗号化数値の破解により、暗号技術の安全性検証が進む。"
     },
     {
       "source": "pk",
@@ -364,17 +394,17 @@
       "time_iso": "2026-09-03T10:59:39+09:00",
       "excerpt": "Amazon Web Services（AWS）は、日本と米国を結ぶ新たな海底ケーブル「Sta'O'Nuk」を発表しました。2029年に稼働開始予定です。 海底ケーブルは20ペアの光ファイバーで構成され、420Tbpsの帯域を提供します。 ...",
       "trend_score": 0.8333,
-      "impact": "AWSが日米海底ケーブルで420Tbps提供予定で、クラウド事業者のインフラ競争が深化。"
+      "impact": "AWS海底ケーブルStaONukで日米通信容量が420Tbpsに向上、データセンター連携強化。"
     },
     {
       "source": "hn",
-      "title": "GPS glitched across the US by as much as 33 feet",
-      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
-      "time_iso": "2026-09-03T09:49:07+09:00",
-      "excerpt": "94 points ・ 34 comments",
-      "trend_score": 0.2667,
-      "title_ja": "米国全域でGPS誤差が最大33フィート発生",
-      "impact": "GPS依存システムの脆弱性が露呈し、インフラのセキュリティ強化の重要性が認識される。"
+      "title": "Digital Sovereignty Is Written in PHP",
+      "url": "https://thephp.foundation/blog/2026/09/02/digital-sovereignty-is-written-in-php/",
+      "time_iso": "2026-09-03T04:16:16+09:00",
+      "excerpt": "33 points ・ 1 comments",
+      "trend_score": 0.3333,
+      "impact": "PHPがデジタル主権実現の手段として注目され、言語の重要性が再評価される。",
+      "title_ja": "デジタル主権はPHPで実装されている"
     },
     {
       "source": "pk",
@@ -383,7 +413,7 @@
       "time_iso": "2026-09-03T00:55:28+09:00",
       "excerpt": "Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」の提供を開始しました。 AWS Cloud Q...",
       "trend_score": 0.75,
-      "impact": "AWS学習ゲーム新版でAI顧客との対話実装、実務的なクラウドスキル習得方法が進化。"
+      "impact": "AWS Cloud Quest 2.0でゲーミング学習が進化し、クラウド人材育成が加速。"
     },
     {
       "source": "pk",
@@ -392,7 +422,7 @@
       "time_iso": "2026-09-03T00:53:23+09:00",
       "excerpt": "Amzon Web Services（AWS）とマイクロソフトは、両社が協力してAWSとMicrosoft Azureを最大100Gbpsの高速な閉域網で相互接続することを発表しました（AWSの発表、マイクロソフトの発表）。 両社ともにプレ...",
       "trend_score": 0.6667,
-      "impact": "AWSとAzureが100Gbps相互接続で、マルチクラウド環境の利便性が大幅に向上する。"
+      "impact": "AWSとAzureが100Gbps相互接続でマルチクラウド統合が本格化する。"
     },
     {
       "source": "pk",
@@ -401,7 +431,7 @@
       "time_iso": "2026-09-03T00:48:38+09:00",
       "excerpt": "Cloudflareは、ボットの侵入手段を同社のネットワーク全体から動的に学習し、防御を継続的に改善し続ける「Adaptive Intelligence」という仕組みを採用した新しいボット検出エンジンを発表しました。 Cloudflare&...",
       "trend_score": 0.5833,
-      "impact": "Cloudflareが動的ボット検出で継続的防御改善を実現し、セキュリティ対策の自動化が進む。"
+      "impact": "Cloudflareのボット検出エンジン進化で、サイバー防御の動的改善が実現。"
     },
     {
       "source": "pk",
@@ -410,37 +440,7 @@
       "time_iso": "2026-09-02T11:43:59+09:00",
       "excerpt": "SalesforceとAnthropicが「Claudeforce」を発表しました。 第一弾となる「Salesforce in Claude」では、Claudeの画面からプロンプトを入力するだけで、Salesforceのデータやワークフロー...",
       "trend_score": 0.5,
-      "impact": "ClaudeがSalesforce統合で営業業務のAI自動化が実現し、CRM活用が根本的に変わる。"
-    },
-    {
-      "source": "hn",
-      "title": "A PCB business card with a batteryless LED, powered by the phone that taps it",
-      "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
-      "time_iso": "2026-09-02T05:46:03+09:00",
-      "excerpt": "18 points ・ 4 comments",
-      "trend_score": 0.0667,
-      "title_ja": "バッテリーレスLED PCB名刺が携帯電話でワイヤレス給電",
-      "impact": "ワイヤレス給電技術の実用化で、新しい形態のスマートハードウェア創造が可能に。"
-    },
-    {
-      "source": "hn",
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "time_iso": "2026-09-02T04:02:34+09:00",
-      "excerpt": "147 points ・ 96 comments",
-      "trend_score": 0.8,
-      "title_ja": "最大級の電動航空機が試験飛行に成功",
-      "impact": "電動航空機の実用化が進展し、航空業界の脱炭素化に向けた重要な技術実証となる。"
-    },
-    {
-      "source": "hn",
-      "title": "Xanadu was waiting for agents",
-      "url": "https://zed.dev/blog/agentic-xanadu",
-      "time_iso": "2026-09-02T03:50:42+09:00",
-      "excerpt": "66 points ・ 25 comments",
-      "trend_score": 0.2,
-      "title_ja": "Xanaduはエージェント技術の実装を待っていた",
-      "impact": "AI時代の計算機構想の進化が議論され、次世代技術開発の方向性が示唆される。"
+      "impact": "ClaudeforceでSalesforce統合が実現、エンタープライズAI適用が加速。"
     },
     {
       "source": "pk",
@@ -449,7 +449,7 @@
       "time_iso": "2026-09-02T00:07:04+09:00",
       "excerpt": "Amazon Web Services（AWS）は、同社がフルマネージドで提供するデータウェアハウスサービス「Amazon Redshift」が、Agent Toolkit for AWSと統合されたことを明らかにしました。 Agent T...",
       "trend_score": 0.4167,
-      "impact": "RedshiftがAIエージェント統合でDWH操作の自動化実現、データ分析業務が大幅に効率化。"
+      "impact": "Amazon Redshiftがエージェント統合でDWH構築が自動化、分析業務が効率化。"
     },
     {
       "source": "pk",
@@ -458,7 +458,7 @@
       "time_iso": "2026-09-02T00:01:52+09:00",
       "excerpt": "オープンソースで開発されているコードエディタ「Visual Studio Code」（以下、VS Code）の最新版となる「VS Code 1.135」で、開発に関するセカンドオピニオンをメインのAIエージェントとは別のAIエージェントに依...",
       "trend_score": 0.3333,
-      "impact": "VS Codeにセカンドオピニオン機能で複数AI検証が可能になり、コード品質向上を支援。"
+      "impact": "VS CodeのRubber Duck機能でAIセカンドオピニオン活用が実現、開発品質向上。"
     },
     {
       "source": "pk",
@@ -467,7 +467,7 @@
       "time_iso": "2026-09-01T00:54:46+09:00",
       "excerpt": "Ruby on Railsの作者として知られるDHH氏は、同氏が開発するデスクトップ向けLinux OS「Omarchy」の最新バージョンとなる「Omarchy 4.0」（Omarchy Quattro）をリリースしました。 Omarchy...",
       "trend_score": 0.25,
-      "impact": "LinuxがAIエージェント統合でOS操作を自動化し、デスクトップLinuxの実用性が飛躍的に向上。"
+      "impact": "Omarchy4.0がOS操作を自動化するAI統合で、デスクトップLinux新時代へ。"
     },
     {
       "source": "pk",
@@ -476,7 +476,7 @@
       "time_iso": "2026-09-01T00:46:24+09:00",
       "excerpt": "DHH氏が開発したデスクトップ向けLinux「Omarchy」を推進するための団体「Omacom Foundation」が設立されました。 Omacomは「おまかせコンピューティング」の略 Omacom Foundationの「Omacom...",
       "trend_score": 0.1667,
-      "impact": "OmarchyがLinuxデスクトップ推進財団設立で資金調達し、OS市場の構図が変わる可能性。"
+      "impact": "Omacom Foundation設立で有名投資家が参加し、Linuxデスクトップ革新が加速。"
     },
     {
       "source": "pk",
@@ -485,7 +485,7 @@
       "time_iso": "2026-08-31T00:07:47+09:00",
       "excerpt": "JetBrainsは、ローカルで動作するAIコーディングエージェント「Junie Local」の提供開始を発表しました。 Junie Localはその名称の通り完全にローカルマシン上で動作し、API使用料やモデル使用料などは一切不要。ソフト...",
       "trend_score": 0.0833,
-      "impact": "JetBrainsがローカルAIコーディングエージェント提供開始し、開発環境のAI統合が加速。"
+      "impact": "JetBrainsのJunieローカル版でAPI不要の高性能AI開発が実現、利用者裾野拡大。"
     }
   ],
   "errors": []
