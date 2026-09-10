@@ -1,245 +1,373 @@
 {
-  "generated_at": "2026-09-10T08:39:40.611053+09:00",
+  "generated_at": "2026-09-11T08:33:12.323191+09:00",
   "items": [
     {
       "source": "tc",
-      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
-      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "time_iso": "2026-09-10T08:14:29+09:00",
-      "excerpt": "Mullenweg said in a company Slack message that it was against his will.",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "Google、フィンランドに過去最大の約2.3兆円投資　AIデータセンター増設や原発電力調達へ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001345/",
-      "time_iso": "2026-09-10T08:01:19+09:00",
-      "excerpt": "Googleは、2027年から2年間でフィンランドのデジタルインフラに過去最大規模となる130億ユーロ（約2兆3000億円）超を投資すると発表した。4地域でデータセンターを新設・拡張し、原発からの長期電力調達契約も締結。地域熱供給や再エネ活用、地域社会への資金拠出や人材育成も進める。",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "「めっちゃカメレオン」Switch 2版発売　2人で開発したインディゲー、3カ月で到達",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001344/",
-      "time_iso": "2026-09-10T07:54:48+09:00",
-      "excerpt": "6月10日にSteam（PC）向けに発売してからわずか3カ月でSwitch 2版の配信に至った。",
-      "trend_score": 0.9167
+      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+      "time_iso": "2026-09-11T07:30:00+09:00",
+      "excerpt": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+      "trend_score": 1.0,
+      "title_ja": "Thrive Capitalが主導するVC企業のプロスポーツ進出加速",
+      "impact": "Collaborative Fundがプロスポーツチーム投資に本格参入することで、VCのスタートアップ連携プレイが拡大。"
     },
     {
       "source": "tc",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "time_iso": "2026-09-10T07:25:22+09:00",
-      "excerpt": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "itm",
-      "title": "新型iPhone「高すぎ」「買えない」悲鳴……1台約22?57万円　「換算レート円安すぎ」の声も",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001343/",
-      "time_iso": "2026-09-10T07:04:45+09:00",
-      "excerpt": "「iPhone18」シリーズが発表されたが「高すぎて買えない」「『Duo』36万超えエグい」「うちの冷蔵庫より高い」といった声がXにあふれている。",
-      "trend_score": 0.8333
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "time_iso": "2026-09-11T06:51:59+09:00",
+      "excerpt": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "trend_score": 0.9167,
+      "title_ja": "NvidiaのCEOが2025年の70%成長を予測",
+      "impact": "多岐にわたるビジネス領域での需要見通しの強気姿勢により、AI関連投資への期待が高まる。"
     },
     {
       "source": "tc",
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "time_iso": "2026-09-10T06:43:34+09:00",
-      "excerpt": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "trend_score": 0.8333
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "time_iso": "2026-09-11T06:35:00+09:00",
+      "excerpt": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "trend_score": 0.8333,
+      "impact": "有名人がテクノロジー起業家の視点から経営と投資について議論する機会を創出。",
+      "title_ja": "マーク・ウォールバーグがTechCrunch Disrupt 2026に登壇予定"
     },
     {
-      "source": "itm",
-      "title": "Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001342/",
-      "time_iso": "2026-09-10T06:26:33+09:00",
-      "excerpt": "Anthropicの研究幹部2人が、超知能開発への危機感を訴えて退社した研究員の主張に同意する見解を個人として投稿した。10年以内に人類が滅亡する確率を10％超と試算する声や、堅牢な安全制御手法がないまま開発競争が続いている実態を指摘し、減速の必要性を改めて訴えている。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "itm",
-      "title": "「iPhone 18」シリーズ徹底比較　「17」シリーズとの違いをチェック",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001341/",
-      "time_iso": "2026-09-10T06:23:21+09:00",
-      "excerpt": "米Appleが「iPhone 18 Pro」「iPhone 18 Pro Max」を発表した。6.3インチのProと6.9インチのPro Maxの2機種で、今年はいわゆる“無印”モデルの発表がない異例のラインアップとなった。予約注文は9月12日午後9時から、発売は9月18日。従来モデルの「iPhone 17 Pro」「",
-      "trend_score": 0.6667
+      "source": "hn",
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "time_iso": "2026-09-11T06:22:59+09:00",
+      "excerpt": "117 points ・ 113 comments",
+      "trend_score": 0.4,
+      "title_ja": "OpenAIがNavier-Stokes方程式の形式証明をLean 4で公開",
+      "impact": "数学証明のAI活用と形式検証の進展により、数学研究の信頼性向上に貢献する。"
     },
     {
       "source": "tc",
-      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-      "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
-      "time_iso": "2026-09-10T05:58:09+09:00",
-      "excerpt": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
-      "trend_score": 0.75
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "time_iso": "2026-09-11T05:59:51+09:00",
+      "excerpt": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "trend_score": 0.75,
+      "title_ja": "OpenAIがAstra需要によりPro購読の新規受付を一時停止",
+      "impact": "AIモデルへの需要急増がサービス供給の逼迫を招き、インフラ拡張が急務となる。"
+    },
+    {
+      "source": "tc",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "time_iso": "2026-09-11T05:57:30+09:00",
+      "excerpt": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as compet",
+      "trend_score": 0.6667,
+      "title_ja": "中国のAI企業による蒸留攻撃がAnthropicから報告される",
+      "impact": "中国企業によるモデル蒸留の加速が報告され、AI知的財産保護の課題が浮上する。"
+    },
+    {
+      "source": "tc",
+      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+      "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+      "time_iso": "2026-09-11T05:48:00+09:00",
+      "excerpt": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. ",
+      "trend_score": 0.5833,
+      "title_ja": "シリコンバレーを離れたFuro創業者が資金調達成功",
+      "impact": "テック人材の地域分散とドイツなどでのスタートアップ成功が、イノベーションの多拠点化を示唆。"
+    },
+    {
+      "source": "hn",
+      "title": "Bodily Oddities",
+      "url": "https://vester.si/bodily-oddities/",
+      "time_iso": "2026-09-11T05:33:11+09:00",
+      "excerpt": "34 points ・ 25 comments",
+      "trend_score": 0.1333,
+      "impact": "人体の科学的な知見を啓発する記事。",
+      "title_ja": "人体の珍しい特徴や奇妙な現象を紹介"
+    },
+    {
+      "source": "tc",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "time_iso": "2026-09-11T04:50:04+09:00",
+      "excerpt": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "trend_score": 0.5,
+      "title_ja": "MetaのAIエージェント「Muse」が米国で2番目に人気のアプリに",
+      "impact": "Meta AIの市場浸透が進み、AI主導型アプリケーションの商用化モデルが実証される。"
+    },
+    {
+      "source": "hn",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "time_iso": "2026-09-11T04:44:15+09:00",
+      "excerpt": "50 points ・ 36 comments",
+      "trend_score": 0.5333,
+      "title_ja": "ステガノグラフィ活用のオープンソース認証技術",
+      "impact": "Appleの認証方式をオープンソース化することで、業界標準としての普及と応用が進む可能性。"
+    },
+    {
+      "source": "hn",
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "time_iso": "2026-09-11T04:43:22+09:00",
+      "excerpt": "78 points ・ 57 comments",
+      "trend_score": 0.8,
+      "title_ja": "OpenAI Agents APIが発表される",
+      "impact": "エージェント型AIを開発者が活用できるようになり、AI導入の自動化が加速する可能性。"
+    },
+    {
+      "source": "hn",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "time_iso": "2026-09-11T04:34:20+09:00",
+      "excerpt": "37 points ・ 7 comments",
+      "trend_score": 0.8667,
+      "title_ja": "Deathray: Mac端末を意図的にフリーズさせる脆弱性",
+      "impact": "信頼できないウェブサイトがMacを無応答状態にできる問題が発見され、セキュリティ対策が急務。"
+    },
+    {
+      "source": "tc",
+      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+      "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+      "time_iso": "2026-09-11T03:38:00+09:00",
+      "excerpt": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, whi",
+      "trend_score": 0.4167,
+      "title_ja": "Proxima Fusionが欧州での超電導テープ製造に140M€投資",
+      "impact": "融合炉用部材の国産化により、欧州のエネルギー自給率向上と産業競争力が強化される。"
+    },
+    {
+      "source": "tc",
+      "title": "Amazon makes it easier to buy what you see on Prime Video",
+      "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+      "time_iso": "2026-09-11T03:10:36+09:00",
+      "excerpt": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ra",
+      "trend_score": 0.3333,
+      "impact": "Prime Videoとショッピング連携の強化により、動画視聴をきっかけにした購買体験が向上。",
+      "title_ja": "アマゾンがプライムビデオで見た商品の購入を簡単に"
+    },
+    {
+      "source": "tc",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "time_iso": "2026-09-11T02:54:44+09:00",
+      "excerpt": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "trend_score": 0.25,
+      "title_ja": "AI不正アクセスがCAPTCHA突破に苦戦する様子が判明",
+      "impact": "AI時代のセキュリティ対策がCAPTCHAに頼る現状の課題が浮き彫りになり、新対策の開発が急務。"
+    },
+    {
+      "source": "tc",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "time_iso": "2026-09-11T02:45:00+09:00",
+      "excerpt": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "trend_score": 0.1667,
+      "title_ja": "インドのPocket FMが売上3倍化、AI音声コンテンツが93%",
+      "impact": "AIによるコンテンツ制作の低コスト化が新興国での大規模展開を可能にし、デジタルメディアの再編を加速。"
+    },
+    {
+      "source": "hn",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "time_iso": "2026-09-11T02:14:12+09:00",
+      "excerpt": "138 points ・ 63 comments",
+      "trend_score": 0.4667,
+      "impact": "21世紀の音楽教育向けリソースの提供により、デジタル時代の教育方法の革新が進む。",
+      "title_ja": "21世紀の教室向けの音楽理論解説書"
+    },
+    {
+      "source": "tc",
+      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
+      "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
+      "time_iso": "2026-09-11T01:31:25+09:00",
+      "excerpt": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
+      "trend_score": 0.0833,
+      "impact": "タグ付き投稿をプロフィール管理する新機能でユーザーの表現の自由度が向上。",
+      "title_ja": "インスタグラムがタグ付き投稿をプロフィール追加可能に"
+    },
+    {
+      "source": "hn",
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "time_iso": "2026-09-11T00:57:40+09:00",
+      "excerpt": "139 points ・ 51 comments",
+      "trend_score": 0.3333,
+      "title_ja": "Forgejoに深刻なRCE脆弱性が発見される",
+      "impact": "バージョン16.0.3以下が攻撃リスクを抱えており、利用者の緊急なアップデートが必須。"
+    },
+    {
+      "source": "hn",
+      "title": "Neki – Sharded Postgres",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "time_iso": "2026-09-11T00:43:49+09:00",
+      "excerpt": "188 points ・ 97 comments",
+      "trend_score": 0.2,
+      "title_ja": "Neki: Postgresのシャーディング実装",
+      "impact": "Postgresのスケーラビリティがシャーディングにより向上し、大規模データ処理の新選択肢が増える。"
+    },
+    {
+      "source": "pk",
+      "title": ".NET 11リリース候補版が登場。.NETランタイムが非同期ネイティブ対応、プロセッサ数の上限がなくなる、AOTコンパイラによるネイティブバイナリの高速化など",
+      "url": "https://www.publickey1.jp/blog/26/net_11netaot.html",
+      "time_iso": "2026-09-11T00:42:50+09:00",
+      "excerpt": "マイクロソフトは同社の包括的なアプリケーションフレームワークの次期版となる「.NET 11」の最初のリリース候補版となる「.NET 11 Release Candidate 1」を発表しました。 〰️ SAVE THE DATE 〰️.NE...",
+      "trend_score": 1.0,
+      "title_ja": ".NET 11 RC1がリリース、非同期ネイティブ対応など新機能搭載",
+      "impact": "非同期実行とプロセッサスケーラビリティ向上により、大規模アプリケーション開発の効率が大幅改善。"
+    },
+    {
+      "source": "hn",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "time_iso": "2026-09-11T00:29:47+09:00",
+      "excerpt": "337 points ・ 140 comments",
+      "trend_score": 0.7333,
+      "title_ja": "Cognitionが新型SWE-2モデルを発表",
+      "impact": "高性能なコード生成AIが登場し、ソフトウェア開発の効率化とAI競争が一層激化する。"
+    },
+    {
+      "source": "hn",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "time_iso": "2026-09-11T00:29:30+09:00",
+      "excerpt": "245 points ・ 35 comments",
+      "trend_score": 0.6,
+      "title_ja": "衛星写真操作技術が古い画像復元を可能に",
+      "impact": "過去の衛星画像復元が可能になることで、考古学や環境調査などの新たな応用が期待される。"
+    },
+    {
+      "source": "hn",
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "time_iso": "2026-09-11T00:27:22+09:00",
+      "excerpt": "262 points ・ 216 comments",
+      "trend_score": 0.6667,
+      "impact": "ケーブルの管理と保存の重要性を啓発し、デジタル環境での備品管理への関心が高まる。",
+      "title_ja": "ケーブルの大切な箱は誰にも取られるな"
+    },
+    {
+      "source": "hn",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "time_iso": "2026-09-10T23:09:31+09:00",
+      "excerpt": "677 points ・ 449 comments",
+      "trend_score": 1.0,
+      "title_ja": "ShopifyがReact NativeからSwiftとKotlinへ移行",
+      "impact": "モバイル開発戦略の転換により、アプリのパフォーマンスと保守性の向上が期待される。"
     },
     {
       "source": "itm",
-      "title": "iPhone 18シリーズ発表、今年はPro・Pro Maxのみ　なんと“無印”なし　価格は21万9800円から【更新終了】",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001336/",
-      "time_iso": "2026-09-10T05:44:42+09:00",
-      "excerpt": "米Appleは9月9日（現地時間）、iPhoneの最新モデル「iPhone 18」シリーズを発表した。",
-      "trend_score": 0.5833
+      "title": "GMOの世界ロボット運動会出場、言い出しっぺは新卒1年目の社員？　プロジェクト統括までしていた",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001384/",
+      "time_iso": "2026-09-10T18:49:11+09:00",
+      "excerpt": "世界最大規模のヒト型ロボット運動会への出場を提案し、プロジェクトを統括したのは、新卒1年目の社員だった――。GMO AI&ロボティクス商事（東京都渋谷区）は9月8日、8月に中国・北京で開催された「第2回 世界ヒューマノイド運動会」への出場結果を報告した。発案者はこの春、GMOインターネットグループに入社したばかりの廣本",
+      "trend_score": 1.0,
+      "impact": "新卒社員の提案から実行までの迅速な意思決定体制が大規模プロジェクトの成功につながった事例。"
     },
     {
       "source": "itm",
-      "title": "Apple、既存iPhoneを値上げ　17は14万2800円→15万9800円から　Airや17eも",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001340/",
-      "time_iso": "2026-09-10T05:31:39+09:00",
-      "excerpt": "米Appleは9月9日（現地時間）、国内のApple Storeで既存のiPhoneシリーズを値上げした。値上げ幅はモデルや容量によって1万2000円?4万7000円となる。Apple WatchやAirPodsなどの価格は、現時点では変更していない。なお、同社は同日、新シリーズ「iPhone 18 Pro」と「iPh",
-      "trend_score": 0.5
+      "title": "「婚活・恋活」にAI活用、20歳から39歳男女の3分の2　「模擬問答」で客観的意見求める",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001385/",
+      "time_iso": "2026-09-10T18:16:59+09:00",
+      "excerpt": "20?39歳の男女の3人に2人が、結婚や恋愛の相手を探すための活動「婚活・恋活」に、AIを利用しているー。そんな調査結果が公表された。悩みを打ち明ける相手として「AIは友人より相談しやすい」という人が85.7％にのぼった。AIが恋愛においても存在感を高めている様子が浮き彫りとなった。",
+      "trend_score": 0.9167,
+      "impact": "20～39歳の約3分の2がAIに恋愛相談する実態が明らかになり、AI活用の生活浸透が加速。"
     },
     {
-      "source": "tc",
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "time_iso": "2026-09-10T05:24:48+09:00",
-      "excerpt": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about co",
-      "trend_score": 0.6667
+      "source": "itm",
+      "title": "「AI社員」活用、NECは無人部署・DeNAには17体　南場社長「けなげ」と太鼓判",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001380/",
+      "time_iso": "2026-09-10T17:47:19+09:00",
+      "excerpt": "IT大手が人工知能（AI）に一般社員と同じ権限を付与して業務を任せる「AI社員」の活用に乗り出している。NECは8月にAIだけで運営する無人部署を新設。DeNAも6月からAI社員を配属した。AIによる効率化で、社員を付加価値の高い業務に配置転換するとともに、実績を基にAI社員のサービス展開を視野に入れる。",
+      "trend_score": 0.8333,
+      "impact": "大手IT企業がAI社員に従業員と同等の権限を付与し、実運用で効率化を実証している。"
     },
     {
-      "source": "tc",
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "time_iso": "2026-09-10T05:03:43+09:00",
-      "excerpt": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-      "trend_score": 0.5833
+      "source": "itm",
+      "title": "スーパーでおなじみ「呼び込み君」に新型　26年越しの“新曲”も配信",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001376/",
+      "time_iso": "2026-09-10T17:12:07+09:00",
+      "excerpt": "群馬電機は、販促用音声POP「呼び込み君」のリニューアル商品「もっと！呼び込み君」を9月17日に発売する。microSDカードに入れたオリジナル音源を再生できるようになった。",
+      "trend_score": 0.75,
+      "impact": "販促ツールが26年ぶりに進化し、カスタマイズ性向上でニーズへの対応が柔軟化する。"
     },
     {
-      "source": "tc",
-      "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
-      "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
-      "time_iso": "2026-09-10T04:56:18+09:00",
-      "excerpt": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
-      "trend_score": 0.5
+      "source": "itm",
+      "title": "新しいiPhoneバカ高いんだが？　令和の日本人には厳しい件",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001357/",
+      "time_iso": "2026-09-10T17:05:35+09:00",
+      "excerpt": "ギリギリゆとり世代のITmedia NEWS副編集長・ヤマーと、ギリギリZ世代の編集部員・ヨシが、ネットやITの話題について取りとめもなく語る雑談コーナー。今回のテーマは新型の「iPhone 18」。寝不足の頭で新製品を振り返ります。",
+      "trend_score": 0.6667,
+      "impact": "最新iPhoneの高価格が日本の消費者購買力に与える影響について検証。"
+    },
+    {
+      "source": "hn",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "time_iso": "2026-09-10T15:49:43+09:00",
+      "excerpt": "580 points ・ 583 comments",
+      "trend_score": 0.9333,
+      "title_ja": "研究者のOpenAIへの信頼性に関する懸念が再浮上",
+      "impact": "未発表の数学研究がAIに利用される可能性について、学界での信頼問題が深刻化する可能性がある。"
     },
     {
       "source": "itm",
       "title": "「iPhone Duo」発表　Apple初の折りたたみスマホ　36万4800円から",
       "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001335/",
-      "time_iso": "2026-09-10T04:55:34+09:00",
+      "time_iso": "2026-09-10T15:40:47+09:00",
       "excerpt": "米Appleは9月9日（現地時間）、同社初の折りたたみスマートフォン「iPhone Duo」を発表した。閉じれば5.4インチ、開けばiPhone史上最大の7.6インチの2画面構成。価格は36万4800円からで、10月23日に発売する。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "time_iso": "2026-09-10T04:21:48+09:00",
-      "excerpt": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "Apple Watch’s new feature listens to your chats and recaps them",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
-      "time_iso": "2026-09-10T04:08:59+09:00",
-      "excerpt": "The Siri Recap feature is similar to other note-taking apps like Granola.",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-      "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-      "time_iso": "2026-09-10T03:34:24+09:00",
-      "excerpt": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "time_iso": "2026-09-10T03:16:29+09:00",
-      "excerpt": "The update uses Apple Intelligence to make better sense of your health data.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "hn",
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "time_iso": "2026-09-10T03:15:43+09:00",
-      "excerpt": "784 points ・ 1551 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "tc",
-      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-      "time_iso": "2026-09-10T03:08:46+09:00",
-      "excerpt": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details fr",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "Apple Watch Series 12",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "time_iso": "2026-09-10T02:56:17+09:00",
-      "excerpt": "188 points ・ 213 comments",
-      "trend_score": 0.4667
+      "trend_score": 0.5833,
+      "impact": "Apple初の折りたたみスマートフォン参入により、フォルダブル市場が主流化へ向かう可能性。"
     },
     {
       "source": "itm",
-      "title": "「AirPods 5」登場　ノイキャン性能向上、従来比でノイズを50％除去　2万3800円から",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001339/",
-      "time_iso": "2026-09-10T02:53:15+09:00",
-      "excerpt": "米Appleは9月9日（現地時間）、オープンイヤーイヤフォンの新モデル「AirPods 5」を発表した。ノイズキャンセル性能を向上し、従来モデル比でノイズを50％除去できるようになったほか、Siri AIへのハンズフリーアクセス、Apple Intelligenceによるリアルタイム翻訳などを提供する。",
-      "trend_score": 0.3333
+      "title": "iPhone 18シリーズ発表、今年はPro・Pro Maxのみ　なんと“無印”なし　価格は21万9800円から",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001336/",
+      "time_iso": "2026-09-10T15:37:13+09:00",
+      "excerpt": "米Appleは9月9日（現地時間）、iPhoneの最新モデル「iPhone 18」シリーズを発表した。",
+      "trend_score": 0.5,
+      "impact": "無印モデル廃止によりProラインアップの統合が進み、iPhone戦略が上位機種集約へシフト。"
     },
     {
-      "source": "hn",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "time_iso": "2026-09-10T02:39:24+09:00",
-      "excerpt": "345 points ・ 282 comments",
-      "trend_score": 0.8
+      "source": "itm",
+      "title": "Apple Watchに新型「Series 12」「Ultra 4」登場　心拍数を1日中測定、体調を0?10で採点する機能も",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001366/",
+      "time_iso": "2026-09-10T15:08:07+09:00",
+      "excerpt": "米Appleが9月9日（現地時間）、「Apple Watch Series 12」と上位モデル「Apple Watch Ultra 4」を発表した。2機種とも心拍センサーを刷新し、一日を通して5秒ごとに心拍数を測る。体調を0～10で示す新機能「準備度」も搭載した。9月18日に発売し、価格はSeries 12が7万180",
+      "trend_score": 0.4167,
+      "impact": "心拍センサーの刷新と新機能搭載により、ウェアラブルの健康管理機能が飛躍的に向上。"
     },
     {
-      "source": "hn",
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "time_iso": "2026-09-10T02:33:20+09:00",
-      "excerpt": "243 points ・ 255 comments",
-      "trend_score": 0.7333
+      "source": "itm",
+      "title": "「ポートピア連続殺人事件」完全新作　ファミコン版フルリメイク＋新シナリオ　堀井雄二総監督",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001361/",
+      "time_iso": "2026-09-10T14:00:58+09:00",
+      "excerpt": "ファミコン版のフルリメイクに、新たに5つの捜査ファイルを追加する。",
+      "trend_score": 0.3333,
+      "impact": "懐かしい名作推理ゲームが完全新作化され、昭和レトロゲームの現代化トレンドが進行。"
     },
     {
-      "source": "hn",
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "time_iso": "2026-09-10T02:24:28+09:00",
-      "excerpt": "157 points ・ 64 comments",
-      "trend_score": 0.4
+      "source": "itm",
+      "title": "さくら不正アクセス　ハッシュ化されていない初期パスワード漏えいの可能性、レンタルサーバとVPSの一部契約者で",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001360/",
+      "time_iso": "2026-09-10T13:36:08+09:00",
+      "excerpt": "「さくらのレンタルサーバ」の一部の初期サーバパスワードと「さくらのVPS」の一部の管理者初期パスワードがハッシュ化されていなかったことを新たに公表した。これらが第三者に閲覧・取得された可能性がある。",
+      "trend_score": 0.25,
+      "impact": "レンタルサーバの初期パスワードがハッシュ化されていない問題により、顧客の初期セキュリティが脅威。"
     },
     {
-      "source": "hn",
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "time_iso": "2026-09-10T02:14:59+09:00",
-      "excerpt": "166 points ・ 275 comments",
-      "trend_score": 0.6667
+      "source": "itm",
+      "title": "「iPhone Duo」純正ケース話題、「面白いけど高い」……1万4800円と2万4800円",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001355/",
+      "time_iso": "2026-09-10T12:39:55+09:00",
+      "excerpt": "「スタンド付きiPhone Duo Folio（フォリオ）」が2万4800円、スタンドのない「iPhone Duoケース」が1万4800円。SNSでは「機構は面白いけど高いな……」といった感想が出ている。",
+      "trend_score": 0.1667,
+      "impact": "iPhone Duo純正ケースの高価格設定が消費者の購買意欲に影響を与える。"
     },
     {
-      "source": "hn",
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "time_iso": "2026-09-10T00:55:53+09:00",
-      "excerpt": "141 points ・ 47 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "hn",
-      "title": "GNU Radio in the browser",
-      "url": "https://gnuradioworld.com/",
-      "time_iso": "2026-09-10T00:53:06+09:00",
-      "excerpt": "162 points ・ 22 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "No Man's Sky Cosmos",
-      "url": "https://www.nomanssky.com/cosmos-update/",
-      "time_iso": "2026-09-10T00:47:42+09:00",
-      "excerpt": "264 points ・ 273 comments",
-      "trend_score": 0.6
+      "source": "itm",
+      "title": "「ランジェリーパープルじゃない」「買おうと思ってたのに」　iPhone 18 Pro／Pro Maxの色に落胆の声",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001353/",
+      "time_iso": "2026-09-10T11:50:46+09:00",
+      "excerpt": "10日に米Appleが発表したiPhone新モデルの色を巡り、一部SNSで落胆の声が上がっている。リーク情報として発表前にネットに流れた色と微妙に異なる印象だったからだ。",
+      "trend_score": 0.0833,
+      "impact": "iPhone 18 Proの色選定がリーク情報と異なることで、期待値との乖離がユーザー満足度に影響。"
     },
     {
       "source": "pk",
@@ -247,7 +375,9 @@
       "url": "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
       "time_iso": "2026-09-10T00:30:50+09:00",
       "excerpt": "Amazon Web Services（AWS）は、AIがフルスタックのAWSアプリケーションに必要なアプリケーションの基本的なコードに加えて、セキュリティや可観測性などの要件も備えたインフラ構成のコードもまとめて生成してくれるツール「Nx...",
-      "trend_score": 1.0
+      "trend_score": 0.9167,
+      "title_ja": "AWSがAI生成コードツールをオープンソース公開、セキュリティ機能も統合",
+      "impact": "AIがフルスタックAWSアプリのコード生成を一気通貫で行え、開発期間の短縮が実現可能に。"
     },
     {
       "source": "pk",
@@ -255,71 +385,19 @@
       "url": "https://www.publickey1.jp/blog/26/awsamazon_quick.html",
       "time_iso": "2026-09-10T00:27:47+09:00",
       "excerpt": "Amazon Web Services（AWS）は、データ分析プラットフォーム「Amazon Quick」の新機能として、データ分析と表示を行うカスタムアプリケーションを自然言語の指示だけで構築できる新機能を発表しました。 Amazon Q...",
-      "trend_score": 0.9167
+      "trend_score": 0.8333,
+      "title_ja": "AWS QuickSightが自然言語でのデータ分析アプリ構築に対応",
+      "impact": "技術者以外もAIの自然言語指示で分析アプリを構築でき、データ活用の民主化が進む。"
     },
     {
       "source": "hn",
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "time_iso": "2026-09-09T23:37:47+09:00",
-      "excerpt": "323 points ・ 116 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "hn",
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "time_iso": "2026-09-09T22:27:11+09:00",
-      "excerpt": "845 points ・ 336 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "How I advertise malicious software on Google Ads",
-      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-      "time_iso": "2026-09-09T20:43:21+09:00",
-      "excerpt": "342 points ・ 207 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "hn",
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "time_iso": "2026-09-09T20:39:46+09:00",
-      "excerpt": "374 points ・ 88 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "itm",
-      "title": "「ペンギンを返して」→「3匹全部採用して」　批判殺到のSuica新キャラ、ファンアートが空気を変えた？　SNSの声",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001332/",
-      "time_iso": "2026-09-09T20:35:15+09:00",
-      "excerpt": "「だんだん可愛くて見えてきた」――JR東日本が9月8日に公開した「Suicaのペンギン」の後継となる新イメージキャラクター候補3案について、同日夜からX上でファンアートの投稿が相次いでいる。公開直後は否定的な声が多く寄せられていたが、SNSのユーザー達が描いたイラストを通じて「だんだん愛着が湧いてきた」といった反応も見",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ　事務局がAI使用明かす【訂正あり】",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001308/",
-      "time_iso": "2026-09-09T19:57:45+09:00",
-      "excerpt": "鹿児島県指宿市で開催するフルマラソン大会のポスターを巡り、X上で「生成AIで制作したのではないか」との指摘が相次いでいる。公式サイトでは「鹿児島県内でイベントポスター等作品を多数描かれているイラストレーター」が手掛けたとしていたが、大会事務局は9月8日、制作過程で生成AIを利用していたと明らかにし、同サイトの説明も訂正",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "くら寿司、10％割引の“適用漏れ”を謝罪　レシート持参で返金へ　ちいかわコラボのお詫び施策",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001331/",
-      "time_iso": "2026-09-09T19:02:24+09:00",
-      "excerpt": "くら寿司は9月9日、6日と7日に実施した全品10％割引について、一部店舗で割引を適用していなかったと発表した。対象のレシートを持参した客に10％相当額を返金する。",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "time_iso": "2026-09-09T03:11:05+09:00",
-      "excerpt": "319 points ・ 200 comments",
-      "trend_score": 0.8667
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "time_iso": "2026-09-09T23:54:12+09:00",
+      "excerpt": "278 points ・ 214 comments",
+      "trend_score": 0.0667,
+      "title_ja": "日立が太陽光対応CO2ヒートポンプ給湯器を発売",
+      "impact": "再生可能エネルギーと融合したエコ給湯技術の普及により、家庭の省エネ化が加速する。"
     },
     {
       "source": "pk",
@@ -327,7 +405,9 @@
       "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
       "time_iso": "2026-09-09T00:54:55+09:00",
       "excerpt": "Amazon Web Services（AWS）は、AWSに最適化されたLinux OSの4年ぶりとなるメジャーバージョンアップ「Amazon Linux 2027」をパブリックプレビューとしてリリースしました。 現時点の正式版はAmazo...",
-      "trend_score": 0.8333
+      "trend_score": 0.75,
+      "title_ja": "Amazon Linux 2027がプレビュー公開、4年ぶりメジャーバージョンアップ",
+      "impact": "SELinux強制モード対応で標準セキュリティが強化され、AWSベースのインフラ安全性が向上。"
     },
     {
       "source": "pk",
@@ -335,15 +415,19 @@
       "url": "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
       "time_iso": "2026-09-08T23:28:02+09:00",
       "excerpt": "宇宙を舞台にした世界最大級の大規模オンラインゲーム「EVE Online」が、ゲームを支える240万行のPythonコードをPython 3に移行すると発表しました。 We have officially started our codeb...",
-      "trend_score": 0.75
+      "trend_score": 0.6667,
+      "title_ja": "EVE OnlineがPython 2.7からPython 3への240万行コード移行を開始",
+      "impact": "超大規模ゲームの言語刷新が実現可能であることを示し、レガシー現代化の道筋を提示。"
     },
     {
       "source": "hn",
-      "title": "Electrostatic Cathode Ray Tube Project 1 (2014)",
-      "url": "https://labguysworld.com/Project_ESCRTs_001.htm",
-      "time_iso": "2026-09-08T14:25:22+09:00",
-      "excerpt": "7 points ・ 0 comments",
-      "trend_score": 0.2
+      "title": "Recursion into madness",
+      "url": "https://blog.coredump.cx/p/recursion-into-madness",
+      "time_iso": "2026-09-08T06:50:12+09:00",
+      "excerpt": "21 points ・ 4 comments",
+      "trend_score": 0.2667,
+      "impact": "再帰的プログラミングの複雑性について技術的な洞察を提供する。",
+      "title_ja": "再帰処理の複雑性について掘り下げた記事"
     },
     {
       "source": "pk",
@@ -351,7 +435,9 @@
       "url": "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
       "time_iso": "2026-09-08T00:39:27+09:00",
       "excerpt": "HTMLに属性を追加するだけで、Webページにサーバと連動した動的なアプリケーションの機能を追加できるJavaScriptライブラリ「HTMX」の最新バージョンとなる「HTMX 4.0」正式版のリリースが発表されました。 very happ...",
-      "trend_score": 0.6667
+      "trend_score": 0.5833,
+      "title_ja": "HTMX 4.0正式リリース、Fetch APIへの移行とHTMLストリーミング対応",
+      "impact": "内部実装の最新化によりパフォーマンスと機能が向上し、モダンWebアプリ開発がより効率化。"
     },
     {
       "source": "pk",
@@ -359,7 +445,9 @@
       "url": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
       "time_iso": "2026-09-07T00:07:10+09:00",
       "excerpt": "Visual Studio Code（以下、VS Code）はいまやITエンジニアのあいだで最も人気のあるコードエディタの地位を確立しています。 VS Codeはオープンソースであり、そしてWindows、Mac、Linuxのマルチプラット...",
-      "trend_score": 0.5833
+      "trend_score": 0.5,
+      "title_ja": "VS Code開発史のドキュメンタリー公開、エリック・ガンマ氏のキャリア転換を紹介",
+      "impact": "エディタの革命的進化の軌跡が可視化され、テックリーダーシップの重要性が認識される。"
     },
     {
       "source": "pk",
@@ -367,7 +455,9 @@
       "url": "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html",
       "time_iso": "2026-09-07T00:04:34+09:00",
       "excerpt": "JavaScriptを事前コンパイルしてC言語に変換するコンパイラ「porffor」（発音はpoor-for）がアルファ版に到達したことが発表されました（公式サイト、GitHubリポジトリ）。 作者のOliver Medhurst氏が明らか...",
-      "trend_score": 0.5
+      "trend_score": 0.4167,
+      "title_ja": "JavaScriptをC言語にコンパイルする「porffor」がアルファ版達成",
+      "impact": "JS資産のネイティブ化が可能になることで、JavaScriptの用途拡大とパフォーマンス向上が期待される。"
     },
     {
       "source": "pk",
@@ -375,7 +465,9 @@
       "url": "https://www.publickey1.jp/blog/26/javathe_java_storyyoutube.html",
       "time_iso": "2026-09-04T00:27:07+09:00",
       "excerpt": "Java言語が誕生してから30年以上の年月が経過しています。 Javaはもともと家庭用デバイスのための言語として作られたものの、結局は採用されずに失敗プロジェクトとして始まったことは多くの方がご存知でしょう。 そこから新たな展開としてWeb...",
-      "trend_score": 0.4167
+      "trend_score": 0.3333,
+      "title_ja": "Javaの誕生から現代までの歴史ドキュメンタリーが公開される",
+      "impact": "Java言語の30年の進化過程が記録され、プログラミング言語史の重要な資産が創造される。"
     },
     {
       "source": "pk",
@@ -383,7 +475,9 @@
       "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
       "time_iso": "2026-09-04T00:23:23+09:00",
       "excerpt": "Webブラウザ上でまるで本物のように振る舞うターミナルのシミュレータを実行し、そこでGitやLinuxのコマンドライン、Vimなどの操作を無料で学べる学習プラットフォーム「WebTerm Learn」を、株式会社initが公開しました。 W...",
-      "trend_score": 0.3333
+      "trend_score": 0.25,
+      "title_ja": "ブラウザ上でターミナル操作が学べる「WebTerm Learn」が無料公開",
+      "impact": "GitやLinuxコマンドをブラウザで実践学習できるため、開発者育成のハードルが大幅低下。"
     },
     {
       "source": "pk",
@@ -391,7 +485,9 @@
       "url": "https://www.publickey1.jp/blog/26/awsstaonuk420tbps2029.html",
       "time_iso": "2026-09-03T10:59:39+09:00",
       "excerpt": "Amazon Web Services（AWS）は、日本と米国を結ぶ新たな海底ケーブル「Sta'O'Nuk」を発表しました。2029年に稼働開始予定です。 海底ケーブルは20ペアの光ファイバーで構成され、420Tbpsの帯域を提供します。 ...",
-      "trend_score": 0.25
+      "trend_score": 0.1667,
+      "title_ja": "AWSが日米間の新型海底ケーブル「Sta'O'Nuk」を発表、2029年稼働予定",
+      "impact": "420Tbpsの大容量ケーブル整備により、太平洋を超えたクラウド通信の集中リスク低減と信頼性向上。"
     },
     {
       "source": "pk",
@@ -399,21 +495,10 @@
       "url": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
       "time_iso": "2026-09-03T00:55:28+09:00",
       "excerpt": "Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」の提供を開始しました。 AWS Cloud Q...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート",
-      "url": "https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html",
-      "time_iso": "2026-09-03T00:53:23+09:00",
-      "excerpt": "Amzon Web Services（AWS）とマイクロソフトは、両社が協力してAWSとMicrosoft Azureを最大100Gbpsの高速な閉域網で相互接続することを発表しました（AWSの発表、マイクロソフトの発表）。 両社ともにプレ...",
-      "trend_score": 0.0833
+      "trend_score": 0.0833,
+      "title_ja": "AWS Cloud Quest 2.0登場、AIとの対話でAWS学習が進化",
+      "impact": "ゲーム形式でのAI対話型学習により、AWS認定資格取得や実務スキル習得の実践的機会が拡大。"
     }
   ],
-  "errors": [
-    {
-      "source": "enrich_primary",
-      "error": "ValueError: 件数不一致: 39 != 51"
-    }
-  ]
+  "errors": []
 }
