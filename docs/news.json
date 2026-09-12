@@ -1,25 +1,141 @@
 {
-  "generated_at": "2026-09-12T08:41:10.950427+09:00",
+  "generated_at": "2026-09-13T08:33:00.806467+09:00",
   "items": [
     {
-      "source": "hn",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
-      "time_iso": "2026-09-12T08:17:42+09:00",
-      "excerpt": "6 points ・ 2 comments",
-      "trend_score": 0.2,
-      "title_ja": "OpenAIエージェントによるRubyGemsへの未公表攻撃が発覚",
-      "impact": "AIエージェントのセキュリティ課題が露呈し、自動システムの監視強化が必要になる。"
+      "source": "tc",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "time_iso": "2026-09-13T08:25:38+09:00",
+      "excerpt": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "trend_score": 1.0
+    },
+    {
+      "source": "itm",
+      "title": "映画「バックルームズ」が怖くなかったマンガ家、基になったネット都市伝説にハマって本作の楽しみ方を理解する",
+      "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001423/",
+      "time_iso": "2026-09-13T07:16:00+09:00",
+      "excerpt": "4日に日本でも公開された映画「バックルームズ」が、世界中で大ヒットしています。個人的にあまり怖くなかったのですが、基になった都市伝説を調べるうちに見方が変わりました。",
+      "trend_score": 1.0
     },
     {
       "source": "hn",
-      "title": "DeCloudflare",
-      "url": "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md",
-      "time_iso": "2026-09-12T07:59:09+09:00",
-      "excerpt": "18 points ・ 25 comments",
-      "trend_score": 0.8,
-      "impact": "Cloudflareへの依存から脱却する動きが注目され、インフラの分散化が議論される。",
-      "title_ja": "Cloudflareの機能を削除するプロジェクト"
+      "title": "StarCraft returns in 2030 as an open-world shooter",
+      "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+      "time_iso": "2026-09-13T07:07:19+09:00",
+      "excerpt": "26 points ・ 23 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "hn",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "time_iso": "2026-09-13T05:25:48+09:00",
+      "excerpt": "64 points ・ 46 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "time_iso": "2026-09-13T05:19:16+09:00",
+      "excerpt": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+      "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
+      "time_iso": "2026-09-13T04:57:19+09:00",
+      "excerpt": "30 points ・ 39 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "tc",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "time_iso": "2026-09-13T04:34:44+09:00",
+      "excerpt": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "time_iso": "2026-09-13T04:21:19+09:00",
+      "excerpt": "Tesla’s halo sports car was first announced in November 2017.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "time_iso": "2026-09-13T03:58:57+09:00",
+      "excerpt": "132 points ・ 41 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "Will There Be a 7G?",
+      "url": "https://arxiv.org/abs/2609.01877",
+      "time_iso": "2026-09-13T02:05:31+09:00",
+      "excerpt": "73 points ・ 123 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "hn",
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "time_iso": "2026-09-13T01:25:08+09:00",
+      "excerpt": "282 points ・ 70 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "time_iso": "2026-09-13T00:49:52+09:00",
+      "excerpt": "80 points ・ 23 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "time_iso": "2026-09-13T00:08:27+09:00",
+      "excerpt": "357 points ・ 244 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "hn",
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "url": "https://lalitm.com/post/buildprof/",
+      "time_iso": "2026-09-12T23:45:28+09:00",
+      "excerpt": "87 points ・ 15 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "tc",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "time_iso": "2026-09-12T23:40:00+09:00",
+      "excerpt": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "time_iso": "2026-09-12T23:10:49+09:00",
+      "excerpt": "490 points ・ 683 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "「壁紙DIY」とイマドキの超短焦点4Kプロジェクターを寝室で試したら検証が止められなくなった",
+      "url": "https://www.itmedia.co.jp/news/article/2609/12/2000001428/",
+      "time_iso": "2026-09-12T10:31:00+09:00",
+      "excerpt": "壁際数cmの距離に置くだけで100インチ超えの大画面が手に入る超短焦点プロジェクターを試しました。",
+      "trend_score": 0.9167
     },
     {
       "source": "tc",
@@ -27,39 +143,7 @@
       "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "time_iso": "2026-09-12T07:58:17+09:00",
       "excerpt": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "trend_score": 1.0,
-      "title_ja": "Mecka AI、Sequoia主導でロボット訓練データ需要に乗じて5億ドル評価へ",
-      "impact": "ロボット学習データの価値が急速に高まり、データ提供ビジネスが活況となる。"
-    },
-    {
-      "source": "hn",
-      "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-      "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-      "time_iso": "2026-09-12T07:16:15+09:00",
-      "excerpt": "9 points ・ 0 comments",
-      "trend_score": 0.3333,
-      "title_ja": "QueryBrew：システム非依存なSQL最適化の研究",
-      "impact": "SQL最適化技術が汎用化され、複数データベース環境での効率が向上する可能性。"
-    },
-    {
-      "source": "hn",
-      "title": "Project Blinkenlights",
-      "url": "https://blinkenlights.de/en/",
-      "time_iso": "2026-09-12T07:15:00+09:00",
-      "excerpt": "24 points ・ 12 comments",
-      "trend_score": 0.6667,
-      "impact": "プロジェクトが注目を集め、開発者コミュニティでの関心が高い状態を示している。",
-      "title_ja": "Project Blinkenlights プロジェクト"
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "url": "https://github.com/mirza-rizvi/ResolveHQ",
-      "time_iso": "2026-09-12T06:48:00+09:00",
-      "excerpt": "17 points ・ 6 comments",
-      "trend_score": 0.6,
-      "impact": "Cloudflareのサーバレスプラットフォームでヘルプデスク構築が可能になり、低コスト運用が実現される。",
-      "title_ja": "Cloudflareで構築したヘルプデスクResolveHQを公開"
+      "trend_score": 0.5833
     },
     {
       "source": "tc",
@@ -67,9 +151,7 @@
       "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
       "time_iso": "2026-09-12T06:19:05+09:00",
       "excerpt": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-      "trend_score": 0.9167,
-      "title_ja": "Khosla Ventures、シリコンバレー外で初のニューヨークオフィス開設へ",
-      "impact": "大手VCの地理的拡大により、米国内での投資機会と起業エコシステムが多様化する。"
+      "trend_score": 0.5
     },
     {
       "source": "tc",
@@ -77,9 +159,7 @@
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "time_iso": "2026-09-12T05:59:47+09:00",
       "excerpt": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of o",
-      "trend_score": 0.8333,
-      "title_ja": "YCのGarry Tan、米オープン重み AI企業にも蒸留技術導入を推奨",
-      "impact": "オープンウェイトAIモデルの強化により、米国のAI競争力が多層化される可能性。"
+      "trend_score": 0.4167
     },
     {
       "source": "tc",
@@ -87,9 +167,7 @@
       "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
       "time_iso": "2026-09-12T05:57:36+09:00",
       "excerpt": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "trend_score": 0.75,
-      "title_ja": "OpenAI、数学者との対立が深刻化し25人が異議声明発表",
-      "impact": "数学者がAIによる知的財産権侵害を指摘し、学術界とAI企業の対立が顕在化する。"
+      "trend_score": 0.3333
     },
     {
       "source": "tc",
@@ -97,9 +175,7 @@
       "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
       "time_iso": "2026-09-12T05:33:18+09:00",
       "excerpt": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "trend_score": 0.6667,
-      "impact": "TechCrunch Disrupt 2026の展示テーブル申し込み最終期限が迫っている。",
-      "title_ja": "TechCrunch Disrupt 2026の展示テーブル予約は1週間"
+      "trend_score": 0.25
     },
     {
       "source": "tc",
@@ -107,9 +183,7 @@
       "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
       "time_iso": "2026-09-12T05:30:17+09:00",
       "excerpt": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "trend_score": 0.5833,
-      "impact": "TechCrunch Disrupt 2026のサイドイベント申し込み最終期限が今夜に迫っている。",
-      "title_ja": "TechCrunch Disrupt 2026のサイドイベント募集終了"
+      "trend_score": 0.1667
     },
     {
       "source": "tc",
@@ -117,129 +191,7 @@
       "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
       "time_iso": "2026-09-12T04:35:54+09:00",
       "excerpt": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 m",
-      "trend_score": 0.5,
-      "title_ja": "Moonshot AI開発のKimi、年間売上2億ドル目指す",
-      "impact": "中国のAIスタートアップの急速な成長により、グローバルAI市場の競争が激化する。"
-    },
-    {
-      "source": "tc",
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "time_iso": "2026-09-12T04:00:00+09:00",
-      "excerpt": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and t",
-      "trend_score": 0.4167,
-      "title_ja": "Roblox、AI活用ゲーム開発とプラットフォーム外での利用が容易に",
-      "impact": "AIによるゲーム開発の民主化とプラットフォーム独立で、ユーザー生成コンテンツが拡大する。"
-    },
-    {
-      "source": "tc",
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-      "time_iso": "2026-09-12T03:58:01+09:00",
-      "excerpt": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia",
-      "trend_score": 0.3333,
-      "title_ja": "Central Eurasia、2026Road to Battlefieldの優勝3社が決定",
-      "impact": "新興起業の成長ステージ支援が強化され、地域のスタートアップエコシステムが活性化する。"
-    },
-    {
-      "source": "hn",
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "time_iso": "2026-09-12T03:50:36+09:00",
-      "excerpt": "168 points ・ 97 comments",
-      "trend_score": 0.8667,
-      "impact": "GrapheneOSのメッセージアプリ刷新により、プライバシー重視のOSの機能が一層充実する。",
-      "title_ja": "GrapheneOSが改良したメッセージアプリをリリース"
-    },
-    {
-      "source": "hn",
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "time_iso": "2026-09-12T03:24:55+09:00",
-      "excerpt": "225 points ・ 118 comments",
-      "trend_score": 0.9333,
-      "title_ja": "Google広告で支払った600ドルのうち60%がボット経由のインストール",
-      "impact": "モバイル広告詐欺の実態が明らかになり、広告費の効率性と透明性に関する懸念が高まる。"
-    },
-    {
-      "source": "hn",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "url": "https://github.com/kennethwolters/litelm",
-      "time_iso": "2026-09-12T03:10:20+09:00",
-      "excerpt": "82 points ・ 31 comments",
-      "trend_score": 0.5333,
-      "title_ja": "LiteLLM簡潔版：不要な機能を削減した軽量LLMツール",
-      "impact": "より軽量で使いやすいLLM統合ツールが登場し、開発環境の選択肢が増える。"
-    },
-    {
-      "source": "hn",
-      "title": "The EPA is planning to scrap public review rules for data center pollution",
-      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "time_iso": "2026-09-12T03:05:21+09:00",
-      "excerpt": "303 points ・ 208 comments",
-      "trend_score": 0.0667,
-      "title_ja": "EPA、データセンター汚染のルール廃止を計画中",
-      "impact": "環境規制の緩和でデータセンター拡張が加速する一方、環境への影響が懸念される。"
-    },
-    {
-      "source": "hn",
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "time_iso": "2026-09-12T02:45:12+09:00",
-      "excerpt": "546 points ・ 608 comments",
-      "trend_score": 1.0,
-      "title_ja": "数学分野におけるAIの位置付けのズレが問題に",
-      "impact": "AIが数学的推論で信頼性を欠く可能性が指摘され、学術領域での利用の課題が浮き彫りになる。"
-    },
-    {
-      "source": "hn",
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "url": "https://snap.berkeley.edu/",
-      "time_iso": "2026-09-12T02:36:11+09:00",
-      "excerpt": "98 points ・ 53 comments",
-      "trend_score": 0.4667,
-      "title_ja": "学習向けプログラミング言語Snapで子どもも大人も楽しめる環境",
-      "impact": "プログラミング教育の裾野が広がり、CS学習の入門障壁が低くなる可能性がある。"
-    },
-    {
-      "source": "tc",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "time_iso": "2026-09-12T01:46:25+09:00",
-      "excerpt": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "trend_score": 0.25,
-      "title_ja": "Nscale、OpenAI前ナンバー2のフィジー・シモがボード参画でIPO準備か",
-      "impact": "大手テック企業の経営層がスタートアップに参画し、IPO準備が加速する可能性。"
-    },
-    {
-      "source": "hn",
-      "title": "Rune is now open source",
-      "url": "https://rune.build/blog/rune-is-now-open-source",
-      "time_iso": "2026-09-12T00:31:47+09:00",
-      "excerpt": "127 points ・ 52 comments",
-      "trend_score": 0.1333,
-      "impact": "プログラミング言語Runeがオープンソース化され、開発コミュニティへのアクセスが拡大する。",
-      "title_ja": "Runeプログラミング言語がオープンソース化"
-    },
-    {
-      "source": "tc",
-      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-      "time_iso": "2026-09-12T00:19:00+09:00",
-      "excerpt": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Auto",
-      "trend_score": 0.1667,
-      "title_ja": "Matt Mullenweg、CEO解任から数日でAutomatticの経営復帰を宣言",
-      "impact": "Wordpress親会社での経営権をめぐる対立が激化し、企業統治の混乱が深まる。"
-    },
-    {
-      "source": "tc",
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "time_iso": "2026-09-11T22:32:54+09:00",
-      "excerpt": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-      "trend_score": 0.0833,
-      "title_ja": "Trezorのメール漏えいに便乗し、暗号資産保有者が狙われる詐欺多発",
-      "impact": "ハードウェアウォレット企業の関連サービス漏えいから詐欺に発展し、セキュリティ体制の脆弱性が露呈。"
+      "trend_score": 0.0833
     },
     {
       "source": "itm",
@@ -247,8 +199,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001427/",
       "time_iso": "2026-09-11T19:51:13+09:00",
       "excerpt": "イベント団体「絶品グルメ屋台の会」は9月11日、神田明神納涼祭りに合わせて企画していた「VTuberコラボ日本酒」の販売を取りやめ、企画を中止すると発表した。同企画を巡っては、製造元として告知されていた諸橋酒造（新潟県長岡市）が、コラボを「一切許諾したことはない」と声明を出したことで、物議を醸していた。同会は「結果とし",
-      "trend_score": 1.0,
-      "impact": "VTuberコラボ商品が酒蔵の未許諾で企画され、利益相反と契約管理の問題が浮き彫りになる。"
+      "trend_score": 0.8333
     },
     {
       "source": "itm",
@@ -256,8 +207,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001424/",
       "time_iso": "2026-09-11T19:25:00+09:00",
       "excerpt": "ハンドルもペダルもない。Teslaが米国で無人タクシーとして走らせ始めた専用車両「Cybercab」の実車が、東京・青山に上陸した。塗装しないゴールドの樹脂ボディー、上に開くバタフライドア、Netflixもカラオケも楽しめる車内。それにしても、タクシーなのになぜ2人乗りなのか。そして日本の公道は走れるのか。",
-      "trend_score": 0.9167,
-      "impact": "テスラの自動運転タクシーが日本上陸し、規制環境での導入可能性が注視される。"
+      "trend_score": 0.75
     },
     {
       "source": "itm",
@@ -265,9 +215,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
       "time_iso": "2026-09-11T17:28:06+09:00",
       "excerpt": "「AIで偽造された領収書画像を見せられた場合、企業側が自力で見破ることは難しい」――生成AIで作ったコンビニのレシート画像が、本物と見分けにくいほど精巧だとしてXで話題になっている。画像は米OpenAIが9月8日（現地時間）に発表した画像生成機能「ChatGPT Images 2.5」で生成したもので、経費精算などへの",
-      "trend_score": 0.8333,
-      "title_ja": "AI生成レシートが本物そっくりで経費精算詐欺に対応困難な状況に",
-      "impact": "生成AI悪用による経費不正請求が急増する可能性があり、企業の不正検知体制が課題。"
+      "trend_score": 0.6667
     },
     {
       "source": "itm",
@@ -275,8 +223,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001419/",
       "time_iso": "2026-09-11T16:55:52+09:00",
       "excerpt": "デジタル庁が運用する政府共通の業務基盤「ガバメントソリューションサービス」（GSS）が不正アクセスを受け、約24万6000件の個人情報が漏えいした可能性がある問題で、松本尚デジタル相は9月11日の記者会見で、悪用されたVPN機器の脆弱性を事前に把握していたと明らかにした。緊急度の高い他の脆弱性から順に対応を進めていた最",
-      "trend_score": 0.75,
-      "impact": "政府システムの既知脆弱性悪用による漏えいが発生し、セキュリティ対応の優先順位が問われる。"
+      "trend_score": 0.5833
     },
     {
       "source": "itm",
@@ -284,9 +231,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001418/",
       "time_iso": "2026-09-11T15:57:36+09:00",
       "excerpt": "米Bloombergは9月11日、米OpenAIが最先端AIの開発ペースを緩めることを検討していると報じた。サム・アルトマンCEOが全社会議で従業員に説明したという。",
-      "trend_score": 0.6667,
-      "title_ja": "OpenAI、最先端AI開発のペース緩和を検討中とアルトマンが社員に説明",
-      "impact": "AGI開発競争の減速示唆により、AI産業の投資判断と競争力の再評価が迫られる。"
+      "trend_score": 0.5
     },
     {
       "source": "itm",
@@ -294,8 +239,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001417/",
       "time_iso": "2026-09-11T15:32:22+09:00",
       "excerpt": "25年にノジマ傘下に入ったVAIO。これまで法人向けの保守的な製品が多かった同社だが、ノジマの後押しを受けて再び挑戦するという。",
-      "trend_score": 0.5833,
-      "impact": "ノジマ傘下のVAIOが新機構スマートフォンで再挑戦し、日本のIT産業が活性化する可能性。"
+      "trend_score": 0.4167
     },
     {
       "source": "itm",
@@ -303,9 +247,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001411/",
       "time_iso": "2026-09-11T14:26:52+09:00",
       "excerpt": "深夜に待機して買えなかった利用者から不満が続出した。",
-      "trend_score": 0.5,
-      "title_ja": "ドラクエグッズ予約時にサーバー負荷で完売、販売サイトが追加受注を検討",
-      "impact": "急激なアクセス集中への対応が課題となり、eコマースインフラの強化が急務。"
+      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -313,8 +255,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001406/",
       "time_iso": "2026-09-11T13:56:53+09:00",
       "excerpt": "デジタル庁は9月11日、同庁が運用する「ガバメントソリューションサービス」（GSS）が外部から不正アクセスを受け、氏名やメールアドレスなど約24万6000件の個人情報が漏えいした可能性があると発表した。一般の人の個人情報は含まれていないという。",
-      "trend_score": 0.4167,
-      "impact": "デジタル庁システムへの不正アクセスで約25万件の公務員情報が漏えい。"
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -322,9 +263,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001315/",
       "time_iso": "2026-09-11T12:00:00+09:00",
       "excerpt": "米コロンビア大学などに所属する研究者らが1992年に発表した論文「Discrepancy between Self-Reported and Actual Caloric Intake and Exercise in Obese Subjects」は、1日1200kcal以下の食事制限を続けているのに一向に体重が減らな",
-      "trend_score": 0.3333,
-      "title_ja": "1日1200kcal以下食でも痩せない人の14日追跡調査で理由が判明",
-      "impact": "ダイエット科学の新知見により、個人差を考慮した栄養指導の必要性が明らかになる。"
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -332,27 +271,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001398/",
       "time_iso": "2026-09-11T11:58:17+09:00",
       "excerpt": "映画「名探偵プリキュア！ 不思議な庭と2人の秘密」のコラボキャンペーンを発表しており、これを念頭に置いた注意喚起とみられる。",
-      "trend_score": 0.25,
-      "impact": "フリマアプリでの未配布グッズ購入を注意喚起し、不正流通防止に注力している。"
-    },
-    {
-      "source": "itm",
-      "title": "TypeScriptのコードを描いたスウェット発売、「HHKB」30周年記念　ZOZOのエンジニアが協力",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001401/",
-      "time_iso": "2026-09-11T11:48:42+09:00",
-      "excerpt": "型レベルプログラミングで1つの英文を組み立て、読み解くとHHKBの哲学が浮かび上がる、“玄人好み”のデザインになっているという。",
-      "trend_score": 0.1667,
-      "impact": "TypeScriptコード描写スウェットでキーボード企業30周年を記念し、開発者向け商品が拡大。"
-    },
-    {
-      "source": "itm",
-      "title": "Windows用「Gemini」アプリ提供開始　画面上に重ねて作業を中断せず利用可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001399/",
-      "time_iso": "2026-09-11T11:06:11+09:00",
-      "excerpt": "Googleは、Windows向けデスクトップアプリ「Gemini app for Windows」を公開した。Windows 10および11に対応し、UIは日本語をサポートする。［Alt］＋［Space］で作業画面上に重ねて呼び出せるほか、自律型AIエージェント「Gemini Spark」や画像・動画生成もPC上で利",
-      "trend_score": 0.0833,
-      "title_ja": "GoogleのGeminiがWindowsアプリ化し、中断なく複合タスク対応に",
-      "impact": "AIアシスタントのデスクトップ統合により、生産性向上と自動化の利用が加速される。"
+      "trend_score": 0.0833
     },
     {
       "source": "pk",
@@ -360,19 +279,31 @@
       "url": "https://www.publickey1.jp/blog/26/net_11netaot.html",
       "time_iso": "2026-09-11T00:42:50+09:00",
       "excerpt": "マイクロソフトは同社の包括的なアプリケーションフレームワークの次期版となる「.NET 11」の最初のリリース候補版となる「.NET 11 Release Candidate 1」を発表しました。 〰️ SAVE THE DATE 〰️.NE...",
-      "trend_score": 1.0,
-      "title_ja": ".NET 11 RC版公開、非同期ネイティブ対応でランタイムが進化",
-      "impact": "マイクロソフトのフレームワークが性能向上し、エンタープライズアプリの競争力が高まる。"
+      "trend_score": 1.0
     },
     {
       "source": "hn",
-      "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
-      "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
-      "time_iso": "2026-09-10T18:13:48+09:00",
-      "excerpt": "9 points ・ 2 comments",
-      "trend_score": 0.2667,
-      "impact": "ヘボン式ローマ字表記の解説により、日本語の国際化理解が進む。",
-      "title_ja": "ヘボン式ローマ字でのカタカナ表記方法について"
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "time_iso": "2026-09-11T00:31:37+09:00",
+      "excerpt": "382 points ・ 328 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "hn",
+      "title": "IKEA made a mod for Skyrim [video]",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "time_iso": "2026-09-10T16:20:50+09:00",
+      "excerpt": "543 points ・ 144 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "url": "https://eiln.github.io/posts/ane-dma.html",
+      "time_iso": "2026-09-10T09:16:10+09:00",
+      "excerpt": "30 points ・ 7 comments",
+      "trend_score": 0.8
     },
     {
       "source": "pk",
@@ -380,9 +311,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
       "time_iso": "2026-09-10T00:30:50+09:00",
       "excerpt": "Amazon Web Services（AWS）は、AIがフルスタックのAWSアプリケーションに必要なアプリケーションの基本的なコードに加えて、セキュリティや可観測性などの要件も備えたインフラ構成のコードもまとめて生成してくれるツール「Nx...",
-      "trend_score": 0.9167,
-      "title_ja": "AWS、AIがフルスタックAWSアプリを一括生成する「Nx Plugin for AWS」公開",
-      "impact": "AIによるインフラ・セキュリティ・可観測性の自動生成で、開発生産性が大幅に向上。"
+      "trend_score": 0.9167
     },
     {
       "source": "pk",
@@ -390,29 +319,23 @@
       "url": "https://www.publickey1.jp/blog/26/awsamazon_quick.html",
       "time_iso": "2026-09-10T00:27:47+09:00",
       "excerpt": "Amazon Web Services（AWS）は、データ分析プラットフォーム「Amazon Quick」の新機能として、データ分析と表示を行うカスタムアプリケーションを自然言語の指示だけで構築できる新機能を発表しました。 Amazon Q...",
-      "trend_score": 0.8333,
-      "title_ja": "AWSのAmazon Quickに自然言語でデータ分析アプリ構築機能が追加",
-      "impact": "ノーコード化により、非技術者もデータ分析環境を構築でき、導入障壁が低下。"
+      "trend_score": 0.8333
     },
     {
       "source": "hn",
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "time_iso": "2026-09-09T22:59:50+09:00",
-      "excerpt": "94 points ・ 20 comments",
-      "trend_score": 0.7333,
-      "impact": "非同期処理設計の最適化が研究され、プログラミング言語設計の知見が深まる。",
-      "title_ja": "非同期処理Async/Awaitの設計空間を探索"
+      "title": "Stabilizing Rust's Never Type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "time_iso": "2026-09-09T20:57:45+09:00",
+      "excerpt": "116 points ・ 20 comments",
+      "trend_score": 0.7333
     },
     {
       "source": "hn",
-      "title": "AlphaGenome maps 9B DNA variants",
-      "url": "https://spectrum.ieee.org/alphagenome-atlas",
-      "time_iso": "2026-09-09T20:30:51+09:00",
-      "excerpt": "59 points ・ 6 comments",
-      "trend_score": 0.4,
-      "title_ja": "AlphaGenomeが90億個のDNA変異をマッピング",
-      "impact": "ゲノム解析の精度向上により、個別化医療や遺伝子研究が加速される可能性がある。"
+      "title": "Apple iPod Engraver (2019)",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "time_iso": "2026-09-09T10:57:37+09:00",
+      "excerpt": "78 points ・ 10 comments",
+      "trend_score": 0.8667
     },
     {
       "source": "pk",
@@ -420,9 +343,7 @@
       "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
       "time_iso": "2026-09-09T00:54:55+09:00",
       "excerpt": "Amazon Web Services（AWS）は、AWSに最適化されたLinux OSの4年ぶりとなるメジャーバージョンアップ「Amazon Linux 2027」をパブリックプレビューとしてリリースしました。 現時点の正式版はAmazo...",
-      "trend_score": 0.75,
-      "title_ja": "Amazon Linux 4年ぶりメジャー版「Amazon Linux 2027」プレビュー",
-      "impact": "SELinux強制モード導入でセキュリティが強化され、サーバ運用の堅牢性が向上。"
+      "trend_score": 0.75
     },
     {
       "source": "pk",
@@ -430,9 +351,7 @@
       "url": "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
       "time_iso": "2026-09-08T23:28:02+09:00",
       "excerpt": "宇宙を舞台にした世界最大級の大規模オンラインゲーム「EVE Online」が、ゲームを支える240万行のPythonコードをPython 3に移行すると発表しました。 We have officially started our codeb...",
-      "trend_score": 0.6667,
-      "title_ja": "EVE Online、240万行のPython 2.7をPython 3へ移行開始",
-      "impact": "大規模ゲーム開発でのレガシー言語脱却により、保守性と最新技術の活用が進む。"
+      "trend_score": 0.6667
     },
     {
       "source": "pk",
@@ -440,9 +359,7 @@
       "url": "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
       "time_iso": "2026-09-08T00:39:27+09:00",
       "excerpt": "HTMLに属性を追加するだけで、Webページにサーバと連動した動的なアプリケーションの機能を追加できるJavaScriptライブラリ「HTMX」の最新バージョンとなる「HTMX 4.0」正式版のリリースが発表されました。 very happ...",
-      "trend_score": 0.5833,
-      "title_ja": "HTMX 4.0正式版、XHRからfetchへ移行しStreaming HTML対応に",
-      "impact": "WebUI開発の効率化が進み、サーバ駆動HTMLの実装パターンが広がる可能性。"
+      "trend_score": 0.5833
     },
     {
       "source": "pk",
@@ -450,9 +367,7 @@
       "url": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
       "time_iso": "2026-09-07T00:07:10+09:00",
       "excerpt": "Visual Studio Code（以下、VS Code）はいまやITエンジニアのあいだで最も人気のあるコードエディタの地位を確立しています。 VS Codeはオープンソースであり、そしてWindows、Mac、Linuxのマルチプラット...",
-      "trend_score": 0.5,
-      "title_ja": "VS Code誕生史「The Story of VS Code」YouTubeで公開、作者エリック・ガンマ氏が語る",
-      "impact": "エディタ開発の歴史を通じ、ソフトウェア設計と普及戦略の知見がコミュニティに共有される。"
+      "trend_score": 0.5
     },
     {
       "source": "pk",
@@ -460,9 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html",
       "time_iso": "2026-09-07T00:04:34+09:00",
       "excerpt": "JavaScriptを事前コンパイルしてC言語に変換するコンパイラ「porffor」（発音はpoor-for）がアルファ版に到達したことが発表されました（公式サイト、GitHubリポジトリ）。 作者のOliver Medhurst氏が明らか...",
-      "trend_score": 0.4167,
-      "title_ja": "JavaScriptをC言語にコンパイルする「porffor」がアルファ版に到達",
-      "impact": "JavaScriptのネイティブ化により、ウェブアプリのパフォーマンス向上が期待される。"
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -470,9 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/javathe_java_storyyoutube.html",
       "time_iso": "2026-09-04T00:27:07+09:00",
       "excerpt": "Java言語が誕生してから30年以上の年月が経過しています。 Javaはもともと家庭用デバイスのための言語として作られたものの、結局は採用されずに失敗プロジェクトとして始まったことは多くの方がご存知でしょう。 そこから新たな展開としてWeb...",
-      "trend_score": 0.3333,
-      "title_ja": "Java誕生30年史「The Java Story」、公式ドキュメンタリーがYouTubeで公開",
-      "impact": "プログラミング言語史の一級資料が公開され、IT技術発展の理解が深まる。"
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -480,9 +391,7 @@
       "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
       "time_iso": "2026-09-04T00:23:23+09:00",
       "excerpt": "Webブラウザ上でまるで本物のように振る舞うターミナルのシミュレータを実行し、そこでGitやLinuxのコマンドライン、Vimなどの操作を無料で学べる学習プラットフォーム「WebTerm Learn」を、株式会社initが公開しました。 W...",
-      "trend_score": 0.25,
-      "title_ja": "ブラウザ上でターミナル学習「WebTerm Learn」公開、Git・CLI・Vim無料学習可能",
-      "impact": "開発者基礎スキルの習得障壁が低下し、プログラミング学習の民主化が進む。"
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -490,9 +399,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsstaonuk420tbps2029.html",
       "time_iso": "2026-09-03T10:59:39+09:00",
       "excerpt": "Amazon Web Services（AWS）は、日本と米国を結ぶ新たな海底ケーブル「Sta'O'Nuk」を発表しました。2029年に稼働開始予定です。 海底ケーブルは20ペアの光ファイバーで構成され、420Tbpsの帯域を提供します。 ...",
-      "trend_score": 0.1667,
-      "title_ja": "AWS、日米結ぶ新海底ケーブル「Sta'O'Nuk」発表、420Tbps・2029年稼働予定",
-      "impact": "インフラ多重化で通信の安定性向上とクラウドサービスの遅延改善が期待される。"
+      "trend_score": 0.1667
     },
     {
       "source": "pk",
@@ -500,10 +407,13 @@
       "url": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
       "time_iso": "2026-09-03T00:55:28+09:00",
       "excerpt": "Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」の提供を開始しました。 AWS Cloud Q...",
-      "trend_score": 0.0833,
-      "title_ja": "AWS、ゲームで学ぶ「AWS Cloud Quest 2.0」登場、AI顧客との対話で実践的に",
-      "impact": "ゲーミング形式のクラウド学習により、実践的スキル習得と人材育成が加速される。"
+      "trend_score": 0.0833
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "enrich_primary",
+      "error": "HTTPError: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+    }
+  ]
 }
