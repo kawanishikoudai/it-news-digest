@@ -1,117 +1,317 @@
 {
-  "generated_at": "2026-09-14T08:45:35.487980+09:00",
+  "generated_at": "2026-09-15T09:04:36.622662+09:00",
   "items": [
     {
       "source": "itm",
-      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言　「規制がなければできないふりをやめろ」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
-      "time_iso": "2026-09-14T08:14:08+09:00",
-      "excerpt": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。",
+      "title": "トランプ大統領、アモデイ氏を名指しで「完璧な小さい天使のふり」　「AIに必要なガードレールは強く賢い大統領だけ」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/",
+      "time_iso": "2026-09-15T08:15:18+09:00",
+      "excerpt": "トランプ米大統領はSNSへの投稿で、AIに必要なガードレールは強く賢い大統領だけで十分だと述べ、AI企業に対する刑事・規制上の強い権限を強調した。AnthropicのアモデイCEOを名指しで批判し、AI開発を妨げる動きを中国を利する陰謀だと非難して、米国の優位性を維持する姿勢を示した。",
       "trend_score": 1.0
     },
     {
       "source": "hn",
-      "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
-      "url": "https://openai.com/index/better-language-models/",
-      "time_iso": "2026-09-14T08:11:17+09:00",
-      "excerpt": "26 points ・ 8 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "The Contagion of Fear",
-      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-      "time_iso": "2026-09-14T07:38:18+09:00",
-      "excerpt": "55 points ・ 30 comments",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "time_iso": "2026-09-15T08:01:36+09:00",
+      "excerpt": "17 points ・ 0 comments",
       "trend_score": 0.8667
     },
     {
+      "source": "itm",
+      "title": "“ぼっちな生まれ”より“ぼっちな育ち”の方が他者と関わるのが苦手？　京大がオタマジャクシの社会性を実験",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001450/",
+      "time_iso": "2026-09-15T07:00:00+09:00",
+      "excerpt": "京都大学大学院の長谷和子さんが国際学術誌「AnimalCognition」で発表した論文「Social isolation, rather than kinship, influences association behavior in toad tadpoles (Bufo formosus)」は、オタマジャクシの社",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "time_iso": "2026-09-15T06:51:02+09:00",
+      "excerpt": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "trend_score": 1.0
+    },
+    {
       "source": "hn",
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "time_iso": "2026-09-14T06:47:04+09:00",
-      "excerpt": "18 points ・ 2 comments",
-      "trend_score": 0.6667
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "time_iso": "2026-09-15T06:22:54+09:00",
+      "excerpt": "56 points ・ 19 comments",
+      "trend_score": 0.8
     },
     {
       "source": "itm",
-      "title": "「死亡事故がゼロの世の中を」──苦節7年、危険な作業をAIで省力化　全国で稼働する「交通誘導AI」の現在地",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001430/",
-      "time_iso": "2026-09-14T06:46:00+09:00",
-      "excerpt": "AIカメラとLED表示板で工事現場の交通誘導を行うシステムが、既に全国の国道などで動いている。9月9日開催の展示会「AIエキスポ」で、開発元のKB-eyeに話を聞いた。",
+      "title": "中国外務省、AI開発「減速論」に反応　「恐怖をあおることや対立、悪性の競争は誰の利益にもならない」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001469/",
+      "time_iso": "2026-09-15T06:21:49+09:00",
+      "excerpt": "中国外務省の郭副報道局長は定例会見で、米AI企業トップらが訴える開発減速論について問われ、脅威論や悪質な競争はグローバルなAIガバナンスを阻害するだけだと反論した。また、BRICS首脳会議で習近平国家主席がオープンソースAIコミュニティの設立を提唱したことも明らかにした。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "time_iso": "2026-09-15T06:05:22+09:00",
+      "excerpt": "153 points ・ 157 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "time_iso": "2026-09-15T05:44:14+09:00",
+      "excerpt": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
       "trend_score": 0.9167
     },
     {
       "source": "tc",
-      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "time_iso": "2026-09-14T06:30:00+09:00",
-      "excerpt": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else ",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "time_iso": "2026-09-14T06:06:13+09:00",
-      "excerpt": "318 points ・ 109 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "tc",
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "time_iso": "2026-09-14T05:49:38+09:00",
-      "excerpt": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
-      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "time_iso": "2026-09-14T05:33:18+09:00",
-      "excerpt": "41 points ・ 5 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "tc",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "time_iso": "2026-09-14T05:28:00+09:00",
-      "excerpt": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "time_iso": "2026-09-15T05:07:37+09:00",
+      "excerpt": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to a",
       "trend_score": 0.8333
     },
     {
       "source": "tc",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "time_iso": "2026-09-14T04:40:15+09:00",
-      "excerpt": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "time_iso": "2026-09-15T03:14:29+09:00",
+      "excerpt": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
       "trend_score": 0.75
     },
     {
+      "source": "tc",
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "time_iso": "2026-09-15T03:08:43+09:00",
+      "excerpt": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "trend_score": 0.6667
+    },
+    {
       "source": "hn",
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "time_iso": "2026-09-14T02:37:44+09:00",
-      "excerpt": "490 points ・ 235 comments",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "time_iso": "2026-09-15T02:50:29+09:00",
+      "excerpt": "314 points ・ 344 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "time_iso": "2026-09-15T02:41:20+09:00",
+      "excerpt": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "hn",
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "time_iso": "2026-09-15T02:27:55+09:00",
+      "excerpt": "457 points ・ 339 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "time_iso": "2026-09-15T02:16:06+09:00",
+      "excerpt": "264 points ・ 273 comments",
       "trend_score": 0.9333
     },
     {
       "source": "tc",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "time_iso": "2026-09-14T01:30:00+09:00",
-      "excerpt": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around t",
-      "trend_score": 0.6667
+      "title": "With iOS 27, I’m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "time_iso": "2026-09-15T02:10:30+09:00",
+      "excerpt": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "trend_score": 0.5
     },
     {
       "source": "tc",
-      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-      "time_iso": "2026-09-14T01:04:00+09:00",
-      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "time_iso": "2026-09-15T02:10:09+09:00",
+      "excerpt": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "tc",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "time_iso": "2026-09-15T02:00:00+09:00",
+      "excerpt": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Si",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "hn",
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "time_iso": "2026-09-15T01:32:23+09:00",
+      "excerpt": "98 points ・ 53 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "tc",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "time_iso": "2026-09-15T01:27:53+09:00",
+      "excerpt": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and acceler",
+      "trend_score": 0.25
+    },
+    {
+      "source": "hn",
+      "title": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "time_iso": "2026-09-15T01:23:16+09:00",
+      "excerpt": "139 points ・ 20 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Waymo opens robotaxi service in Las Vegas",
+      "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+      "time_iso": "2026-09-15T01:04:16+09:00",
+      "excerpt": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "hn",
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "time_iso": "2026-09-15T01:02:01+09:00",
+      "excerpt": "219 points ・ 43 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "pk",
+      "title": "AnthropicのMCP共同作者が来日、基調講演で語るこれからのMCP注力領域。AGNTCon＋MCPCon Japan 2026",
+      "url": "https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html",
+      "time_iso": "2026-09-15T00:55:18+09:00",
+      "excerpt": "AIエージェントおよびMCP（Model Context Protocol）を主題としたイベント「AGNTCon＋MCPCon Japan 2026」が9月10日に東京渋谷のイベントホールで開催されました。主催はLinux Foundati...",
+      "trend_score": 1.0
+    },
+    {
+      "source": "pk",
+      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
+      "url": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
+      "time_iso": "2026-09-15T00:51:16+09:00",
+      "excerpt": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+      "time_iso": "2026-09-15T00:34:31+09:00",
+      "excerpt": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has ",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "A Beginning for Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "time_iso": "2026-09-15T00:33:07+09:00",
+      "excerpt": "158 points ・ 90 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "hn",
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "time_iso": "2026-09-15T00:27:56+09:00",
+      "excerpt": "157 points ・ 40 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "time_iso": "2026-09-14T21:40:57+09:00",
+      "excerpt": "352 points ・ 304 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "itm",
+      "title": "録画した番組を「Googleドライブ」「OneDrive」に保存　パナソニック新型「DIGA」で",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001465/",
+      "time_iso": "2026-09-14T21:24:01+09:00",
+      "excerpt": "パナソニックが、録画した番組をMicrosoft OneDriveやGoogleドライブに保存できる「クラウド録画」対応のブルーレイディスクレコーダー「全自動ディーガ」5機種を、10月下旬に発売すると発表した。",
+      "trend_score": 0.75
+    },
+    {
+      "source": "itm",
+      "title": "「GPT Astraでゲーム開発＝ほぼソシャゲ」説を唱えたい　非エンジニアの挑戦は、廃課金への道か",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001436/",
+      "time_iso": "2026-09-14T21:09:55+09:00",
+      "excerpt": "待てば無料。課金すればガッと進む。これ、ソシャゲ？",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち　広がる“AI版静かな退職”",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001258/",
+      "time_iso": "2026-09-14T19:48:23+09:00",
+      "excerpt": "AI活用の成果を隠す会社員が少なくなさそうだ。浮いた削減時間は労使どちらの手に……。",
       "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "Appleの「iPhone Duo」は、折りたたみスマホの未来を開くのか、閉じるのか",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001445/",
+      "time_iso": "2026-09-14T19:46:48+09:00",
+      "excerpt": "Apple初の折りたたみスマートフォン「iPhone Duo」。今回の製品発表では、日本のネット上で落胆の声も大きい。理由はいうまでもなく、価格設定だ。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "マンガ数冊「105万円でSOLD」物議、メルカリ“マネロン疑惑”を否定「その価格で売れていない」……ならばなぜ？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001455/",
+      "time_iso": "2026-09-14T19:37:13+09:00",
+      "excerpt": "「メルカリで、マンガの数冊のセットなど、数千円程度に見える多くの商品が『105万円』で販売済みになっている。マネーロンダリングなど、不正取引に利用されたのでは」――Xで拡散した疑惑にメルカリが回答した。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "楽天モバイル、「ID未連携ユーザーの自動解約」を撤回　2週間で方針転換",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001460/",
+      "time_iso": "2026-09-14T18:56:47+09:00",
+      "excerpt": "楽天モバイルは9月14日、楽天IDと連携していないユーザーの契約を11月30日で自動解約するとしていた方針を撤回すると発表した。これは8月31日の発表を見直したもので、同社は当初、「楽天IDと連携せずに楽天モバイルを利用できる機能」を利用するユーザーに向けて、期限までに「楽天会員へのアップグレード」などの手続きをしなけ",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "hn",
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "time_iso": "2026-09-14T18:51:50+09:00",
+      "excerpt": "417 points ・ 735 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "itm",
+      "title": "古坂大魔王が8歳娘の手描きキャラをAIアニメ化→「良いパパ」「子どもの創造性損ねる」と賛否両論",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001458/",
+      "time_iso": "2026-09-14T18:12:19+09:00",
+      "excerpt": "タレントの古坂大魔王さんが9月13日、8歳の娘が描いたキャラクターを生成AIでアニメーション化した動画をXに投稿した。親子でAIを使った創作を楽しむ姿に好意的な反応が集まる一方、生成AIの利用や学習データを巡る議論も広がっている。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "“自動で耳コピ”アプリ、ヤマハが無料公開　音源読み込み→3分でピアノ譜に",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001452/",
+      "time_iso": "2026-09-14T15:39:31+09:00",
+      "excerpt": "標準的な楽曲なら約3分で楽譜にできるという。10月末までのβ期間は完全無料。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "レベルファイブ発表会のAI演出が物議　「不自然」「内容よりAIが気になる」　日野社長「派手にしたかった」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001440/",
+      "time_iso": "2026-09-14T13:00:25+09:00",
+      "excerpt": "「妖怪ウォッチ」「イナズマイレブン」などを手掛けるレベルファイブが、9月10日のオンライン発表会でAI生成映像を多用し、Xなどで物議を醸している。同社の日野晃博社長は9月12日、AI映像に不快感を示した視聴者に謝罪したうえで、自社が進めるAI活用の方針について説明。発表会を「派手にしたい」との狙いから、最新AIを使った",
+      "trend_score": 0.0833
     },
     {
       "source": "pk",
@@ -119,7 +319,7 @@
       "url": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
       "time_iso": "2026-09-14T00:27:57+09:00",
       "excerpt": "マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victor Ciura氏がRus...",
-      "trend_score": 1.0
+      "trend_score": 0.8333
     },
     {
       "source": "pk",
@@ -127,7 +327,7 @@
       "url": "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
       "time_iso": "2026-09-14T00:20:00+09:00",
       "excerpt": "CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsは、ECサイト構築サービスを提供しているShopifyによって買収されると発表しました。 下記はTailwindの作者であるAdam Wathan氏によ...",
-      "trend_score": 0.9167
+      "trend_score": 0.75
     },
     {
       "source": "pk",
@@ -135,191 +335,23 @@
       "url": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
       "time_iso": "2026-09-14T00:08:50+09:00",
       "excerpt": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
-      "trend_score": 0.8333
+      "trend_score": 0.6667
     },
     {
       "source": "hn",
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "time_iso": "2026-09-13T23:28:36+09:00",
-      "excerpt": "350 points ・ 167 comments",
+      "title": "Compressing a Flag to 11 Bits",
+      "url": "https://read.vantezzen.io/miniflags",
+      "time_iso": "2026-09-13T00:57:43+09:00",
+      "excerpt": "45 points ・ 18 comments",
       "trend_score": 0.7333
     },
     {
       "source": "hn",
-      "title": "CUDA for AMD on Windows",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "time_iso": "2026-09-13T23:25:13+09:00",
-      "excerpt": "129 points ・ 67 comments",
+      "title": "Optimizing a Spin-Lock",
+      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+      "time_iso": "2026-09-12T18:43:44+09:00",
+      "excerpt": "35 points ・ 15 comments",
       "trend_score": 0.1333
-    },
-    {
-      "source": "hn",
-      "title": "Making Startups Powerful",
-      "url": "https://paulgraham.com/powerful.html",
-      "time_iso": "2026-09-13T23:09:53+09:00",
-      "excerpt": "143 points ・ 66 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "Data collected by cars and sold to third parties",
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "time_iso": "2026-09-13T22:45:08+09:00",
-      "excerpt": "261 points ・ 143 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "tc",
-      "title": "Fusion power startups find new partners in the defense world",
-      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-      "time_iso": "2026-09-13T22:15:00+09:00",
-      "excerpt": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never compl",
-      "trend_score": 0.5
-    },
-    {
-      "source": "hn",
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "time_iso": "2026-09-13T21:30:15+09:00",
-      "excerpt": "186 points ・ 46 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "hn",
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "time_iso": "2026-09-13T16:49:46+09:00",
-      "excerpt": "516 points ・ 208 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "tc",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "time_iso": "2026-09-13T08:25:38+09:00",
-      "excerpt": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開　アルトマン氏とマスク氏も賛同",
-      "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
-      "time_iso": "2026-09-13T08:06:11+09:00",
-      "excerpt": "AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "itm",
-      "title": "映画「バックルームズ」が怖くなかったマンガ家、基になったネット都市伝説にハマって本作の楽しみ方を理解する",
-      "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001423/",
-      "time_iso": "2026-09-13T07:16:00+09:00",
-      "excerpt": "4日に日本でも公開された映画「バックルームズ」が、世界中で大ヒットしています。個人的にあまり怖くなかったのですが、基になった都市伝説を調べるうちに見方が変わりました。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "time_iso": "2026-09-13T05:19:16+09:00",
-      "excerpt": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "time_iso": "2026-09-13T04:34:44+09:00",
-      "excerpt": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-      "time_iso": "2026-09-13T04:21:19+09:00",
-      "excerpt": "Tesla’s halo sports car was first announced in November 2017.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "time_iso": "2026-09-12T23:40:00+09:00",
-      "excerpt": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "itm",
-      "title": "「壁紙DIY」とイマドキの超短焦点4Kプロジェクターを寝室で試したら検証が止められなくなった",
-      "url": "https://www.itmedia.co.jp/news/article/2609/12/2000001428/",
-      "time_iso": "2026-09-12T10:31:00+09:00",
-      "excerpt": "壁際数cmの距離に置くだけで100インチ超えの大画面が手に入る超短焦点プロジェクターを試しました。",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "itm",
-      "title": "なぜ酒蔵の許諾なしに？　「VTuberコラボ日本酒」騒動、主催者が経緯説明　仲介者による調整で「準備進んでいると認識」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001427/",
-      "time_iso": "2026-09-11T19:51:13+09:00",
-      "excerpt": "イベント団体「絶品グルメ屋台の会」は9月11日、神田明神納涼祭りに合わせて企画していた「VTuberコラボ日本酒」の販売を取りやめ、企画を中止すると発表した。同企画を巡っては、製造元として告知されていた諸橋酒造（新潟県長岡市）が、コラボを「一切許諾したことはない」と声明を出したことで、物議を醸していた。同会は「結果とし",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "itm",
-      "title": "テスラの無人タクシーが東京・青山に　ハンドルもペダルもない「Cybercab」　日本での展開は？",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001424/",
-      "time_iso": "2026-09-11T19:25:00+09:00",
-      "excerpt": "ハンドルもペダルもない。Teslaが米国で無人タクシーとして走らせ始めた専用車両「Cybercab」の実車が、東京・青山に上陸した。塗装しないゴールドの樹脂ボディー、上に開くバタフライドア、Netflixもカラオケも楽しめる車内。それにしても、タクシーなのになぜ2人乗りなのか。そして日本の公道は走れるのか。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "本物そっくり“AI生成レシート“が経費精算の脅威に　マネフォ「自力で見破るのは難しい」　企業はどう備える？",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
-      "time_iso": "2026-09-11T17:28:06+09:00",
-      "excerpt": "「AIで偽造された領収書画像を見せられた場合、企業側が自力で見破ることは難しい」――生成AIで作ったコンビニのレシート画像が、本物と見分けにくいほど精巧だとしてXで話題になっている。画像は米OpenAIが9月8日（現地時間）に発表した画像生成機能「ChatGPT Images 2.5」で生成したもので、経費精算などへの",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "松本デジタル相、24.6万件漏えい可能性について説明　「既知の脆弱性を対応前に悪用」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001419/",
-      "time_iso": "2026-09-11T16:55:52+09:00",
-      "excerpt": "デジタル庁が運用する政府共通の業務基盤「ガバメントソリューションサービス」（GSS）が不正アクセスを受け、約24万6000件の個人情報が漏えいした可能性がある問題で、松本尚デジタル相は9月11日の記者会見で、悪用されたVPN機器の脆弱性を事前に把握していたと明らかにした。緊急度の高い他の脆弱性から順に対応を進めていた最",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "OpenAI、最先端AI開発の減速を検討か　アルトマンCEOが社員に説明と米報道",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001418/",
-      "time_iso": "2026-09-11T15:57:36+09:00",
-      "excerpt": "米Bloombergは9月11日、米OpenAIが最先端AIの開発ペースを緩めることを検討していると報じた。サム・アルトマンCEOが全社会議で従業員に説明したという。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "VAIOが再び“挑戦”する理由　ノジマが後押し、独自のマルチフリップ機構が復活へ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001417/",
-      "time_iso": "2026-09-11T15:32:22+09:00",
-      "excerpt": "25年にノジマ傘下に入ったVAIO。これまで法人向けの保守的な製品が多かった同社だが、ノジマの後押しを受けて再び挑戦するという。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "「すばやさがあがるリュック」など……ドラクエ商品予約にアクセス集中、エラー連発→完売　グラニフ謝罪、追加受注へ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001411/",
-      "time_iso": "2026-09-11T14:26:52+09:00",
-      "excerpt": "深夜に待機して買えなかった利用者から不満が続出した。",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-      "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "time_iso": "2026-09-11T04:39:13+09:00",
-      "excerpt": "9 points ・ 1 comments",
-      "trend_score": 0.0667
     },
     {
       "source": "pk",
@@ -327,23 +359,7 @@
       "url": "https://www.publickey1.jp/blog/26/net_11netaot.html",
       "time_iso": "2026-09-11T00:42:50+09:00",
       "excerpt": "マイクロソフトは同社の包括的なアプリケーションフレームワークの次期版となる「.NET 11」の最初のリリース候補版となる「.NET 11 Release Candidate 1」を発表しました。 〰️ SAVE THE DATE 〰️.NE...",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Julia 1.13 Highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "time_iso": "2026-09-10T21:27:25+09:00",
-      "excerpt": "123 points ・ 9 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "url": "https://bensimms.moe/reverse-engineering-scooter/",
-      "time_iso": "2026-09-10T12:32:04+09:00",
-      "excerpt": "344 points ・ 87 comments",
-      "trend_score": 0.2667
+      "trend_score": 0.5833
     },
     {
       "source": "pk",
@@ -351,7 +367,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
       "time_iso": "2026-09-10T00:30:50+09:00",
       "excerpt": "Amazon Web Services（AWS）は、AIがフルスタックのAWSアプリケーションに必要なアプリケーションの基本的なコードに加えて、セキュリティや可観測性などの要件も備えたインフラ構成のコードもまとめて生成してくれるツール「Nx...",
-      "trend_score": 0.6667
+      "trend_score": 0.5
     },
     {
       "source": "pk",
@@ -359,7 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsamazon_quick.html",
       "time_iso": "2026-09-10T00:27:47+09:00",
       "excerpt": "Amazon Web Services（AWS）は、データ分析プラットフォーム「Amazon Quick」の新機能として、データ分析と表示を行うカスタムアプリケーションを自然言語の指示だけで構築できる新機能を発表しました。 Amazon Q...",
-      "trend_score": 0.5833
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -367,7 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
       "time_iso": "2026-09-09T00:54:55+09:00",
       "excerpt": "Amazon Web Services（AWS）は、AWSに最適化されたLinux OSの4年ぶりとなるメジャーバージョンアップ「Amazon Linux 2027」をパブリックプレビューとしてリリースしました。 現時点の正式版はAmazo...",
-      "trend_score": 0.5
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -375,7 +391,7 @@
       "url": "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
       "time_iso": "2026-09-08T23:28:02+09:00",
       "excerpt": "宇宙を舞台にした世界最大級の大規模オンラインゲーム「EVE Online」が、ゲームを支える240万行のPythonコードをPython 3に移行すると発表しました。 We have officially started our codeb...",
-      "trend_score": 0.4167
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -383,7 +399,7 @@
       "url": "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
       "time_iso": "2026-09-08T00:39:27+09:00",
       "excerpt": "HTMLに属性を追加するだけで、Webページにサーバと連動した動的なアプリケーションの機能を追加できるJavaScriptライブラリ「HTMX」の最新バージョンとなる「HTMX 4.0」正式版のリリースが発表されました。 very happ...",
-      "trend_score": 0.3333
+      "trend_score": 0.1667
     },
     {
       "source": "pk",
@@ -391,22 +407,6 @@
       "url": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
       "time_iso": "2026-09-07T00:07:10+09:00",
       "excerpt": "Visual Studio Code（以下、VS Code）はいまやITエンジニアのあいだで最も人気のあるコードエディタの地位を確立しています。 VS Codeはオープンソースであり、そしてWindows、Mac、Linuxのマルチプラット...",
-      "trend_score": 0.25
-    },
-    {
-      "source": "pk",
-      "title": "JavaScriptをC言語にコンパイルする「porffor」がアルファ版に到達。ネイティブやWASMを生成可能",
-      "url": "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html",
-      "time_iso": "2026-09-07T00:04:34+09:00",
-      "excerpt": "JavaScriptを事前コンパイルしてC言語に変換するコンパイラ「porffor」（発音はpoor-for）がアルファ版に到達したことが発表されました（公式サイト、GitHubリポジトリ）。 作者のOliver Medhurst氏が明らか...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "Java誕生から現代に至る歴史をゴスリン氏ら関係者が語る公式ドキュメンタリー「The Java Story」、YouTubeで公開中",
-      "url": "https://www.publickey1.jp/blog/26/javathe_java_storyyoutube.html",
-      "time_iso": "2026-09-04T00:27:07+09:00",
-      "excerpt": "Java言語が誕生してから30年以上の年月が経過しています。 Javaはもともと家庭用デバイスのための言語として作られたものの、結局は採用されずに失敗プロジェクトとして始まったことは多くの方がご存知でしょう。 そこから新たな展開としてWeb...",
       "trend_score": 0.0833
     }
   ],
