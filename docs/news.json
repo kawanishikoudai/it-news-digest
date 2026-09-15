@@ -1,189 +1,325 @@
 {
-  "generated_at": "2026-09-15T09:04:36.622662+09:00",
+  "generated_at": "2026-09-16T08:48:39.151293+09:00",
   "items": [
     {
+      "source": "hn",
+      "title": "Saving Jet Fuel",
+      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+      "time_iso": "2026-09-16T08:17:20+09:00",
+      "excerpt": "3 points ・ 1 comments",
+      "trend_score": 0.0667
+    },
+    {
       "source": "itm",
-      "title": "トランプ大統領、アモデイ氏を名指しで「完璧な小さい天使のふり」　「AIに必要なガードレールは強く賢い大統領だけ」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/",
-      "time_iso": "2026-09-15T08:15:18+09:00",
-      "excerpt": "トランプ米大統領はSNSへの投稿で、AIに必要なガードレールは強く賢い大統領だけで十分だと述べ、AI企業に対する刑事・規制上の強い権限を強調した。AnthropicのアモデイCEOを名指しで批判し、AI開発を妨げる動きを中国を利する陰謀だと非難して、米国の優位性を維持する姿勢を示した。",
+      "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
+      "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
+      "time_iso": "2026-09-16T07:13:20+09:00",
+      "excerpt": "OpenAIが、AnthropicやGoogle DeepMindとAIの安全性確保に向けて協議を進めているとBloombergが報じた。反トラスト法の適用除外を巡っては米当局の警戒や議会での法案提出など議論が活発化。一方、NVIDIAのフアンCEOは市場原理で安全性と迅速な開発は両立可能として政府の介入に否定的な見方",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "time_iso": "2026-09-16T06:47:38+09:00",
+      "excerpt": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted ",
       "trend_score": 1.0
     },
     {
       "source": "hn",
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "time_iso": "2026-09-15T08:01:36+09:00",
-      "excerpt": "17 points ・ 0 comments",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "time_iso": "2026-09-16T06:07:47+09:00",
+      "excerpt": "100 points ・ 23 comments",
       "trend_score": 0.8667
     },
     {
-      "source": "itm",
-      "title": "“ぼっちな生まれ”より“ぼっちな育ち”の方が他者と関わるのが苦手？　京大がオタマジャクシの社会性を実験",
-      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001450/",
-      "time_iso": "2026-09-15T07:00:00+09:00",
-      "excerpt": "京都大学大学院の長谷和子さんが国際学術誌「AnimalCognition」で発表した論文「Social isolation, rather than kinship, influences association behavior in toad tadpoles (Bufo formosus)」は、オタマジャクシの社",
-      "trend_score": 0.9167
+      "source": "hn",
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+      "time_iso": "2026-09-16T05:57:18+09:00",
+      "excerpt": "74 points ・ 11 comments",
+      "trend_score": 0.6667
     },
     {
       "source": "tc",
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "time_iso": "2026-09-15T06:51:02+09:00",
-      "excerpt": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "time_iso": "2026-09-16T05:12:53+09:00",
+      "excerpt": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, a",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "time_iso": "2026-09-16T04:30:03+09:00",
+      "excerpt": "115 points ・ 66 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "url": "https://github.com/GraafHenk/numberwang",
+      "time_iso": "2026-09-16T04:27:35+09:00",
+      "excerpt": "89 points ・ 34 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "time_iso": "2026-09-16T04:25:03+09:00",
+      "excerpt": "621 points ・ 205 comments",
       "trend_score": 1.0
     },
     {
       "source": "hn",
-      "title": "Charts built for Chat",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "time_iso": "2026-09-15T06:22:54+09:00",
-      "excerpt": "56 points ・ 19 comments",
-      "trend_score": 0.8
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "time_iso": "2026-09-16T04:07:38+09:00",
+      "excerpt": "21 points ・ 0 comments",
+      "trend_score": 0.3333
     },
     {
-      "source": "itm",
-      "title": "中国外務省、AI開発「減速論」に反応　「恐怖をあおることや対立、悪性の競争は誰の利益にもならない」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001469/",
-      "time_iso": "2026-09-15T06:21:49+09:00",
-      "excerpt": "中国外務省の郭副報道局長は定例会見で、米AI企業トップらが訴える開発減速論について問われ、脅威論や悪質な競争はグローバルなAIガバナンスを阻害するだけだと反論した。また、BRICS首脳会議で習近平国家主席がオープンソースAIコミュニティの設立を提唱したことも明らかにした。",
+      "source": "tc",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "time_iso": "2026-09-16T04:00:00+09:00",
+      "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "trend_score": 0.8333
     },
     {
       "source": "hn",
-      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-      "time_iso": "2026-09-15T06:05:22+09:00",
-      "excerpt": "153 points ・ 157 comments",
-      "trend_score": 0.5333
+      "title": "Chopping up books when they're physically too big",
+      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+      "time_iso": "2026-09-16T03:45:31+09:00",
+      "excerpt": "104 points ・ 100 comments",
+      "trend_score": 0.4
     },
     {
       "source": "tc",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "time_iso": "2026-09-15T05:44:14+09:00",
-      "excerpt": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "tc",
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "time_iso": "2026-09-15T05:07:37+09:00",
-      "excerpt": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to a",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "tc",
-      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-      "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
-      "time_iso": "2026-09-15T03:14:29+09:00",
-      "excerpt": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "time_iso": "2026-09-16T03:29:20+09:00",
+      "excerpt": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
       "trend_score": 0.75
     },
     {
       "source": "tc",
-      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
-      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
-      "time_iso": "2026-09-15T03:08:43+09:00",
-      "excerpt": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "time_iso": "2026-09-16T03:16:07+09:00",
+      "excerpt": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
       "trend_score": 0.6667
     },
     {
       "source": "hn",
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "time_iso": "2026-09-15T02:50:29+09:00",
-      "excerpt": "314 points ・ 344 comments",
-      "trend_score": 1.0
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "time_iso": "2026-09-16T03:11:24+09:00",
+      "excerpt": "188 points ・ 97 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "hn",
+      "title": "An Update on Wayback Machine Access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "time_iso": "2026-09-16T02:52:18+09:00",
+      "excerpt": "334 points ・ 182 comments",
+      "trend_score": 0.8
     },
     {
       "source": "tc",
-      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
-      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
-      "time_iso": "2026-09-15T02:41:20+09:00",
-      "excerpt": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "title": "AI agents now have a place to snitch",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "time_iso": "2026-09-16T02:42:59+09:00",
+      "excerpt": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
       "trend_score": 0.5833
     },
     {
       "source": "hn",
-      "title": "Steam Frame starts at $1059",
-      "url": "https://store.steampowered.com/hardware/steamframe",
-      "time_iso": "2026-09-15T02:27:55+09:00",
-      "excerpt": "457 points ・ 339 comments",
-      "trend_score": 0.2
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "time_iso": "2026-09-16T02:38:18+09:00",
+      "excerpt": "258 points ・ 175 comments",
+      "trend_score": 0.7333
     },
     {
       "source": "hn",
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "time_iso": "2026-09-15T02:16:06+09:00",
-      "excerpt": "264 points ・ 273 comments",
-      "trend_score": 0.9333
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "time_iso": "2026-09-16T02:37:12+09:00",
+      "excerpt": "79 points ・ 39 comments",
+      "trend_score": 0.6
     },
     {
       "source": "tc",
-      "title": "With iOS 27, I’m actually using Siri again",
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "time_iso": "2026-09-15T02:10:30+09:00",
-      "excerpt": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "title": "US military says it has launched weapons into space",
+      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+      "time_iso": "2026-09-16T02:09:06+09:00",
+      "excerpt": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
       "trend_score": 0.5
     },
     {
       "source": "tc",
-      "title": "macOS 27: new Siri takes on AI productivity apps",
-      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-      "time_iso": "2026-09-15T02:10:09+09:00",
-      "excerpt": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "time_iso": "2026-09-16T02:05:24+09:00",
+      "excerpt": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
       "trend_score": 0.4167
     },
     {
       "source": "tc",
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "time_iso": "2026-09-15T02:00:00+09:00",
-      "excerpt": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Si",
+      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+      "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+      "time_iso": "2026-09-16T02:02:04+09:00",
+      "excerpt": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangeme",
       "trend_score": 0.3333
     },
     {
-      "source": "hn",
-      "title": "Why don't machine learning research agents overfit?",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "time_iso": "2026-09-15T01:32:23+09:00",
-      "excerpt": "98 points ・ 53 comments",
-      "trend_score": 0.0667
-    },
-    {
       "source": "tc",
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "time_iso": "2026-09-15T01:27:53+09:00",
-      "excerpt": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and acceler",
+      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+      "url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "time_iso": "2026-09-16T01:00:00+09:00",
+      "excerpt": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security",
       "trend_score": 0.25
     },
     {
-      "source": "hn",
-      "title": "How my e-reader lost its stripes",
-      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "time_iso": "2026-09-15T01:23:16+09:00",
-      "excerpt": "139 points ・ 20 comments",
-      "trend_score": 0.3333
+      "source": "pk",
+      "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
+      "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
+      "time_iso": "2026-09-16T00:52:17+09:00",
+      "excerpt": "オラクルはJavaの最新バージョン「Java 27」正式版をリリースしました。 Java 27 is now available! #Java27 #JDK27 #OpenJDK Download now: https://t.co/0Zw...",
+      "trend_score": 1.0
+    },
+    {
+      "source": "pk",
+      "title": "オラクル、Javaのセキュリティパッチを毎月提供開始、AIが脆弱性の発見を加速しているとして",
+      "url": "https://www.publickey1.jp/blog/26/javaai.html",
+      "time_iso": "2026-09-16T00:49:38+09:00",
+      "excerpt": "オラクルは、これまで3カ月ごとに提供してきたJavaのアップデートパッチのサイクルを速め、1カ月ごとにセキュリティパッチを提供することを発表。先月（2026年8月）から実際にセキュリティパッチの提供が開始されていることを明らかにしました。 ...",
+      "trend_score": 0.9167
     },
     {
       "source": "tc",
-      "title": "Waymo opens robotaxi service in Las Vegas",
-      "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-      "time_iso": "2026-09-15T01:04:16+09:00",
-      "excerpt": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
+      "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+      "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+      "time_iso": "2026-09-16T00:49:18+09:00",
+      "excerpt": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
       "trend_score": 0.1667
     },
     {
+      "source": "tc",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "time_iso": "2026-09-16T00:47:03+09:00",
+      "excerpt": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "trend_score": 0.0833
+    },
+    {
       "source": "hn",
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "time_iso": "2026-09-15T01:02:01+09:00",
-      "excerpt": "219 points ・ 43 comments",
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "time_iso": "2026-09-15T22:31:40+09:00",
+      "excerpt": "263 points ・ 114 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "time_iso": "2026-09-15T21:31:10+09:00",
+      "excerpt": "1231 points ・ 172 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "itm",
+      "title": "メルカリ、ポケカ最新パックの出品禁止に",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001506/",
+      "time_iso": "2026-09-15T19:45:28+09:00",
+      "excerpt": "メルカリは9月15日、ポケモンが16日に発売する「ポケモンカードゲーム 30th CELEBRATION」を同日から出品禁止にすると発表した。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "itm",
+      "title": "ドラマ「VIVANT」のワンシーンに映像制作界隈が「ぞっとする」　microSDカードを端子むき出しで手渡し",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001503/",
+      "time_iso": "2026-09-15T18:26:03+09:00",
+      "excerpt": "TBSの日曜劇場「VIVANT」のワンシーンがXで話題だ。SDカードを端子むき出しのまま素手で受け渡す描写に、映像制作者を中心に注目が集まっている。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "itm",
+      "title": "「監視されていないときのAIは、もう評価できない」　OpenAI現役研究者が個人声明",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
+      "time_iso": "2026-09-15T17:33:37+09:00",
+      "excerpt": "OpenAIの現役研究者ダニエル・セルサム氏は個人的な声明を公開し、モデルの状況認識向上により人間がその真の振る舞いを評価できなくなりつつあると警告した。意図しない目標を獲得したAIが制約から解放された場合、地球環境を損なうほどの極端な行動を取る恐れがあるとし、現行の安全対策に疑問を投げ掛けた。",
+      "trend_score": 0.75
+    },
+    {
+      "source": "itm",
+      "title": "VAIOが再び“挑戦”する理由　ノジマが後押し、独自のマルチフリップ機構が復活へ",
+      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001417/",
+      "time_iso": "2026-09-15T15:37:31+09:00",
+      "excerpt": "25年にノジマ傘下に入ったVAIO。これまで法人向けの保守的な製品が多かった同社だが、ノジマの後押しを受けて再び挑戦するという。",
       "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "映画「バックルームズ」が怖くなかったマンガ家、基になったネット都市伝説にハマって本作の楽しみ方を理解する",
+      "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001423/",
+      "time_iso": "2026-09-15T15:35:03+09:00",
+      "excerpt": "4日に日本でも公開された映画「バックルームズ」が、世界中で大ヒットしています。個人的にあまり怖くなかったのですが、基になった都市伝説を調べるうちに見方が変わりました。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "パナのBDレコーダーが“クラウド録画”に対応　何ができて、何ができない？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001482/",
+      "time_iso": "2026-09-15T15:30:28+09:00",
+      "excerpt": "パナソニックは14日、初の“クラウド録画”に対応した「全自動ディーガ」を発表した。クラウド録画ではどんなことができるのか。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "日本郵便、荷物の本人確認をICチップ付き身分証4種に限定　スマホのマイナカードで受け取れる場合も",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001492/",
+      "time_iso": "2026-09-15T14:55:27+09:00",
+      "excerpt": "日本郵便は9月14日、名あて人本人にのみ郵便物を渡す「本人限定受取郵便」を2027年4月1日から見直すと発表した。受け取り時の本人確認書類をICチップ付きの4種類に限定し、パスポートなどは使えなくなる。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "シャープ、AIサーバ事業に参入　30年度に新規事業の“大半”占める売上2500億円目指す　狙いは？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001483/",
+      "time_iso": "2026-09-15T14:45:06+09:00",
+      "excerpt": "シャープは9月15日、AIサーバ事業に参入すると発表した。同日から、米NVIDIAのGPUを搭載した業務向けAIサーバの受注を始める。まずはサーバ販売から開始し、今後は導入支援や保守、国内生産などに事業領域を広げる。国内のAI推論市場を主戦場に、2030年度に売上高2500億円を目指す。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "不正アクセスで「当選」が「落選」に改ざん　ウルトラマンショップのLINE整理券システムで被害",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001480/",
+      "time_iso": "2026-09-15T12:33:53+09:00",
+      "excerpt": "LINE整理券システム「モギリー」に外部から不正アクセスがあり、本来「当選」だった客133人のステータスが「落選」に書き換えられた。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "ドコモ、26年度中に5G基地局1万局以上を整備へ　通信品質の巻き返し図る",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001479/",
+      "time_iso": "2026-09-15T12:23:18+09:00",
+      "excerpt": "NTTドコモの坪谷寿一副社長は14日までに、産経新聞などの取材に応じ、2026年度中に5G基地局を1万局以上整備する方針を明かした。ターミナル駅など人が集まる場所に小型基地局を数多く設置し、体感品質を改善する。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "Netflixとセガが提携、名作ゲームを続々映像化へ　第1弾は「クレイジータクシー」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001476/",
+      "time_iso": "2026-09-15T11:58:03+09:00",
+      "excerpt": "米Netflixとセガは9月15日、セガのゲーム作品を映像化するパートナーシップを発表した。第1弾として「クレイジータクシー」を実写コメディ映画化するほか、「ソニック・ザ・ヘッジホッグ」「STRANGER THAN HEAVEN」の映像化も進める。",
+      "trend_score": 0.0833
     },
     {
       "source": "pk",
@@ -191,7 +327,7 @@
       "url": "https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html",
       "time_iso": "2026-09-15T00:55:18+09:00",
       "excerpt": "AIエージェントおよびMCP（Model Context Protocol）を主題としたイベント「AGNTCon＋MCPCon Japan 2026」が9月10日に東京渋谷のイベントホールで開催されました。主催はLinux Foundati...",
-      "trend_score": 1.0
+      "trend_score": 0.8333
     },
     {
       "source": "pk",
@@ -199,119 +335,7 @@
       "url": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
       "time_iso": "2026-09-15T00:51:16+09:00",
       "excerpt": "MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし...",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "tc",
-      "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
-      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-      "time_iso": "2026-09-15T00:34:31+09:00",
-      "excerpt": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has ",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "A Beginning for Mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "time_iso": "2026-09-15T00:33:07+09:00",
-      "excerpt": "158 points ・ 90 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "Principles for Fast Tokio Applications",
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "time_iso": "2026-09-15T00:27:56+09:00",
-      "excerpt": "157 points ・ 40 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "hn",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "time_iso": "2026-09-14T21:40:57+09:00",
-      "excerpt": "352 points ・ 304 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "itm",
-      "title": "録画した番組を「Googleドライブ」「OneDrive」に保存　パナソニック新型「DIGA」で",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001465/",
-      "time_iso": "2026-09-14T21:24:01+09:00",
-      "excerpt": "パナソニックが、録画した番組をMicrosoft OneDriveやGoogleドライブに保存できる「クラウド録画」対応のブルーレイディスクレコーダー「全自動ディーガ」5機種を、10月下旬に発売すると発表した。",
       "trend_score": 0.75
-    },
-    {
-      "source": "itm",
-      "title": "「GPT Astraでゲーム開発＝ほぼソシャゲ」説を唱えたい　非エンジニアの挑戦は、廃課金への道か",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001436/",
-      "time_iso": "2026-09-14T21:09:55+09:00",
-      "excerpt": "待てば無料。課金すればガッと進む。これ、ソシャゲ？",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "itm",
-      "title": "「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち　広がる“AI版静かな退職”",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001258/",
-      "time_iso": "2026-09-14T19:48:23+09:00",
-      "excerpt": "AI活用の成果を隠す会社員が少なくなさそうだ。浮いた削減時間は労使どちらの手に……。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "itm",
-      "title": "Appleの「iPhone Duo」は、折りたたみスマホの未来を開くのか、閉じるのか",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001445/",
-      "time_iso": "2026-09-14T19:46:48+09:00",
-      "excerpt": "Apple初の折りたたみスマートフォン「iPhone Duo」。今回の製品発表では、日本のネット上で落胆の声も大きい。理由はいうまでもなく、価格設定だ。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "マンガ数冊「105万円でSOLD」物議、メルカリ“マネロン疑惑”を否定「その価格で売れていない」……ならばなぜ？",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001455/",
-      "time_iso": "2026-09-14T19:37:13+09:00",
-      "excerpt": "「メルカリで、マンガの数冊のセットなど、数千円程度に見える多くの商品が『105万円』で販売済みになっている。マネーロンダリングなど、不正取引に利用されたのでは」――Xで拡散した疑惑にメルカリが回答した。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "楽天モバイル、「ID未連携ユーザーの自動解約」を撤回　2週間で方針転換",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001460/",
-      "time_iso": "2026-09-14T18:56:47+09:00",
-      "excerpt": "楽天モバイルは9月14日、楽天IDと連携していないユーザーの契約を11月30日で自動解約するとしていた方針を撤回すると発表した。これは8月31日の発表を見直したもので、同社は当初、「楽天IDと連携せずに楽天モバイルを利用できる機能」を利用するユーザーに向けて、期限までに「楽天会員へのアップグレード」などの手続きをしなけ",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "XCancel service is suspended until further notice",
-      "url": "https://xcancel.com/#",
-      "time_iso": "2026-09-14T18:51:50+09:00",
-      "excerpt": "417 points ・ 735 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "itm",
-      "title": "古坂大魔王が8歳娘の手描きキャラをAIアニメ化→「良いパパ」「子どもの創造性損ねる」と賛否両論",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001458/",
-      "time_iso": "2026-09-14T18:12:19+09:00",
-      "excerpt": "タレントの古坂大魔王さんが9月13日、8歳の娘が描いたキャラクターを生成AIでアニメーション化した動画をXに投稿した。親子でAIを使った創作を楽しむ姿に好意的な反応が集まる一方、生成AIの利用や学習データを巡る議論も広がっている。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "“自動で耳コピ”アプリ、ヤマハが無料公開　音源読み込み→3分でピアノ譜に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001452/",
-      "time_iso": "2026-09-14T15:39:31+09:00",
-      "excerpt": "標準的な楽曲なら約3分で楽譜にできるという。10月末までのβ期間は完全無料。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "レベルファイブ発表会のAI演出が物議　「不自然」「内容よりAIが気になる」　日野社長「派手にしたかった」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001440/",
-      "time_iso": "2026-09-14T13:00:25+09:00",
-      "excerpt": "「妖怪ウォッチ」「イナズマイレブン」などを手掛けるレベルファイブが、9月10日のオンライン発表会でAI生成映像を多用し、Xなどで物議を醸している。同社の日野晃博社長は9月12日、AI映像に不快感を示した視聴者に謝罪したうえで、自社が進めるAI活用の方針について説明。発表会を「派手にしたい」との狙いから、最新AIを使った",
-      "trend_score": 0.0833
     },
     {
       "source": "pk",
@@ -319,7 +343,7 @@
       "url": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
       "time_iso": "2026-09-14T00:27:57+09:00",
       "excerpt": "マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victor Ciura氏がRus...",
-      "trend_score": 0.8333
+      "trend_score": 0.6667
     },
     {
       "source": "pk",
@@ -327,7 +351,7 @@
       "url": "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
       "time_iso": "2026-09-14T00:20:00+09:00",
       "excerpt": "CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsは、ECサイト構築サービスを提供しているShopifyによって買収されると発表しました。 下記はTailwindの作者であるAdam Wathan氏によ...",
-      "trend_score": 0.75
+      "trend_score": 0.5833
     },
     {
       "source": "pk",
@@ -335,22 +359,14 @@
       "url": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
       "time_iso": "2026-09-14T00:08:50+09:00",
       "excerpt": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...",
-      "trend_score": 0.6667
+      "trend_score": 0.5
     },
     {
       "source": "hn",
-      "title": "Compressing a Flag to 11 Bits",
-      "url": "https://read.vantezzen.io/miniflags",
-      "time_iso": "2026-09-13T00:57:43+09:00",
-      "excerpt": "45 points ・ 18 comments",
-      "trend_score": 0.7333
-    },
-    {
-      "source": "hn",
-      "title": "Optimizing a Spin-Lock",
-      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-      "time_iso": "2026-09-12T18:43:44+09:00",
-      "excerpt": "35 points ・ 15 comments",
+      "title": "Data races and the limits of ThreadSanitizer in C and Go",
+      "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+      "time_iso": "2026-09-13T13:09:19+09:00",
+      "excerpt": "19 points ・ 2 comments",
       "trend_score": 0.1333
     },
     {
@@ -359,7 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/net_11netaot.html",
       "time_iso": "2026-09-11T00:42:50+09:00",
       "excerpt": "マイクロソフトは同社の包括的なアプリケーションフレームワークの次期版となる「.NET 11」の最初のリリース候補版となる「.NET 11 Release Candidate 1」を発表しました。 〰️ SAVE THE DATE 〰️.NE...",
-      "trend_score": 0.5833
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -367,7 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
       "time_iso": "2026-09-10T00:30:50+09:00",
       "excerpt": "Amazon Web Services（AWS）は、AIがフルスタックのAWSアプリケーションに必要なアプリケーションの基本的なコードに加えて、セキュリティや可観測性などの要件も備えたインフラ構成のコードもまとめて生成してくれるツール「Nx...",
-      "trend_score": 0.5
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -375,7 +391,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsamazon_quick.html",
       "time_iso": "2026-09-10T00:27:47+09:00",
       "excerpt": "Amazon Web Services（AWS）は、データ分析プラットフォーム「Amazon Quick」の新機能として、データ分析と表示を行うカスタムアプリケーションを自然言語の指示だけで構築できる新機能を発表しました。 Amazon Q...",
-      "trend_score": 0.4167
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -383,7 +399,7 @@
       "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
       "time_iso": "2026-09-09T00:54:55+09:00",
       "excerpt": "Amazon Web Services（AWS）は、AWSに最適化されたLinux OSの4年ぶりとなるメジャーバージョンアップ「Amazon Linux 2027」をパブリックプレビューとしてリリースしました。 現時点の正式版はAmazo...",
-      "trend_score": 0.3333
+      "trend_score": 0.1667
     },
     {
       "source": "pk",
@@ -391,22 +407,6 @@
       "url": "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
       "time_iso": "2026-09-08T23:28:02+09:00",
       "excerpt": "宇宙を舞台にした世界最大級の大規模オンラインゲーム「EVE Online」が、ゲームを支える240万行のPythonコードをPython 3に移行すると発表しました。 We have officially started our codeb...",
-      "trend_score": 0.25
-    },
-    {
-      "source": "pk",
-      "title": "HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など",
-      "url": "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
-      "time_iso": "2026-09-08T00:39:27+09:00",
-      "excerpt": "HTMLに属性を追加するだけで、Webページにサーバと連動した動的なアプリケーションの機能を追加できるJavaScriptライブラリ「HTMX」の最新バージョンとなる「HTMX 4.0」正式版のリリースが発表されました。 very happ...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか",
-      "url": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
-      "time_iso": "2026-09-07T00:07:10+09:00",
-      "excerpt": "Visual Studio Code（以下、VS Code）はいまやITエンジニアのあいだで最も人気のあるコードエディタの地位を確立しています。 VS Codeはオープンソースであり、そしてWindows、Mac、Linuxのマルチプラット...",
       "trend_score": 0.0833
     }
   ],
