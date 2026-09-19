@@ -1,13 +1,205 @@
 {
-  "generated_at": "2026-09-19T08:44:24.566766+09:00",
+  "generated_at": "2026-09-20T08:46:07.962606+09:00",
   "items": [
     {
+      "source": "itm",
+      "title": "新作「鬼武者」にハマったマンガ家が熱弁する、他とは違う“パリィ”の魅力とは？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/20/2000001640/",
+      "time_iso": "2026-09-20T07:16:00+09:00",
+      "excerpt": "いよいよシルバーウイーク。もし「ゆっくりゲームでも」と思っている方がいたら、ボクは20年ぶりに新作が登場した「鬼武者」をオススメします。",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Mayday Mysteries",
+      "url": "http://www.maydaymystery.org/mayday/",
+      "time_iso": "2026-09-20T06:43:09+09:00",
+      "excerpt": "20 points ・ 3 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "time_iso": "2026-09-20T06:30:59+09:00",
+      "excerpt": "74 points ・ 34 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "time_iso": "2026-09-20T06:25:29+09:00",
+      "excerpt": "19 points ・ 10 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "time_iso": "2026-09-20T05:41:26+09:00",
+      "excerpt": "97 points ・ 107 comments",
+      "trend_score": 0.0667
+    },
+    {
       "source": "tc",
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "time_iso": "2026-09-20T05:39:13+09:00",
+      "excerpt": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "url": "https://ooni.org/install",
+      "time_iso": "2026-09-20T05:00:59+09:00",
+      "excerpt": "73 points ・ 39 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "tc",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "time_iso": "2026-09-20T04:57:47+09:00",
+      "excerpt": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "url": "https://eprint.iacr.org/2026/2039",
+      "time_iso": "2026-09-20T04:23:23+09:00",
+      "excerpt": "46 points ・ 6 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "time_iso": "2026-09-20T02:30:00+09:00",
+      "excerpt": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "time_iso": "2026-09-20T02:00:00+09:00",
+      "excerpt": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, a",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "url": "https://github.com/trycua/cua",
+      "time_iso": "2026-09-20T00:52:51+09:00",
+      "excerpt": "56 points ・ 7 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "hn",
+      "title": "The Lamentable Later Life of Lemmings",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "time_iso": "2026-09-20T00:17:12+09:00",
+      "excerpt": "4 points ・ 1 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "tc",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "time_iso": "2026-09-20T00:00:00+09:00",
+      "excerpt": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though ",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "AI safety conversations have gotten unbelievable",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "time_iso": "2026-09-20T00:00:00+09:00",
+      "excerpt": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "hn",
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "time_iso": "2026-09-19T23:44:02+09:00",
+      "excerpt": "115 points ・ 62 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "time_iso": "2026-09-19T23:00:00+09:00",
+      "excerpt": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until the",
+      "trend_score": 0.5
+    },
+    {
+      "source": "tc",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "time_iso": "2026-09-19T22:00:00+09:00",
+      "excerpt": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "hn",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "time_iso": "2026-09-19T19:46:58+09:00",
+      "excerpt": "1051 points ・ 243 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "hn",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "time_iso": "2026-09-19T18:20:58+09:00",
+      "excerpt": "1315 points ・ 727 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "hn",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "time_iso": "2026-09-19T14:48:50+09:00",
+      "excerpt": "603 points ・ 234 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "itm",
+      "title": "東京ゲームショウと生成AI　ゲームの祭典で商談見込むベンダーたち",
+      "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
+      "time_iso": "2026-09-19T12:00:00+09:00",
+      "excerpt": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "time_iso": "2026-09-19T10:00:00+09:00",
+      "excerpt": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "time_iso": "2026-09-19T09:12:07+09:00",
+      "excerpt": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "trend_score": 0.25
+    },
+    {
+      "source": "tc",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "time_iso": "2026-09-19T08:25:01+09:00",
       "excerpt": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "trend_score": 1.0
+      "trend_score": 0.1667
     },
     {
       "source": "tc",
@@ -15,167 +207,15 @@
       "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
       "time_iso": "2026-09-19T08:13:31+09:00",
       "excerpt": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "tc",
-      "title": "AI hallucination nearly triggers US military operation",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "time_iso": "2026-09-19T08:12:32+09:00",
-      "excerpt": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "time_iso": "2026-09-19T08:04:17+09:00",
-      "excerpt": "15 points ・ 10 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
-      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
-      "time_iso": "2026-09-19T07:35:10+09:00",
-      "excerpt": "106 points ・ 47 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "time_iso": "2026-09-19T06:44:33+09:00",
-      "excerpt": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "time_iso": "2026-09-19T06:00:32+09:00",
-      "excerpt": "393 points ・ 145 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "tc",
-      "title": "Automattic names interim CFO after exec departures",
-      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
-      "time_iso": "2026-09-19T05:25:22+09:00",
-      "excerpt": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "tc",
-      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "time_iso": "2026-09-19T05:24:33+09:00",
-      "excerpt": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "tc",
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "time_iso": "2026-09-19T05:18:14+09:00",
-      "excerpt": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers ",
-      "trend_score": 0.5
-    },
-    {
-      "source": "hn",
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "time_iso": "2026-09-19T04:03:09+09:00",
-      "excerpt": "419 points ・ 200 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "url": "https://arxiv.org/abs/2609.02852",
-      "time_iso": "2026-09-19T04:00:06+09:00",
-      "excerpt": "43 points ・ 17 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "hn",
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "time_iso": "2026-09-19T03:55:35+09:00",
-      "excerpt": "58 points ・ 11 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "hn",
-      "title": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "time_iso": "2026-09-19T03:51:46+09:00",
-      "excerpt": "180 points ・ 36 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "tc",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "time_iso": "2026-09-19T03:49:30+09:00",
-      "excerpt": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "hn",
-      "title": "Xcode 27.1 Beta Release Notes",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "time_iso": "2026-09-19T03:39:31+09:00",
-      "excerpt": "106 points ・ 62 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "tc",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "time_iso": "2026-09-19T02:59:53+09:00",
-      "excerpt": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "In India, the new iPhone can arrive faster than a pizza",
-      "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-      "time_iso": "2026-09-19T02:45:00+09:00",
-      "excerpt": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "time_iso": "2026-09-19T02:33:50+09:00",
-      "excerpt": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out for",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "time_iso": "2026-09-19T02:26:41+09:00",
-      "excerpt": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
       "trend_score": 0.0833
     },
     {
       "source": "hn",
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-      "time_iso": "2026-09-19T01:54:18+09:00",
-      "excerpt": "140 points ・ 46 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "hn",
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "time_iso": "2026-09-18T23:18:41+09:00",
-      "excerpt": "525 points ・ 234 comments",
-      "trend_score": 0.7333
+      "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
+      "url": "https://ufoseries.com/",
+      "time_iso": "2026-09-18T22:35:05+09:00",
+      "excerpt": "44 points ・ 28 comments",
+      "trend_score": 0.2667
     },
     {
       "source": "itm",
@@ -183,7 +223,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001648/",
       "time_iso": "2026-09-18T20:00:36+09:00",
       "excerpt": "ニチレイは9月18日、7月に発生したシステム障害について、サイバー攻撃を受けたサーバの一部に保管していた個人情報計5万3866件の漏えいを確認したと発表した。",
-      "trend_score": 1.0
+      "trend_score": 0.8333
     },
     {
       "source": "itm",
@@ -191,15 +231,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001645/",
       "time_iso": "2026-09-18T19:58:54+09:00",
       "excerpt": "小学館のWebメディア「サライ.jp」は9月18日、8月23日に配信した記事に掲載したイラストを巡り、著作権侵害があったとして謝罪した。制作を担当したフリーランスのイラストレーターが、岡山城に展示されている「豪姫」の肖像画を権利者に無断でChatGPT（米OpenAIが提供する生成AI）に読み込ませ、生成した画像を加工",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "OpenJev",
-      "url": "https://openjev.com/",
-      "time_iso": "2026-09-18T18:42:22+09:00",
-      "excerpt": "531 points ・ 238 comments",
-      "trend_score": 0.2
+      "trend_score": 0.75
     },
     {
       "source": "itm",
@@ -207,7 +239,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001637/",
       "time_iso": "2026-09-18T17:54:06+09:00",
       "excerpt": "東急電鉄とパナソニック コネクトグループは9月16日、ワンマン運転の運転士がドアを閉める際の判断を支援する「乗務員支援ホーム監視AIシステム」を東横線に導入すると発表した。ホームのカメラ映像をAIで解析し、乗降客や介助が必要な利用者の検出結果を運転台のモニターに表示する。17日に綱島駅で運用を始め、代官山駅?横浜駅の計",
-      "trend_score": 0.8333
+      "trend_score": 0.6667
     },
     {
       "source": "itm",
@@ -215,7 +247,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
       "time_iso": "2026-09-18T16:52:09+09:00",
       "excerpt": "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現地を実際に見てきたので、写真を交えて紹介する。",
-      "trend_score": 0.75
+      "trend_score": 0.5833
     },
     {
       "source": "itm",
@@ -223,7 +255,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001631/",
       "time_iso": "2026-09-18T16:19:47+09:00",
       "excerpt": "警視庁匿名・流動型犯罪グループ（トクリュウ）対策本部は9月18日、公式サイトをリニューアルし、闇バイトのリスクに警鐘を鳴らす啓発動画を公開した。SNSや街頭放映も活用し、犯罪への加担や被害を全世代に呼び掛けて防ぐ狙い。",
-      "trend_score": 0.6667
+      "trend_score": 0.5
     },
     {
       "source": "itm",
@@ -231,7 +263,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001630/",
       "time_iso": "2026-09-18T16:01:57+09:00",
       "excerpt": "大阪府豊中市教育委員会は、職員の気づきや悩みを匿名で集めて管理職に届けるアプリ「ココボイス」を試験導入した。自治体での導入は初めて。生成AIとの対話で、対面では伝えにくい本音を職場の改善につなげる。",
-      "trend_score": 0.5833
+      "trend_score": 0.4167
     },
     {
       "source": "itm",
@@ -239,7 +271,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001623/",
       "time_iso": "2026-09-18T14:37:51+09:00",
       "excerpt": "9月17日に開幕した「東京ゲームショウ2026」（千葉・幕張メッセ、9月17?21日）で配布されたノベルティが、フリマアプリ「メルカリ」に相次いで出品されている。一般公開に先立つ「ビジネスデイ」で入手したとみられ、SNS上では「早速転売されている」「ビジネスデイなのにこうなるのか」と批判する声が上がっている。",
-      "trend_score": 0.5
+      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -247,7 +279,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001621/",
       "time_iso": "2026-09-18T14:07:59+09:00",
       "excerpt": "生成AIに「今までにない組み合わせや味」「商品や商品名を見た瞬間に『なんだこりゃ？』と思われる」「食べてみたらおいしい」といったテーマでアイデアを出させた。",
-      "trend_score": 0.4167
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -255,7 +287,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001620/",
       "time_iso": "2026-09-18T14:06:30+09:00",
       "excerpt": "中古スマホ販売・買取サービス「にこスマ」を運営するBelongは、9月10日の米Appleによる新型iPhone発表と既存モデルの値上げ以降、中古iPhoneの販売台数が約14％増加したとITmedia NEWSの取材に回答した。",
-      "trend_score": 0.3333
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -263,47 +295,15 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
       "time_iso": "2026-09-18T13:43:35+09:00",
       "excerpt": "コンピュータエンターテインメント協会（CESA）は9月17日、年次レポート「CESAゲーム産業レポート2026 プレビュー版」を発刊した。初の独自調査で、ゲーム開発者の85.8％が生成AIを業務で活用していると分かった。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "メインで使うスマホ、Androidが54.1％でiPhoneを上回る　40代以上の最多シリーズは「AQUOS」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001612/",
-      "time_iso": "2026-09-18T12:25:53+09:00",
-      "excerpt": "メインで使うスマートフォンは、Androidが54.1％でiPhoneの45.6％を8.5ポイント上回った――。モバイル分野の市場調査を手掛けるMMD研究所が9月17日、こんな調査結果を発表した。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "メルカリ、写真を撮るだけで相場価格が分かる「持ち物査定」　AI活用",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001611/",
-      "time_iso": "2026-09-18T11:52:08+09:00",
-      "excerpt": "新機能で「モノの価値を知る体験」を入り口に、出品への一歩を踏み出してもらうことを目指す。",
       "trend_score": 0.0833
     },
     {
       "source": "hn",
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "time_iso": "2026-09-18T09:11:44+09:00",
-      "excerpt": "152 points ・ 72 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "time_iso": "2026-09-18T06:48:38+09:00",
-      "excerpt": "362 points ・ 253 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "The first new cat species discovered in 100 years",
-      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-      "time_iso": "2026-09-18T03:31:56+09:00",
-      "excerpt": "141 points ・ 38 comments",
-      "trend_score": 0.2667
+      "title": "Compiler-style optimization for drawing via Skia",
+      "url": "https://arxiv.org/abs/2603.23696",
+      "time_iso": "2026-09-18T02:30:38+09:00",
+      "excerpt": "47 points ・ 12 comments",
+      "trend_score": 0.6
     },
     {
       "source": "pk",
@@ -315,11 +315,11 @@
     },
     {
       "source": "hn",
-      "title": "Cyclomatic Complexity in C#",
-      "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
-      "time_iso": "2026-09-17T04:01:09+09:00",
-      "excerpt": "22 points ・ 10 comments",
-      "trend_score": 0.1333
+      "title": "Deodands put a price on objects that caused death",
+      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+      "time_iso": "2026-09-17T04:51:23+09:00",
+      "excerpt": "33 points ・ 12 comments",
+      "trend_score": 0.4667
     },
     {
       "source": "pk",
