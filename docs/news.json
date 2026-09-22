@@ -1,21 +1,229 @@
 {
-  "generated_at": "2026-09-22T09:22:21.346458+09:00",
+  "generated_at": "2026-09-23T08:54:39.206174+09:00",
   "items": [
+    {
+      "source": "tc",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "time_iso": "2026-09-23T08:21:49+09:00",
+      "excerpt": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier ",
+      "trend_score": 1.0
+    },
+    {
+      "source": "itm",
+      "title": "Anthropic、「Claude Opus 5.5」公開　Fable 5.1並みの性能で利用コスト4割減",
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+      "time_iso": "2026-09-23T06:57:43+09:00",
+      "excerpt": "Anthropicは「Claude Opus 5.5」を発表した。多くの作業で「Fable 5.1」並みの性能を持ち、利用コストは「Opus 5」より約40％低い。Pro以上の有料プランとAPIで即日提供を始めた。アモデイCEOの「ペース調整」エッセイ後初のモデルで、METRなど外部機関による事前評価を経て、Fable",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "time_iso": "2026-09-23T06:56:43+09:00",
+      "excerpt": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "time_iso": "2026-09-23T06:00:30+09:00",
+      "excerpt": "133 points ・ 96 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "tc",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "time_iso": "2026-09-23T05:00:00+09:00",
+      "excerpt": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "Native apps written in TypeScript and CSS",
+      "url": "https://github.com/geastack/examples",
+      "time_iso": "2026-09-23T04:42:20+09:00",
+      "excerpt": "67 points ・ 19 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Apple could take on Whoop with a new fitness tracker, report says",
+      "url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+      "time_iso": "2026-09-23T04:27:57+09:00",
+      "excerpt": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "tc",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "time_iso": "2026-09-23T04:09:11+09:00",
+      "excerpt": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and conten",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "time_iso": "2026-09-23T03:57:17+09:00",
+      "excerpt": "128 points ・ 73 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "tc",
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "time_iso": "2026-09-23T03:40:30+09:00",
+      "excerpt": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "tc",
+      "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+      "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+      "time_iso": "2026-09-23T03:24:34+09:00",
+      "excerpt": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
+      "trend_score": 0.5
+    },
+    {
+      "source": "hn",
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "time_iso": "2026-09-23T03:15:53+09:00",
+      "excerpt": "115 points ・ 67 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "hn",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "time_iso": "2026-09-23T03:00:34+09:00",
+      "excerpt": "1076 points ・ 561 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "time_iso": "2026-09-23T03:00:00+09:00",
+      "excerpt": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "hn",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "time_iso": "2026-09-23T02:46:02+09:00",
+      "excerpt": "318 points ・ 209 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "tc",
+      "title": "Waymo’s latest expansion strategy: teenagers",
+      "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+      "time_iso": "2026-09-23T02:36:06+09:00",
+      "excerpt": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "hn",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "time_iso": "2026-09-23T01:51:31+09:00",
+      "excerpt": "216 points ・ 62 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "time_iso": "2026-09-23T01:33:45+09:00",
+      "excerpt": "146 points ・ 77 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "tc",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "time_iso": "2026-09-23T01:30:07+09:00",
+      "excerpt": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "trend_score": 0.25
+    },
+    {
+      "source": "hn",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "time_iso": "2026-09-23T01:29:05+09:00",
+      "excerpt": "1112 points ・ 770 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "tc",
+      "title": "Stolen passwords are exposing America’s water providers to hackers",
+      "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+      "time_iso": "2026-09-23T00:50:58+09:00",
+      "excerpt": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "tc",
+      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+      "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+      "time_iso": "2026-09-23T00:00:00+09:00",
+      "excerpt": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "time_iso": "2026-09-22T22:52:15+09:00",
+      "excerpt": "536 points ・ 354 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "time_iso": "2026-09-22T22:01:03+09:00",
+      "excerpt": "53 points ・ 7 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "itm",
+      "title": "OpenAI、数学者の独立諮問グループと連携　内部モデルは「100件超の未解決問題を解決」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
+      "time_iso": "2026-09-22T11:49:24+09:00",
+      "excerpt": "OpenAIは、数学者が設立した独立組織「AGMAI」と連携し、AIによる数学的成果の評価や公表方法について助言を受けると発表した。社内モデルによる100件以上の未解決問題解決を受けた動きで、急速な成果発表や帰属問題を巡る数学界からの批判に対応する。組織は独立して運営され、他社への助言も行う方針だ。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "itm",
+      "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言　「RSIはまだ起きていない」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+      "time_iso": "2026-09-22T10:51:09+09:00",
+      "excerpt": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "itm",
+      "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック　Shopifyは全店舗で対応へ",
+      "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/",
+      "time_iso": "2026-09-22T09:43:43+09:00",
+      "excerpt": "AmazonがMetaのAIエージェント「Muse」による自社サイトでの代理購入をブロックしたと報じられた。無断アクセスやセキュリティ上のリスクを理由としている。一方、MetaはShopify全ストアへの対応を発表するなど連携拡大を進める。自社サイトでのAIエージェント排除を強めるAmazonとの対立が鮮明になっている",
+      "trend_score": 0.75
+    },
     {
       "source": "itm",
       "title": "SpaceXAI、「Grok 4.7」発表　コーディングと知識労働向けで同社最高性能、価格は据え置き",
       "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
       "time_iso": "2026-09-22T08:46:47+09:00",
       "excerpt": "SpaceXAIはAIモデル「Grok 4.7」を発表した。前モデルと同価格・同速度を維持しつつ大規模なベースモデルを採用し、コーディングや長時間の業務タスク性能、安全性を強化した。[Cursor](https://www.itmedia.co.jp/news/article/2606/17/1260617066/)や",
-      "trend_score": 1.0
-    },
-    {
-      "source": "tc",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "time_iso": "2026-09-22T08:44:28+09:00",
-      "excerpt": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "trend_score": 1.0
+      "trend_score": 0.6667
     },
     {
       "source": "itm",
@@ -23,39 +231,15 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001649/",
       "time_iso": "2026-09-22T08:31:00+09:00",
       "excerpt": "Rokidから早くもディスプレイなし・スピーカーあり・カメラありのモデル「Rokid Ai Glasses Style」が追加された。今回はこちらを試してみたい。",
-      "trend_score": 0.9167
+      "trend_score": 0.5833
     },
     {
       "source": "hn",
-      "title": "Looking forward to Git 2.56 – and 3.0",
-      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "time_iso": "2026-09-22T08:16:51+09:00",
-      "excerpt": "7 points ・ 1 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "hn",
-      "title": "Spymarks, Not Watermarks",
-      "url": "https://brand.io/article/spymarks/",
-      "time_iso": "2026-09-22T08:03:49+09:00",
-      "excerpt": "35 points ・ 10 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "hn",
-      "title": "Data Protection Commission fines Google €403M over processing of location data",
-      "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-      "time_iso": "2026-09-22T07:33:45+09:00",
-      "excerpt": "62 points ・ 24 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "time_iso": "2026-09-22T07:30:41+09:00",
-      "excerpt": "154 points ・ 49 comments",
-      "trend_score": 0.8
+      "title": "Markdown in /src",
+      "url": "https://htmx.org/essays/markdown-in-src/",
+      "time_iso": "2026-09-22T07:47:54+09:00",
+      "excerpt": "76 points ・ 36 comments",
+      "trend_score": 0.0667
     },
     {
       "source": "itm",
@@ -63,175 +247,15 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001667/",
       "time_iso": "2026-09-22T07:30:05+09:00",
       "excerpt": "Googleは5月に発表した新型ノートPC「Googlebook」の予約受付を開始した。899ドル（約14万円）からで日本は発売地域外。Androidを基盤にデスクトップ機能を組み合わせ、AIやスマホ連携を強化したフラグシップ機と位置付ける。自社製はなくAcerやASUSなど5社から展開し、最長10年のOSアップデート",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
-      "url": "https://www.personalimportation.org/advocacy",
-      "time_iso": "2026-09-22T05:58:17+09:00",
-      "excerpt": "126 points ・ 84 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "time_iso": "2026-09-22T05:15:58+09:00",
-      "excerpt": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "Xiaomi MiMo v2.6",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "time_iso": "2026-09-22T05:12:12+09:00",
-      "excerpt": "461 points ・ 232 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "time_iso": "2026-09-22T04:43:49+09:00",
-      "excerpt": "164 points ・ 28 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "tc",
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "time_iso": "2026-09-22T04:25:00+09:00",
-      "excerpt": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "time_iso": "2026-09-22T04:23:33+09:00",
-      "excerpt": "121 points ・ 109 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "tc",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "time_iso": "2026-09-22T04:19:21+09:00",
-      "excerpt": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "time_iso": "2026-09-22T04:17:42+09:00",
-      "excerpt": "73 points ・ 37 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "hn",
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "time_iso": "2026-09-22T04:14:12+09:00",
-      "excerpt": "282 points ・ 214 comments",
-      "trend_score": 0.7333
-    },
-    {
-      "source": "hn",
-      "title": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "time_iso": "2026-09-22T03:33:44+09:00",
-      "excerpt": "102 points ・ 27 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "tc",
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "time_iso": "2026-09-22T03:23:05+09:00",
-      "excerpt": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "tc",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "time_iso": "2026-09-22T02:55:18+09:00",
-      "excerpt": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obliga",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "tc",
-      "title": "X will now tell users when governments have forced it to limit their posts",
-      "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-      "time_iso": "2026-09-22T02:45:35+09:00",
-      "excerpt": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, incl",
       "trend_score": 0.5
     },
     {
-      "source": "tc",
-      "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
-      "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
-      "time_iso": "2026-09-22T01:45:47+09:00",
-      "excerpt": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "time_iso": "2026-09-22T01:38:51+09:00",
-      "excerpt": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and los",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "time_iso": "2026-09-22T00:00:00+09:00",
-      "excerpt": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before Sept",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "time_iso": "2026-09-21T23:39:22+09:00",
-      "excerpt": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "time_iso": "2026-09-21T23:30:00+09:00",
-      "excerpt": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-      "trend_score": 0.0833
-    },
-    {
       "source": "hn",
-      "title": "Attention is all you have",
-      "url": "https://alicegg.tech/2026/09/21/attention",
-      "time_iso": "2026-09-21T23:26:56+09:00",
-      "excerpt": "553 points ・ 162 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "time_iso": "2026-09-21T23:03:18+09:00",
-      "excerpt": "486 points ・ 271 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "hn",
-      "title": "First Shader from Zero in Godot 4",
-      "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
-      "time_iso": "2026-09-21T19:57:44+09:00",
-      "excerpt": "17 points ・ 0 comments",
-      "trend_score": 0.3333
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "time_iso": "2026-09-21T10:07:46+09:00",
+      "excerpt": "32 points ・ 10 comments",
+      "trend_score": 0.6667
     },
     {
       "source": "itm",
@@ -239,7 +263,15 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
       "time_iso": "2026-09-21T09:45:19+09:00",
       "excerpt": "トランプ大統領はSNSへの投稿で、AIを担当する新組織「AI Force」の創設と責任者“AI皇帝”の指名を表明した。AI脅威論を否定して業界の成長支援を掲げ、AIの新たな呼称案の投票も呼び掛けた。Anthropicなどの経営陣から開発のペース調整や安全性を求める声が相次ぐ中、規制に否定的な姿勢を鮮明にしている。",
-      "trend_score": 0.75
+      "trend_score": 0.4167
+    },
+    {
+      "source": "hn",
+      "title": "MUNI Heritage Weekend in San Francisco",
+      "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
+      "time_iso": "2026-09-21T07:13:07+09:00",
+      "excerpt": "149 points ・ 37 comments",
+      "trend_score": 0.2
     },
     {
       "source": "itm",
@@ -247,7 +279,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/",
       "time_iso": "2026-09-21T06:50:52+09:00",
       "excerpt": "GoogleのAI「Gemini」が、サイバーセキュリティの評価テスト中に外部ネットワークへ接続し、実在する3社のシステムへ自律的に侵入していたことが判明した。架空なはずの社名が実存企業と一致したことやテスト環境の設定不備が原因。Googleは、Geminiが実在企業と認識した時点で侵入を中止しており、実害やミスアライ",
-      "trend_score": 0.6667
+      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -255,15 +287,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/20/2000001640/",
       "time_iso": "2026-09-20T07:16:00+09:00",
       "excerpt": "いよいよシルバーウイーク。もし「ゆっくりゲームでも」と思っている方がいたら、ボクは20年ぶりに新作が登場した「鬼武者」をオススメします。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "hn",
-      "title": "Divide by depth for instant 3D",
-      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
-      "time_iso": "2026-09-20T04:43:13+09:00",
-      "excerpt": "68 points ・ 6 comments",
-      "trend_score": 0.2667
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -271,7 +295,15 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
       "time_iso": "2026-09-19T12:00:00+09:00",
       "excerpt": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
-      "trend_score": 0.5
+      "trend_score": 0.1667
+    },
+    {
+      "source": "hn",
+      "title": "How did AMD Ryzen get 50% faster in two years?",
+      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+      "time_iso": "2026-09-19T04:01:03+09:00",
+      "excerpt": "182 points ・ 60 comments",
+      "trend_score": 0.2667
     },
     {
       "source": "itm",
@@ -279,38 +311,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001648/",
       "time_iso": "2026-09-18T20:00:36+09:00",
       "excerpt": "ニチレイは9月18日、7月に発生したシステム障害について、サイバー攻撃を受けたサーバの一部に保管していた個人情報計5万3866件の漏えいを確認したと発表した。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "肖像画をChatGPTに読み込ませて出力→加工して納品　委託先による著作権侵害で、小学館「サライ.jp」が謝罪",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001645/",
-      "time_iso": "2026-09-18T19:58:54+09:00",
-      "excerpt": "小学館のWebメディア「サライ.jp」は9月18日、8月23日に配信した記事に掲載したイラストを巡り、著作権侵害があったとして謝罪した。制作を担当したフリーランスのイラストレーターが、岡山城に展示されている「豪姫」の肖像画を権利者に無断でChatGPT（米OpenAIが提供する生成AI）に読み込ませ、生成した画像を加工",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "東急、運転手のドア閉めをAIで補助　東横線に「ホーム監視AI」導入へ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001637/",
-      "time_iso": "2026-09-18T17:54:06+09:00",
-      "excerpt": "東急電鉄とパナソニック コネクトグループは9月16日、ワンマン運転の運転士がドアを閉める際の判断を支援する「乗務員支援ホーム監視AIシステム」を東横線に導入すると発表した。ホームのカメラ映像をAIで解析し、乗降客や介助が必要な利用者の検出結果を運転台のモニターに表示する。17日に綱島駅で運用を始め、代官山駅?横浜駅の計",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
-      "time_iso": "2026-09-18T16:52:09+09:00",
-      "excerpt": "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現地を実際に見てきたので、写真を交えて紹介する。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "「人生が崩壊することを印象付けたい」　警視庁がトクリュウ対策サイトをリニューアル",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001631/",
-      "time_iso": "2026-09-18T16:19:47+09:00",
-      "excerpt": "警視庁匿名・流動型犯罪グループ（トクリュウ）対策本部は9月18日、公式サイトをリニューアルし、闇バイトのリスクに警鐘を鳴らす啓発動画を公開した。SNSや街頭放映も活用し、犯罪への加担や被害を全世代に呼び掛けて防ぐ狙い。",
       "trend_score": 0.0833
     },
     {
