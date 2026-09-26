@@ -1,181 +1,301 @@
 {
-  "generated_at": "2026-09-25T09:07:37.075234+09:00",
+  "generated_at": "2026-09-26T09:14:45.484523+09:00",
   "items": [
     {
+      "source": "itm",
+      "title": "ずっと座っている人ほど椅子には“動いて”ほしい　Razerの最新ゲーミングチェア「Iskur V2 NewGen」を試す",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001759/",
+      "time_iso": "2026-09-26T08:31:00+09:00",
+      "excerpt": "キーボードに近づくとき、画面を見上げるとき、少し休憩して背もたれに身を預けるとき……そのたびに腰当てを手で直すのではなく、チェア側が人の動きについてくる。これが、Razer「Iskur V2 NewGen」の設計上のポイントです。",
+      "trend_score": 1.0
+    },
+    {
       "source": "tc",
-      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
-      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-      "time_iso": "2026-09-25T08:24:33+09:00",
-      "excerpt": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "time_iso": "2026-09-26T08:11:10+09:00",
+      "excerpt": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
       "trend_score": 1.0
     },
     {
-      "source": "hn",
-      "title": "GitLab Outage",
-      "url": "https://status.gitlab.com/",
-      "time_iso": "2026-09-25T08:10:44+09:00",
-      "excerpt": "32 points ・ 10 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "itm",
-      "title": "東京ゲームショウで“空気”を展示する謎の企業　正体はJR東も頼る脱臭のプロ、ゲーム業界着目のワケ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001699/",
-      "time_iso": "2026-09-25T07:30:00+09:00",
-      "excerpt": "日本最大のゲームの祭典「東京ゲームショウ2026」（9月17?20日、幕張メッセ）。ゲームそのものに加え、関連製品・サービスの展示も盛んな同イベントだが、なんと会場には“空気”を展示する風変りな企業の姿も。その正体は、工場や鉄道車両の脱臭を本業とするカルモア（東京都中央区）。同社は「ゲーミングエアー」と称し、ゲーマーを",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "J:COMネット障害、原因は「外部からの大量アクセス」　DNSサーバに高負荷　最大約408万件に影響",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001729/",
-      "time_iso": "2026-09-25T07:26:46+09:00",
-      "excerpt": "障害情報を公開するまで時間がかかったことにも謝罪した。",
+      "source": "tc",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "time_iso": "2026-09-26T08:04:34+09:00",
+      "excerpt": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
       "trend_score": 0.9167
     },
     {
       "source": "itm",
-      "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」初の試作衛星をFalcon 9で打ち上げへ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001728/",
-      "time_iso": "2026-09-25T07:18:56+09:00",
-      "excerpt": "Googleは、衛星軌道上にAIデータセンターを構築する「Project Suncatcher」で、初の軌道上試験を実施すると発表した。TPUを搭載した試作衛星をSpaceXのロケットで打ち上げ、打ち上げ時の負荷や放射線、宇宙空間での排熱に耐えられるかを検証する。将来は複数衛星の連携を目指す。",
+      "title": "Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+      "time_iso": "2026-09-26T07:48:32+09:00",
+      "excerpt": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "time_iso": "2026-09-26T07:20:47+09:00",
+      "excerpt": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "trend_score": 0.8333
     },
     {
       "source": "hn",
-      "title": "Back and shoulder surgery is often worse than useless",
-      "url": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
-      "time_iso": "2026-09-25T07:15:58+09:00",
-      "excerpt": "36 points ・ 23 comments",
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "time_iso": "2026-09-26T06:36:56+09:00",
+      "excerpt": "62 points ・ 70 comments",
       "trend_score": 0.2
     },
     {
       "source": "hn",
-      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-      "url": "https://koi.rest",
-      "time_iso": "2026-09-25T06:33:03+09:00",
-      "excerpt": "101 points ・ 25 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "tc",
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "time_iso": "2026-09-25T05:45:00+09:00",
-      "excerpt": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-      "trend_score": 0.9167
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "time_iso": "2026-09-26T06:09:27+09:00",
+      "excerpt": "126 points ・ 84 comments",
+      "trend_score": 1.0
     },
     {
       "source": "hn",
-      "title": "California is chasing wealth that has feet",
-      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-      "time_iso": "2026-09-25T05:34:32+09:00",
-      "excerpt": "103 points ・ 284 comments",
-      "trend_score": 0.1333
+      "title": "Excel now supports multiple values in a single cell",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "time_iso": "2026-09-26T05:55:00+09:00",
+      "excerpt": "64 points ・ 52 comments",
+      "trend_score": 0.6
     },
     {
       "source": "tc",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "time_iso": "2026-09-25T04:15:00+09:00",
-      "excerpt": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "time_iso": "2026-09-25T04:14:27+09:00",
-      "excerpt": "49 points ・ 9 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "time_iso": "2026-09-25T04:00:42+09:00",
-      "excerpt": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "time_iso": "2026-09-26T05:34:53+09:00",
+      "excerpt": "Anyone interested in joining has to ask Muse to put them on the list.",
       "trend_score": 0.75
     },
     {
       "source": "tc",
-      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "time_iso": "2026-09-25T03:52:38+09:00",
-      "excerpt": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "time_iso": "2026-09-26T05:33:58+09:00",
+      "excerpt": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
       "trend_score": 0.6667
     },
     {
+      "source": "hn",
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "url": "https://news.ycombinator.com/item?id=49848955",
+      "time_iso": "2026-09-26T04:37:55+09:00",
+      "excerpt": "64 points ・ 47 comments",
+      "trend_score": 0.0667
+    },
+    {
       "source": "tc",
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "time_iso": "2026-09-25T03:11:44+09:00",
-      "excerpt": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "time_iso": "2026-09-26T04:13:38+09:00",
+      "excerpt": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual a",
       "trend_score": 0.5833
     },
     {
       "source": "tc",
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "time_iso": "2026-09-25T02:39:24+09:00",
-      "excerpt": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning ga",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "time_iso": "2026-09-26T03:48:33+09:00",
+      "excerpt": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "trend_score": 0.5
     },
     {
-      "source": "hn",
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "time_iso": "2026-09-25T02:21:36+09:00",
-      "excerpt": "169 points ・ 75 comments",
-      "trend_score": 0.8667
-    },
-    {
       "source": "tc",
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "time_iso": "2026-09-25T02:07:55+09:00",
-      "excerpt": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "time_iso": "2026-09-26T03:33:59+09:00",
+      "excerpt": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
       "trend_score": 0.4167
     },
     {
+      "source": "hn",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "time_iso": "2026-09-26T03:33:50+09:00",
+      "excerpt": "308 points ・ 90 comments",
+      "trend_score": 0.9333
+    },
+    {
       "source": "tc",
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "time_iso": "2026-09-25T02:00:00+09:00",
-      "excerpt": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+      "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+      "time_iso": "2026-09-26T02:30:00+09:00",
+      "excerpt": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
       "trend_score": 0.3333
     },
     {
       "source": "tc",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "time_iso": "2026-09-25T01:46:47+09:00",
-      "excerpt": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "time_iso": "2026-09-26T02:29:46+09:00",
+      "excerpt": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
       "trend_score": 0.25
     },
     {
       "source": "tc",
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "time_iso": "2026-09-25T01:35:13+09:00",
-      "excerpt": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that ",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "time_iso": "2026-09-26T02:24:36+09:00",
+      "excerpt": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
       "trend_score": 0.1667
     },
     {
+      "source": "tc",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "time_iso": "2026-09-26T01:16:52+09:00",
+      "excerpt": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "trend_score": 0.0833
+    },
+    {
       "source": "hn",
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "time_iso": "2026-09-25T01:23:00+09:00",
-      "excerpt": "210 points ・ 135 comments",
+      "title": "Gravity seems holographic. What does that mean for reality?",
+      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "time_iso": "2026-09-26T00:31:02+09:00",
+      "excerpt": "106 points ・ 103 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "time_iso": "2026-09-26T00:29:25+09:00",
+      "excerpt": "363 points ・ 669 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "time_iso": "2026-09-25T23:28:07+09:00",
+      "excerpt": "129 points ・ 60 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "hn",
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "time_iso": "2026-09-25T22:55:37+09:00",
+      "excerpt": "203 points ・ 95 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "Platform-independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "time_iso": "2026-09-25T20:47:06+09:00",
+      "excerpt": "347 points ・ 132 comments",
       "trend_score": 0.8
     },
     {
-      "source": "tc",
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "time_iso": "2026-09-25T01:03:36+09:00",
-      "excerpt": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT",
+      "source": "hn",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "time_iso": "2026-09-25T20:38:31+09:00",
+      "excerpt": "293 points ・ 96 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "itm",
+      "title": "Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001772/",
+      "time_iso": "2026-09-25T20:13:14+09:00",
+      "excerpt": "Helpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を公開し、ユーザーが過去に削除した画像のメタデータ約1億7400万件も流出していたと発表した。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "itm",
+      "title": "落とし物が駅や警察に届く→アプリに通知　持ち物に貼る“お守りシール”、findが発売　5枚入り1000円",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001771/",
+      "time_iso": "2026-09-25T19:47:36+09:00",
+      "excerpt": "落とし物管理サービスを手掛けるfind（東京都港区）は9月24日、紛失物が警察や対応施設に届くと所有者に通知するシール「find return」を発表した。シールとfindの落とし物管理サービスを組み合わせた商品で、貼り付けた物が拾得物として対応施設に届くと、findから持ち主に通知する。10月1日から販売し、価格はシ",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "An airport cooled by natural ventilation",
+      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+      "time_iso": "2026-09-25T19:16:50+09:00",
+      "excerpt": "32 points ・ 16 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "itm",
+      "title": "テラドローン、JAXAの有人機サブシステム開発業務を落札　無人機の支援に続き",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001768/",
+      "time_iso": "2026-09-25T17:53:15+09:00",
+      "excerpt": "テラドローンは9月25日、宇宙航空研究開発機構（JAXA）が公募する「災害・緊急時等に活用可能な小型無人機を含めた運航安全管理技術」のうち、「有人機サブシステム（地上部）」の開発業務を落札したと発表した。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "パナソニックが市販カーナビ生産終了へ　30年以上の歴史に幕、スマホナビの普及など受け",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001763/",
+      "time_iso": "2026-09-25T17:11:22+09:00",
+      "excerpt": "パナソニック オートモーティブシステムズ（神奈川県横浜市）は9月25日、市販向けカーナビゲーションと専用オプション品の生産を2027年3月までに終了すると発表した。同社は1993年から市販カーナビを展開しており、30年余りの歴史に幕を下ろす。背景として、スマートフォンのナビアプリの普及や、車載情報システムの高機能化・標",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "アジア大会、11歳がeスポーツ「ぷよぷよ」で決勝へ　日本選手団最年少",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001761/",
+      "time_iso": "2026-09-25T15:48:59+09:00",
+      "excerpt": "愛知・名古屋アジア大会で9月24日、日本選手団最年少の11歳・栗原悠輝選手（東京ヴェルディ）がeスポーツ「ぷよぷよ」の決勝に進んだ。グループステージを3戦全勝で首位通過した。決勝は26日に行う。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "“七輪型コントローラー”東京ゲームショウで異彩　正体は学生作品、遊び方は？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001718/",
+      "time_iso": "2026-09-25T15:33:03+09:00",
+      "excerpt": "話題の注目ゲームやその関連製品が一堂に会した「東京ゲームショウ2026」（9月17?20日、幕張メッセ）。絢爛（けんらん）なブースやコスプレイヤーが注目を浴びる一方、派手さはなくとも不思議な存在感を放つ展示があった。神奈川工科大学情報学部情報メディア学科の学生たちが作った料理ゲーム「七輪制風」だ。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "神奈川・千葉襲った台風25号　水没した太陽光パネルや土砂崩れの様子も　アジア航測が航空写真約400枚公開",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001744/",
+      "time_iso": "2026-09-25T15:32:11+09:00",
+      "excerpt": "アジア航測は9月24日、台風25号による被害状況を捉えた航空写真約400枚を公開した。エアロトヨタと共同で同日に航空機から撮影したもので、神奈川県や千葉県・印旛沼周辺など、被災地の様子を上空から確認できる。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "ahamo初の値上げ　「大盛りオプション」撤廃、40GB・60GB・120GBの3段階制に",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001757/",
+      "time_iso": "2026-09-25T15:14:36+09:00",
+      "excerpt": "月30GBのプランは、容量を10GB増やした上で、165円アップの3135円になる。ahamoの値上げは、2021年3月の提供開始以来初。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "ドコモSMTBネット銀で障害　「着金しない」「給料日にやめて」と悲鳴【復旧】",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001745/",
+      "time_iso": "2026-09-25T14:27:16+09:00",
+      "excerpt": "Xでは「振込手続きでシステムエラーになる」「証券口座から出金した資金が届かない」といった声が出ている。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "破産した全東信、未精算の売上金を加盟店に支払いへ　JCBなど6社が協力　10月中にも",
+      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001749/",
+      "time_iso": "2026-09-25T13:36:47+09:00",
+      "excerpt": "クレジットカード決済代行の全東信（破産手続き中）の破産管財人は、加盟店に未払いとなっていたクレジット売上金について、提携先だったカード会社6社の協力により支払える見込みになったと発表した。支払いは10月30日頃を予定している。",
       "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "Remembering Johannes Doerfert",
+      "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+      "time_iso": "2026-09-25T08:36:50+09:00",
+      "excerpt": "38 points ・ 1 comments",
+      "trend_score": 0.4667
     },
     {
       "source": "pk",
@@ -187,115 +307,11 @@
     },
     {
       "source": "hn",
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "time_iso": "2026-09-25T00:26:12+09:00",
-      "excerpt": "882 points ・ 248 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "time_iso": "2026-09-24T22:53:29+09:00",
-      "excerpt": "86 points ・ 170 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "itm",
-      "title": "中国旅行の支払いをApple Payやクレカで　Tencent、訪中客向け決済アプリ「TenPayGo」発表",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001717/",
-      "time_iso": "2026-09-24T22:13:35+09:00",
-      "excerpt": "中国Tencentは9月24日、海外から中国を訪れる旅行者向けの決済アプリ「TenPayGo」をローンチした。同社のメッセージアプリ「WeChat」の決済サービス「Weixin Pay」の機能を利用したアプリで、Apple Payや国際ブランドのクレジットカード・デビットカード、対象の電子ウォレットを使って、中国国内の",
-      "trend_score": 0.75
-    },
-    {
-      "source": "itm",
-      "title": "YouTube、視聴者向け新機能を発表　プロンプトで作る「カスタムフィード」、「YouTubeに相談」の買い物支援、YouTube Musicの「Ask Music」など",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001684/",
-      "time_iso": "2026-09-24T20:58:36+09:00",
-      "excerpt": "YouTubeは「Made on YouTube 2026」で、視聴者向けの新機能を発表した。気分や関心に沿ったフィードを自作できる「カスタムフィード」や、商品選びを対話で支援する「YouTubeに相談」の拡張、音楽やポッドキャストのAI音声ガイドなどを順次導入する。テレビでの音声コメントやライブ自動翻訳も提供する。",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "itm",
-      "title": "「モンスト」キャラの声をAI生成、MIXIのニュース紹介企画に批判続出　実施見合わせへ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001720/",
-      "time_iso": "2026-09-24T20:10:44+09:00",
-      "excerpt": "スマートフォンゲーム「モンスターストライク」（モンスト）のキャラクター「ガブリエル」を模したAI音声で、MIXIのニュースリリース（報道発表）を紹介する──同社が予告したこんな企画に対し、Xで批判が相次いでいる。MIXIは9月24日、企画の実施を見合わせると発表し、「内容や形をあらためて検討する」とした。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "itm",
-      "title": "台風25号で“地下神殿”また稼働　雨水が流れ込む動画公開　今年度7回目で過去最多に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001705/",
-      "time_iso": "2026-09-24T18:58:53+09:00",
-      "excerpt": "国土交通省江戸川河川事務所は9月23日、台風25号の降雨に伴い「首都圏外郭放水路」（埼玉県春日部市）に雨水が流れ込む様子の動画を公式Xに投稿した。浸水被害軽減のためのポンプ稼働は今年度7回目で、施設完成後の年間稼働回数の記録を更新したという。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "NTT東西が「にじさんじ電報」発売　ポップアップ台紙にはライバーの複製手書きメッセージ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001713/",
-      "time_iso": "2026-09-24T18:31:36+09:00",
-      "excerpt": "NTT東日本とNTT西日本は9月24日、バーチャルライバーグループ「にじさんじ」とコラボレーションした慶祝用電報台紙「にじさんじ電報」を10月1日に発売すると発表した。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001708/",
-      "time_iso": "2026-09-24T17:31:02+09:00",
-      "excerpt": "楽天銀行と楽天証券の連携サービスを利用している一部のユーザーが9月22日、意図しない資金移動を相次いで報告。楽天証券が対応した。",
+      "title": "Initial DIY cleanroom experimentation",
+      "url": "https://www.jefftk.com/p/initial-diy-cleanroom-experimentation",
+      "time_iso": "2026-09-24T16:02:46+09:00",
+      "excerpt": "15 points ・ 4 comments",
       "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "YouTube、クリエイター向け新機能を多数発表　Geminiによる会話型編集、動画のA/Bテスト、ライブ配信者のマッチングなど",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001682/",
-      "time_iso": "2026-09-24T16:54:28+09:00",
-      "excerpt": "YouTubeは年次イベント「Made on YouTube 2026」で、クリエイター支援の新機能を多数発表した。Geminiによる編集アシスタントや動画のA／Bテスト、ディープフェイク対策の類似性検出などを順次導入する。ショート動画のシリーズ化や共同配信のマッチングなど、制作から収益化まで包括的に支援する。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開　「Gemini Notebook」でも利用可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001703/",
-      "time_iso": "2026-09-24T16:46:40+09:00",
-      "excerpt": "Googleは、テキストから音声を生成する「Gemini 3.8 Flash TTS」とその軽量版を公開した。従来の選択式から進化し、自然言語による声のゼロからの生成や演技・感情の細かな制御に対応する。日本語を含む多言語をサポートし、透かし技術「SynthID」も埋め込む。開発者向けAPIや各種サービスで順次提供する。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "Amazon「プライム感謝祭」10月16日から4日間　エントリー開始、対象商品400万点以上に倍増",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001702/",
-      "time_iso": "2026-09-24T16:25:58+09:00",
-      "excerpt": "ポイントアップキャンペーンのエントリー受け付けが既に始まっている。",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "time_iso": "2026-09-24T07:53:28+09:00",
-      "excerpt": "419 points ・ 58 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "Toyota is taking the Corolla electric",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "time_iso": "2026-09-24T07:37:28+09:00",
-      "excerpt": "182 points ・ 265 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "time_iso": "2026-09-24T00:33:33+09:00",
-      "excerpt": "211 points ・ 226 comments",
-      "trend_score": 0.6
     },
     {
       "source": "pk",
@@ -315,27 +331,11 @@
     },
     {
       "source": "hn",
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "time_iso": "2026-09-23T02:49:46+09:00",
-      "excerpt": "190 points ・ 82 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "hn",
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
-      "time_iso": "2026-09-22T23:00:08+09:00",
-      "excerpt": "71 points ・ 7 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "time_iso": "2026-09-22T21:23:37+09:00",
-      "excerpt": "160 points ・ 28 comments",
-      "trend_score": 0.7333
+      "title": "Show HN: Make math automatic with Mathy",
+      "url": "https://gmays.com/making-math-automatic-with-mathy/",
+      "time_iso": "2026-09-21T23:49:05+09:00",
+      "excerpt": "69 points ・ 16 comments",
+      "trend_score": 0.1333
     },
     {
       "source": "pk",
