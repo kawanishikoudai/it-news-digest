@@ -1,21 +1,173 @@
 {
-  "generated_at": "2026-09-26T09:14:45.484523+09:00",
+  "generated_at": "2026-09-27T09:01:21.196644+09:00",
   "items": [
+    {
+      "source": "itm",
+      "title": "イーロン・マスク氏のドキュメンタリー映画「MUSK」の予告編広告、YouTubeとMetaが一時拒否から一転承認　Xは応じず",
+      "url": "https://www.itmedia.co.jp/news/article/2609/27/2000001775/",
+      "time_iso": "2026-09-27T07:59:53+09:00",
+      "excerpt": "イーロン・マスク氏のドキュメンタリー映画「MUSK」の予告編広告を主要SNS各社が拒否したと報じられた。政治的コンテンツへの該当などが理由とされたが、YouTubeとMetaは誤検知や再審査を経て掲載を承認した。マスク氏本人は作品を中傷と批判しており、Xは配給元の連絡に応じていないとされる。",
+      "trend_score": 1.0
+    },
+    {
+      "source": "itm",
+      "title": "映画「SEKIRO」にホロリときたマンガ家、賛否両論の“原作ゲーム改変”が悪くないと思った理由とは？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/27/2000001769/",
+      "time_iso": "2026-09-27T07:16:00+09:00",
+      "excerpt": "ゲームを題材にした映画「SEKIRO:NO DEFEAT」の追加公開が決定しました。フロム・ソフトウェアの名作をアニメ化したこの作品、ネットの評価はイマイチですが、実際に見てボクは原作改変部分も悪くないと思いました。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "time_iso": "2026-09-27T06:02:06+09:00",
+      "excerpt": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+      "time_iso": "2026-09-27T05:24:45+09:00",
+      "excerpt": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed ",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+      "time_iso": "2026-09-27T05:08:50+09:00",
+      "excerpt": "38 points ・ 5 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "time_iso": "2026-09-27T03:22:41+09:00",
+      "excerpt": "129 points ・ 35 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "time_iso": "2026-09-27T02:44:00+09:00",
+      "excerpt": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "time_iso": "2026-09-27T02:10:40+09:00",
+      "excerpt": "151 points ・ 44 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "hn",
+      "title": "The Evolution of Vending Machines",
+      "url": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+      "time_iso": "2026-09-27T02:01:45+09:00",
+      "excerpt": "7 points ・ 0 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "tc",
+      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+      "time_iso": "2026-09-27T02:00:00+09:00",
+      "excerpt": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "time_iso": "2026-09-27T00:56:34+09:00",
+      "excerpt": "100 points ・ 32 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "tc",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "time_iso": "2026-09-26T23:00:00+09:00",
+      "excerpt": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "アニメを支える外国人材に“逆風”　日本在住の声優・アニメーターが抱く「不安の正体」とは",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001672/",
+      "time_iso": "2026-09-26T20:56:00+09:00",
+      "excerpt": "日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベテラン声優と、フランスから来て7カ月の新人アニメーター。2人に話を聞くと、AIへの向き合い方も、日本の制度への思いも、それぞれの立場から浮かび上がってきた。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "time_iso": "2026-09-26T18:13:41+09:00",
+      "excerpt": "329 points ・ 84 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "hn",
+      "title": "An agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "time_iso": "2026-09-26T13:14:11+09:00",
+      "excerpt": "14 points ・ 10 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "itm",
+      "title": "ナッツを多く食べる人、認知テストで高成績の傾向　豪州チームが1700人以上を分析",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001711/",
+      "time_iso": "2026-09-26T12:00:00+09:00",
+      "excerpt": "オーストラリアのモナシュ大学に所属する研究者らが発表した論文「Nut consumption, cognitive function and brain health markers in individuals with and without stroke: cross-sectional and longitud",
+      "trend_score": 0.75
+    },
+    {
+      "source": "itm",
+      "title": "顔面に電気を流すと記憶力アップ？　あごにパッチ電極を貼り人間で実験、結果は……",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001710/",
+      "time_iso": "2026-09-26T12:00:00+09:00",
+      "excerpt": "ベルギーのルーヴェン・カトリック大学や中国の浙江大学などに所属する研究者らが発表した論文「Temporal patterning of trigeminal nerve stimulation gates hippocampal plasticity across species」は、独自のリズムで顔の神経を電気刺激す",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "How one Twitch chat message became code execution on a streamer’s PC",
+      "url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
+      "time_iso": "2026-09-26T10:13:38+09:00",
+      "excerpt": "15 points ・ 2 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "tc",
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "time_iso": "2026-09-26T10:08:57+09:00",
+      "excerpt": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "trend_score": 0.5833
+    },
     {
       "source": "itm",
       "title": "ずっと座っている人ほど椅子には“動いて”ほしい　Razerの最新ゲーミングチェア「Iskur V2 NewGen」を試す",
       "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001759/",
       "time_iso": "2026-09-26T08:31:00+09:00",
       "excerpt": "キーボードに近づくとき、画面を見上げるとき、少し休憩して背もたれに身を預けるとき……そのたびに腰当てを手で直すのではなく、チェア側が人の動きについてくる。これが、Razer「Iskur V2 NewGen」の設計上のポイントです。",
-      "trend_score": 1.0
+      "trend_score": 0.5833
     },
     {
       "source": "tc",
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
       "time_iso": "2026-09-26T08:11:10+09:00",
-      "excerpt": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
-      "trend_score": 1.0
+      "excerpt": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "trend_score": 0.5
     },
     {
       "source": "tc",
@@ -23,7 +175,7 @@
       "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
       "time_iso": "2026-09-26T08:04:34+09:00",
       "excerpt": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
-      "trend_score": 0.9167
+      "trend_score": 0.4167
     },
     {
       "source": "itm",
@@ -31,7 +183,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
       "time_iso": "2026-09-26T07:48:32+09:00",
       "excerpt": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
-      "trend_score": 0.9167
+      "trend_score": 0.5
     },
     {
       "source": "tc",
@@ -39,31 +191,7 @@
       "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
       "time_iso": "2026-09-26T07:20:47+09:00",
       "excerpt": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "time_iso": "2026-09-26T06:36:56+09:00",
-      "excerpt": "62 points ・ 70 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "hn",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "time_iso": "2026-09-26T06:09:27+09:00",
-      "excerpt": "126 points ・ 84 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Excel now supports multiple values in a single cell",
-      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-      "time_iso": "2026-09-26T05:55:00+09:00",
-      "excerpt": "64 points ・ 52 comments",
-      "trend_score": 0.6
+      "trend_score": 0.3333
     },
     {
       "source": "tc",
@@ -71,7 +199,7 @@
       "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
       "time_iso": "2026-09-26T05:34:53+09:00",
       "excerpt": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "trend_score": 0.75
+      "trend_score": 0.25
     },
     {
       "source": "tc",
@@ -79,15 +207,7 @@
       "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
       "time_iso": "2026-09-26T05:33:58+09:00",
       "excerpt": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "url": "https://news.ycombinator.com/item?id=49848955",
-      "time_iso": "2026-09-26T04:37:55+09:00",
-      "excerpt": "64 points ・ 47 comments",
-      "trend_score": 0.0667
+      "trend_score": 0.1667
     },
     {
       "source": "tc",
@@ -95,111 +215,15 @@
       "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
       "time_iso": "2026-09-26T04:13:38+09:00",
       "excerpt": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual a",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "tc",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "time_iso": "2026-09-26T03:48:33+09:00",
-      "excerpt": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "trend_score": 0.5
-    },
-    {
-      "source": "tc",
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "time_iso": "2026-09-26T03:33:59+09:00",
-      "excerpt": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "hn",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "time_iso": "2026-09-26T03:33:50+09:00",
-      "excerpt": "308 points ・ 90 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "tc",
-      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-      "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-      "time_iso": "2026-09-26T02:30:00+09:00",
-      "excerpt": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "time_iso": "2026-09-26T02:29:46+09:00",
-      "excerpt": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "Astra and Opus just passed Turing’s other test",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "time_iso": "2026-09-26T02:24:36+09:00",
-      "excerpt": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "time_iso": "2026-09-26T01:16:52+09:00",
-      "excerpt": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
       "trend_score": 0.0833
     },
     {
       "source": "hn",
-      "title": "Gravity seems holographic. What does that mean for reality?",
-      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "time_iso": "2026-09-26T00:31:02+09:00",
-      "excerpt": "106 points ・ 103 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "time_iso": "2026-09-26T00:29:25+09:00",
-      "excerpt": "363 points ・ 669 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "time_iso": "2026-09-25T23:28:07+09:00",
-      "excerpt": "129 points ・ 60 comments",
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "time_iso": "2026-09-25T22:48:38+09:00",
+      "excerpt": "15 points ・ 1 comments",
       "trend_score": 0.8667
-    },
-    {
-      "source": "hn",
-      "title": "First Principles Thinking",
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "time_iso": "2026-09-25T22:55:37+09:00",
-      "excerpt": "203 points ・ 95 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "hn",
-      "title": "Platform-independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
-      "time_iso": "2026-09-25T20:47:06+09:00",
-      "excerpt": "347 points ・ 132 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "url": "https://github.com/git-bug/git-bug",
-      "time_iso": "2026-09-25T20:38:31+09:00",
-      "excerpt": "293 points ・ 96 comments",
-      "trend_score": 0.7333
     },
     {
       "source": "itm",
@@ -207,7 +231,15 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001772/",
       "time_iso": "2026-09-25T20:13:14+09:00",
       "excerpt": "Helpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を公開し、ユーザーが過去に削除した画像のメタデータ約1億7400万件も流出していたと発表した。",
-      "trend_score": 0.8333
+      "trend_score": 0.4167
+    },
+    {
+      "source": "hn",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "time_iso": "2026-09-25T19:55:40+09:00",
+      "excerpt": "306 points ・ 162 comments",
+      "trend_score": 0.9333
     },
     {
       "source": "itm",
@@ -215,15 +247,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001771/",
       "time_iso": "2026-09-25T19:47:36+09:00",
       "excerpt": "落とし物管理サービスを手掛けるfind（東京都港区）は9月24日、紛失物が警察や対応施設に届くと所有者に通知するシール「find return」を発表した。シールとfindの落とし物管理サービスを組み合わせた商品で、貼り付けた物が拾得物として対応施設に届くと、findから持ち主に通知する。10月1日から販売し、価格はシ",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "An airport cooled by natural ventilation",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-      "time_iso": "2026-09-25T19:16:50+09:00",
-      "excerpt": "32 points ・ 16 comments",
-      "trend_score": 0.5333
+      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -231,7 +255,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001768/",
       "time_iso": "2026-09-25T17:53:15+09:00",
       "excerpt": "テラドローンは9月25日、宇宙航空研究開発機構（JAXA）が公募する「災害・緊急時等に活用可能な小型無人機を含めた運航安全管理技術」のうち、「有人機サブシステム（地上部）」の開発業務を落札したと発表した。",
-      "trend_score": 0.6667
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -239,7 +263,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001763/",
       "time_iso": "2026-09-25T17:11:22+09:00",
       "excerpt": "パナソニック オートモーティブシステムズ（神奈川県横浜市）は9月25日、市販向けカーナビゲーションと専用オプション品の生産を2027年3月までに終了すると発表した。同社は1993年から市販カーナビを展開しており、30年余りの歴史に幕を下ろす。背景として、スマートフォンのナビアプリの普及や、車載情報システムの高機能化・標",
-      "trend_score": 0.5833
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -247,55 +271,31 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001761/",
       "time_iso": "2026-09-25T15:48:59+09:00",
       "excerpt": "愛知・名古屋アジア大会で9月24日、日本選手団最年少の11歳・栗原悠輝選手（東京ヴェルディ）がeスポーツ「ぷよぷよ」の決勝に進んだ。グループステージを3戦全勝で首位通過した。決勝は26日に行う。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "“七輪型コントローラー”東京ゲームショウで異彩　正体は学生作品、遊び方は？",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001718/",
-      "time_iso": "2026-09-25T15:33:03+09:00",
-      "excerpt": "話題の注目ゲームやその関連製品が一堂に会した「東京ゲームショウ2026」（9月17?20日、幕張メッセ）。絢爛（けんらん）なブースやコスプレイヤーが注目を浴びる一方、派手さはなくとも不思議な存在感を放つ展示があった。神奈川工科大学情報学部情報メディア学科の学生たちが作った料理ゲーム「七輪制風」だ。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "神奈川・千葉襲った台風25号　水没した太陽光パネルや土砂崩れの様子も　アジア航測が航空写真約400枚公開",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001744/",
-      "time_iso": "2026-09-25T15:32:11+09:00",
-      "excerpt": "アジア航測は9月24日、台風25号による被害状況を捉えた航空写真約400枚を公開した。エアロトヨタと共同で同日に航空機から撮影したもので、神奈川県や千葉県・印旛沼周辺など、被災地の様子を上空から確認できる。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "ahamo初の値上げ　「大盛りオプション」撤廃、40GB・60GB・120GBの3段階制に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001757/",
-      "time_iso": "2026-09-25T15:14:36+09:00",
-      "excerpt": "月30GBのプランは、容量を10GB増やした上で、165円アップの3135円になる。ahamoの値上げは、2021年3月の提供開始以来初。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "ドコモSMTBネット銀で障害　「着金しない」「給料日にやめて」と悲鳴【復旧】",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001745/",
-      "time_iso": "2026-09-25T14:27:16+09:00",
-      "excerpt": "Xでは「振込手続きでシステムエラーになる」「証券口座から出金した資金が届かない」といった声が出ている。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "破産した全東信、未精算の売上金を加盟店に支払いへ　JCBなど6社が協力　10月中にも",
-      "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001749/",
-      "time_iso": "2026-09-25T13:36:47+09:00",
-      "excerpt": "クレジットカード決済代行の全東信（破産手続き中）の破産管財人は、加盟店に未払いとなっていたクレジット売上金について、提携先だったカード会社6社の協力により支払える見込みになったと発表した。支払いは10月30日頃を予定している。",
       "trend_score": 0.0833
     },
     {
       "source": "hn",
-      "title": "Remembering Johannes Doerfert",
-      "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
-      "time_iso": "2026-09-25T08:36:50+09:00",
-      "excerpt": "38 points ・ 1 comments",
-      "trend_score": 0.4667
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "time_iso": "2026-09-25T11:34:39+09:00",
+      "excerpt": "9 points ・ 2 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "LA Metro has some of the slowest escalators on Earth",
+      "url": "https://basin.la/articles/ninety-feet-a-minute.html",
+      "time_iso": "2026-09-25T01:52:24+09:00",
+      "excerpt": "67 points ・ 44 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "time_iso": "2026-09-25T01:11:42+09:00",
+      "excerpt": "98 points ・ 22 comments",
+      "trend_score": 0.6
     },
     {
       "source": "pk",
@@ -307,11 +307,19 @@
     },
     {
       "source": "hn",
-      "title": "Initial DIY cleanroom experimentation",
-      "url": "https://www.jefftk.com/p/initial-diy-cleanroom-experimentation",
-      "time_iso": "2026-09-24T16:02:46+09:00",
-      "excerpt": "15 points ・ 4 comments",
-      "trend_score": 0.3333
+      "title": "Modern Object Pascal Introduction for Programmers",
+      "url": "https://castle-engine.io/modern_pascal",
+      "time_iso": "2026-09-24T20:33:56+09:00",
+      "excerpt": "139 points ・ 57 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "The Lost Atomic Update on Loongson CPU",
+      "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+      "time_iso": "2026-09-24T17:36:40+09:00",
+      "excerpt": "105 points ・ 6 comments",
+      "trend_score": 0.0667
     },
     {
       "source": "pk",
@@ -328,14 +336,6 @@
       "time_iso": "2026-09-24T00:23:11+09:00",
       "excerpt": "Anthropicは、Claude Codeの9月18日付けアップデートClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。   Added AGENTS...",
       "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: Make math automatic with Mathy",
-      "url": "https://gmays.com/making-math-automatic-with-mathy/",
-      "time_iso": "2026-09-21T23:49:05+09:00",
-      "excerpt": "69 points ・ 16 comments",
-      "trend_score": 0.1333
     },
     {
       "source": "pk",
