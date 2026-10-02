@@ -1,228 +1,324 @@
 {
-  "generated_at": "2026-10-01T09:54:41.970903+09:00",
+  "generated_at": "2026-10-02T10:11:20.484050+09:00",
   "items": [
     {
+      "source": "tc",
+      "title": "Robotaxi operators will face fines for blocking first responders",
+      "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+      "time_iso": "2026-10-02T09:57:57+09:00",
+      "excerpt": "A new California law places new rules on autonomous vehicles operators",
+      "trend_score": 1.0
+    },
+    {
       "source": "itm",
-      "title": "素材と完成動画を見せるだけ　“型”を覚えたAIに動画編集をどこまで託せるか　GPT-6 Astraで試す",
-      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001910/",
-      "time_iso": "2026-10-01T09:00:00+09:00",
-      "excerpt": "編集前の素材と完成動画を見比べさせるだけで、AIは“その人らしい編集”を身につけられるのか。元テレビ編集者の筆者が、PremiereとGPT-6 Astraを組み合わせて編集手順を「スキル」として保存させ、新しい素材を丸ごと任せてみた。さらにPremiere 26.5で加わったBロール生成を試すと、意外な差が見えてきた",
+      "title": "「Kindle」シリーズ4モデルを刷新　全モデルで画面の段差なくしフラットに　2万9980円から",
+      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001949/",
+      "time_iso": "2026-10-02T09:42:34+09:00",
+      "excerpt": "Amazonは、電子書籍リーダー「Kindle」シリーズ4モデルを刷新した。全機種で前面をフラット化し薄型化。アルミ背面の32GBモデルやカラー表示対応の「Colorsoft」を揃え、キッズ向け端末やページ送り用リモコンなど純正アクセサリーも拡充した。",
       "trend_score": 1.0
     },
     {
-      "source": "tc",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "time_iso": "2026-10-01T08:43:07+09:00",
-      "excerpt": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "trend_score": 1.0
+      "source": "itm",
+      "title": "都営地下鉄の公衆電話、すべて撤去へ　28年11月までに",
+      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001948/",
+      "time_iso": "2026-10-02T09:23:15+09:00",
+      "excerpt": "撤去予定の公衆電話には、撤去予定日の2週間前までに「公衆電話撤去のお知らせ」を掲示する。",
+      "trend_score": 0.9167
     },
     {
       "source": "tc",
-      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
-      "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
-      "time_iso": "2026-10-01T08:08:00+09:00",
-      "excerpt": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes se",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "time_iso": "2026-10-02T09:03:23+09:00",
+      "excerpt": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
       "trend_score": 0.9167
     },
     {
       "source": "itm",
-      "title": "何者？　ランサムウェア集団を攻撃するサイバー犯罪集団「ShinyHunters」　FBI捜査官の個人情報窃取も主張",
-      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001847/",
-      "time_iso": "2026-10-01T08:00:00+09:00",
-      "excerpt": "企業や学術機関、政府機関などから大量の情報を盗んで恐喝を繰り返しているサイバー犯罪集団「ShinyHunters」が、米連邦捜査局（FBI）の求人サイトに侵入して全捜査官や求職者の個人情報を盗んだと主張している。同集団はさらに、敵対するランサムウェア集団に対する恐喝も続けている。",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "EDG C++ Compiler is open source",
-      "url": "https://github.com/edgcpp/compiler",
-      "time_iso": "2026-10-01T07:48:44+09:00",
-      "excerpt": "25 points ・ 1 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "itm",
-      "title": "米Micron、AI需要で売上高は前年同期比4.8倍、純利益は11.8倍と過去最高を更新",
-      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001914/",
-      "time_iso": "2026-10-01T07:47:58+09:00",
-      "excerpt": "Micron Technologyは、2026年度第4四半期および通期の決算を発表した。AI普及に伴うデータセンター向けメモリ需要が急拡大し、売上高・純利益ともに過去最高を記録。全部門で大幅増収となった。次世代モジュールなどの出荷も進み、2027年度も過去最高水準の業績を見込む。",
+      "title": "ローソンのメールサーバが踏み台に、不審メール約70万件送信　件名「RE」など",
+      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001947/",
+      "time_iso": "2026-10-02T08:52:46+09:00",
+      "excerpt": "同社が確認した不審メールは、件名が「Mutual Benefit」または「RE」で、英文で金銭の取得を示唆し、メールでの連絡や個人情報の提供などを求める内容。",
       "trend_score": 0.8333
     },
     {
       "source": "itm",
-      "title": "「Gポイント」不正アクセスで一時停止　「会員識別子」約7万件漏えいか　KDDI不正会計問題のジー・プランが運営",
-      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001913/",
-      "time_iso": "2026-10-01T07:33:40+09:00",
-      "excerpt": "ス「Gポイント」のシステムが外部から不正アクセスを受け、最大約7万件の「会員識別子」が漏えいした可能性。システムと関連サービスを停止している。",
+      "title": "SIE、PS5向けAI採用画質向上技術「QSSR」発表　AMDと共同開発、「Marvel's Wolverine」と「Ghost of Yōtei」が初対応",
+      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001946/",
+      "time_iso": "2026-10-02T08:45:52+09:00",
+      "excerpt": "ソニー・インタラクティブエンタテインメントは、PS5向けのAIアップスケーリング技術「QSSR」を発表した。PS5 Pro向けのPSSRをAMDと共同で軽量化し、無印のPS5でもAIによる画質向上を実現する。「Marvel's Wolverine」などに先行導入され、今後全開発者へ提供を拡大する。",
       "trend_score": 0.75
     },
     {
-      "source": "itm",
-      "title": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Agron」発表　まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
-      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
-      "time_iso": "2026-10-01T07:16:25+09:00",
-      "excerpt": "Googleは、次世代フロンティアモデル「Gemini 4 Argon」を発表した。最大出力100万トークンに対応し、長時間に及ぶ業務処理や自律的なサイバー脆弱性修正に強みを持つ。安全対策を強化した上で、まずは信頼できるサイバー防御組織に先行提供し、有料APIなどで順次拡大する。",
-      "trend_score": 0.6667
-    },
-    {
       "source": "hn",
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "url": "https://56k.rip/",
-      "time_iso": "2026-10-01T07:08:50+09:00",
-      "excerpt": "28 points ・ 12 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "hn",
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "time_iso": "2026-10-01T07:03:04+09:00",
-      "excerpt": "106 points ・ 29 comments",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "time_iso": "2026-10-02T08:10:44+09:00",
+      "excerpt": "54 points ・ 28 comments",
       "trend_score": 0.9333
     },
     {
       "source": "itm",
-      "title": "佐川急便の荷物追跡サービスに不正アクセス　利用を一部制限",
-      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001911/",
-      "time_iso": "2026-10-01T06:42:43+09:00",
-      "excerpt": "対策の一環として、同サービスへのアクセスを一部制限している。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "tc",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "time_iso": "2026-10-01T06:07:40+09:00",
-      "excerpt": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "tc",
-      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-      "time_iso": "2026-10-01T05:39:09+09:00",
-      "excerpt": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about i",
-      "trend_score": 0.75
-    },
-    {
-      "source": "tc",
-      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-      "time_iso": "2026-10-01T05:20:02+09:00",
-      "excerpt": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap a",
+      "title": "ChatGPTにAIでバーチャル試着機能とカメラでの書類スキャン→PDF化機能",
+      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001945/",
+      "time_iso": "2026-10-02T07:17:12+09:00",
+      "excerpt": "OpenAIは、ChatGPTにバーチャル試着やお気に入り保存などの新機能を追加した。商品情報カードから自身の写真を使って服やアクセサリーを着用した姿を生成できる。気になった商品の整理機能も備える。また、iOSアプリに、連続撮影した書類を自動で1つのPDFにまとめて送信できるスキャン機能も導入した。",
       "trend_score": 0.6667
     },
     {
       "source": "hn",
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "time_iso": "2026-10-01T05:04:37+09:00",
-      "excerpt": "921 points ・ 632 comments",
-      "trend_score": 1.0
+      "title": "Aweb – Communication for AI Agents",
+      "url": "https://aweb.ai",
+      "time_iso": "2026-10-02T07:02:31+09:00",
+      "excerpt": "18 points ・ 12 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "tc",
+      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+      "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+      "time_iso": "2026-10-02T06:57:08+09:00",
+      "excerpt": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "time_iso": "2026-10-02T06:55:22+09:00",
+      "excerpt": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+      "trend_score": 0.75
     },
     {
       "source": "hn",
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "url": "https://www.mattkeeter.com/projects/halfspace/",
-      "time_iso": "2026-10-01T04:44:37+09:00",
-      "excerpt": "65 points ・ 6 comments",
-      "trend_score": 0.2667
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "url": "https://www.cssbed.com",
+      "time_iso": "2026-10-02T06:21:32+09:00",
+      "excerpt": "54 points ・ 11 comments",
+      "trend_score": 0.6667
     },
     {
       "source": "tc",
-      "title": "Hackers stole millions of US military personnel records during months-long data breach",
-      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-      "time_iso": "2026-10-01T04:29:08+09:00",
-      "excerpt": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breac",
-      "trend_score": 0.5833
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "time_iso": "2026-10-02T06:08:11+09:00",
+      "excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "trend_score": 0.6667
     },
     {
       "source": "hn",
-      "title": "EDG C++ front-end goes public",
-      "url": "https://edgcpp.org/#transition",
-      "time_iso": "2026-10-01T04:26:37+09:00",
-      "excerpt": "144 points ・ 70 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "tc",
-      "title": "DoorDash’s drone strategy started on the ground",
-      "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
-      "time_iso": "2026-10-01T04:22:13+09:00",
-      "excerpt": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
-      "trend_score": 0.5
-    },
-    {
-      "source": "tc",
-      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
-      "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
-      "time_iso": "2026-10-01T04:19:40+09:00",
-      "excerpt": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
-      "trend_score": 0.4167
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "time_iso": "2026-10-02T05:48:37+09:00",
+      "excerpt": "57 points ・ 6 comments",
+      "trend_score": 0.5333
     },
     {
       "source": "hn",
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "time_iso": "2026-10-01T04:04:50+09:00",
-      "excerpt": "110 points ・ 39 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "time_iso": "2026-10-01T04:00:57+09:00",
-      "excerpt": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "time_iso": "2026-10-01T03:23:57+09:00",
-      "excerpt": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "trend_score": 0.25
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "url": "https://github.com/Vibra-Ingenn/Janus",
+      "time_iso": "2026-10-02T05:36:47+09:00",
+      "excerpt": "47 points ・ 5 comments",
+      "trend_score": 0.6
     },
     {
       "source": "hn",
-      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "time_iso": "2026-10-01T03:17:45+09:00",
-      "excerpt": "111 points ・ 39 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "tc",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "time_iso": "2026-10-01T02:45:00+09:00",
-      "excerpt": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-      "trend_score": 0.1667
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "time_iso": "2026-10-02T05:14:23+09:00",
+      "excerpt": "105 points ・ 38 comments",
+      "trend_score": 0.8
     },
     {
       "source": "hn",
-      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-      "url": "https://www.chompiclub.com/opensource",
-      "time_iso": "2026-10-01T02:42:13+09:00",
-      "excerpt": "34 points ・ 7 comments",
+      "title": "ArXiv's Updated Rate Limit Policy",
+      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+      "time_iso": "2026-10-02T05:12:15+09:00",
+      "excerpt": "64 points ・ 26 comments",
       "trend_score": 0.1333
     },
     {
       "source": "hn",
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "time_iso": "2026-10-01T02:37:40+09:00",
-      "excerpt": "123 points ・ 56 comments",
-      "trend_score": 0.5333
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "time_iso": "2026-10-02T04:33:05+09:00",
+      "excerpt": "723 points ・ 248 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "time_iso": "2026-10-02T04:24:08+09:00",
+      "excerpt": "212 points ・ 23 comments",
+      "trend_score": 0.4667
     },
     {
       "source": "tc",
-      "title": "The ugly economics of consumer AI",
-      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "time_iso": "2026-10-01T02:24:45+09:00",
-      "excerpt": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "time_iso": "2026-10-02T04:21:53+09:00",
+      "excerpt": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they l",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "tc",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "time_iso": "2026-10-02T04:18:03+09:00",
+      "excerpt": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "trend_score": 0.5
+    },
+    {
+      "source": "hn",
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "time_iso": "2026-10-02T04:03:42+09:00",
+      "excerpt": "77 points ・ 3 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "tc",
+      "title": "World’s first enhanced geothermal power plant completed in just 23 months",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "time_iso": "2026-10-02T03:35:55+09:00",
+      "excerpt": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "pk",
+      "title": "Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表",
+      "url": "https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html",
+      "time_iso": "2026-10-02T03:28:43+09:00",
+      "excerpt": "Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表...",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "time_iso": "2026-10-02T03:14:42+09:00",
+      "excerpt": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "time_iso": "2026-10-02T02:50:19+09:00",
+      "excerpt": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+      "trend_score": 0.25
+    },
+    {
+      "source": "tc",
+      "title": "This startup wants to turn idle car inventory into rental revenue",
+      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
+      "time_iso": "2026-10-02T02:09:00+09:00",
+      "excerpt": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMont",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "hn",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "time_iso": "2026-10-02T01:57:03+09:00",
+      "excerpt": "196 points ・ 213 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "tc",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "time_iso": "2026-10-02T01:49:22+09:00",
+      "excerpt": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "time_iso": "2026-10-02T01:18:57+09:00",
+      "excerpt": "424 points ・ 158 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "hn",
+      "title": "RIP, vector database",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "time_iso": "2026-10-02T01:01:56+09:00",
+      "excerpt": "270 points ・ 78 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "hn",
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "time_iso": "2026-10-02T00:02:07+09:00",
+      "excerpt": "148 points ・ 153 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "time_iso": "2026-10-01T19:59:57+09:00",
+      "excerpt": "520 points ・ 126 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "itm",
+      "title": "申し込み画面に知らない人の名前や連絡先……チケットサイトで個人情報の誤表示　最大107人分",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001941/",
+      "time_iso": "2026-10-01T19:51:08+09:00",
+      "excerpt": "チケットプラス（東京都渋谷区）は10月1日、電子チケットサービス「チケプラ」で、一部ユーザーの個人情報が別のユーザーに表示される不具合があったと発表した。最大107人の情報が他の利用者の画面に表示された可能性があるという。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "ソフトバンクG、OpenAIへの追加出資が完了　累計10兆円超　持分約13％に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001944/",
+      "time_iso": "2026-10-01T19:45:57+09:00",
+      "excerpt": "ソフトバンクグループは10月1日、米OpenAIへの総額300億ドル（約4兆6743億円）の追加出資のうち、最終となる第3弾の100億ドルを実行した。これにより累計出資額は646億ドル（約10.2兆円）となり、持分比率は約13％に達した。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "免許証の悪用防止で申し込み集中　JICCがアプリ受付を一時休止　タイムズカー漏えいの影響か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001943/",
+      "time_iso": "2026-10-01T19:35:38+09:00",
+      "excerpt": "信用情報機関の日本信用情報機構（JICC）は10月1日、免許証などの悪用を防ぐ「本人申告コメント」と、自分の信用情報を確認する「本人開示」について、申し込み集中を受けてスマートフォンアプリからの受付を一時休止していると発表した。9月28日にパーク24が公表したカーシェアサービス「タイムズカー」の情報漏えいが影響したもの",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "日本原子力機構に不正アクセス　研究者の顔写真付き身分証など漏えい",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001942/",
+      "time_iso": "2026-10-01T19:25:43+09:00",
+      "excerpt": "日本原子力研究開発機構（JAEA）が、研究者向けのWebサイトが不正アクセスを受け、情報が漏えいしたと発表した。茨城県東海村にある原子力科学研究所の利用者175人分の顔写真付き身分証明証や健康診断の結果などが漏えいした。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "佐川急便、不正アクセスで個人情報流出か　送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
+      "time_iso": "2026-10-01T16:15:57+09:00",
+      "excerpt": "佐川急便は10月1日、荷物追跡サービスへの不正アクセスについて、顧客の個人情報が外部に流出した可能性があると発表した。荷物の送り主・届け先の氏名や住所などが対象で、同社はWebサービスの一部を停止している。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "米連邦取引委がAI大手の調査開始　AnthropicやOpenAIなど、暴走や悪用の懸念",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001931/",
+      "time_iso": "2026-10-01T16:01:45+09:00",
+      "excerpt": "米主要メディアは9月30日、米連邦取引委員会（FTC）が人工知能（AI）開発企業に対する広範な調査を開始したと報じた。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "中古アニメグッズ「らしんばん」に不正アクセス　口座情報や本人確認書類の番号など漏えいの恐れ",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001927/",
+      "time_iso": "2026-10-01T15:18:01+09:00",
+      "excerpt": "中古アニメグッズの買取・販売を手掛けるらしんばん（東京都豊島区）は10月1日、同社が運営するサービスに第三者による不正アクセスがあり、利用者の個人情報が外部に漏えいした可能性があると発表した。",
       "trend_score": 0.0833
     },
     {
@@ -231,7 +327,7 @@
       "url": "https://www.publickey1.jp/blog/26/javascriptvite_10.html",
       "time_iso": "2026-10-01T00:22:55+09:00",
       "excerpt": "JavaScript用ビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているVoidZeroは、Viteを含むJavaScriptの統合ツールチェーン「Vite+」がバージョン1.0に到達したことを発表しました。 Vite+ 1...",
-      "trend_score": 1.0
+      "trend_score": 0.9167
     },
     {
       "source": "pk",
@@ -239,87 +335,7 @@
       "url": "https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html",
       "time_iso": "2026-10-01T00:10:38+09:00",
       "excerpt": "Cloudflareは、代表的なWebアプリケーションフレームワークであるNext.jsを用いて開発したアプリケーションを、Cloudflare WorkersやAWS Lambda、NetlifyといったVercel以外のサーバレス基盤に...",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "A brief history of the Bloomberg terminal",
-      "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "time_iso": "2026-09-30T23:34:07+09:00",
-      "excerpt": "221 points ・ 87 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "itm",
-      "title": "アンケート結果をダウンロードしたら他社の従業員情報が……　ベネフィット・ワン、1万3460人分漏えい",
-      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001908/",
-      "time_iso": "2026-09-30T21:08:20+09:00",
-      "excerpt": "福利厚生サービスを手掛けるベネフィット・ワンは9月30日、企業・団体の担当者向けサービス「ベネワン・プラットフォーム」で個人情報が漏えいしたと発表した。対象は2322企業・団体の1万3460人。担当者がアンケート結果をダウンロードする際、本来アクセスできない他社などの従業員情報が表示される状態になっていたという。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "LINE VOOM、きょうサービス終了　約5年の歴史に幕",
-      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001905/",
-      "time_iso": "2026-09-30T19:55:49+09:00",
-      "excerpt": "LINEアプリ内の動画プラットフォーム「LINE VOOM」が9月30日、サービス終了日を迎えた。運営するLINEヤフーによると、終了時刻は同日午前11時ごろ。終了作業は順次進めるため、利用できなくなるタイミングはアカウントによって異なるとしている。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "セイコーマート、会員のほぼ半数に当たる情報漏えい　約57万人分",
-      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001906/",
-      "time_iso": "2026-09-30T19:54:46+09:00",
-      "excerpt": "セイコーマートが、スマートフォンアプリ「セイコーマートアプリ」の情報を管理するサーバに不正アクセスを受けた件を巡り、同サービスに登録したことがある会員のうち57万2022人分の情報が第三者に閲覧されたと発表した。全会員の49％に当たる人数という。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "「写真で一言　ボケて」きょう午後8時にサービス終了　18年・1億超のボケに幕",
-      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001904/",
-      "time_iso": "2026-09-30T18:55:40+09:00",
-      "excerpt": "大喜利の投稿サイト「写真で一言　ボケて」（bokete）が9月30日午後8時に、Web版、アプリ版共にサービスを終了する。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "hn",
-      "title": "You said no MCP",
-      "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "time_iso": "2026-09-30T18:55:23+09:00",
-      "excerpt": "610 points ・ 340 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
-      "time_iso": "2026-09-30T18:27:04+09:00",
-      "excerpt": "178 points ・ 109 comments",
-      "trend_score": 0.7333
-    },
-    {
-      "source": "itm",
-      "title": "「ここから先は残したい」ですぐ録音　AIリング「Vocci」はAIと仕事をする人にちょうどいいデバイスだった",
-      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001884/",
-      "time_iso": "2026-09-30T18:18:43+09:00",
-      "excerpt": "30日からクラウドファンディングが始まったAIリング「Vocci」は、会話やアイデアをリング単体で録音し、スマートフォンとクラウドを使って文字起こしと要約が行える製品。しばらく使ってみて、使うと便利なシーンや活用法が見えてきました。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "ヤマレコ、投稿写真を地図上でまとめて確認できる「みんなの写真マップ」提供開始　登山前の情報収集に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001895/",
-      "time_iso": "2026-09-30T18:07:14+09:00",
-      "excerpt": "登山専用コミュニティサイト「ヤマレコ」を運営するヤマレコは、サイトに投稿された登山写真を地図上で探せる新機能「みんなの写真マップ」の提供をWeb版で始めた。スタンダードプラン（無料）のユーザーも一部機能を利用できる。",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "Doing a Machine Learning PhD While Working in Japan",
-      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-      "time_iso": "2026-09-30T16:33:45+09:00",
-      "excerpt": "44 points ・ 13 comments",
-      "trend_score": 0.0667
+      "trend_score": 0.8333
     },
     {
       "source": "pk",
@@ -327,7 +343,7 @@
       "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
       "time_iso": "2026-09-30T11:43:18+09:00",
       "excerpt": "マイクロソフトはWSL（Windows Subsystem for Linux）の新機能として、WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」の正式リリースを発表しました（発表ブログ、アーキテクチ...",
-      "trend_score": 0.8333
+      "trend_score": 0.75
     },
     {
       "source": "pk",
@@ -335,7 +351,7 @@
       "url": "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
       "time_iso": "2026-09-30T00:46:18+09:00",
       "excerpt": "Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする...",
-      "trend_score": 0.75
+      "trend_score": 0.6667
     },
     {
       "source": "pk",
@@ -343,15 +359,7 @@
       "url": "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
       "time_iso": "2026-09-30T00:44:15+09:00",
       "excerpt": "Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agent...",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Why the Bronze Age Collapsed",
-      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-      "time_iso": "2026-09-29T19:10:18+09:00",
-      "excerpt": "67 points ・ 42 comments",
-      "trend_score": 0.6667
+      "trend_score": 0.5833
     },
     {
       "source": "pk",
@@ -359,7 +367,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
       "time_iso": "2026-09-29T00:01:25+09:00",
       "excerpt": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開...",
-      "trend_score": 0.5833
+      "trend_score": 0.5
     },
     {
       "source": "pk",
@@ -367,7 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
       "time_iso": "2026-09-28T01:02:18+09:00",
       "excerpt": "Docker社はAIエージェント向けのサンドボックス環境をクラウド上で提供する「Docker Cloud Sandboxes」を発表しました。 同社はすでにローカルで動作するサンドボックス環境の「Docker Sandboxes」を今年（2...",
-      "trend_score": 0.5
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -375,7 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
       "time_iso": "2026-09-28T00:59:50+09:00",
       "excerpt": "マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...",
-      "trend_score": 0.4167
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -383,7 +391,7 @@
       "url": "https://www.publickey1.jp/blog/26/goiderune.html",
       "time_iso": "2026-09-25T00:45:08+09:00",
       "excerpt": "開発ツールベンダのUnstablebuildは、Go言語製のIDE「Rune」をオープンソースで公開したことを発表しました。 Runeの画面 RuneはGo言語によるネイティブアプリケーションとして提供される高速なIDEです。GPUによる描...",
-      "trend_score": 0.3333
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -391,7 +399,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html",
       "time_iso": "2026-09-24T00:26:46+09:00",
       "excerpt": "Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上でW...",
-      "trend_score": 0.25
+      "trend_score": 0.1667
     },
     {
       "source": "pk",
@@ -399,14 +407,6 @@
       "url": "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
       "time_iso": "2026-09-24T00:23:11+09:00",
       "excerpt": "Anthropicは、Claude Codeの9月18日付けアップデートClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。   Added AGENTS...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
-      "time_iso": "2026-09-18T00:59:39+09:00",
-      "excerpt": "データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ...",
       "trend_score": 0.0833
     }
   ],
