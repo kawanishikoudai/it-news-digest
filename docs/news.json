@@ -1,221 +1,333 @@
 {
-  "generated_at": "2026-10-06T10:58:32.294839+09:00",
+  "generated_at": "2026-10-07T10:06:39.503678+09:00",
   "items": [
     {
       "source": "itm",
-      "title": "新卒就活「OfferBox」、学生の氏名などを利用企業が開発者ツール経由で閲覧可能に　最大31万人",
-      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002026/",
-      "time_iso": "2026-10-06T10:26:08+09:00",
-      "excerpt": "ブラウザの開発者ツールで開発者向け画面を表示すると、これらの個人情報が見える状態だったという。対象となる可能性がある学生は、理論上の最大値で31万4009人に上る。",
+      "title": "「応用情報技術者試験」申込初日にアクセス集中、「地域選べない」「決済できない」……IPAが謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002072/",
+      "time_iso": "2026-10-07T09:51:16+09:00",
+      "excerpt": "「受験地域を選べない」「決済できない」――初のCBTとなる「応用情報技術者試験」申込初日にアクセス集中。IT技術者が受ける試験の申し込みで不具合が起きたことを皮肉る投稿も。",
       "trend_score": 1.0
     },
     {
       "source": "itm",
-      "title": "不正アクセスなぜ急増　原因はAIか、それとも……　専門家の見解は",
-      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/",
-      "time_iso": "2026-10-06T10:00:00+09:00",
-      "excerpt": "9月末以降、不正アクセスやそれに伴う情報漏えいの発表が日本企業から相次いでいる。その原因は……専門家に見解を聞いた。",
+      "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張　論文722本をGitHubで公開",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
+      "time_iso": "2026-10-07T09:32:40+09:00",
+      "excerpt": "OpenAIは、社内のフロンティアモデルが生み出した数学の成果722本をGitHubで公開した。多くに証明支援系「Lean」による形式証明が付く。数学者らの独立組織AGMAIの提言を参考にしたもので、計算量や推論過程の要約も開示。過去の発表を巡る論争を踏まえ、数学界との対話や理解促進に向けた支援も進める。",
       "trend_score": 0.9167
     },
     {
-      "source": "hn",
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "time_iso": "2026-10-06T09:00:45+09:00",
-      "excerpt": "26 points ・ 17 comments",
-      "trend_score": 0.6
-    },
-    {
       "source": "itm",
-      "title": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい　ポイント287万円分が不正交換される",
-      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002021/",
-      "time_iso": "2026-10-06T08:59:02+09:00",
-      "excerpt": "611件では、ポイントが本人の意思によらずAmazonギフトコード（合計286万9500円分）に交換されていたという。",
+      "title": "旭化成子会社、約51万人分の個人情報漏えいか　医療関係者向けサイトに不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002070/",
+      "time_iso": "2026-10-07T09:05:10+09:00",
+      "excerpt": "旧旭化成ファーマの医療関係者向け情報サイトに不正アクセス。医療従事者の氏名、所属施設名、施設住所、職種、診療科などが漏えいした可能性。",
       "trend_score": 0.8333
     },
     {
       "source": "hn",
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "time_iso": "2026-10-06T08:35:35+09:00",
-      "excerpt": "16 points ・ 7 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "itm",
-      "title": "“ツダケンAI裁判”の論点　「声優そっくりAI音声は合法」……にはならない？　弁護士が解説",
-      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002010/",
-      "time_iso": "2026-10-06T08:30:00+09:00",
-      "excerpt": "9月30日、声優の津田健次郎さんが、自身の声に類似するAI音声を使った動画の削除を求めた訴訟について、東京地方裁判所の判決が言い渡された。結論として、津田さんの請求は棄却された。ただ、この判決は「声優の声と似たAI音声を使っても問題ないと裁判所が判断した」というものではない。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "itm",
-      "title": "スタディサプリの「仕様不備」突く不正アクセス　ユーザーのメアド3687件を第三者が特定か",
-      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002019/",
-      "time_iso": "2026-10-06T08:24:13+09:00",
-      "excerpt": "「アカウント列挙」と呼ばれる攻撃を受けたとみられる。",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Ephemeral Testing",
-      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "time_iso": "2026-10-06T08:06:36+09:00",
-      "excerpt": "32 points ・ 12 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "hn",
-      "title": "Worth Building",
-      "url": "https://armstr.ng/writing/worth-building",
-      "time_iso": "2026-10-06T07:59:24+09:00",
-      "excerpt": "36 points ・ 25 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "Example.com Just Launched the Biggest Redesign in Decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "time_iso": "2026-10-06T07:55:11+09:00",
-      "excerpt": "86 points ・ 54 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "time_iso": "2026-10-06T07:46:45+09:00",
-      "excerpt": "240 points ・ 134 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "time_iso": "2026-10-06T07:30:02+09:00",
-      "excerpt": "59 points ・ 11 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "tc",
-      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-      "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-      "time_iso": "2026-10-06T06:54:01+09:00",
-      "excerpt": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "time_iso": "2026-10-06T06:40:50+09:00",
-      "excerpt": "111 points ・ 37 comments",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "time_iso": "2026-10-07T08:28:08+09:00",
+      "excerpt": "54 points ・ 15 comments",
       "trend_score": 0.8667
     },
     {
       "source": "hn",
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "time_iso": "2026-10-06T06:15:07+09:00",
-      "excerpt": "100 points ・ 18 comments",
-      "trend_score": 0.7333
+      "title": "State of Devs 2026 survey results: developers are exhausted",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "time_iso": "2026-10-07T08:26:30+09:00",
+      "excerpt": "38 points ・ 12 comments",
+      "trend_score": 0.2
     },
     {
       "source": "hn",
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "time_iso": "2026-10-06T06:00:21+09:00",
-      "excerpt": "211 points ・ 163 comments",
-      "trend_score": 0.4667
+      "title": "Integer multiplication below n log n",
+      "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
+      "time_iso": "2026-10-07T08:14:52+09:00",
+      "excerpt": "40 points ・ 27 comments",
+      "trend_score": 0.7333
     },
     {
       "source": "tc",
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "time_iso": "2026-10-06T05:36:48+09:00",
-      "excerpt": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "time_iso": "2026-10-07T07:55:39+09:00",
+      "excerpt": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "time_iso": "2026-10-07T07:53:09+09:00",
+      "excerpt": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
       "trend_score": 0.9167
     },
     {
-      "source": "tc",
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-      "time_iso": "2026-10-06T05:24:09+09:00",
-      "excerpt": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources",
-      "trend_score": 0.8333
+      "source": "hn",
+      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.38721",
+      "time_iso": "2026-10-07T07:51:35+09:00",
+      "excerpt": "10 points ・ 0 comments",
+      "trend_score": 0.3333
     },
     {
-      "source": "tc",
-      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
-      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
-      "time_iso": "2026-10-06T04:38:07+09:00",
-      "excerpt": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+      "source": "itm",
+      "title": "Paramount、Warner Bros. Discoveryの買収を完了　新社名は「Skydance」に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002069/",
+      "time_iso": "2026-10-07T07:36:11+09:00",
+      "excerpt": "Paramount Skydanceは、Warner Bros. Discoveryの買収を完了し、新社名をSkydanceとした。Netflixとの争奪戦を経て映画・配信・放送事業を網羅する巨大複合メディアが誕生した。今後は配信サービスの統合や年間30本以上の劇場公開を進め、3年間で60億ドル以上のシナジー創出を目指",
       "trend_score": 0.75
     },
     {
       "source": "tc",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "time_iso": "2026-10-06T04:33:53+09:00",
-      "excerpt": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions bu",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "time_iso": "2026-10-07T07:34:03+09:00",
+      "excerpt": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "time_iso": "2026-10-07T07:17:21+09:00",
+      "excerpt": "362 points ・ 299 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "time_iso": "2026-10-07T06:59:43+09:00",
+      "excerpt": "54 points ・ 15 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "Google、原発大手Constellationと20年の電力購入契約　「他の電力利用者に負担なし」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002068/",
+      "time_iso": "2026-10-07T06:55:42+09:00",
+      "excerpt": "Googleと原発大手Constellation Energyは、既存の原発11基の出力増強により送電網に890MWを追加する20年間の電力契約を締結した。AI拡大に伴う電力需要を支える狙いで、他利用者にコスト負担をかけない枠組みを採用する。あわせて原発運用へのGemini導入など技術提携も拡大する。",
       "trend_score": 0.6667
     },
     {
       "source": "hn",
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "time_iso": "2026-10-06T04:16:35+09:00",
-      "excerpt": "310 points ・ 91 comments",
-      "trend_score": 0.9333
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "time_iso": "2026-10-07T05:57:25+09:00",
+      "excerpt": "121 points ・ 51 comments",
+      "trend_score": 0.8
     },
     {
       "source": "tc",
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "time_iso": "2026-10-06T03:54:30+09:00",
-      "excerpt": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The co",
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "time_iso": "2026-10-07T05:47:01+09:00",
+      "excerpt": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "tc",
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "time_iso": "2026-10-07T05:35:20+09:00",
+      "excerpt": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "time_iso": "2026-10-07T05:33:47+09:00",
+      "excerpt": "167 points ・ 257 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "When random is not actually random enough",
+      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
+      "time_iso": "2026-10-07T05:12:05+09:00",
+      "excerpt": "26 points ・ 6 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "tc",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "time_iso": "2026-10-07T05:00:30+09:00",
+      "excerpt": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
       "trend_score": 0.5833
     },
     {
       "source": "tc",
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "time_iso": "2026-10-06T03:29:00+09:00",
-      "excerpt": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "time_iso": "2026-10-07T04:56:50+09:00",
+      "excerpt": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving con",
       "trend_score": 0.5
     },
     {
       "source": "tc",
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-      "time_iso": "2026-10-06T03:07:07+09:00",
-      "excerpt": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "time_iso": "2026-10-07T03:22:45+09:00",
+      "excerpt": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
       "trend_score": 0.4167
     },
     {
+      "source": "hn",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "time_iso": "2026-10-07T03:00:34+09:00",
+      "excerpt": "84 points ・ 47 comments",
+      "trend_score": 0.2667
+    },
+    {
       "source": "tc",
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "time_iso": "2026-10-06T02:29:22+09:00",
-      "excerpt": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotio",
+      "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+      "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+      "time_iso": "2026-10-07T02:14:07+09:00",
+      "excerpt": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
       "trend_score": 0.3333
     },
     {
       "source": "tc",
-      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
-      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
-      "time_iso": "2026-10-06T02:26:44+09:00",
-      "excerpt": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "time_iso": "2026-10-07T01:35:00+09:00",
+      "excerpt": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM ro",
       "trend_score": 0.25
     },
     {
       "source": "tc",
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "time_iso": "2026-10-06T01:43:35+09:00",
-      "excerpt": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
+      "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
+      "time_iso": "2026-10-07T01:29:12+09:00",
+      "excerpt": "The storied Silicon Valley firm makes its first pure defense investment.",
       "trend_score": 0.1667
+    },
+    {
+      "source": "hn",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "time_iso": "2026-10-07T01:23:25+09:00",
+      "excerpt": "223 points ・ 290 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "tc",
+      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+      "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+      "time_iso": "2026-10-07T01:18:45+09:00",
+      "excerpt": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch ",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "time_iso": "2026-10-07T01:03:49+09:00",
+      "excerpt": "208 points ・ 28 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "pk",
+      "title": "マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装",
+      "url": "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
+      "time_iso": "2026-10-07T00:47:53+09:00",
+      "excerpt": "マイクロソフトは9月30日付けでリリースされたVisual Studio Code 1.140（以下、VS Code）で、複数のAIベンダから提供されているAIモデルをオーケストレーションすることでより高品質で低コストを実現するという「Hy...",
+      "trend_score": 1.0
+    },
+    {
+      "source": "pk",
+      "title": "FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測",
+      "url": "https://www.publickey1.jp/blog/26/fdeai7fde.html",
+      "time_iso": "2026-10-07T00:43:31+09:00",
+      "excerpt": "米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）によって開発されたAIエージェントの70％が2028年までに企業に使われずに放棄されるだろう（Gartner Predi...",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "time_iso": "2026-10-06T22:15:49+09:00",
+      "excerpt": "1580 points ・ 960 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "itm",
+      "title": "Adobeツールの代替に？　オープンソースの無料クリエイティブソフト「Crafting Apps」公開",
+      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002037/",
+      "time_iso": "2026-10-06T21:53:03+09:00",
+      "excerpt": "画像・動画制作ソフト「ArtCraft」の開発チームが10月上旬、無料ソフト集「Crafting Apps」をGitHubで公開した。画像・動画編集やPDF操作などに対応する7つのアプリの初版で、Xなどでは「Adobe製品の代替になるのでは」と期待する声が上がっている。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "シチズン時計、委託先への不正アクセスで約10万人分の個人情報漏えいか　大和証券と同じサービスが原因に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002067/",
+      "time_iso": "2026-10-06T20:41:46+09:00",
+      "excerpt": "シチズン時計は10月6日、問い合わせ受付業務の委託先に不正アクセスがあり、約10万人分の個人情報が漏えいした可能性があると発表した。対象は、同社の腕時計ブランド「シチズン」「ブローバ」「フレデリック・コンスタント」の各Webサイトに設置したフォームで受け付けた問い合わせ情報。自社システムへの不正アクセスは確認していない",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "ノルウェー、「AI眼鏡」規制法案提出へ　盗撮など高まる懸念……各国も対応加速",
+      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002064/",
+      "time_iso": "2026-10-06T19:19:49+09:00",
+      "excerpt": "ノルウェー政府は5日、公園や海水浴場など、公共の場で人工知能（AI）を搭載したスマートグラス（AI眼鏡）の使用を規制する法案を提出する計画を明らかにしたと、英Reutersが報じた。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "hn",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "time_iso": "2026-10-06T18:48:46+09:00",
+      "excerpt": "525 points ・ 172 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "itm",
+      "title": "相次ぐ不正アクセス受け、古川デジタル相がコメント　国民に3つのサイバー対策呼び掛け",
+      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002060/",
+      "time_iso": "2026-10-06T18:42:57+09:00",
+      "excerpt": "デジタル庁の古川俊治大臣は10月6日の記者会見で、相次ぐ不正アクセスによる個人情報流出を受け、国民一人一人に自衛策を求めた。パスワードの使い回しをやめることや多要素認証の設定を呼び掛けている。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "App Storeでのアプリ配信に「iPhone Duo」用のスクショが必須に　Appleが27年4月から",
+      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002052/",
+      "time_iso": "2026-10-06T17:25:59+09:00",
+      "excerpt": "米Appleは10月5日（現地時間）、App Storeで配信するアプリやゲームについて、折りたたみスマートフォン「iPhone Duo」用のスクリーンショットの提出を必須にすると発表した。アプリ開発事業者などが審査を申請する際に求めるもので、現在は任意の提出だが、2027年4月以降の申請から必須となる。新規公開だけで",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "note、3Q累計営業益6.7倍に　AIで効率化、人員減でも増収　人件費率3割削減",
+      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002051/",
+      "time_iso": "2026-10-06T16:51:12+09:00",
+      "excerpt": "全社でAIツールを活用。人員（正社員＋契約社員）数は前年同期より10人減る（161人→151人）一方、売り上げを伸ばした。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "「楽天ドライブ」に不正アクセス　保存したデータなど1.5万アカウント分が取得・閲覧のおそれ",
+      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002046/",
+      "time_iso": "2026-10-06T16:37:59+09:00",
+      "excerpt": "楽天モバイルは10月6日、同社が提供するクラウドストレージサービス「楽天ドライブ」の一部システムに不正アクセスがあったと発表した。利用者が保存した写真や文書などのデータのほか、アカウント名や暗号化されたパスワードなども第三者に取得・閲覧されたという。",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "LLMs may have helped my RSI",
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+      "time_iso": "2026-10-06T12:01:04+09:00",
+      "excerpt": "32 points ・ 17 comments",
+      "trend_score": 0.0667
     },
     {
       "source": "pk",
@@ -223,7 +335,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
       "time_iso": "2026-10-06T00:29:53+09:00",
       "excerpt": "Cloudflareは、同社のエッジロケーションでコンテナ型仮想マシンを実行可能にする「Cloudflare Containers」をAIエージェント向けに刷新したことを発表しました。 これまでよりも起動速度が6倍となり、環境構築が容易にな...",
-      "trend_score": 1.0
+      "trend_score": 0.8333
     },
     {
       "source": "pk",
@@ -231,87 +343,7 @@
       "url": "https://www.publickey1.jp/blog/26/googlegvisorcncf.html",
       "time_iso": "2026-10-06T00:27:19+09:00",
       "excerpt": "Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op...",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "time_iso": "2026-10-06T00:14:24+09:00",
-      "excerpt": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "itm",
-      "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か　13万人超の個人情報流出恐れ",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002018/",
-      "time_iso": "2026-10-05T23:28:36+09:00",
-      "excerpt": "大阪公立大は5日、2日から続く大規模システム障害についてランサムウェアによる攻撃を受けた可能性が高いと発表した。在学生や卒業生ら13万人超の個人情報が流出した恐れがあるとして、流出の有無を調べている。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "hn",
-      "title": "Is mathematics over, or just graduating?",
-      "url": "https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub",
-      "time_iso": "2026-10-05T20:16:32+09:00",
-      "excerpt": "35 points ・ 39 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "hn",
-      "title": "Web Search API",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "time_iso": "2026-10-05T19:47:06+09:00",
-      "excerpt": "487 points ・ 222 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "itm",
-      "title": "ホワイトエッセンス、約105万アカウントの個人情報流出　8月発表の不正アクセス調査で判明",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002016/",
-      "time_iso": "2026-10-05T19:34:48+09:00",
-      "excerpt": "歯のホワイトニングサービスなどを展開するホワイトエッセンス（東京都渋谷区）は10月5日、8月に公表した予約サイトと基幹システムへの不正アクセスにより、約105万アカウント分の個人情報が漏えいしたと発表した。対象には利用者のほか、加盟院の関係者や本部社員なども含まれる。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "巨大化を指南！？　AI活用で身近になる植物栽培　健康や仕事に「緑の効用」の識者に聞く",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002017/",
-      "time_iso": "2026-10-05T19:29:40+09:00",
-      "excerpt": "スマホのAI機能で栽培方法が手軽にわかるようになり、植物を育てるハードルが下がっている。緑が心身に与える効果を研究する千葉大大学院の岩崎寛教授に、植物と人の関係や東京都が進める緑活用の取り組みを聞いた。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "「焼肉きんぐ」個人情報約1079万件が漏えい　公式アプリのシステムに不正アクセス　ほぼ全会員分に相当",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002011/",
-      "time_iso": "2026-10-05T18:39:42+09:00",
-      "excerpt": "「焼肉きんぐ」を運営する物語コーポレーションは10月5日、公式アプリの会員管理システムが第三者による不正アクセスを受け、会員情報1078万8963件が漏えいしたと発表した。氏名やメールアドレス、電話番号が含まれる。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "韓国の銀行6行にサイバー攻撃　計2万5000人超の個人情報流出──AIエージェントを使った可能性も　現地報道",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002009/",
-      "time_iso": "2026-10-05T18:21:19+09:00",
-      "excerpt": "韓国の銀行で9月末からサイバー攻撃が相次ぎ、新韓銀行など4行で計2万5000人超の個人情報が流出したと現地紙が報じた。攻撃を受けた銀行のうち2行は、AIエージェントによる攻撃と推定しているという。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "大和証券、22万件情報漏えいか　顧客約11万人の口座番号も",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002005/",
-      "time_iso": "2026-10-05T18:06:25+09:00",
-      "excerpt": "大和証券は10月5日、問い合わせ管理などに利用する外部サービスの提供元が不正アクセスを受けた影響で、約22万件の情報が漏えいした可能性があると発表した。顧客約11万人の氏名、メールアドレス、口座番号に加え、個人を特定できない問い合わせ情報などが含まれるという。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "「大起水産アプリ」に不正アクセス、17万人の個人情報漏えいか　大阪の回転寿司チェーン",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002008/",
-      "time_iso": "2026-10-05T16:41:05+09:00",
-      "excerpt": "退会者含む17万4933人の個人情報が漏えいした可能性。",
-      "trend_score": 0.0833
+      "trend_score": 0.75
     },
     {
       "source": "pk",
@@ -319,7 +351,7 @@
       "url": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
       "time_iso": "2026-10-05T00:59:31+09:00",
       "excerpt": "IT関連の各種調査を行っているプロジェクトDevographicsは、世界中のソフトウェア開発者の実態などをアンケートで調査した「State of Devs 2026」の結果を公開しました。 ここでは全体の結果から興味深いところをいくつか抜...",
-      "trend_score": 0.8333
+      "trend_score": 0.6667
     },
     {
       "source": "pk",
@@ -327,23 +359,7 @@
       "url": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
       "time_iso": "2026-10-05T00:56:27+09:00",
       "excerpt": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Using Blu-ray M-Disk as backup of last resort",
-      "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
-      "time_iso": "2026-10-04T17:03:24+09:00",
-      "excerpt": "62 points ・ 57 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "hn",
-      "title": "An Algorithmic Failure Beneath the Secret Ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "time_iso": "2026-10-04T01:23:07+09:00",
-      "excerpt": "28 points ・ 7 comments",
-      "trend_score": 0.5333
+      "trend_score": 0.5833
     },
     {
       "source": "pk",
@@ -351,7 +367,7 @@
       "url": "https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html",
       "time_iso": "2026-10-02T03:28:43+09:00",
       "excerpt": "Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表...",
-      "trend_score": 0.6667
+      "trend_score": 0.5
     },
     {
       "source": "pk",
@@ -359,7 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/javascriptvite_10.html",
       "time_iso": "2026-10-01T00:22:55+09:00",
       "excerpt": "JavaScript用ビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているVoidZeroは、Viteを含むJavaScriptの統合ツールチェーン「Vite+」がバージョン1.0に到達したことを発表しました。 Vite+ 1...",
-      "trend_score": 0.5833
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -367,7 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html",
       "time_iso": "2026-10-01T00:10:38+09:00",
       "excerpt": "Cloudflareは、代表的なWebアプリケーションフレームワークであるNext.jsを用いて開発したアプリケーションを、Cloudflare WorkersやAWS Lambda、NetlifyといったVercel以外のサーバレス基盤に...",
-      "trend_score": 0.5
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -375,7 +391,7 @@
       "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
       "time_iso": "2026-09-30T11:43:18+09:00",
       "excerpt": "マイクロソフトはWSL（Windows Subsystem for Linux）の新機能として、WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」の正式リリースを発表しました（発表ブログ、アーキテクチ...",
-      "trend_score": 0.4167
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -383,7 +399,7 @@
       "url": "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
       "time_iso": "2026-09-30T00:46:18+09:00",
       "excerpt": "Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする...",
-      "trend_score": 0.3333
+      "trend_score": 0.1667
     },
     {
       "source": "pk",
@@ -391,22 +407,6 @@
       "url": "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
       "time_iso": "2026-09-30T00:44:15+09:00",
       "excerpt": "Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agent...",
-      "trend_score": 0.25
-    },
-    {
-      "source": "pk",
-      "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
-      "url": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
-      "time_iso": "2026-09-29T00:01:25+09:00",
-      "excerpt": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に",
-      "url": "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
-      "time_iso": "2026-09-28T01:02:18+09:00",
-      "excerpt": "Docker社はAIエージェント向けのサンドボックス環境をクラウド上で提供する「Docker Cloud Sandboxes」を発表しました。 同社はすでにローカルで動作するサンドボックス環境の「Docker Sandboxes」を今年（2...",
       "trend_score": 0.0833
     }
   ],
