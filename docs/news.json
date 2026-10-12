@@ -1,21 +1,213 @@
 {
-  "generated_at": "2026-10-11T09:34:37.585196+09:00",
+  "generated_at": "2026-10-12T09:48:54.532989+09:00",
   "items": [
     {
+      "source": "itm",
+      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告",
+      "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+      "time_iso": "2026-10-12T08:59:36+09:00",
+      "excerpt": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+      "trend_score": 1.0
+    },
+    {
       "source": "hn",
-      "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-      "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-      "time_iso": "2026-10-11T09:08:31+09:00",
-      "excerpt": "16 points ・ 5 comments",
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "time_iso": "2026-10-12T08:50:34+09:00",
+      "excerpt": "36 points ・ 8 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Governments are mishandling the affordability crisis",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+      "time_iso": "2026-10-12T08:40:06+09:00",
+      "excerpt": "29 points ・ 15 comments",
       "trend_score": 0.9333
     },
     {
       "source": "hn",
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "time_iso": "2026-10-11T07:50:10+09:00",
-      "excerpt": "72 points ・ 9 comments",
+      "title": "Illustration Beyond Proof",
+      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "time_iso": "2026-10-12T08:22:36+09:00",
+      "excerpt": "15 points ・ 0 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "Google Data Centers around the world",
+      "url": "https://datacenters.google/locations/",
+      "time_iso": "2026-10-12T07:45:40+09:00",
+      "excerpt": "44 points ・ 36 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "hn",
+      "title": "Fingerprints Are the New Cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "time_iso": "2026-10-12T07:33:39+09:00",
+      "excerpt": "45 points ・ 17 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "Google is illegaly cutting forest to build data centers",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "time_iso": "2026-10-12T07:33:30+09:00",
+      "excerpt": "76 points ・ 6 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "Recursive self-improvement through collective intelligence",
+      "url": "https://pub.sakana.ai/mass/",
+      "time_iso": "2026-10-12T07:22:10+09:00",
+      "excerpt": "45 points ・ 14 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "tc",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "time_iso": "2026-10-12T06:14:40+09:00",
+      "excerpt": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a lau",
       "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+      "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+      "time_iso": "2026-10-12T05:51:47+09:00",
+      "excerpt": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "time_iso": "2026-10-12T05:20:52+09:00",
+      "excerpt": "213 points ・ 344 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "hn",
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "time_iso": "2026-10-12T04:46:40+09:00",
+      "excerpt": "169 points ・ 29 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "hn",
+      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "url": "https://theonion.com/archivehunt/",
+      "time_iso": "2026-10-12T04:43:32+09:00",
+      "excerpt": "235 points ・ 32 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "time_iso": "2026-10-12T04:00:00+09:00",
+      "excerpt": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "Chapter 1 of Ways of Seeing by John Berger",
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "time_iso": "2026-10-12T03:26:24+09:00",
+      "excerpt": "68 points ・ 11 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "time_iso": "2026-10-12T03:04:47+09:00",
+      "excerpt": "339 points ・ 144 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "tc",
+      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "time_iso": "2026-10-12T02:53:37+09:00",
+      "excerpt": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "tc",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "time_iso": "2026-10-12T01:52:33+09:00",
+      "excerpt": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "time_iso": "2026-10-12T01:02:00+09:00",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "tc",
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "time_iso": "2026-10-12T01:00:00+09:00",
+      "excerpt": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+      "trend_score": 0.5
+    },
+    {
+      "source": "tc",
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "time_iso": "2026-10-12T00:00:00+09:00",
+      "excerpt": "This Battlefield 200 startup has developed blood-purification tech to save children",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "tc",
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "time_iso": "2026-10-11T23:15:00+09:00",
+      "excerpt": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "time_iso": "2026-10-11T23:00:00+09:00",
+      "excerpt": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "trend_score": 0.25
+    },
+    {
+      "source": "hn",
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "time_iso": "2026-10-11T22:16:45+09:00",
+      "excerpt": "308 points ・ 363 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "time_iso": "2026-10-11T19:11:27+09:00",
+      "excerpt": "345 points ・ 293 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "hn",
+      "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+      "url": "https://news.ycombinator.com/item?id=50039291",
+      "time_iso": "2026-10-11T11:37:33+09:00",
+      "excerpt": "15 points ・ 18 comments",
+      "trend_score": 0.4
     },
     {
       "source": "itm",
@@ -23,7 +215,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/11/2000002191/",
       "time_iso": "2026-10-11T07:15:00+09:00",
       "excerpt": "日本でも公開された「バイオハザード」の新作映画。海外では公開3日で興行収入が約6000万ドル（約95億円）を超え、原作であるゲームシリーズの販売にも影響したようです。ボクも見てきました。",
-      "trend_score": 1.0
+      "trend_score": 0.9167
     },
     {
       "source": "tc",
@@ -31,15 +223,7 @@
       "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "time_iso": "2026-10-11T06:47:51+09:00",
       "excerpt": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "time_iso": "2026-10-11T05:31:50+09:00",
-      "excerpt": "146 points ・ 54 comments",
-      "trend_score": 0.8
+      "trend_score": 0.1667
     },
     {
       "source": "tc",
@@ -47,79 +231,7 @@
       "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
       "time_iso": "2026-10-11T04:50:00+09:00",
       "excerpt": "Is Apple hoping to get into the AI-generated podcast business?",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "Why DuckDB 2.0 is faster",
-      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "time_iso": "2026-10-11T03:08:49+09:00",
-      "excerpt": "129 points ・ 45 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "tc",
-      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-      "time_iso": "2026-10-11T02:00:00+09:00",
-      "excerpt": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "tc",
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "time_iso": "2026-10-11T01:25:42+09:00",
-      "excerpt": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Knuth reward check",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "time_iso": "2026-10-11T00:47:01+09:00",
-      "excerpt": "134 points ・ 50 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "tc",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "time_iso": "2026-10-11T00:00:00+09:00",
-      "excerpt": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers a",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Unikernels were hard. key word: were",
-      "url": "https://ghuntley.com/unikernels/",
-      "time_iso": "2026-10-10T23:27:09+09:00",
-      "excerpt": "88 points ・ 38 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "tc",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "time_iso": "2026-10-10T23:00:00+09:00",
-      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "hn",
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "time_iso": "2026-10-10T19:52:09+09:00",
-      "excerpt": "238 points ・ 120 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com/",
-      "time_iso": "2026-10-10T13:12:26+09:00",
-      "excerpt": "202 points ・ 41 comments",
-      "trend_score": 0.7333
+      "trend_score": 0.0833
     },
     {
       "source": "itm",
@@ -127,15 +239,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
       "time_iso": "2026-10-10T12:38:24+09:00",
       "excerpt": "ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは、画像の内容について運営元のIDCフ",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "tc",
-      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "time_iso": "2026-10-10T12:10:06+09:00",
-      "excerpt": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-      "trend_score": 0.5
+      "trend_score": 0.8333
     },
     {
       "source": "itm",
@@ -143,7 +247,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
       "time_iso": "2026-10-10T12:00:00+09:00",
       "excerpt": "東京大学医科学研究所、大阪大学、国立がん研究センター、東京科学大学に所属する研究者らが科学誌「Nature Genetics」で発表した論文「Prevalence and chronology of colibactin-associated mutational processes and their microbi",
-      "trend_score": 0.8333
+      "trend_score": 0.75
     },
     {
       "source": "itm",
@@ -151,23 +255,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
       "time_iso": "2026-10-10T12:00:00+09:00",
       "excerpt": "米シアトル・パシフィック大学などに所属する研究者らが2023年に学術誌「PLOS ONE」で発表した論文「The Myth of Man the Hunter: Women’s contribution to the hunt across ethnographic contexts」は、世界の狩猟採集社会における女性",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "REA Reverse – Engineer Anything",
-      "url": "https://rea.tools/",
-      "time_iso": "2026-10-10T09:37:07+09:00",
-      "excerpt": "691 points ・ 302 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "tc",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "time_iso": "2026-10-10T09:18:32+09:00",
-      "excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "trend_score": 0.4167
+      "trend_score": 0.6667
     },
     {
       "source": "itm",
@@ -175,7 +263,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002190/",
       "time_iso": "2026-10-10T09:02:14+09:00",
       "excerpt": "情報漏えいの公表が相次ぐ中、委託先の外部サービスが攻撃を受けて情報が流出するケースも目立ってきている。",
-      "trend_score": 0.6667
+      "trend_score": 0.5833
     },
     {
       "source": "itm",
@@ -183,7 +271,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
       "time_iso": "2026-10-10T08:28:02+09:00",
       "excerpt": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
-      "trend_score": 0.5833
+      "trend_score": 0.5
     },
     {
       "source": "itm",
@@ -191,7 +279,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002188/",
       "time_iso": "2026-10-10T08:13:39+09:00",
       "excerpt": "「ココナラスキルマーケット」が第三者による不正アクセスを受け、会員の履歴書449件と、職務経歴書関連書類1845件が流出したと発表した。",
-      "trend_score": 0.5
+      "trend_score": 0.4167
     },
     {
       "source": "itm",
@@ -199,7 +287,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002187/",
       "time_iso": "2026-10-10T07:49:06+09:00",
       "excerpt": "フトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案、（2）顧客の要望に従って、顧客の仮想サーバの起動や停止などの作業の代行――を行っているという。",
-      "trend_score": 0.4167
+      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -207,15 +295,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002186/",
       "time_iso": "2026-10-10T07:27:31+09:00",
       "excerpt": "原因は、システムの一部機能の仕様の不備を突いた海外からの不正アクセス。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "url": "https://epoch.ai/publications/innovationeval",
-      "time_iso": "2026-10-10T07:14:40+09:00",
-      "excerpt": "71 points ・ 54 comments",
-      "trend_score": 0.3333
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -223,15 +303,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002185/",
       "time_iso": "2026-10-10T07:09:36+09:00",
       "excerpt": "会員向けのメール配信用の外部サービスも一部使えなくなっており、メールマガジンが配信できない状態だ。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "Long live the mechanical keyboard",
-      "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-      "time_iso": "2026-10-10T07:08:24+09:00",
-      "excerpt": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including on",
-      "trend_score": 0.3333
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -239,63 +311,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002147/",
       "time_iso": "2026-10-10T06:56:46+09:00",
       "excerpt": "「データを復元できるのは顧客自身が保持しているバックアップデータからのみ」としている。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "time_iso": "2026-10-10T06:41:29+09:00",
-      "excerpt": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "time_iso": "2026-10-10T04:36:56+09:00",
-      "excerpt": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-      "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
-      "time_iso": "2026-10-10T03:57:58+09:00",
-      "excerpt": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
       "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-      "time_iso": "2026-10-10T00:26:33+09:00",
-      "excerpt": "42 points ・ 16 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "itm",
-      "title": "ヤマハ・スズキも漏えいか　交流サイト基盤「コミューン」不正アクセス、計30万会員に影響の恐れ",
-      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002178/",
-      "time_iso": "2026-10-09T20:51:33+09:00",
-      "excerpt": "オンラインコミュニティー作成サービスを手掛けるコミューン（東京都品川区）は10月9日、「Commune」「Commune for Work」といったサービスが不正アクセスを受け、約30万7000会員分の情報が漏えいした可能性があると発表した。同社のサービスを使って交流サイトを運営していたスズキやヤマハもそれぞれ影響を公",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "Nix wrote half of my debugger",
-      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "time_iso": "2026-10-09T16:29:08+09:00",
-      "excerpt": "110 points ・ 17 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "time_iso": "2026-10-09T15:52:49+09:00",
-      "excerpt": "153 points ・ 35 comments",
-      "trend_score": 0.2667
     },
     {
       "source": "pk",
@@ -312,22 +328,6 @@
       "time_iso": "2026-10-08T00:59:06+09:00",
       "excerpt": "Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし...",
       "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "2D Vehicles",
-      "url": "https://patkerr.co.uk/2d-vehicles/",
-      "time_iso": "2026-10-07T21:30:40+09:00",
-      "excerpt": "339 points ・ 78 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "hn",
-      "title": "Grieving the loss of details",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "time_iso": "2026-10-07T01:37:21+09:00",
-      "excerpt": "337 points ・ 271 comments",
-      "trend_score": 0.0667
     },
     {
       "source": "pk",
