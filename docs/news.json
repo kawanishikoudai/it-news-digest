@@ -1,21 +1,173 @@
 {
-  "generated_at": "2026-10-18T08:36:58.958169+09:00",
+  "generated_at": "2026-10-19T08:47:36.720476+09:00",
   "items": [
+    {
+      "source": "itm",
+      "title": "「カーセンサー」停止、不審なアクセス検知　リクルートの中古車情報サイト",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002354/",
+      "time_iso": "2026-10-19T08:14:03+09:00",
+      "excerpt": "カーセンサーは、2026年9月時点で約52万台の中古車情報を掲載する日本最大級の中古車情報サイト。",
+      "trend_score": 1.0
+    },
+    {
+      "source": "itm",
+      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+      "time_iso": "2026-10-19T08:02:13+09:00",
+      "excerpt": "Anthropicは、社内雇用の変化と一般市民とのAI予測格差に関する調査を公開した。AnthropicではAI稼働時間が人間を上回り、技術系初級職の採用比率が急減した。自身の業務の自動化予測は、Anthropic従業員の75％に対し、米労働者は28％と大きな開きが出たが、自動化と失業率上昇を結びつける労働観は共通して",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "time_iso": "2026-10-19T06:36:10+09:00",
+      "excerpt": "22 points ・ 13 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "tc",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "time_iso": "2026-10-19T06:00:00+09:00",
+      "excerpt": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of th",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "time_iso": "2026-10-19T05:48:14+09:00",
+      "excerpt": "148 points ・ 86 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "time_iso": "2026-10-19T05:37:40+09:00",
+      "excerpt": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "time_iso": "2026-10-19T04:03:38+09:00",
+      "excerpt": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "time_iso": "2026-10-19T03:48:04+09:00",
+      "excerpt": "99 points ・ 13 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "hn",
+      "title": "PalmOS Lemmings",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "time_iso": "2026-10-19T02:56:59+09:00",
+      "excerpt": "78 points ・ 21 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "time_iso": "2026-10-19T01:32:00+09:00",
+      "excerpt": "275 points ・ 115 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "tc",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "time_iso": "2026-10-19T01:30:00+09:00",
+      "excerpt": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "time_iso": "2026-10-19T01:20:27+09:00",
+      "excerpt": "85 points ・ 27 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "tc",
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "time_iso": "2026-10-19T01:05:00+09:00",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "pk",
+      "title": "マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能",
+      "url": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
+      "time_iso": "2026-10-19T00:35:52+09:00",
+      "excerpt": "マイクロソフトは、.NETの各種コマンドラインツールやC#コンパイラ、ビルドエンジン、ランタイムなどを含む.NETのツールチェーンをまとめてインストールし、バージョン管理などができるツールチェーンマネージャ「dotnetup」をパブリックプ...",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "time_iso": "2026-10-18T23:47:37+09:00",
+      "excerpt": "128 points ・ 98 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "time_iso": "2026-10-18T22:48:48+09:00",
+      "excerpt": "319 points ・ 51 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "time_iso": "2026-10-18T15:50:36+09:00",
+      "excerpt": "528 points ・ 253 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "hn",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "time_iso": "2026-10-18T10:38:08+09:00",
+      "excerpt": "98 points ・ 70 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "time_iso": "2026-10-18T08:26:35+09:00",
+      "excerpt": "107 points ・ 48 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "hn",
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "time_iso": "2026-10-18T07:26:47+09:00",
+      "excerpt": "55 points ・ 50 comments",
+      "trend_score": 0.2
+    },
     {
       "source": "itm",
       "title": "祝・連載再開！　「キャプテン翼」大好きマンガ家による最新家庭用ゲーム“魂のプレゼン”",
       "url": "https://www.itmedia.co.jp/news/article/2610/18/2000002348/",
       "time_iso": "2026-10-18T07:16:00+09:00",
       "excerpt": "これまでちゃんとメディア化されてこなかった原作の「ワールドユース編」を題材にしてくれてありがとう！　というわけで、今回は家庭用ゲーム「キャプテン翼2 WORLD FIGHTERS」について、キャプ翼大好きなボクが熱く語ります。",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "JDK 28",
-      "url": "https://openjdk.org/projects/jdk/28/",
-      "time_iso": "2026-10-18T06:37:07+09:00",
-      "excerpt": "20 points ・ 4 comments",
-      "trend_score": 0.7333
+      "trend_score": 0.8333
     },
     {
       "source": "tc",
@@ -23,7 +175,7 @@
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "time_iso": "2026-10-18T06:31:32+09:00",
       "excerpt": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "trend_score": 1.0
+      "trend_score": 0.5833
     },
     {
       "source": "tc",
@@ -31,7 +183,7 @@
       "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
       "time_iso": "2026-10-18T05:55:52+09:00",
       "excerpt": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
-      "trend_score": 0.9167
+      "trend_score": 0.5
     },
     {
       "source": "tc",
@@ -39,15 +191,7 @@
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "time_iso": "2026-10-18T05:21:19+09:00",
       "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-      "time_iso": "2026-10-18T05:07:33+09:00",
-      "excerpt": "62 points ・ 61 comments",
-      "trend_score": 0.2
+      "trend_score": 0.4167
     },
     {
       "source": "tc",
@@ -55,31 +199,7 @@
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "time_iso": "2026-10-18T03:48:08+09:00",
       "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "I Became a Citizen of Japan",
-      "url": "https://www.derekwessman.com/blog-1/natural",
-      "time_iso": "2026-10-18T02:36:17+09:00",
-      "excerpt": "124 points ・ 43 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "hn",
-      "title": "Gold is now the top U.S. export",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "time_iso": "2026-10-18T02:06:07+09:00",
-      "excerpt": "188 points ・ 105 comments",
       "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "time_iso": "2026-10-18T00:55:09+09:00",
-      "excerpt": "183 points ・ 19 comments",
-      "trend_score": 0.5333
     },
     {
       "source": "tc",
@@ -87,7 +207,7 @@
       "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
       "time_iso": "2026-10-18T00:30:00+09:00",
       "excerpt": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
-      "trend_score": 0.6667
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -95,39 +215,7 @@
       "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
       "time_iso": "2026-10-18T00:27:18+09:00",
       "excerpt": "悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ...",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Making chicken transparent using Dorito dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "time_iso": "2026-10-17T22:55:28+09:00",
-      "excerpt": "239 points ・ 64 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "url": "https://celphase.github.io/duck-pond/",
-      "time_iso": "2026-10-17T22:28:46+09:00",
-      "excerpt": "66 points ・ 20 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "hn",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "time_iso": "2026-10-17T17:21:25+09:00",
-      "excerpt": "660 points ・ 559 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "hn",
-      "title": "Source code of the Estonian online voting system",
-      "url": "https://github.com/valimised/ivxv",
-      "time_iso": "2026-10-17T12:18:39+09:00",
-      "excerpt": "136 points ・ 116 comments",
-      "trend_score": 0.2667
+      "trend_score": 0.9167
     },
     {
       "source": "tc",
@@ -135,7 +223,7 @@
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
       "time_iso": "2026-10-17T11:36:18+09:00",
       "excerpt": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood pan",
-      "trend_score": 0.5833
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -143,7 +231,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002350/",
       "time_iso": "2026-10-17T10:42:34+09:00",
       "excerpt": "9日の初報では「カード情報の流出はない」としていたが、その後の調査で流出を確認し、訂正した。",
-      "trend_score": 0.9167
+      "trend_score": 0.75
     },
     {
       "source": "itm",
@@ -151,7 +239,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
       "time_iso": "2026-10-17T10:16:08+09:00",
       "excerpt": "駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運転免許証などの本人確認書類の画像を、登録確認後すぐに削除するよう社内ルールを変更すると発表した。同サービスでは9月に不正アクセスが発生し、約660万アカウント分",
-      "trend_score": 0.8333
+      "trend_score": 0.6667
     },
     {
       "source": "itm",
@@ -159,23 +247,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
       "time_iso": "2026-10-17T09:32:41+09:00",
       "excerpt": "約2335万6000人分の情報が漏えいしたと公表した。うち約209万6900人分には、カード名義、カード番号の一部（先頭6桁と下4桁）、有効期限が含まれていた。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "time_iso": "2026-10-17T08:47:31+09:00",
-      "excerpt": "142 points ・ 45 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "hn",
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "time_iso": "2026-10-17T08:38:27+09:00",
-      "excerpt": "258 points ・ 54 comments",
-      "trend_score": 0.9333
+      "trend_score": 0.5833
     },
     {
       "source": "tc",
@@ -183,47 +255,23 @@
       "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
       "time_iso": "2026-10-17T04:40:00+09:00",
       "excerpt": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-      "trend_score": 0.5
+      "trend_score": 0.0833
     },
     {
-      "source": "tc",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "time_iso": "2026-10-17T02:52:24+09:00",
-      "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "time_iso": "2026-10-17T01:30:00+09:00",
-      "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic",
+      "source": "hn",
+      "title": "\"Traditional, but Puzzling\"",
+      "url": "https://unsung.aresluna.org/traditional-but-puzzling/",
+      "time_iso": "2026-10-17T04:17:23+09:00",
+      "excerpt": "7 points ・ 0 comments",
       "trend_score": 0.3333
     },
     {
-      "source": "tc",
-      "title": "Waymo’s robotaxis are headed to Canada",
-      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "time_iso": "2026-10-17T01:06:38+09:00",
-      "excerpt": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "time_iso": "2026-10-17T01:01:37+09:00",
-      "excerpt": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "time_iso": "2026-10-17T01:00:00+09:00",
-      "excerpt": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair fro",
-      "trend_score": 0.0833
+      "source": "hn",
+      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+      "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+      "time_iso": "2026-10-17T03:07:44+09:00",
+      "excerpt": "34 points ・ 9 comments",
+      "trend_score": 0.4
     },
     {
       "source": "itm",
@@ -231,7 +279,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002336/",
       "time_iso": "2026-10-16T20:17:02+09:00",
       "excerpt": "日本語の文章に英単語を混ぜるたび、入力モードを切り替えたりF10キーを押したり――。そんな日本語入力の“宿命”を、変換エンジンに手を入れずに解消しようとする常駐ツール「Meltype」が登場した。試してみると便利さと同時に弱点も見えてきたため、筆者はAIにビルドを任せ、自分好みの改造に踏み込んだ。",
-      "trend_score": 0.6667
+      "trend_score": 0.5
     },
     {
       "source": "itm",
@@ -239,7 +287,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002345/",
       "time_iso": "2026-10-16T18:55:11+09:00",
       "excerpt": "電子書籍ストア「コミックシーモア」を運営するNTTソルマーレは10月16日、不正アクセスを受け、一部会員の情報が外部に流出したと発表した。流出件数は精査中としている。同社は15日以降、不正アクセスの可能性があるとしてコミックシーモアのサービスを停止していた。",
-      "trend_score": 0.5833
+      "trend_score": 0.4167
     },
     {
       "source": "itm",
@@ -247,7 +295,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002343/",
       "time_iso": "2026-10-16T17:48:15+09:00",
       "excerpt": "仏ベルサイユで開かれた計量単位などを決める国際会議「国際度量衡総会」は15日（現地時間）、時刻調整に使う「うるう秒」を27年5月20日に廃止する決議を採択した。1972年の導入以来27回実施してきた仕組みが半世紀余りで役目を終える。",
-      "trend_score": 0.5
+      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -255,7 +303,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002341/",
       "time_iso": "2026-10-16T17:29:39+09:00",
       "excerpt": "警察庁は10月16日、全国警察のサイバー担当課長らを集めた会議を東京都内で開いた。楠芳伸長官は、相次ぐ企業などへの不正アクセスについて「所要の捜査を推進し、実態解明と注意喚起を進めなければならない」と訴えた。",
-      "trend_score": 0.4167
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -263,7 +311,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002340/",
       "time_iso": "2026-10-16T17:17:41+09:00",
       "excerpt": "漏えいしたのは、氏名、住所、メールアドレスに加え、電話番号、生年月日、性別、サブメールアドレスとそのハッシュ化したパスワード、本人認証質問項目（回答は含まない）など。",
-      "trend_score": 0.3333
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -271,22 +319,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002339/",
       "time_iso": "2026-10-16T17:15:35+09:00",
       "excerpt": "ヤマト運輸は10月16日、9月に確認した「クロネコ代金後払いサービス」への不正アクセスについて、利用者情報など計約531万件が漏えいしたとする調査結果を発表した。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "日経新聞、不正アクセスで183万件の個人情報流出　開発用クラウドの認証情報盗まれ",
-      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002337/",
-      "time_iso": "2026-10-16T16:56:50+09:00",
-      "excerpt": "開発用クラウドにアクセスするための認証情報が何らかの方法で盗まれたという。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "ゴジラ到達までに25万人をどう逃がす──富士通の避難誘導シミュを体験　記者は市民を救えたか",
-      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002335/",
-      "time_iso": "2026-10-16T16:10:18+09:00",
-      "excerpt": "幕張メッセで開催中の「CEATEC 2026」で、富士通がゴジラ襲来を想定した災害対策の体験展示を出展している。来場者が避難誘導策を選び、仮想空間上の川崎で25万人を60分以内に避難させられるかを検証する内容だ。",
       "trend_score": 0.0833
     },
     {
@@ -295,39 +327,15 @@
       "url": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
       "time_iso": "2026-10-16T00:21:12+09:00",
       "excerpt": "Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr...",
-      "trend_score": 0.9167
+      "trend_score": 0.8333
     },
     {
       "source": "hn",
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "time_iso": "2026-10-15T17:48:30+09:00",
-      "excerpt": "227 points ・ 46 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "time_iso": "2026-10-15T16:18:14+09:00",
-      "excerpt": "124 points ・ 21 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "\"I'm Not Going to Have Blood on My Hands\"",
-      "url": "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php",
-      "time_iso": "2026-10-15T03:36:59+09:00",
-      "excerpt": "90 points ・ 36 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Types of types: Haskell's Kind system",
-      "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
-      "time_iso": "2026-10-15T02:00:31+09:00",
-      "excerpt": "21 points ・ 12 comments",
-      "trend_score": 0.4
+      "title": "16-bit fully functional DIY magnetic core memory",
+      "url": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
+      "time_iso": "2026-10-15T10:51:02+09:00",
+      "excerpt": "22 points ・ 12 comments",
+      "trend_score": 0.2667
     },
     {
       "source": "pk",
@@ -335,7 +343,7 @@
       "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
       "time_iso": "2026-10-15T00:57:19+09:00",
       "excerpt": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
-      "trend_score": 0.8333
+      "trend_score": 0.75
     },
     {
       "source": "pk",
@@ -343,7 +351,7 @@
       "url": "https://www.publickey1.jp/blog/26/websveltekit_3vite.html",
       "time_iso": "2026-10-14T00:26:33+09:00",
       "excerpt": "Webアプリケーションフレームワーク「SvelteKit 3」正式版がリリースされました。 SvelteKitは、Web UIフレームワークの「Svelte」とビルドツールの「Vite」を基盤とし、ルーティング、サーバサイドレンダリング（S...",
-      "trend_score": 0.75
+      "trend_score": 0.6667
     },
     {
       "source": "pk",
@@ -351,7 +359,7 @@
       "url": "https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html",
       "time_iso": "2026-10-13T01:11:37+09:00",
       "excerpt": "進化し続けるITを企業において最適な形で取り入れ続け、ビジネスと統合していく情報システム部門の役割は、AIの登場でビジネスそのものが大きな変革の波を受けざるを得ない現在、ますます重要さを増しています。 その情報システム部門に在籍している有志...",
-      "trend_score": 0.6667
+      "trend_score": 0.5833
     },
     {
       "source": "pk",
@@ -359,7 +367,7 @@
       "url": "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
       "time_iso": "2026-10-13T00:46:53+09:00",
       "excerpt": "JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ...",
-      "trend_score": 0.5833
+      "trend_score": 0.5
     },
     {
       "source": "pk",
@@ -367,7 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
       "time_iso": "2026-10-09T00:49:01+09:00",
       "excerpt": "さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...",
-      "trend_score": 0.5
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -375,7 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
       "time_iso": "2026-10-08T00:59:06+09:00",
       "excerpt": "Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし...",
-      "trend_score": 0.4167
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -383,7 +391,7 @@
       "url": "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
       "time_iso": "2026-10-07T00:47:53+09:00",
       "excerpt": "マイクロソフトは9月30日付けでリリースされたVisual Studio Code 1.140（以下、VS Code）で、複数のAIベンダから提供されているAIモデルをオーケストレーションすることでより高品質で低コストを実現するという「Hy...",
-      "trend_score": 0.3333
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -391,7 +399,7 @@
       "url": "https://www.publickey1.jp/blog/26/fdeai7fde.html",
       "time_iso": "2026-10-07T00:43:31+09:00",
       "excerpt": "米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）によって開発されたAIエージェントの70％が2028年までに企業に使われずに放棄されるだろう（Gartner Predi...",
-      "trend_score": 0.25
+      "trend_score": 0.1667
     },
     {
       "source": "pk",
@@ -399,14 +407,6 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
       "time_iso": "2026-10-06T00:29:53+09:00",
       "excerpt": "Cloudflareは、同社のエッジロケーションでコンテナ型仮想マシンを実行可能にする「Cloudflare Containers」をAIエージェント向けに刷新したことを発表しました。 これまでよりも起動速度が6倍となり、環境構築が容易にな...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表",
-      "url": "https://www.publickey1.jp/blog/26/googlegvisorcncf.html",
-      "time_iso": "2026-10-06T00:27:19+09:00",
-      "excerpt": "Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op...",
       "trend_score": 0.0833
     }
   ],
