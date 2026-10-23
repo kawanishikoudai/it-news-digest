@@ -1,205 +1,309 @@
 {
-  "generated_at": "2026-10-22T09:17:45.614053+09:00",
+  "generated_at": "2026-10-23T09:14:25.526702+09:00",
   "items": [
     {
       "source": "hn",
-      "title": "mitmproxy adds --emudhra option",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "time_iso": "2026-10-22T08:51:37+09:00",
-      "excerpt": "18 points ・ 3 comments",
-      "trend_score": 0.8
+      "title": "Mapping the Northern Sky",
+      "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+      "time_iso": "2026-10-23T08:56:39+09:00",
+      "excerpt": "5 points ・ 0 comments",
+      "trend_score": 0.5333
     },
     {
-      "source": "itm",
-      "title": "Adobeそっくり「ArtCraft」の動画編集ツールを試す　AIで挙動を再現した“クローンソフト”はアリなのか",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002485/",
-      "time_iso": "2026-10-22T08:43:14+09:00",
-      "excerpt": "Photoshop、Premiere、Excel――定番ソフトをAIで“そっくり”に作り直す動きが出てきた。米ArtCraftの動画編集ソフト「FilmCraft」は、ソースを流用せず、仕様と挙動の解析だけでPremiereを再実装したという。試すと、未完成ながらダッキングや字幕まで備える。ソースを盗まないクローンは、",
+      "source": "tc",
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "time_iso": "2026-10-23T08:50:41+09:00",
+      "excerpt": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure",
       "trend_score": 1.0
     },
     {
       "source": "itm",
-      "title": "PHPの「重大」脆弱性はAIが見つけた　「GPT-5.6 Solで発見」とOpenAI　「今後、AIによる脆弱性発見が急増」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002486/",
-      "time_iso": "2026-10-22T08:27:53+09:00",
-      "excerpt": "",
+      "title": "「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か　「600万円の損失」「55万円なくなった」……報告相次ぐ",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002532/",
+      "time_iso": "2026-10-23T08:48:10+09:00",
+      "excerpt": "不正アクセスを受けたFX自動売買用VPS「お名前.com デスクトップクラウド」ユーザーから、自分のアカウントで勝手に取引され、数十万?数百万円の損失が出た、といった報告がXに相次いでいる。",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Docker Is Weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "time_iso": "2026-10-23T08:45:56+09:00",
+      "excerpt": "5 points ・ 0 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "AI compute is the new oil–and needs a new market",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "time_iso": "2026-10-23T08:45:16+09:00",
+      "excerpt": "3 points ・ 0 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "itm",
+      "title": "「AIでエンジニア派遣は不要になる」のか？　各社に肌感を聞いた　求められる人材、明確に変化",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
+      "time_iso": "2026-10-23T08:30:00+09:00",
+      "excerpt": "生成AIがコードを書く時代、エンジニア派遣は不要になるのか。10月21～23日に幕張メッセで開催中の「Japan IT Week 秋 2026」には、派遣・紹介サービスを手掛ける企業が複数出展。エンジニア派遣の需要について、疑問を各社にぶつけてみた。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "time_iso": "2026-10-23T08:15:00+09:00",
+      "excerpt": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
       "trend_score": 0.9167
     },
     {
       "source": "hn",
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
-      "time_iso": "2026-10-22T08:13:27+09:00",
-      "excerpt": "43 points ・ 3 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "tc",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "time_iso": "2026-10-22T07:51:22+09:00",
-      "excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "trend_score": 1.0
-    },
-    {
-      "source": "tc",
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "time_iso": "2026-10-22T07:45:34+09:00",
-      "excerpt": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "trend_score": 0.9167
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "time_iso": "2026-10-23T07:54:43+09:00",
+      "excerpt": "29 points ・ 2 comments",
+      "trend_score": 0.8667
     },
     {
       "source": "itm",
-      "title": "Meta、Cambridge Analytica問題巡る訴訟で250億ドルの支払い命令",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002484/",
-      "time_iso": "2026-10-22T07:39:42+09:00",
-      "excerpt": "ニューメキシコ州の裁判所はFacebookを巡るCAスキャンダルの訴訟でMetaに対し250億ドル（約3兆9500億円）の民事制裁金支払いを命じた。陪審が個人情報の取り扱いやヘイトスピーチ対応に関する虚偽説明など約4390万件の故意の違反を認定。企業への金銭的制裁として米国史上最大級となる。",
+      "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与　Microsoftが警告",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
+      "time_iso": "2026-10-23T07:45:34+09:00",
+      "excerpt": "Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び",
       "trend_score": 0.8333
     },
     {
       "source": "tc",
-      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-      "time_iso": "2026-10-22T07:16:05+09:00",
-      "excerpt": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "time_iso": "2026-10-23T07:34:54+09:00",
+      "excerpt": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
       "trend_score": 0.8333
     },
     {
-      "source": "hn",
-      "title": "Railway Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "time_iso": "2026-10-22T06:58:03+09:00",
-      "excerpt": "247 points ・ 114 comments",
-      "trend_score": 1.0
+      "source": "tc",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "time_iso": "2026-10-23T07:08:24+09:00",
+      "excerpt": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "trend_score": 0.75
     },
     {
       "source": "itm",
-      "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請　エンジニアは評価「経営層に伝わる」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002483/",
-      "time_iso": "2026-10-22T06:31:02+09:00",
-      "excerpt": "首相が個別のソフトウェア脆弱性について、Xで直接対応を呼び掛けるのは異例。エンジニアからは「総理が発信したことにより、経営層にもリスクが認知される」など一定の評価が出ている。",
+      "title": "PHP2Shell、公表4日前に悪用の試み　「公表日より前にさかのぼって調査を」とAmazon",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002530/",
+      "time_iso": "2026-10-23T07:03:38+09:00",
+      "excerpt": "Amazonの脅威調査チームは、PHPの緊急脆弱性「PHP2Shell」を悪用する試みを公表4日前にハニーポットで検知したと発表した。公開後は悪用が急拡大。AIによる攻撃コード作成の加速を指摘し、対応期限の時間単位での管理や公表前への調査遡及など前提の見直しを呼び掛けた。",
       "trend_score": 0.75
     },
     {
       "source": "tc",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "time_iso": "2026-10-22T06:16:20+09:00",
-      "excerpt": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to",
-      "trend_score": 0.75
-    },
-    {
-      "source": "tc",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "time_iso": "2026-10-22T06:14:19+09:00",
-      "excerpt": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "time_iso": "2026-10-23T06:05:05+09:00",
+      "excerpt": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
       "trend_score": 0.6667
     },
     {
       "source": "tc",
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-      "time_iso": "2026-10-22T05:57:40+09:00",
-      "excerpt": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting ",
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "time_iso": "2026-10-23T05:01:51+09:00",
+      "excerpt": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
       "trend_score": 0.5833
     },
     {
       "source": "tc",
-      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-      "time_iso": "2026-10-22T05:33:09+09:00",
-      "excerpt": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "time_iso": "2026-10-23T05:00:00+09:00",
+      "excerpt": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales ",
       "trend_score": 0.5
     },
     {
       "source": "tc",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "time_iso": "2026-10-22T05:27:41+09:00",
-      "excerpt": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "time_iso": "2026-10-23T04:07:09+09:00",
+      "excerpt": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
       "trend_score": 0.4167
     },
     {
       "source": "tc",
-      "title": "Automattic begins layoffs following board upheaval and executive departures",
-      "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
-      "time_iso": "2026-10-22T05:15:00+09:00",
-      "excerpt": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of ",
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "time_iso": "2026-10-23T04:00:00+09:00",
+      "excerpt": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "trend_score": 0.3333
     },
     {
       "source": "tc",
-      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-      "time_iso": "2026-10-22T04:52:20+09:00",
-      "excerpt": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture th",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "time_iso": "2026-10-23T04:00:00+09:00",
+      "excerpt": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "trend_score": 0.25
     },
     {
+      "source": "hn",
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "time_iso": "2026-10-23T03:44:36+09:00",
+      "excerpt": "114 points ・ 28 comments",
+      "trend_score": 0.4
+    },
+    {
       "source": "tc",
-      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
-      "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-      "time_iso": "2026-10-22T04:42:32+09:00",
-      "excerpt": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "time_iso": "2026-10-23T03:43:53+09:00",
+      "excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the ",
       "trend_score": 0.1667
     },
     {
       "source": "tc",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "time_iso": "2026-10-22T04:30:00+09:00",
-      "excerpt": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on ",
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "time_iso": "2026-10-23T03:38:47+09:00",
+      "excerpt": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
       "trend_score": 0.0833
     },
     {
       "source": "hn",
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "time_iso": "2026-10-22T04:14:01+09:00",
-      "excerpt": "295 points ・ 250 comments",
-      "trend_score": 0.2667
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "time_iso": "2026-10-23T03:28:16+09:00",
+      "excerpt": "102 points ・ 58 comments",
+      "trend_score": 0.0667
     },
     {
       "source": "hn",
-      "title": "Google's Rust Style Guide",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "time_iso": "2026-10-22T04:11:57+09:00",
-      "excerpt": "175 points ・ 106 comments",
-      "trend_score": 0.6667
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "time_iso": "2026-10-23T02:44:06+09:00",
+      "excerpt": "278 points ・ 144 comments",
+      "trend_score": 0.9333
     },
     {
       "source": "hn",
-      "title": "GitLab Critical Patch Release",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "time_iso": "2026-10-22T04:01:12+09:00",
-      "excerpt": "226 points ・ 56 comments",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "time_iso": "2026-10-23T01:14:31+09:00",
+      "excerpt": "218 points ・ 82 comments",
       "trend_score": 0.7333
     },
     {
       "source": "hn",
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "time_iso": "2026-10-22T02:45:13+09:00",
-      "excerpt": "324 points ・ 199 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開　「直ちにアップデートを」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002480/",
-      "time_iso": "2026-10-22T00:53:13+09:00",
-      "excerpt": "PHPの開発プロジェクトは、「緊急」レベルの脆弱性2件を修正したPHP 8.5.12／8.4.27／8.3.36／8.2.35を公開した。20日に予告していたアップデートで、リモートコード実行に関する脆弱性を修正したという。公式サイトでは「全てのPHPユーザーは、直ちにアップデートすることを強く推奨する」と案内している",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "time_iso": "2026-10-23T01:08:00+09:00",
+      "excerpt": "209 points ・ 250 comments",
       "trend_score": 0.6667
     },
     {
       "source": "hn",
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "time_iso": "2026-10-22T00:48:56+09:00",
-      "excerpt": "654 points ・ 323 comments",
-      "trend_score": 0.8667
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "time_iso": "2026-10-23T00:26:22+09:00",
+      "excerpt": "312 points ・ 119 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "hn",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "time_iso": "2026-10-22T23:32:38+09:00",
+      "excerpt": "959 points ・ 345 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "time_iso": "2026-10-22T22:33:39+09:00",
+      "excerpt": "906 points ・ 619 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "time_iso": "2026-10-22T22:11:00+09:00",
+      "excerpt": "449 points ・ 451 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "itm",
+      "title": "PHP脆弱性でいち早くサービス停止したコドモン　背景に「被害が出てからでは取り消せない」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002528/",
+      "time_iso": "2026-10-22T21:11:22+09:00",
+      "excerpt": "保育・教育施設向けITサービス「コドモン」を運営するコドモンは10月22日、ITmedia NEWSの取材に対し、21日からの全サービス停止はPHPの「緊急」レベルの脆弱性2件への予防措置だったと明らかにした。不正アクセスや情報漏えいは確認されていないという。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002525/",
+      "time_iso": "2026-10-22T18:29:19+09:00",
+      "excerpt": "PHP脆弱性がこれほどまでに世間を騒がせたのは、その緊急性はもちろん、本来伏せておくべきだった情報の先出しが影響している。開発プロジェクトを支援するThe PHP Foundation（PHP財団）が経緯を公開した。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "手のひらサイズの“宇宙AIデータセンター”？　JAXA後押しの国内新興が実現目指す　南極・高山での利用も視野",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002510/",
+      "time_iso": "2026-10-22T18:00:00+09:00",
+      "excerpt": "宇宙で取得したデータをその場で小型のAIに処理させ、軽量化してから地上に下ろす──という仕組みの実現を目指す日本初ベンチャー、技術開発の進捗は。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "カプコン、1177万件漏えい　不正アクセスで",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002523/",
+      "time_iso": "2026-10-22T17:24:50+09:00",
+      "excerpt": "カプコンは10月22日、不正アクセスにより会員サービス「CAPCOM ID」の情報が1177万4247件漏えいしたと発表した。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "高市総理、サイバーセキュリティの本を出していた　しかも“PHP”から",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002522/",
+      "time_iso": "2026-10-22T17:09:58+09:00",
+      "excerpt": "「PHP」の緊急脆弱性でXでの注意喚起が話題になった高市早苗総理は、実はサイバーセキュリティの本を出版している。しかも版元は「PHP」だ。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "hn",
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "time_iso": "2026-10-22T17:01:52+09:00",
+      "excerpt": "697 points ・ 243 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "itm",
+      "title": "豪州でAI「Claude」に保育施設銃撃を予告したら逮捕　弁護側「耳感染症でストレス」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002517/",
+      "time_iso": "2026-10-22T15:44:40+09:00",
+      "excerpt": "オーストラリア・シドニー在住の29歳の男が、生成人工知能（AI）「Claude」とのチャットで保育施設での銃乱射を予告したとして逮捕・起訴された。豪紙シドニー・モーニング・ヘラルドが19日報じた。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "PHP「緊急」脆弱性悪用の試み、数百万件に　CloudflareのCEOが報告",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002516/",
+      "time_iso": "2026-10-22T15:30:05+09:00",
+      "excerpt": "公表後45分で数万件、2時間以内に数十万件に跳ね上がり、その後、数百万件に達したという。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "PHP脆弱性、海外では“政府サイトごと停止”も　オランダの電子認証やWikipedia関連サービスなどにも影響",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002514/",
+      "time_iso": "2026-10-22T15:21:08+09:00",
+      "excerpt": "プログラミング言語「PHP」の「緊急」レベルの脆弱性2件を巡り、海外では政府サイトを予防的に停止する動きが相次いだ。オランダは行政ポータルや認証基盤「DigiD」まで止め、フィンランドは政府の公開向けネットサービスを全て停止した。",
+      "trend_score": 0.0833
     },
     {
       "source": "pk",
@@ -210,124 +314,12 @@
       "trend_score": 1.0
     },
     {
-      "source": "hn",
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "time_iso": "2026-10-21T23:03:43+09:00",
-      "excerpt": "228 points ・ 151 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "hn",
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "time_iso": "2026-10-21T23:01:22+09:00",
-      "excerpt": "354 points ・ 43 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "hn",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "time_iso": "2026-10-21T23:00:26+09:00",
-      "excerpt": "419 points ・ 131 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "itm",
-      "title": "PHP緊急脆弱性「php2shell」パッチ今夜11時公開、その前にできる対策は……GMO系セキュリティ企業が提唱【更新】",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002462/",
-      "time_iso": "2026-10-21T18:51:40+09:00",
-      "excerpt": "GMO Flatt Securityは、脆弱性を「メモリ破壊系バグ」と推定。今回の脆弱性が同社の独自調査の結果と一致していれば、PHPのSession Upload Progress機能に関わるものだとみる。【更新】",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "hn",
-      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "time_iso": "2026-10-21T18:08:08+09:00",
-      "excerpt": "826 points ・ 395 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "itm",
-      "title": "著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
-      "time_iso": "2026-10-21T17:47:19+09:00",
-      "excerpt": "保育園向けSaaS「コドモン」、ゲーム「Shadowverse: Worlds Beyond」「さくらのレンタルサーバ」といった著名サービスが相次いで緊急メンテナンスに入ったり、同日午後11時ごろからのメンテナンスを予告したりしている。Web開発で広く使われるプログラミング言語「PHP」で緊急性の高い脆弱性が見つかった",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か　個人情報保護法抵触のおそれも",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002469/",
-      "time_iso": "2026-10-21T16:22:56+09:00",
-      "excerpt": "KDDIは10月20日、スマホ決済「au PAY」の店舗検索サイトに、一部加盟店の情報を本人の明確な認識がないまま掲載していた可能性があると発表した。対象は個人事業主最大45万8508人分で、うち最大4417人は個人名とみられる名称も含まれていたという。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "不正アクセス急増は“SaaS離れ”を招くか？　露呈したもう1つの「SaaS is Dead」リスク",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002451/",
-      "time_iso": "2026-10-21T15:00:00+09:00",
-      "excerpt": "不正アクセス急増に伴い再燃する「SaaS is Dead」を巡る議論。ただ、これまでとは少々事情が違うようだ。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "接客データ×AI　大丸松坂屋が「売るを解明する」マーケティング新サービス開始",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002458/",
-      "time_iso": "2026-10-21T13:29:24+09:00",
-      "excerpt": "大丸松坂屋百貨店は10月21日、接客の場で得られる顧客データを人工知能（AI）で解析するデータマーケティングサービスを始めた。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "名称なぜ「テッペイ」？　JR東、遅れすぎたコード決済参入の勝算",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002437/",
-      "time_iso": "2026-10-21T12:42:34+09:00",
-      "excerpt": "JR東日本のコード決済「teppay」が始動した。実質10カ月というJCB頼みの短期開発と、コード決済単体の勝負を避け“Suicaの価値”を底上げする戦略から、PayPay一強に最後発で乗り込む勝算をひもとく。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "「カーセンサー」などに不正アクセス、最大371万件の個人情報漏えいか　問い合わせ客の氏名・住所など",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002456/",
-      "time_iso": "2026-10-21T12:41:07+09:00",
-      "excerpt": "リクルートは10月21日、中古車情報サイト「カーセンサーnet」などへの不正アクセスにより、最大約371万件の個人情報が漏えいした可能性があると発表した。中古車販売店に問い合わせた利用者の氏名や住所などが対象で、販売店側の情報も含まれる。",
-      "trend_score": 0.0833
-    },
-    {
       "source": "pk",
       "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
       "url": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
       "time_iso": "2026-10-21T00:10:05+09:00",
       "excerpt": "Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Clo...",
       "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "time_iso": "2026-10-20T15:20:54+09:00",
-      "excerpt": "141 points ・ 25 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "hn",
-      "title": "No More Icons in Every Menu by Default",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "time_iso": "2026-10-20T13:27:08+09:00",
-      "excerpt": "136 points ・ 97 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "hn",
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "time_iso": "2026-10-20T09:14:03+09:00",
-      "excerpt": "121 points ・ 86 comments",
-      "trend_score": 0.4
     },
     {
       "source": "pk",
@@ -344,6 +336,14 @@
       "time_iso": "2026-10-20T00:47:48+09:00",
       "excerpt": "Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。 これによりMicrosoft Az...",
       "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "What Is Gridifcation",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "time_iso": "2026-10-19T18:13:12+09:00",
+      "excerpt": "388 points ・ 192 comments",
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
