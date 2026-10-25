@@ -5,6 +5,8 @@ Hacker News / TechCrunch / ITmedia / Publickey を毎朝自動収集し、
 
 公開URL: https://kawanishikoudai.github.io/it-news-digest/
 
+> ※ 現在、API利用料の都合により Claude API による日本語要約・AI解説は停止中です。記事の収集と毎日の自動更新は動いています。
+
 ## セットアップ
 
 1. GitHubで新しいリポジトリを作成（例: `it-news-digest`）し、このフォルダの中身を丸ごとpush
@@ -34,8 +36,8 @@ Hacker News / TechCrunch / ITmedia / Publickey を毎朝自動収集し、
 ## できること
 
 - Hacker News（公式API）/ TechCrunch・ITmedia・Publickey（RSS/Atom）を毎日取得
-- 英語タイトルはClaude Haikuで日本語に要約
-- 各記事に「なぜ注目されるか・どんな影響がありそうか」のAI一言解説を付与
+- 英語タイトルはClaude Haikuで日本語に要約（現在停止中）
+- 各記事に「なぜ注目されるか・どんな影響がありそうか」のAI一言解説を付与（現在停止中）
 - 「新着順 / 注目順」を切り替え可能（注目順はHNは投稿ランキング、他は掲載順を基準にした目安）
 - ♡ タップで「お気に入り」に保存（ブラウザのlocalStorageに保存、記事一覧が更新されても残る）
 - ソースごとの絞り込み
