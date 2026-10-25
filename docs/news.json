@@ -1,13 +1,157 @@
 {
-  "generated_at": "2026-10-25T08:51:07.578145+09:00",
+  "generated_at": "2026-10-26T08:40:26.694042+09:00",
   "items": [
     {
+      "source": "tc",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "time_iso": "2026-10-26T06:31:16+09:00",
+      "excerpt": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "trend_score": 1.0
+    },
+    {
       "source": "hn",
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "time_iso": "2026-10-25T08:11:54+09:00",
-      "excerpt": "11 points ・ 5 comments",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "time_iso": "2026-10-26T06:11:31+09:00",
+      "excerpt": "72 points ・ 93 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "hn",
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "time_iso": "2026-10-26T06:08:28+09:00",
+      "excerpt": "170 points ・ 68 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "hn",
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "time_iso": "2026-10-26T05:32:31+09:00",
+      "excerpt": "52 points ・ 9 comments",
       "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
+      "time_iso": "2026-10-26T05:27:09+09:00",
+      "excerpt": "61 points ・ 28 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "tc",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "time_iso": "2026-10-26T05:20:08+09:00",
+      "excerpt": "\"That's a 12-year-old view of the world.\"",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Eunice is almost here",
+      "url": "https://armincat.com/articles/eunice-is-almost-here",
+      "time_iso": "2026-10-26T04:40:27+09:00",
+      "excerpt": "54 points ・ 45 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "hn",
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "time_iso": "2026-10-26T04:11:31+09:00",
+      "excerpt": "93 points ・ 26 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "hn",
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "time_iso": "2026-10-26T03:58:14+09:00",
+      "excerpt": "30 points ・ 11 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "time_iso": "2026-10-26T03:23:54+09:00",
+      "excerpt": "314 points ・ 55 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "time_iso": "2026-10-26T03:04:11+09:00",
+      "excerpt": "335 points ・ 84 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "time_iso": "2026-10-26T02:30:55+09:00",
+      "excerpt": "353 points ・ 176 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "hn",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "time_iso": "2026-10-26T02:15:38+09:00",
+      "excerpt": "377 points ・ 182 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "time_iso": "2026-10-26T01:57:32+09:00",
+      "excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "time_iso": "2026-10-26T01:05:00+09:00",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "pk",
+      "title": "「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など",
+      "url": "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
+      "time_iso": "2026-10-26T00:44:47+09:00",
+      "excerpt": "DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。  Announcing Duck...",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "time_iso": "2026-10-25T23:10:00+09:00",
+      "excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "「5年でバッテリーが使い物にならなくなる」は本当か　テスラ「モデル3」5年目点検で分かったこと",
+      "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002569/",
+      "time_iso": "2026-10-25T20:37:30+09:00",
+      "excerpt": "納車から5年、4万km余りを走った筆者のTesla「Model 3」が2回目の車検を迎えました。ユーザー車検に臨む前に点検整備を受けたところ、バッテリーの状態や維持費に具体的な数字が出ました。欧州車を30年乗り継ぎ、トラブルと出費に身構えてきた筆者には、同じ距離を走った前の愛車との違いが際立って見えます。アプリを軸に進",
+      "trend_score": 1.0
+    },
+    {
+      "source": "itm",
+      "title": "たばこ休憩なき時代の“一服”をどう取るか　温熱と“聞こえない音”で休む、JT子会社のアイマスクを試す",
+      "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002568/",
+      "time_iso": "2026-10-25T10:00:00+09:00",
+      "excerpt": "仕事の合間のリフレッシュといえば、かつては「たばこ休憩」だった。では、たばこを吸わなくなった今、私たちはどう休めばいいのか。JTのグループ会社が出した答えは、耳に聞こえない超高周波音と温熱で目元を包む“スピード休息アイマスク”だった。10分の休憩と二度寝の場面で1週間試してみると、確かな手応えと同時に、惜しい点も見えて",
+      "trend_score": 0.9167
     },
     {
       "source": "itm",
@@ -15,31 +159,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002559/",
       "time_iso": "2026-10-25T07:15:00+09:00",
       "excerpt": "映画「ストリートファイター／ザ・ムービー」を見てきました。今回は原作ゲームの歴史と共に、映画の面白さを解説します。",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "time_iso": "2026-10-25T06:47:31+09:00",
-      "excerpt": "60 points ・ 33 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "time_iso": "2026-10-25T06:44:23+09:00",
-      "excerpt": "14 points ・ 0 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "hn",
-      "title": "The Importance of Limitations for Creativity and Learning",
-      "url": "https://ratfactor.com/cards/limitations",
-      "time_iso": "2026-10-25T06:42:47+09:00",
-      "excerpt": "9 points ・ 2 comments",
-      "trend_score": 0.3333
+      "trend_score": 0.8333
     },
     {
       "source": "tc",
@@ -47,15 +167,7 @@
       "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
       "time_iso": "2026-10-25T05:46:34+09:00",
       "excerpt": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "time_iso": "2026-10-25T05:30:31+09:00",
-      "excerpt": "348 points ・ 191 comments",
-      "trend_score": 0.9333
+      "trend_score": 0.5833
     },
     {
       "source": "tc",
@@ -63,31 +175,7 @@
       "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
       "time_iso": "2026-10-25T05:15:33+09:00",
       "excerpt": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
-      "time_iso": "2026-10-25T04:43:27+09:00",
-      "excerpt": "95 points ・ 60 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
-      "time_iso": "2026-10-25T04:19:43+09:00",
-      "excerpt": "51 points ・ 8 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "hn",
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "time_iso": "2026-10-25T04:06:55+09:00",
-      "excerpt": "175 points ・ 135 comments",
-      "trend_score": 0.8667
+      "trend_score": 0.5
     },
     {
       "source": "tc",
@@ -95,15 +183,7 @@
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "time_iso": "2026-10-25T04:00:00+09:00",
       "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "url": "https://de.numista.com/9866",
-      "time_iso": "2026-10-25T01:41:55+09:00",
-      "excerpt": "84 points ・ 26 comments",
-      "trend_score": 0.4
+      "trend_score": 0.4167
     },
     {
       "source": "tc",
@@ -111,15 +191,7 @@
       "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
       "time_iso": "2026-10-25T01:30:00+09:00",
       "excerpt": "Instacart might sell itself to a larger competitor.",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "time_iso": "2026-10-25T01:06:26+09:00",
-      "excerpt": "238 points ・ 158 comments",
-      "trend_score": 0.8
+      "trend_score": 0.3333
     },
     {
       "source": "tc",
@@ -127,15 +199,7 @@
       "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
       "time_iso": "2026-10-25T01:00:00+09:00",
       "excerpt": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "time_iso": "2026-10-25T00:57:17+09:00",
-      "excerpt": "84 points ・ 27 comments",
-      "trend_score": 0.0667
+      "trend_score": 0.25
     },
     {
       "source": "tc",
@@ -143,15 +207,7 @@
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
       "time_iso": "2026-10-25T00:30:00+09:00",
       "excerpt": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "hn",
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "time_iso": "2026-10-25T00:20:01+09:00",
-      "excerpt": "238 points ・ 61 comments",
-      "trend_score": 0.2667
+      "trend_score": 0.1667
     },
     {
       "source": "tc",
@@ -159,39 +215,7 @@
       "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
       "time_iso": "2026-10-25T00:00:00+09:00",
       "excerpt": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple",
-      "trend_score": 0.5
-    },
-    {
-      "source": "tc",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "time_iso": "2026-10-25T00:00:00+09:00",
-      "excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-      "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-      "time_iso": "2026-10-24T23:15:00+09:00",
-      "excerpt": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "time_iso": "2026-10-24T23:00:00+09:00",
-      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "hn",
-      "title": "I don't understand quantum physics (2018)",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "time_iso": "2026-10-24T18:53:26+09:00",
-      "excerpt": "267 points ・ 202 comments",
-      "trend_score": 0.1333
+      "trend_score": 0.0833
     },
     {
       "source": "itm",
@@ -199,7 +223,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002567/",
       "time_iso": "2026-10-24T18:10:34+09:00",
       "excerpt": "「お名前.com デスクトップクラウド」の不正アクセスが、「一般国民の取引口座を標的とした不正操作・資産き損」という「極めて悪質かつ前例のない手口」と主張している。",
-      "trend_score": 0.9167
+      "trend_score": 0.75
     },
     {
       "source": "itm",
@@ -207,23 +231,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002566/",
       "time_iso": "2026-10-24T17:51:04+09:00",
       "excerpt": "全ユーザーに「お見舞金」として5000円を支払う他、不正取引で発生した損失を補償する。「攻撃者からの要求には応じない」",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "tc",
-      "title": "Startups don’t need to go viral to win customers",
-      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-      "time_iso": "2026-10-24T08:07:45+09:00",
-      "excerpt": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "time_iso": "2026-10-24T08:05:49+09:00",
-      "excerpt": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "trend_score": 0.0833
+      "trend_score": 0.6667
     },
     {
       "source": "itm",
@@ -231,7 +239,23 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
       "time_iso": "2026-10-24T07:28:08+09:00",
       "excerpt": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
-      "trend_score": 0.75
+      "trend_score": 0.5833
+    },
+    {
+      "source": "hn",
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "time_iso": "2026-10-24T03:46:00+09:00",
+      "excerpt": "8 points ・ 0 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "Reverse engineering a Beyblade launch tracker",
+      "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
+      "time_iso": "2026-10-23T22:25:12+09:00",
+      "excerpt": "9 points ・ 1 comments",
+      "trend_score": 0.2667
     },
     {
       "source": "itm",
@@ -239,7 +263,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
       "time_iso": "2026-10-23T21:48:45+09:00",
       "excerpt": "パナソニックホールディングス傘下のパナソニック オペレーショナルエクセレンス（大阪府門真市）は10月23日、社内プロジェクトに携わる社員が、パナソニックグループの従業員や元従業員、その家族ら計約33万4000人分の個人情報を含むデータを、社内で利用を禁止している外部の生成AIサービスにアップロードしていたと発表した。",
-      "trend_score": 0.6667
+      "trend_score": 0.5
     },
     {
       "source": "itm",
@@ -247,7 +271,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002558/",
       "time_iso": "2026-10-23T19:05:39+09:00",
       "excerpt": "パーク24は10月23日、グループ会社のタイムズモビリティ（東京都品川区）が運営するカーシェアリングサービス「タイムズカー」で9月に発覚した個人情報漏えいを巡り、一部利用者に3000円相当の見舞金を渡すと発表した。",
-      "trend_score": 0.5833
+      "trend_score": 0.4167
     },
     {
       "source": "itm",
@@ -255,7 +279,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002557/",
       "time_iso": "2026-10-23T18:40:58+09:00",
       "excerpt": "イープラスを装い、チケットの抽選に当選したとして支払いを迫る偽メールがXで拡散している。ローチケやチケットぴあをかたる同種のメールも10月に入って相次いでいる。フィッシング対策協議会によると、イープラスをかたるフィッシングの報告は直近1カ月で約6.5倍に増えた。",
-      "trend_score": 0.5
+      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -263,7 +287,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002556/",
       "time_iso": "2026-10-23T17:51:56+09:00",
       "excerpt": "赤沢亮正経済産業相は23日の閣議後記者会見で、国内でサイバー攻撃による被害が相次いでいることを踏まえ、サイバー攻撃とその防御に詳しいエンジニア「ホワイトハッカー」を集めた対策チームを11月中に立ち上げる方針を明らかにした。",
-      "trend_score": 0.4167
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -271,7 +295,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002553/",
       "time_iso": "2026-10-23T17:38:23+09:00",
       "excerpt": "佐川急便は10月23日、9月30日に公表した「お荷物問い合わせサービス」への不正アクセスについて、最大約5323万件の個人情報が外部に流出した可能性があると明らかにした。10月1日には個人情報流出の可能性を発表していたが、今回の第5報で対象件数が判明。あわせて、停止していた荷物追跡サービスも23日に再開した。",
-      "trend_score": 0.3333
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -279,31 +303,23 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002551/",
       "time_iso": "2026-10-23T17:32:46+09:00",
       "excerpt": "クラウドサービスを手掛けるラクスは10月21日、子会社のラクスライトクラウド（東京都渋谷区）が提供するメール配信サービス「ブラストメール」に対する不正アクセスが発生し、顧客情報が外部に流出したと発表した。全契約者の登録情報に加え、一部契約者のメール配信先リストなども漏えい。横浜市やJR四国など、サービスを企業や自治体か",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "HIS子会社、約14万人の個人情報流出の可能性　委託先のラクスライトクラウドに不正アクセス",
-      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002549/",
-      "time_iso": "2026-10-23T16:10:43+09:00",
-      "excerpt": "旅行大手エイチ・アイ・エス（HIS）の子会社で、「変なホテル」などを展開するH.I.S.ホテルホールディングスは10月22日、同社のメールマガジン配信を手掛ける外部の企業が不正アクセスを受け、ホテル会員約14万人分の個人情報が流出した可能性があると発表した。同社によると、不正アクセスを受けたのはメール配信サービス「ブラ",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "teppay、本人確認はなぜマイナンバーカードだけ？　JR東に理由を聞いた",
-      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002547/",
-      "time_iso": "2026-10-23T15:56:23+09:00",
-      "excerpt": "JR東日本のコード決済「teppay」は、本人確認に使える書類がマイナンバーカードのみで、運転免許証やパスポートには対応しない。その理由を同社に聞いた。",
       "trend_score": 0.0833
     },
     {
       "source": "hn",
-      "title": "Full Disk Encryption on Fedora with TPM2",
-      "url": "https://www.apalrd.net/posts/2026/ent_luks/",
-      "time_iso": "2026-10-22T21:46:40+09:00",
-      "excerpt": "19 points ・ 25 comments",
-      "trend_score": 0.2
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "time_iso": "2026-10-23T00:52:21+09:00",
+      "excerpt": "97 points ・ 23 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "hn",
+      "title": "Amazon's \"digital pacifier\" for toddlers",
+      "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "time_iso": "2026-10-22T03:37:48+09:00",
+      "excerpt": "66 points ・ 101 comments",
+      "trend_score": 0.0667
     },
     {
       "source": "pk",
@@ -311,15 +327,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
       "time_iso": "2026-10-22T00:42:36+09:00",
       "excerpt": "Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsrsの開発に関わっています。 ...",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "I Built a Stereo Vision Board for Hardware Hackers",
-      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "time_iso": "2026-10-21T05:45:52+09:00",
-      "excerpt": "9 points ・ 0 comments",
-      "trend_score": 0.4667
+      "trend_score": 0.9167
     },
     {
       "source": "pk",
@@ -327,7 +335,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
       "time_iso": "2026-10-21T00:10:05+09:00",
       "excerpt": "Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Clo...",
-      "trend_score": 0.9167
+      "trend_score": 0.8333
     },
     {
       "source": "pk",
@@ -335,7 +343,7 @@
       "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
       "time_iso": "2026-10-20T00:49:22+09:00",
       "excerpt": "Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新...",
-      "trend_score": 0.8333
+      "trend_score": 0.75
     },
     {
       "source": "pk",
@@ -343,7 +351,7 @@
       "url": "https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html",
       "time_iso": "2026-10-20T00:47:48+09:00",
       "excerpt": "Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。 これによりMicrosoft Az...",
-      "trend_score": 0.75
+      "trend_score": 0.6667
     },
     {
       "source": "pk",
@@ -351,7 +359,7 @@
       "url": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
       "time_iso": "2026-10-19T00:35:52+09:00",
       "excerpt": "マイクロソフトは、.NETの各種コマンドラインツールやC#コンパイラ、ビルドエンジン、ランタイムなどを含む.NETのツールチェーンをまとめてインストールし、バージョン管理などができるツールチェーンマネージャ「dotnetup」をパブリックプ...",
-      "trend_score": 0.6667
+      "trend_score": 0.5833
     },
     {
       "source": "pk",
@@ -359,7 +367,7 @@
       "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
       "time_iso": "2026-10-18T00:27:18+09:00",
       "excerpt": "悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ...",
-      "trend_score": 0.5833
+      "trend_score": 0.5
     },
     {
       "source": "pk",
@@ -367,7 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
       "time_iso": "2026-10-16T00:21:12+09:00",
       "excerpt": "Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr...",
-      "trend_score": 0.5
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -375,7 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
       "time_iso": "2026-10-15T00:57:19+09:00",
       "excerpt": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
-      "trend_score": 0.4167
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -383,7 +391,7 @@
       "url": "https://www.publickey1.jp/blog/26/websveltekit_3vite.html",
       "time_iso": "2026-10-14T00:26:33+09:00",
       "excerpt": "Webアプリケーションフレームワーク「SvelteKit 3」正式版がリリースされました。 SvelteKitは、Web UIフレームワークの「Svelte」とビルドツールの「Vite」を基盤とし、ルーティング、サーバサイドレンダリング（S...",
-      "trend_score": 0.3333
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -391,7 +399,7 @@
       "url": "https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html",
       "time_iso": "2026-10-13T01:11:37+09:00",
       "excerpt": "進化し続けるITを企業において最適な形で取り入れ続け、ビジネスと統合していく情報システム部門の役割は、AIの登場でビジネスそのものが大きな変革の波を受けざるを得ない現在、ますます重要さを増しています。 その情報システム部門に在籍している有志...",
-      "trend_score": 0.25
+      "trend_score": 0.1667
     },
     {
       "source": "pk",
@@ -399,14 +407,6 @@
       "url": "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
       "time_iso": "2026-10-13T00:46:53+09:00",
       "excerpt": "JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
-      "url": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-      "time_iso": "2026-10-09T00:49:01+09:00",
-      "excerpt": "さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...",
       "trend_score": 0.0833
     }
   ],
