@@ -3,6 +3,8 @@
 Hacker News / TechCrunch / ITmedia / Publickey を毎朝自動収集し、
 英語記事は Claude API で日本語要約して GitHub Pages に公開するアプリ。
 
+公開URL: https://kawanishikoudai.github.io/it-news-digest/
+
 ## セットアップ
 
 1. GitHubで新しいリポジトリを作成（例: `it-news-digest`）し、このフォルダの中身を丸ごとpush
