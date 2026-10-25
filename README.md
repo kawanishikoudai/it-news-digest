@@ -3,7 +3,7 @@
 Hacker News / TechCrunch / ITmedia / Publickey を毎朝自動収集し、
 英語記事は Claude API で日本語要約して GitHub Pages に公開するアプリ。
 
-## セットアップ（efootball-gacha-trackerと同じ流れ）
+## セットアップ
 
 1. GitHubで新しいリポジトリを作成（例: `it-news-digest`）し、このフォルダの中身を丸ごとpush
    ```
