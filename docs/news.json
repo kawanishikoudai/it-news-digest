@@ -1,197 +1,301 @@
 {
-  "generated_at": "2026-10-27T09:59:13.476976+09:00",
+  "generated_at": "2026-10-28T09:49:05.143971+09:00",
   "items": [
     {
       "source": "itm",
-      "title": "GMO不正アクセス、犯人側は「27日に顧客のPC攻撃」予告　GMOが端末回収、ホワイトハッカーが解析中",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002610/",
-      "time_iso": "2026-10-27T09:07:08+09:00",
-      "excerpt": "GMOの従業員が全国に出向いて顧客の端末を預かり、グループのホワイトハッカーチームが調査・解析を進めているという。",
+      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+      "time_iso": "2026-10-28T08:55:26+09:00",
+      "excerpt": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Metaは自社チップ開発と外部調達の両輪でインフラを強化する。",
       "trend_score": 1.0
     },
     {
-      "source": "itm",
-      "title": "「一番くじ ONLINE」の配送情報漏えいか　バンダイナムコの物流子会社に不正アクセス",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002608/",
-      "time_iso": "2026-10-27T08:07:15+09:00",
-      "excerpt": "バンダイロジパルが管理するシステムが不正アクセスを受け、「一番くじ ONLINE」の配送情報が漏えいした可能性。",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "itm",
-      "title": "Apple、「iPad mini」を大幅刷新　8.5インチOLEDとA20 Pro搭載、防水にも対応　11万9800円から",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002607/",
-      "time_iso": "2026-10-27T07:59:29+09:00",
-      "excerpt": "Appleは、「iPad mini」の新モデルを発表した。8.5インチ有機ELディスプレイや最新2nmチップ「A20 Pro」を搭載し、薄型・軽量化とともにシリーズ初のIP67耐水・防塵に対応する。次世代Apple IntelligenceやWi-Fi 7もサポートし、Wi-Fiモデルは11万9800円から。",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "itm",
-      "title": "「楽天トラベル」に不正アクセス　顧客情報最大約260万件など流出か　予約者約3.6万件のクレカ情報も",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002606/",
-      "time_iso": "2026-10-27T07:44:55+09:00",
-      "excerpt": "海外予約サイトの一部ページと、楽天グループが運営する多言語予約サイトが対象。最大約3万6000件の予約者のクレジットカード下4ケタや名義、有効期限などの情報が流出した可能性。",
-      "trend_score": 0.75
-    },
-    {
       "source": "hn",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "time_iso": "2026-10-27T07:41:48+09:00",
-      "excerpt": "54 points ・ 8 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-      "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-      "time_iso": "2026-10-27T07:27:17+09:00",
-      "excerpt": "15 points ・ 8 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "itm",
-      "title": "Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画　NVIDIA、AMD、Broadcomも出資に関心",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002605/",
-      "time_iso": "2026-10-27T07:26:55+09:00",
-      "excerpt": "Metaは、AIインフラとパーソナル超知能への投資を支えるため、総額約950億ドル（約15兆円）規模の株式発行による資金調達計画を発表した。まず普通株式と預託株式で約350億ドルを公募し、NVIDIAなど半導体3社も出資意向を示す。2027年には最大600億ドルの段階的売却プログラムも計画する。",
+      "title": "Free daily JSON feed of Shanghai government subsidy notices",
+      "url": "https://github.com/ZhongGheart/china-policy-data",
+      "time_iso": "2026-10-28T08:46:21+09:00",
+      "excerpt": "10 points ・ 0 comments",
       "trend_score": 0.6667
     },
     {
       "source": "tc",
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "time_iso": "2026-10-27T07:00:00+09:00",
-      "excerpt": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "time_iso": "2026-10-28T08:34:27+09:00",
+      "excerpt": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in Febr",
       "trend_score": 1.0
     },
     {
-      "source": "hn",
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "time_iso": "2026-10-27T06:59:15+09:00",
-      "excerpt": "222 points ・ 95 comments",
-      "trend_score": 0.9333
+      "source": "tc",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "time_iso": "2026-10-28T07:55:41+09:00",
+      "excerpt": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "trend_score": 0.9167
     },
     {
       "source": "itm",
-      "title": "Microsoft、約6万人対象の希望退職制度を発表　巨額のAI投資で経費抑制か",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002604/",
-      "time_iso": "2026-10-27T06:53:53+09:00",
-      "excerpt": "Microsoftは、金銭やキャリア形成を支援する新たな希望退職制度を米英加印で導入すると発表した。対象は特定部門の一定職位以下で、報道によると全従業員の約27％に当たる約6万人規模。巨額のAI設備投資が続く中での経費抑制策とみられるが、同社はAI投資との関係を公表していない。",
+      "title": "auメールで朝から障害　全国で利用しづらい状況に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002650/",
+      "time_iso": "2026-10-28T07:51:10+09:00",
+      "excerpt": "原因は調査中。音声通話とデータ通信は問題なく利用できる。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "itm",
+      "title": "Apple、M6搭載の14インチ「MacBook Pro」発表　AI性能向上、33万9800円から",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/",
+      "time_iso": "2026-10-28T07:30:52+09:00",
+      "excerpt": "Appleは、新型チップ「M6」を搭載した14インチ「MacBook Pro」を発表した。M6はCPU・GPUともに12コアで、AI処理やグラフィックス性能が向上。Wi-Fi 7対応や最大24時間のバッテリー駆動を実現した。日本での販売価格は33万9800円からで、11月6日発売の予定だ。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "time_iso": "2026-10-28T07:26:03+09:00",
+      "excerpt": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "time_iso": "2026-10-28T07:17:18+09:00",
+      "excerpt": "A whole crop of venture capital firms  are raising significant new funds.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "itm",
+      "title": "Google DeepMind、ワールドモデル「Genie 4」発表　音声や会話もリアルタイム生成、Geminiと連携",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
+      "time_iso": "2026-10-28T06:53:37+09:00",
+      "excerpt": "Google DeepMindは、対話型の仮想世界をリアルタイム生成するAI「Genie 4」を発表した。映像品質や物理演算が向上し、環境音や会話音声の同時生成に対応。人物の自然な動作やテキストによる環境操作が可能となった。まずは研究プレビューとして提供し、順次「Google AI Ultra」加入者等へ展開する。",
+      "trend_score": 0.75
+    },
+    {
+      "source": "tc",
+      "title": "GM is embracing hybrids now",
+      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "time_iso": "2026-10-28T06:47:02+09:00",
+      "excerpt": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "time_iso": "2026-10-28T06:44:34+09:00",
+      "excerpt": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
       "trend_score": 0.5833
     },
     {
-      "source": "hn",
-      "title": "Announcing three new discoveries in mathematics, computer science, and physics",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "time_iso": "2026-10-27T06:35:28+09:00",
-      "excerpt": "364 points ・ 141 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "Anthropic、IPOを正式申請　上半期売上高は約14倍、純損失807億ドル",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002603/",
-      "time_iso": "2026-10-27T06:28:38+09:00",
-      "excerpt": "AnthropicはSECにForm S-1を提出し、NasdaqへのIPOを正式申請した。ティッカーは「ANT」。2026年上半期の売上高は前年同期比約14倍の163億ドルに急伸した。上場後も創業者グループが50.1％の議決権を保持し、長期利益信託が取締役選任権を持つガバナンス体制を継続する。",
+      "source": "tc",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "time_iso": "2026-10-28T06:38:28+09:00",
+      "excerpt": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
       "trend_score": 0.5
     },
     {
       "source": "tc",
-      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-      "time_iso": "2026-10-27T06:05:11+09:00",
-      "excerpt": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "tc",
-      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-      "time_iso": "2026-10-27T04:22:40+09:00",
-      "excerpt": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "tc",
-      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-      "time_iso": "2026-10-27T03:59:52+09:00",
-      "excerpt": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-      "trend_score": 0.75
+      "title": "Discord is making its public communities more searchable, and people have concerns",
+      "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+      "time_iso": "2026-10-28T06:22:35+09:00",
+      "excerpt": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+      "trend_score": 0.4167
     },
     {
       "source": "hn",
-      "title": "Type Server Protocol",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "time_iso": "2026-10-27T03:14:49+09:00",
-      "excerpt": "185 points ・ 135 comments",
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "time_iso": "2026-10-28T05:50:42+09:00",
+      "excerpt": "109 points ・ 93 comments",
       "trend_score": 0.8
     },
     {
       "source": "hn",
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "time_iso": "2026-10-27T03:01:17+09:00",
-      "excerpt": "487 points ・ 308 comments",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "time_iso": "2026-10-28T05:48:49+09:00",
+      "excerpt": "86 points ・ 32 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "tc",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "time_iso": "2026-10-28T05:31:17+09:00",
+      "excerpt": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
       "trend_score": 0.3333
     },
     {
       "source": "hn",
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "time_iso": "2026-10-27T02:56:55+09:00",
-      "excerpt": "263 points ・ 175 comments",
-      "trend_score": 0.7333
+      "title": "Four Months of Zig",
+      "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "time_iso": "2026-10-28T05:13:27+09:00",
+      "excerpt": "65 points ・ 38 comments",
+      "trend_score": 0.2667
     },
     {
       "source": "hn",
-      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
-      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-      "time_iso": "2026-10-27T02:49:55+09:00",
-      "excerpt": "109 points ・ 58 comments",
-      "trend_score": 0.2
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "time_iso": "2026-10-28T04:55:21+09:00",
+      "excerpt": "176 points ・ 100 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "hn",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "time_iso": "2026-10-28T04:55:06+09:00",
+      "excerpt": "160 points ・ 94 comments",
+      "trend_score": 0.7333
     },
     {
       "source": "tc",
-      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "time_iso": "2026-10-27T02:45:00+09:00",
-      "excerpt": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operat",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "time_iso": "2026-10-28T03:55:35+09:00",
+      "excerpt": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "trend_score": 0.25
+    },
+    {
+      "source": "hn",
+      "title": "Radio-tagged Monarch butterflies",
+      "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+      "time_iso": "2026-10-28T02:48:15+09:00",
+      "excerpt": "23 points ・ 6 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "tc",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "time_iso": "2026-10-28T02:08:08+09:00",
+      "excerpt": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "hn",
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "time_iso": "2026-10-28T01:51:22+09:00",
+      "excerpt": "721 points ・ 220 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "pk",
+      "title": "Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026",
+      "url": "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
+      "time_iso": "2026-10-28T01:33:51+09:00",
+      "excerpt": "オラクルはGoogleが開発しているAI専用チップのGoogle TPUをOracle Cloud Infrastructure（以下、Oracle Cloud）に導入し、2027年からGoogle TPUのサービスを提供開始すると発表しま...",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "time_iso": "2026-10-28T01:30:57+09:00",
+      "excerpt": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "New 14‑inch MacBook Pro with M6",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "time_iso": "2026-10-28T01:08:32+09:00",
+      "excerpt": "275 points ・ 327 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "time_iso": "2026-10-28T01:06:01+09:00",
+      "excerpt": "701 points ・ 424 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "pk",
+      "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
+      "url": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
+      "time_iso": "2026-10-28T00:27:52+09:00",
+      "excerpt": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互...",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "itm",
+      "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」　Anthropicが示した規格外の見立て",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/",
+      "time_iso": "2026-10-27T20:30:12+09:00",
+      "excerpt": "米Anthropicは10月26日（現地時間）、IPOの目論見書（Form S-1）を米SECに提出した。社内コードの9割超をAIが書き、AI利用額が人件費を上回るといった活用の実態から、AIが人類にもたらし得るリスクまで、多岐にわたって言及している。",
       "trend_score": 0.6667
     },
     {
       "source": "hn",
-      "title": "Nietzschian Debugger",
-      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
-      "time_iso": "2026-10-27T02:25:30+09:00",
-      "excerpt": "126 points ・ 39 comments",
-      "trend_score": 0.4
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "time_iso": "2026-10-27T20:17:57+09:00",
+      "excerpt": "438 points ・ 233 comments",
+      "trend_score": 0.1333
     },
     {
-      "source": "tc",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "time_iso": "2026-10-27T01:49:42+09:00",
-      "excerpt": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent",
+      "source": "itm",
+      "title": "GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
+      "time_iso": "2026-10-27T19:58:09+09:00",
+      "excerpt": "GMOインターネットグループが、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）の報奨金を支払う懸賞金制度を始めると発表した。",
       "trend_score": 0.5833
     },
     {
-      "source": "tc",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "time_iso": "2026-10-27T01:46:36+09:00",
-      "excerpt": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "source": "itm",
+      "title": "So-net、会員情報約259万件が漏えい　一部メールサービスではパスワードも流出",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002643/",
+      "time_iso": "2026-10-27T19:48:13+09:00",
+      "excerpt": "ソニーネットワークコミュニケーションズは10月27日、「So-net」の会員データベースが第三者による不正アクセスを受け、すでに退会した元会員の情報を含む約259万件の会員情報が漏えいしたと発表した一部のメールサービスでは、約5万4000件のメールアドレスとパスワードの漏えいも確認したという。",
       "trend_score": 0.5
     },
     {
-      "source": "hn",
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "time_iso": "2026-10-27T01:12:29+09:00",
-      "excerpt": "107 points ・ 25 comments",
-      "trend_score": 0.2667
+      "source": "itm",
+      "title": "GMO、攻撃者の公開情報に「アクセスは絶対に控えて」　悪質な拡散者には法的措置を準備",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002640/",
+      "time_iso": "2026-10-27T17:58:00+09:00",
+      "excerpt": "GMOインターネットグループは10月27日、「お名前.com デスクトップクラウド」への不正アクセスを巡り、攻撃者が公開した情報と称するものにアクセスしないよう呼び掛けた。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "GMO、攻撃者による情報公開を確認　顧客データ含むか調査中　追加の見舞金も検討",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002630/",
+      "time_iso": "2026-10-27T16:40:32+09:00",
+      "excerpt": "GMOインターネットグループは10月27日、FX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、攻撃者とみられる人物による、顧客に関する情報らしきものの公開を、同日午後0時30分に確認したと発表した。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "タイムズカー、お見舞金3000円の算定基準は？　パーク24に聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002627/",
+      "time_iso": "2026-10-27T16:34:57+09:00",
+      "excerpt": "パーク24は、カーシェアリングサービス「タイムズカー」の情報漏えいを受けて対象者に支払う3000円相当のお見舞金について、利用者が取り得る対応やそれに伴う負担などを総合的に勘案して金額を設定したと、ITmedia NEWSの取材に回答した。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "専門AIで肌カウンセリング、ファンケルが新サービス　チャットと顔画像解析で",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002629/",
+      "time_iso": "2026-10-27T16:24:32+09:00",
+      "excerpt": "ファンケルは10月27日、肌専門の人工知能（AI）を使った肌のカウンセリングサービスを始めた。スマートフォンなどで、同社の公式アプリから無料で利用できる。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "GMO、ランサム被害にあった顧客に新しいPC提供へ　犯行グループは1人の顧客情報公開か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002624/",
+      "time_iso": "2026-10-27T14:19:20+09:00",
+      "excerpt": "顧客から預かって既に解析を終えた端末からは、10月27日午前11時59時点で、ランサムウェアを含むマルウェアは確認していないという。",
+      "trend_score": 0.0833
     },
     {
       "source": "pk",
@@ -199,111 +303,31 @@
       "url": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
       "time_iso": "2026-10-27T00:59:52+09:00",
       "excerpt": "10月20日と21日に米カリフォルニア州で行われたイベント「PyTorch Conference 2026」において、AWSとGoogle Cloudが相次いでPyTorchの自社AIプロセッサ対応版をオープンソースとして発表しました。 A...",
-      "trend_score": 1.0
-    },
-    {
-      "source": "tc",
-      "title": "Microsoft offers buyouts to around 60,000 employees",
-      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-      "time_iso": "2026-10-27T00:58:25+09:00",
-      "excerpt": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
-      "trend_score": 0.4167
+      "trend_score": 0.8333
     },
     {
       "source": "hn",
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "time_iso": "2026-10-27T00:51:23+09:00",
-      "excerpt": "371 points ・ 88 comments",
-      "trend_score": 0.5333
+      "title": "81 Jokes for the ZX81",
+      "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+      "time_iso": "2026-10-26T21:45:16+09:00",
+      "excerpt": "18 points ・ 0 comments",
+      "trend_score": 0.2
     },
     {
       "source": "hn",
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "time_iso": "2026-10-27T00:11:59+09:00",
-      "excerpt": "536 points ・ 79 comments",
-      "trend_score": 0.8667
+      "title": "SS United States to be sunk as largest artificial reef",
+      "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
+      "time_iso": "2026-10-26T13:41:15+09:00",
+      "excerpt": "68 points ・ 46 comments",
+      "trend_score": 0.4
     },
     {
-      "source": "tc",
-      "title": "Anthropic officially files for its public debut",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "time_iso": "2026-10-26T23:35:22+09:00",
-      "excerpt": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed t",
+      "source": "hn",
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "time_iso": "2026-10-26T03:49:48+09:00",
+      "excerpt": "11 points ・ 1 comments",
       "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-      "time_iso": "2026-10-26T23:25:43+09:00",
-      "excerpt": "The new iPad mini features a thinner and lighter design than its predecessor.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-      "time_iso": "2026-10-26T23:08:04+09:00",
-      "excerpt": "Matiks has introduced a new platform for users to create games using AI.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "hn",
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "time_iso": "2026-10-26T22:04:50+09:00",
-      "excerpt": "1459 points ・ 1427 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "tc",
-      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
-      "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
-      "time_iso": "2026-10-26T21:58:40+09:00",
-      "excerpt": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "itm",
-      "title": "ジョーシンへの不正アクセス、最大623万件漏えいか　運転免許証2件・マイナカード1件なども",
-      "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002601/",
-      "time_iso": "2026-10-26T20:06:41+09:00",
-      "excerpt": "ジョーシンを運営するJoshinは10月26日、不正アクセスにより最大約623万件の会員情報等が漏えいした可能性を発表。氏名・住所のほか運転免許証画像やマイナンバー情報、ログイン情報なども含み、影響範囲は調査中。カード情報は保持していない。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "タイムズカー流出で顧客らが損害賠償求め運営会社提訴へ　サイト開設の弁護士が記者会見",
-      "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002598/",
-      "time_iso": "2026-10-26T18:58:14+09:00",
-      "excerpt": "カーシェアリングサービス「タイムズカー」の個人情報漏えい問題で、集団訴訟を呼びかけていた牧野裕貴弁護士は10月26日、運営する「パーク24」などを相手取り、被害者1人当たり3万?5万円の損害賠償を求めて東京地裁に提訴すると発表した。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "「年齢は合ってますが、人間ではありません」　6歳の飼い猫に届いた“進研ゼミの案内”　なぜ届いたのかベネッセに聞いた",
-      "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002597/",
-      "time_iso": "2026-10-26T18:41:28+09:00",
-      "excerpt": "「飼い猫宛てに進研ゼミの案内が届いた」という投稿が10月20日ごろにXで話題になった。この案内を巡り、投稿した飼い主と発行元のベネッセコーポレーションに話を聞いた。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "野村総研、サイバー攻撃時の「能動的なシステム停止」を支援する新サービス",
-      "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002591/",
-      "time_iso": "2026-10-26T18:15:49+09:00",
-      "excerpt": "",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "グッスマに不正アクセス、公式EC閉鎖　会員の住所や注文履歴など漏えいか　再開目処立たず",
-      "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002577/",
-      "time_iso": "2026-10-26T12:33:18+09:00",
-      "excerpt": "グッドスマイルカンパニーは10月23日、同社が運営するECサイト「グッドスマイルカンパニー公式ショップ」で不正アクセスが発生し、会員の個人情報などが第三者に閲覧されたと発表した。サイトは現在閉鎖しており、再開時期は未定としている。原因については、システムの脆弱性を悪用されたとみて調査を進めている。",
-      "trend_score": 0.0833
     },
     {
       "source": "pk",
@@ -311,23 +335,15 @@
       "url": "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
       "time_iso": "2026-10-26T00:44:47+09:00",
       "excerpt": "DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。  Announcing Duck...",
-      "trend_score": 0.9167
+      "trend_score": 0.75
     },
     {
       "source": "hn",
-      "title": "LISPy things you can do in 64K bytes of core (2019)",
-      "url": "https://t3x.org/lisp64k/index.html",
-      "time_iso": "2026-10-25T21:53:47+09:00",
-      "excerpt": "18 points ・ 1 comments",
+      "title": "An examination of lost firefly species of the US and Canada",
+      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "time_iso": "2026-10-25T04:04:42+09:00",
+      "excerpt": "82 points ・ 12 comments",
       "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "A Printer Printing onto Paper",
-      "url": "https://twitter.com/macrofying/status/2112904628509528219",
-      "time_iso": "2026-10-23T14:01:30+09:00",
-      "excerpt": "46 points ・ 11 comments",
-      "trend_score": 0.6
     },
     {
       "source": "pk",
@@ -335,7 +351,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
       "time_iso": "2026-10-22T00:42:36+09:00",
       "excerpt": "Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsrsの開発に関わっています。 ...",
-      "trend_score": 0.8333
+      "trend_score": 0.6667
     },
     {
       "source": "pk",
@@ -343,7 +359,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
       "time_iso": "2026-10-21T00:10:05+09:00",
       "excerpt": "Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Clo...",
-      "trend_score": 0.75
+      "trend_score": 0.5833
     },
     {
       "source": "pk",
@@ -351,7 +367,7 @@
       "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
       "time_iso": "2026-10-20T00:49:22+09:00",
       "excerpt": "Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新...",
-      "trend_score": 0.6667
+      "trend_score": 0.5
     },
     {
       "source": "pk",
@@ -359,7 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html",
       "time_iso": "2026-10-20T00:47:48+09:00",
       "excerpt": "Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。 これによりMicrosoft Az...",
-      "trend_score": 0.5833
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -367,7 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
       "time_iso": "2026-10-19T00:35:52+09:00",
       "excerpt": "マイクロソフトは、.NETの各種コマンドラインツールやC#コンパイラ、ビルドエンジン、ランタイムなどを含む.NETのツールチェーンをまとめてインストールし、バージョン管理などができるツールチェーンマネージャ「dotnetup」をパブリックプ...",
-      "trend_score": 0.5
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -375,7 +391,7 @@
       "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
       "time_iso": "2026-10-18T00:27:18+09:00",
       "excerpt": "悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ...",
-      "trend_score": 0.4167
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -383,7 +399,7 @@
       "url": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
       "time_iso": "2026-10-16T00:21:12+09:00",
       "excerpt": "Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr...",
-      "trend_score": 0.3333
+      "trend_score": 0.1667
     },
     {
       "source": "pk",
@@ -391,22 +407,6 @@
       "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
       "time_iso": "2026-10-15T00:57:19+09:00",
       "excerpt": "マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...",
-      "trend_score": 0.25
-    },
-    {
-      "source": "pk",
-      "title": "Webアプリフレームワークの「SvelteKit 3」正式リリース。設定をViteに集約、型安全やエラー処理の改善など",
-      "url": "https://www.publickey1.jp/blog/26/websveltekit_3vite.html",
-      "time_iso": "2026-10-14T00:26:33+09:00",
-      "excerpt": "Webアプリケーションフレームワーク「SvelteKit 3」正式版がリリースされました。 SvelteKitは、Web UIフレームワークの「Svelte」とビルドツールの「Vite」を基盤とし、ルーティング、サーバサイドレンダリング（S...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "「情シスって楽しい」がテーマ。チームみらい安野党首、ひろゆき氏、OpenID Foundation崎村氏らが登壇。BTCONJP 2026［PR］",
-      "url": "https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html",
-      "time_iso": "2026-10-13T01:11:37+09:00",
-      "excerpt": "進化し続けるITを企業において最適な形で取り入れ続け、ビジネスと統合していく情報システム部門の役割は、AIの登場でビジネスそのものが大きな変革の波を受けざるを得ない現在、ますます重要さを増しています。 その情報システム部門に在籍している有志...",
       "trend_score": 0.0833
     }
   ],
