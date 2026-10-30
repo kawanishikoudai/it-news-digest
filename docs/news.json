@@ -1,244 +1,316 @@
 {
-  "generated_at": "2026-10-29T10:21:58.296054+09:00",
+  "generated_at": "2026-10-30T10:25:44.785118+09:00",
   "items": [
     {
-      "source": "itm",
-      "title": "バンナム、メアド34万件漏えい　ガンダムグッズ店のポイント会員が対象　ユミルリンクへの不正アクセスが原因",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002694/",
-      "time_iso": "2026-10-29T09:57:15+09:00",
-      "excerpt": "漏えいしたのは、メールアドレスと「バンダイナムコID」管理用の内部識別子。",
+      "source": "tc",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "time_iso": "2026-10-30T10:20:48+09:00",
+      "excerpt": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
       "trend_score": 1.0
     },
     {
       "source": "itm",
-      "title": "「楽天トラベル」に不正アクセス　顧客情報最大約260万件など流出か　予約者約3.6万件のクレカ情報も",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002606/",
-      "time_iso": "2026-10-29T09:49:11+09:00",
-      "excerpt": "海外予約サイトの一部ページと、楽天グループが運営する多言語予約サイトが対象。最大約3万6000件の予約者のクレジットカード下4ケタや名義、有効期限などの情報が流出した可能性。",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "itm",
-      "title": "Alphabet、25％増収も純利益は25％減　Google Cloudは103％増収、AI投資負担増",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002693/",
-      "time_iso": "2026-10-29T09:42:56+09:00",
-      "excerpt": "Alphabetの7?9月期決算は、売上高が前年同期比25％増の1275億ドルとなった一方、SpaceX株の下落損などにより、純利益は25％減となった。Google Cloudは103％増と急成長したが、巨額のAI設備投資でフリーキャッシュフローは赤字に転落。時間外取引で株価は一時10％超下落した。",
-      "trend_score": 0.8333
+      "title": "アイリスオーヤマの通販サイトに不正アクセス　情報漏えいは「調査中」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002737/",
+      "time_iso": "2026-10-30T09:43:10+09:00",
+      "excerpt": "現時点の調査では、クレジットカード情報の漏えいは確認していない。その他の情報については引き続き調べる。",
+      "trend_score": 1.0
     },
     {
       "source": "hn",
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-      "time_iso": "2026-10-29T09:30:37+09:00",
-      "excerpt": "11 points ・ 11 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "time_iso": "2026-10-29T09:25:45+09:00",
-      "excerpt": "24 points ・ 1 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
-      "time_iso": "2026-10-29T09:16:08+09:00",
-      "excerpt": "19 points ・ 15 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "itm",
-      "title": "「ツイキャス」不正アクセスで停止　復旧までに「相応の時間」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002692/",
-      "time_iso": "2026-10-29T08:56:59+09:00",
-      "excerpt": "ツイキャスのサーバに第三者による不正アクセスが行われた形跡を確認した。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "time_iso": "2026-10-29T08:45:46+09:00",
-      "excerpt": "64 points ・ 16 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "hn",
-      "title": "The first wired XR glasses powered by Android XR",
-      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
-      "time_iso": "2026-10-29T08:45:19+09:00",
-      "excerpt": "15 points ・ 11 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "hn",
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "time_iso": "2026-10-29T08:35:02+09:00",
-      "excerpt": "82 points ・ 85 comments",
+      "title": "Cormac McCarthy's Library",
+      "url": "https://cormacmccarthy.lib.utk.edu/",
+      "time_iso": "2026-10-30T09:31:00+09:00",
+      "excerpt": "5 points ・ 1 comments",
       "trend_score": 0.2
     },
     {
       "source": "itm",
-      "title": "Microsoft、7?9月期は19％増収　Azureは48％増、AI需要が成長けん引",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002691/",
-      "time_iso": "2026-10-29T08:19:34+09:00",
-      "excerpt": "Microsoftの7?9月期決算は、売上高が前年同期比19％増、純利益が32％増と好調だった。事業部門を2つに再編し、クラウド主体の部門でAzureが48％増と成長が加速。CopilotやAI開発基盤の利用も拡大する一方、次期は設備投資を500億ドル超に引き上げる見通し。",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "tc",
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "time_iso": "2026-10-29T08:15:00+09:00",
-      "excerpt": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-      "trend_score": 1.0
-    },
-    {
-      "source": "tc",
-      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-      "time_iso": "2026-10-29T07:47:50+09:00",
-      "excerpt": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "title": "Amazon決算、AWS売上高が39.3％増で約5年ぶりの高成長　フリーキャッシュフローは大幅悪化",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002736/",
+      "time_iso": "2026-10-30T09:14:48+09:00",
+      "excerpt": "Amazonの7月?9月期決算は、売上高が前年同期比12％増で過去最高を記録した。AWS売上高は39.3％増と加速し、受注残は5780億ドルに達した。一方、前年計上したAnthropic評価益の反動で純利益は微減。巨額の設備投資によりフリーキャッシュフローは大幅な赤字となった。",
       "trend_score": 0.9167
     },
     {
-      "source": "itm",
-      "title": "Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
-      "time_iso": "2026-10-29T07:13:47+09:00",
-      "excerpt": "Googleは、フロンティアAIモデル「Gemini 4 Carbon」を発表した。サイバーセキュリティや長時間に及ぶ自律作業能力を強化し、ベンチマーク首位を獲得。ハルシネーションや不正操作への耐性も向上させた。まず一部のサイバー防御組織に限定提供し、順次公開範囲を広げる方針だ。",
-      "trend_score": 0.5833
+      "source": "tc",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "time_iso": "2026-10-30T08:44:56+09:00",
+      "excerpt": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "trend_score": 0.9167
     },
     {
       "source": "tc",
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "time_iso": "2026-10-29T06:58:32+09:00",
-      "excerpt": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest compe",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "time_iso": "2026-10-30T08:42:22+09:00",
+      "excerpt": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spendi",
       "trend_score": 0.8333
     },
     {
-      "source": "tc",
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "time_iso": "2026-10-29T06:48:37+09:00",
-      "excerpt": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "source": "hn",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "time_iso": "2026-10-30T08:25:46+09:00",
+      "excerpt": "27 points ・ 7 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "itm",
+      "title": "OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
+      "time_iso": "2026-10-30T08:24:32+09:00",
+      "excerpt": "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した。全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定。一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "itm",
+      "title": "ウクライナで拡散するAI偽情報　「本物の映像」をどう証明するか、AIと戦争が変えた「C2PA」の意義",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002734/",
+      "time_iso": "2026-10-30T08:02:40+09:00",
+      "excerpt": "偽物を見破る技術として期待されたC2PAだが、生成AIが本物と見分けの付かない映像を生む今、その役割は裏返りつつある。戦時下のウクライナで公共放送が直面した偽情報の“本当の狙い”と、そこで下した決断。そして放送波に載せられない日本の放送が抱える課題。Media Provenance Summit Tokyo 2026で",
       "trend_score": 0.75
     },
     {
       "source": "tc",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "time_iso": "2026-10-29T06:34:30+09:00",
-      "excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. ",
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "time_iso": "2026-10-30T07:27:23+09:00",
+      "excerpt": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "time_iso": "2026-10-30T07:26:38+09:00",
+      "excerpt": "41 points ・ 5 comments",
       "trend_score": 0.6667
     },
     {
-      "source": "itm",
-      "title": "Apple、初のタッチ対応「MacBook Pro」発表　新型OLED搭載、国内価格は49万9800円から",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002689/",
-      "time_iso": "2026-10-29T06:32:01+09:00",
-      "excerpt": "Appleは、Mac初のタッチ操作に対応した新型「MacBook Pro」を発表した。タンデムOLED採用の「PROLED XDRディスプレイ」やDynamic Islandを搭載し、14インチと16インチで展開。チップはM5 Pro／Maxを採用し、大幅な薄型・軽量化を実現した。11月6日発売で49万9800円から。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "tc",
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "time_iso": "2026-10-29T06:25:30+09:00",
-      "excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on ",
-      "trend_score": 0.5833
-    },
-    {
       "source": "hn",
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "time_iso": "2026-10-29T06:19:30+09:00",
-      "excerpt": "108 points ・ 80 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "hn",
-      "title": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "time_iso": "2026-10-29T06:13:21+09:00",
-      "excerpt": "91 points ・ 8 comments",
-      "trend_score": 0.7333
-    },
-    {
-      "source": "tc",
-      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-      "time_iso": "2026-10-29T05:01:00+09:00",
-      "excerpt": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
-      "trend_score": 0.5
-    },
-    {
-      "source": "tc",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "time_iso": "2026-10-29T04:19:58+09:00",
-      "excerpt": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "time_iso": "2026-10-29T04:05:46+09:00",
-      "excerpt": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of we",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Apple launches its new touchscreen MacBook Pro",
-      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-      "time_iso": "2026-10-29T02:26:10+09:00",
-      "excerpt": "Apple's new touchscreen MacBook Pro starts at $2,899.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "hn",
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "time_iso": "2026-10-29T02:13:29+09:00",
-      "excerpt": "836 points ・ 184 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "time_iso": "2026-10-29T02:10:37+09:00",
-      "excerpt": "497 points ・ 845 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "time_iso": "2026-10-29T02:01:23+09:00",
-      "excerpt": "799 points ・ 655 comments",
+      "title": "The Great American Rascal: Tom Sawyer at 150",
+      "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+      "time_iso": "2026-10-30T07:14:23+09:00",
+      "excerpt": "38 points ・ 9 comments",
       "trend_score": 0.6
     },
     {
       "source": "tc",
-      "title": "Xreal Aura is a new wired headset powered by Android XR",
-      "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-      "time_iso": "2026-10-29T02:00:00+09:00",
-      "excerpt": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
+      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "time_iso": "2026-10-30T06:51:29+09:00",
+      "excerpt": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+      "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+      "time_iso": "2026-10-30T06:48:35+09:00",
+      "excerpt": "75 points ・ 21 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "hn",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "time_iso": "2026-10-30T06:40:28+09:00",
+      "excerpt": "148 points ・ 56 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "hn",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "time_iso": "2026-10-30T06:38:59+09:00",
+      "excerpt": "680 points ・ 415 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "time_iso": "2026-10-30T06:20:47+09:00",
+      "excerpt": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "tc",
+      "title": "GM reaches $220M settlement over selling drivers’ private data",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "time_iso": "2026-10-30T06:01:04+09:00",
+      "excerpt": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+      "trend_score": 0.5
+    },
+    {
+      "source": "hn",
+      "title": "ElementaryUI – Swift, in the Browser",
+      "url": "https://elementary.codes",
+      "time_iso": "2026-10-30T05:56:39+09:00",
+      "excerpt": "54 points ・ 11 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "tc",
+      "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+      "time_iso": "2026-10-30T05:43:56+09:00",
+      "excerpt": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked c",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "hn",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "time_iso": "2026-10-30T05:32:28+09:00",
+      "excerpt": "119 points ・ 8 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "tc",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "time_iso": "2026-10-30T05:08:31+09:00",
+      "excerpt": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "time_iso": "2026-10-30T05:05:47+09:00",
+      "excerpt": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "trend_score": 0.25
+    },
+    {
+      "source": "tc",
+      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+      "time_iso": "2026-10-30T05:02:03+09:00",
+      "excerpt": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
       "trend_score": 0.1667
     },
     {
       "source": "tc",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "time_iso": "2026-10-29T02:00:00+09:00",
-      "excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "time_iso": "2026-10-30T04:56:19+09:00",
+      "excerpt": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "time_iso": "2026-10-30T04:41:39+09:00",
+      "excerpt": "2363 points ・ 491 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "url": "https://github.com/johncassil/dontallow",
+      "time_iso": "2026-10-30T04:27:44+09:00",
+      "excerpt": "99 points ・ 76 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "hn",
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "time_iso": "2026-10-30T00:53:03+09:00",
+      "excerpt": "326 points ・ 124 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "hn",
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "time_iso": "2026-10-29T23:57:55+09:00",
+      "excerpt": "337 points ・ 178 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "time_iso": "2026-10-29T23:13:21+09:00",
+      "excerpt": "1188 points ・ 338 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "hn",
+      "title": "DoorDash to acquire Instacart",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "time_iso": "2026-10-29T21:33:05+09:00",
+      "excerpt": "415 points ・ 597 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？　PayPayに聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
+      "time_iso": "2026-10-29T19:28:06+09:00",
+      "excerpt": "ユーザーにできる対策としては、Google PlayやApp Store以外からアプリをダウンロードしないことや、スマートフォンを外部から操作できる権限を許可しないことが有効だ、と説明している。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に　日本人口の2倍超",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002730/",
+      "time_iso": "2026-10-29T19:18:19+09:00",
+      "excerpt": "個人情報保護委員会によると、2026年4月1日から10月16日までに報告された不正アクセスによる個人情報の漏えい、または漏えいの恐れがある事案について、対象者数は延べ約2億6000万人だったという。これは、同年10月1日時点の日本の総人口の2倍以上に相当する。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "楽天カード、本人認証をワンタイムパスワードに統一　27年2月から順次",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002729/",
+      "time_iso": "2026-10-29T18:57:37+09:00",
+      "excerpt": "",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
+      "time_iso": "2026-10-29T17:52:38+09:00",
+      "excerpt": "カード決済ページに不正プログラム設置され、顧客2800人のカード名義人名、カード番号（全16桁）、有効期限、セキュリティコードが漏えいした可能性があるという。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "神奈川・鎌倉市が「公共ライドシェア」実証実験見送り　路線バス大幅減便で代替運行に注力",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002727/",
+      "time_iso": "2026-10-29T17:14:22+09:00",
+      "excerpt": "神奈川県鎌倉市は、「交通空白」地域の解消に向けJR大船駅周辺と西鎌倉地区で11月から予定していた公共ライドシェアの実証実験について、26年度の実施を見送ると発表した。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "ローソン・郵便局が「ドローン基地」に　回線はStarlinkで　ドローンインフラを急ピッチで作るKDDI",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002723/",
+      "time_iso": "2026-10-29T16:58:02+09:00",
+      "excerpt": "KDDIスマートドローンは10月28日、ビジネスイベント「KDDI SUMMIT 2026」でドローンの全国展開に向けた取り組みを紹介した。物流や地域の見守り、インフラ点検、災害対応などを人に代わって担う「空のAI労働力」の実現を目指す。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "ANAの予約情報に不正アクセス、JALと同じ委託先経由で　個人情報をのぞき見た痕跡も",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002722/",
+      "time_iso": "2026-10-29T16:37:03+09:00",
+      "excerpt": "全日本空輸（ANA）は10月29日、Amadeusが提供する旅客サービスシステムへの不正アクセスで、一部顧客の個人情報を第三者が参照した形跡があると発表した。同じシステムを使う日本航空も28日、約9万2000人分の予約情報への不正アクセスを公表している。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "ソニー生命に不正アクセス、個人情報約38.5万件漏えい　氏名や住所、契約内容など",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
+      "time_iso": "2026-10-29T15:21:40+09:00",
+      "excerpt": "氏名、生年月日、性別、住所、電話番号、証券番号、契約内容が流出した。",
       "trend_score": 0.0833
     },
     {
@@ -248,54 +320,6 @@
       "time_iso": "2026-10-29T00:39:53+09:00",
       "excerpt": "オラクルは、社員が業務アプリをAIで自動的に生成しOracle Cloudにデプロイして利用できる「Oracle App Composer」を、米国ラスベガスで開催中の年次イベント「Oracle AI World 2026」で発表しました。...",
       "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "time_iso": "2026-10-28T23:38:22+09:00",
-      "excerpt": "399 points ・ 118 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "itm",
-      "title": "JALの予約システムに不正アクセス　約9万人分の予約情報が漏えい　一部ではパスポート番号も",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002687/",
-      "time_iso": "2026-10-28T20:52:00+09:00",
-      "excerpt": "日本航空（JAL）と日本トランスオーシャン航空（JTA）は10月28日、予約や搭乗手続きなどを管理するシステムの提供元が不正アクセスを受け、利用者約9万2000人の予約情報が外部から閲覧された形跡があったと発表した。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "NEC、委託先の情報漏えいで謝罪　「セキュリティ事業を手掛ける企業として反省」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002686/",
-      "time_iso": "2026-10-28T20:32:12+09:00",
-      "excerpt": "NECの雨宮邦和副社長兼CFOは、10月28日の第2四半期決算説明会で、委託先を経由したセキュリティインシデントについて謝罪した。AIやIT、ネットワークまで含めたセキュリティの支援を、DX事業「BluStellar」のメニューとして提供していく方針も示した。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
-      "time_iso": "2026-10-28T18:48:42+09:00",
-      "excerpt": "",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "「対策を後回しにしたサーバが軒並み狙われている」　相次ぐ不正アクセスにラックCTOが警鐘",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002675/",
-      "time_iso": "2026-10-28T17:19:23+09:00",
-      "excerpt": "不正アクセスが相次ぐ中、ラックの倉持浩明CTOは「KDDI SUMMIT 2026」に登壇。被害対応の現場の実態として、脆弱性診断などを後回しにしたシステムが狙われていると指摘した。AIで攻撃が高速化する今、自社の都合ではなく攻撃者の視点で基本対策を見直す必要性を訴えた。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "「推しがそばにいる日常」を　ソニー、5万円台の裸眼3Dディスプレイ　アニメ公式コンテンツに対応",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002670/",
-      "time_iso": "2026-10-28T16:06:07+09:00",
-      "excerpt": "ホロモデルに対応し、「アニメの公式キャラクターを中心とした3Dデジタルフィギュアを手軽に鑑賞できる」。",
-      "trend_score": 0.0833
     },
     {
       "source": "pk",
@@ -322,36 +346,12 @@
       "trend_score": 0.75
     },
     {
-      "source": "hn",
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "time_iso": "2026-10-26T22:13:31+09:00",
-      "excerpt": "412 points ・ 199 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "How we made our MMDB files a 33% smaller",
-      "url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
-      "time_iso": "2026-10-26T02:33:02+09:00",
-      "excerpt": "12 points ・ 0 comments",
-      "trend_score": 0.0667
-    },
-    {
       "source": "pk",
       "title": "「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など",
       "url": "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
       "time_iso": "2026-10-26T00:44:47+09:00",
       "excerpt": "DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。  Announcing Duck...",
       "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Start Doing Graph Theory",
-      "url": "https://vertex.degree/",
-      "time_iso": "2026-10-23T22:49:50+09:00",
-      "excerpt": "582 points ・ 126 comments",
-      "trend_score": 0.2667
     },
     {
       "source": "pk",
