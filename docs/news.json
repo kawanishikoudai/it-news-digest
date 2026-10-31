@@ -1,317 +1,309 @@
 {
-  "generated_at": "2026-10-30T10:25:44.785118+09:00",
+  "generated_at": "2026-10-31T10:13:05.080926+09:00",
   "items": [
     {
-      "source": "tc",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "time_iso": "2026-10-30T10:20:48+09:00",
-      "excerpt": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "アイリスオーヤマの通販サイトに不正アクセス　情報漏えいは「調査中」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002737/",
-      "time_iso": "2026-10-30T09:43:10+09:00",
-      "excerpt": "現時点の調査では、クレジットカード情報の漏えいは確認していない。その他の情報については引き続き調べる。",
-      "trend_score": 1.0
-    },
-    {
       "source": "hn",
-      "title": "Cormac McCarthy's Library",
-      "url": "https://cormacmccarthy.lib.utk.edu/",
-      "time_iso": "2026-10-30T09:31:00+09:00",
-      "excerpt": "5 points ・ 1 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "itm",
-      "title": "Amazon決算、AWS売上高が39.3％増で約5年ぶりの高成長　フリーキャッシュフローは大幅悪化",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002736/",
-      "time_iso": "2026-10-30T09:14:48+09:00",
-      "excerpt": "Amazonの7月?9月期決算は、売上高が前年同期比12％増で過去最高を記録した。AWS売上高は39.3％増と加速し、受注残は5780億ドルに達した。一方、前年計上したAnthropic評価益の反動で純利益は微減。巨額の設備投資によりフリーキャッシュフローは大幅な赤字となった。",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "tc",
-      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "time_iso": "2026-10-30T08:44:56+09:00",
-      "excerpt": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "tc",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "time_iso": "2026-10-30T08:42:22+09:00",
-      "excerpt": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spendi",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "time_iso": "2026-10-30T08:25:46+09:00",
-      "excerpt": "27 points ・ 7 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "itm",
-      "title": "OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
-      "time_iso": "2026-10-30T08:24:32+09:00",
-      "excerpt": "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した。全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定。一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた。",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "itm",
-      "title": "ウクライナで拡散するAI偽情報　「本物の映像」をどう証明するか、AIと戦争が変えた「C2PA」の意義",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002734/",
-      "time_iso": "2026-10-30T08:02:40+09:00",
-      "excerpt": "偽物を見破る技術として期待されたC2PAだが、生成AIが本物と見分けの付かない映像を生む今、その役割は裏返りつつある。戦時下のウクライナで公共放送が直面した偽情報の“本当の狙い”と、そこで下した決断。そして放送波に載せられない日本の放送が抱える課題。Media Provenance Summit Tokyo 2026で",
-      "trend_score": 0.75
-    },
-    {
-      "source": "tc",
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-      "time_iso": "2026-10-30T07:27:23+09:00",
-      "excerpt": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "url": "https://journal.animationstudies.org/article/id/66/",
-      "time_iso": "2026-10-30T07:26:38+09:00",
-      "excerpt": "41 points ・ 5 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "The Great American Rascal: Tom Sawyer at 150",
-      "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-      "time_iso": "2026-10-30T07:14:23+09:00",
-      "excerpt": "38 points ・ 9 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "tc",
-      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-      "time_iso": "2026-10-30T06:51:29+09:00",
-      "excerpt": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
-      "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
-      "time_iso": "2026-10-30T06:48:35+09:00",
-      "excerpt": "75 points ・ 21 comments",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "url": "https://tng.episodle.com/",
+      "time_iso": "2026-10-31T08:51:24+09:00",
+      "excerpt": "31 points ・ 9 comments",
       "trend_score": 0.8
     },
     {
       "source": "hn",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "time_iso": "2026-10-30T06:40:28+09:00",
-      "excerpt": "148 points ・ 56 comments",
-      "trend_score": 0.8667
+      "title": "Be a Loser",
+      "url": "https://makemeacto.cc/be-a-loser/",
+      "time_iso": "2026-10-31T08:48:50+09:00",
+      "excerpt": "5 points ・ 0 comments",
+      "trend_score": 0.0667
     },
     {
-      "source": "hn",
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "time_iso": "2026-10-30T06:38:59+09:00",
-      "excerpt": "680 points ・ 415 comments",
+      "source": "tc",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "time_iso": "2026-10-31T08:21:23+09:00",
+      "excerpt": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
       "trend_score": 1.0
     },
     {
       "source": "tc",
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-      "time_iso": "2026-10-30T06:20:47+09:00",
-      "excerpt": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "time_iso": "2026-10-31T07:56:13+09:00",
+      "excerpt": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down i",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "itm",
+      "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
+      "time_iso": "2026-10-31T07:13:43+09:00",
+      "excerpt": "Binanceから約60億ドルの暗号資産が流出した事件で、TRM LabsとChainalysisは北朝鮮のサイバー集団「TraderTraitor」の関与を指摘した。過去最大規模の被害に対し、盗難資産の分散洗浄が進む一方、当局や発行元による迅速な資産凍結も進められている。",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "time_iso": "2026-10-31T06:54:34+09:00",
+      "excerpt": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "time_iso": "2026-10-31T06:52:03+09:00",
+      "excerpt": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep",
+      "trend_score": 0.75
+    },
+    {
+      "source": "tc",
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "time_iso": "2026-10-31T06:48:53+09:00",
+      "excerpt": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "url": "https://www.firezone.dev/blog/introducing-sanstun",
+      "time_iso": "2026-10-31T06:30:00+09:00",
+      "excerpt": "55 points ・ 6 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "tc",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "time_iso": "2026-10-31T06:26:59+09:00",
+      "excerpt": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
       "trend_score": 0.5833
     },
     {
       "source": "tc",
-      "title": "GM reaches $220M settlement over selling drivers’ private data",
-      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-      "time_iso": "2026-10-30T06:01:04+09:00",
-      "excerpt": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "time_iso": "2026-10-31T06:17:40+09:00",
+      "excerpt": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sust",
       "trend_score": 0.5
     },
     {
-      "source": "hn",
-      "title": "ElementaryUI – Swift, in the Browser",
-      "url": "https://elementary.codes",
-      "time_iso": "2026-10-30T05:56:39+09:00",
-      "excerpt": "54 points ・ 11 comments",
-      "trend_score": 0.1333
-    },
-    {
       "source": "tc",
-      "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
-      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "time_iso": "2026-10-30T05:43:56+09:00",
-      "excerpt": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked c",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "time_iso": "2026-10-31T04:55:13+09:00",
+      "excerpt": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. An",
       "trend_score": 0.4167
     },
     {
       "source": "hn",
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "time_iso": "2026-10-30T05:32:28+09:00",
-      "excerpt": "119 points ・ 8 comments",
-      "trend_score": 0.7333
-    },
-    {
-      "source": "tc",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "time_iso": "2026-10-30T05:08:31+09:00",
-      "excerpt": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "time_iso": "2026-10-30T05:05:47+09:00",
-      "excerpt": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
-      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-      "time_iso": "2026-10-30T05:02:03+09:00",
-      "excerpt": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "time_iso": "2026-10-30T04:56:19+09:00",
-      "excerpt": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "trend_score": 0.0833
+      "title": "Jules Verne's Lost Novel",
+      "url": "https://blue-continuum.com/verne-paris",
+      "time_iso": "2026-10-31T04:55:10+09:00",
+      "excerpt": "77 points ・ 14 comments",
+      "trend_score": 0.6
     },
     {
       "source": "hn",
-      "title": "Patrick Stewart has died",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "time_iso": "2026-10-30T04:41:39+09:00",
-      "excerpt": "2363 points ・ 491 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "url": "https://github.com/johncassil/dontallow",
-      "time_iso": "2026-10-30T04:27:44+09:00",
-      "excerpt": "99 points ・ 76 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "hn",
-      "title": "H.264 Is Magic (2016)",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "time_iso": "2026-10-30T00:53:03+09:00",
-      "excerpt": "326 points ・ 124 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "time_iso": "2026-10-29T23:57:55+09:00",
-      "excerpt": "337 points ・ 178 comments",
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "time_iso": "2026-10-31T04:51:33+09:00",
+      "excerpt": "87 points ・ 29 comments",
       "trend_score": 0.2667
     },
     {
       "source": "hn",
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "time_iso": "2026-10-29T23:13:21+09:00",
-      "excerpt": "1188 points ・ 338 comments",
-      "trend_score": 0.9333
+      "title": "Infinite Mac: BeOS",
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "time_iso": "2026-10-31T04:30:09+09:00",
+      "excerpt": "102 points ・ 32 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "Satlyt takes another step toward turning satellites into space data centers",
+      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+      "time_iso": "2026-10-31T03:01:24+09:00",
+      "excerpt": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers.",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "time_iso": "2026-10-31T02:47:12+09:00",
+      "excerpt": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "trend_score": 0.25
     },
     {
       "source": "hn",
-      "title": "DoorDash to acquire Instacart",
-      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-      "time_iso": "2026-10-29T21:33:05+09:00",
-      "excerpt": "415 points ・ 597 comments",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "time_iso": "2026-10-31T02:25:15+09:00",
+      "excerpt": "237 points ・ 62 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "time_iso": "2026-10-31T02:00:00+09:00",
+      "excerpt": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "time_iso": "2026-10-31T01:40:22+09:00",
+      "excerpt": "189 points ・ 110 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "tc",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "time_iso": "2026-10-31T01:03:45+09:00",
+      "excerpt": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar va",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "time_iso": "2026-10-31T00:48:12+09:00",
+      "excerpt": "213 points ・ 36 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "The federated code forge",
+      "url": "https://tangled.org/blog/forge/",
+      "time_iso": "2026-10-31T00:44:29+09:00",
+      "excerpt": "227 points ・ 77 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "time_iso": "2026-10-31T00:10:31+09:00",
+      "excerpt": "355 points ・ 272 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "time_iso": "2026-10-30T21:50:01+09:00",
+      "excerpt": "301 points ・ 212 comments",
       "trend_score": 0.3333
     },
     {
       "source": "itm",
-      "title": "「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？　PayPayに聞いた",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
-      "time_iso": "2026-10-29T19:28:06+09:00",
-      "excerpt": "ユーザーにできる対策としては、Google PlayやApp Store以外からアプリをダウンロードしないことや、スマートフォンを外部から操作できる権限を許可しないことが有効だ、と説明している。",
-      "trend_score": 0.6667
+      "title": "「低評価でキャラが悲しげな目」　モスバーガーのアンケートがSNSで話題　運営会社に狙いを聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002767/",
+      "time_iso": "2026-10-30T18:05:54+09:00",
+      "excerpt": "モスバーガーの顧客アンケートで、評価する数字に応じてキャラクターの表情が変わる画面設計がX上で話題だ。好意的な反応が目立つ一方、「回答者の評価に影響するのではないか」と懸念する声もみられる。どのような狙いで採用したのか。モスバーガーを運営するモスフードサービスに聞いた。",
+      "trend_score": 0.9167
     },
     {
       "source": "itm",
-      "title": "不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に　日本人口の2倍超",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002730/",
-      "time_iso": "2026-10-29T19:18:19+09:00",
-      "excerpt": "個人情報保護委員会によると、2026年4月1日から10月16日までに報告された不正アクセスによる個人情報の漏えい、または漏えいの恐れがある事案について、対象者数は延べ約2億6000万人だったという。これは、同年10月1日時点の日本の総人口の2倍以上に相当する。",
+      "title": "セガのスマホゲーム「チェンクロ」、セキュリティ問題で1?2カ月の長期メンテ　13年続く長寿タイトル",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002768/",
+      "time_iso": "2026-10-30T18:00:59+09:00",
+      "excerpt": "セガが運営するスマホRPG「チェインクロニクル」で、10月23日から緊急メンテナンスが続いている。同社は30日、一部システムでセキュリティ上の問題を確認したため、少なくとも1?2カ月、メンテナンスが続く見通しだと発表した。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "itm",
+      "title": "「ITノウハウ持つ人材少なく」　PHP脆弱性問題、31市町村でサイト一時停止継続",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002766/",
+      "time_iso": "2026-10-30T17:38:01+09:00",
+      "excerpt": "プログラミング言語「PHP」に重大な脆弱（ぜいじゃく）性が見つかった問題で、少なくとも全国31市町村がWebサイトの公開を一時停止・縮小していることが10月30日、分かった。",
+      "trend_score": 0.75
+    },
+    {
+      "source": "itm",
+      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
+      "time_iso": "2026-10-30T17:13:12+09:00",
+      "excerpt": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "time_iso": "2026-10-30T16:09:12+09:00",
+      "excerpt": "767 points ・ 481 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "itm",
+      "title": "無印良品、不正アクセスで最大2726万件の会員情報漏えいか　退会済みのユーザーも対象",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002756/",
+      "time_iso": "2026-10-30T15:18:29+09:00",
+      "excerpt": "「無印良品」を展開する良品計画は、同社が運営する「MUJIアプリ」の顧客情報が最大約2726万件流出した可能性があると発表した。退会済みの利用者の情報も含まれる。会員向けセール「無印良品週間」の開催期間中の公表となった。",
       "trend_score": 0.5833
     },
     {
       "source": "itm",
-      "title": "楽天カード、本人認証をワンタイムパスワードに統一　27年2月から順次",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002729/",
-      "time_iso": "2026-10-29T18:57:37+09:00",
-      "excerpt": "",
+      "title": "松屋のアプリに不正アクセス、約238万件の個人情報が漏えい　停止中の補償も予定",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002753/",
+      "time_iso": "2026-10-30T14:17:49+09:00",
+      "excerpt": "松屋フーズホールディングスは10月30日、公式アプリの管理システムへの不正アクセスで、約238万件の個人情報が漏えいしたと発表した。アプリ会員には、サービス停止期間中の補償をする予定という。",
       "trend_score": 0.5
     },
     {
       "source": "itm",
-      "title": "グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
-      "time_iso": "2026-10-29T17:52:38+09:00",
-      "excerpt": "カード決済ページに不正プログラム設置され、顧客2800人のカード名義人名、カード番号（全16桁）、有効期限、セキュリティコードが漏えいした可能性があるという。",
+      "title": "イオン、フィジカルAIで物流改革　配送拠点の自動化率5割達成　深刻な人手不足に対応",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
+      "time_iso": "2026-10-30T13:24:33+09:00",
+      "excerpt": "イオンとロボット制御ソフトのMujin（ムジン）は10月29日、人工知能（AI）で機械を自律的に動かす「フィジカルAI」を搭載したロボットを活用する配送拠点「イオン川口東XD（クロスドック）」（埼玉県川口市）を報道陣に公開した。",
       "trend_score": 0.4167
     },
     {
       "source": "itm",
-      "title": "神奈川・鎌倉市が「公共ライドシェア」実証実験見送り　路線バス大幅減便で代替運行に注力",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002727/",
-      "time_iso": "2026-10-29T17:14:22+09:00",
-      "excerpt": "神奈川県鎌倉市は、「交通空白」地域の解消に向けJR大船駅周辺と西鎌倉地区で11月から予定していた公共ライドシェアの実証実験について、26年度の実施を見送ると発表した。",
+      "title": "誤訳で“違う製品”を作りかけた？　ベトナム工場への指示書、通訳よりGeminiの方が伝わったワケ",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002699/",
+      "time_iso": "2026-10-30T13:00:00+09:00",
+      "excerpt": "グローバルニッチは高い技術力を持つ一方で、知名度が実力に比べて劣り、ITを駆使して海外でのブランディングや販売に生かしていることも多い。この連載では、こうした企業のIT戦略をインタビューで深堀りする。今回は搬送ロボットなど産業機械の製造・販売を手掛けるニチエツを取り上げる。",
       "trend_score": 0.3333
     },
     {
       "source": "itm",
-      "title": "ローソン・郵便局が「ドローン基地」に　回線はStarlinkで　ドローンインフラを急ピッチで作るKDDI",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002723/",
-      "time_iso": "2026-10-29T16:58:02+09:00",
-      "excerpt": "KDDIスマートドローンは10月28日、ビジネスイベント「KDDI SUMMIT 2026」でドローンの全国展開に向けた取り組みを紹介した。物流や地域の見守り、インフラ点検、災害対応などを人に代わって担う「空のAI労働力」の実現を目指す。",
+      "title": "「本会議場にタブレット持ち込み可能に」自民の提言案にチームみらい安野党首「うおおおおお」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002747/",
+      "time_iso": "2026-10-30T12:59:21+09:00",
+      "excerpt": "本会議場へのタブレット端末の持ち込みを認める一方、質疑者や答弁者などは外部からの干渉を防ぐため、通信機能を搭載した端末は認めないという。",
       "trend_score": 0.25
     },
     {
       "source": "itm",
-      "title": "ANAの予約情報に不正アクセス、JALと同じ委託先経由で　個人情報をのぞき見た痕跡も",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002722/",
-      "time_iso": "2026-10-29T16:37:03+09:00",
-      "excerpt": "全日本空輸（ANA）は10月29日、Amadeusが提供する旅客サービスシステムへの不正アクセスで、一部顧客の個人情報を第三者が参照した形跡があると発表した。同じシステムを使う日本航空も28日、約9万2000人分の予約情報への不正アクセスを公表している。",
+      "title": "暗号資産取引所Binance、ハッキングで約1兆円の被害か　入出金を全面停止",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002749/",
+      "time_iso": "2026-10-30T12:52:04+09:00",
+      "excerpt": "暗号資産取引所で世界最大手のBinanceは10月30日、セキュリティ上の問題で推定約63億ドルの被害が出たと発表した。初期調査では、エンジニアのノートPCを起点に攻撃者が不正な出金を実行した可能性があるという。",
       "trend_score": 0.1667
     },
     {
       "source": "itm",
-      "title": "ソニー生命に不正アクセス、個人情報約38.5万件漏えい　氏名や住所、契約内容など",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
-      "time_iso": "2026-10-29T15:21:40+09:00",
-      "excerpt": "氏名、生年月日、性別、住所、電話番号、証券番号、契約内容が流出した。",
+      "title": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002684/",
+      "time_iso": "2026-10-30T12:00:00+09:00",
+      "excerpt": "イスラエルのテルアビブ大学に所属する研究者らが発表した論文「Watch and Crack: Password Inference from Smart-Glasses Video」は、スマートグラスで撮影された指の動きから、パスワードを解読する手法を実証した研究報告だ。",
       "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "time_iso": "2026-10-29T02:29:23+09:00",
+      "excerpt": "64 points ・ 23 comments",
+      "trend_score": 0.9333
     },
     {
       "source": "pk",
@@ -320,6 +312,14 @@
       "time_iso": "2026-10-29T00:39:53+09:00",
       "excerpt": "オラクルは、社員が業務アプリをAIで自動的に生成しOracle Cloudにデプロイして利用できる「Oracle App Composer」を、米国ラスベガスで開催中の年次イベント「Oracle AI World 2026」で発表しました。...",
       "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Breaking the open web won't stop the bad bots",
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "time_iso": "2026-10-28T03:42:55+09:00",
+      "excerpt": "185 points ・ 77 comments",
+      "trend_score": 0.5333
     },
     {
       "source": "pk",
