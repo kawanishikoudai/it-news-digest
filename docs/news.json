@@ -1,21 +1,205 @@
 {
-  "generated_at": "2026-10-31T10:13:05.080926+09:00",
+  "generated_at": "2026-11-01T09:32:31.406703+09:00",
   "items": [
     {
+      "source": "itm",
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "time_iso": "2026-11-01T08:31:07+09:00",
+      "excerpt": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+      "trend_score": 1.0
+    },
+    {
       "source": "hn",
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "url": "https://tng.episodle.com/",
-      "time_iso": "2026-10-31T08:51:24+09:00",
-      "excerpt": "31 points ・ 9 comments",
+      "title": "When electric cars were for women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "time_iso": "2026-11-01T08:08:12+09:00",
+      "excerpt": "19 points ・ 2 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "time_iso": "2026-11-01T07:54:55+09:00",
+      "excerpt": "10 points ・ 0 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "time_iso": "2026-11-01T07:46:12+09:00",
+      "excerpt": "33 points ・ 12 comments",
       "trend_score": 0.8
     },
     {
       "source": "hn",
-      "title": "Be a Loser",
-      "url": "https://makemeacto.cc/be-a-loser/",
-      "time_iso": "2026-10-31T08:48:50+09:00",
-      "excerpt": "5 points ・ 0 comments",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "time_iso": "2026-11-01T07:41:06+09:00",
+      "excerpt": "71 points ・ 27 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "tc",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "time_iso": "2026-11-01T06:41:00+09:00",
+      "excerpt": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "time_iso": "2026-11-01T06:36:07+09:00",
+      "excerpt": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections tha",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "time_iso": "2026-11-01T06:17:03+09:00",
+      "excerpt": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+      "time_iso": "2026-11-01T05:46:39+09:00",
+      "excerpt": "57 points ・ 36 comments",
+      "trend_score": 0.4667
+    },
+    {
+      "source": "hn",
+      "title": "Surviving \"The Graduate\"",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "time_iso": "2026-11-01T05:02:06+09:00",
+      "excerpt": "47 points ・ 12 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "hn",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "time_iso": "2026-11-01T04:56:53+09:00",
+      "excerpt": "599 points ・ 215 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "url": "https://epoyraz.github.io/nes-contra-us/",
+      "time_iso": "2026-11-01T04:18:48+09:00",
+      "excerpt": "40 points ・ 27 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "time_iso": "2026-11-01T04:16:30+09:00",
+      "excerpt": "293 points ・ 143 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "hn",
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "time_iso": "2026-11-01T04:07:36+09:00",
+      "excerpt": "79 points ・ 28 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "time_iso": "2026-11-01T03:38:16+09:00",
+      "excerpt": "109 points ・ 34 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "time_iso": "2026-11-01T01:12:55+09:00",
+      "excerpt": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "tc",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "time_iso": "2026-11-01T00:41:57+09:00",
+      "excerpt": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "time_iso": "2026-10-31T23:00:00+09:00",
+      "excerpt": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "hn",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "time_iso": "2026-10-31T22:39:52+09:00",
+      "excerpt": "182 points ・ 96 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "time_iso": "2026-10-31T19:30:11+09:00",
+      "excerpt": "300 points ・ 148 comments",
       "trend_score": 0.0667
+    },
+    {
+      "source": "hn",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "time_iso": "2026-10-31T19:23:41+09:00",
+      "excerpt": "296 points ・ 172 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
+      "time_iso": "2026-10-31T19:02:50+09:00",
+      "excerpt": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "time_iso": "2026-10-31T13:16:50+09:00",
+      "excerpt": "The money behind the money is thrilled, mostly.",
+      "trend_score": 0.5
+    },
+    {
+      "source": "hn",
+      "title": "First response from the Project Suncatcher prototype satellite",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "time_iso": "2026-10-31T12:54:00+09:00",
+      "excerpt": "18 points ・ 13 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "tc",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "time_iso": "2026-10-31T10:20:05+09:00",
+      "excerpt": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "trend_score": 0.4167
     },
     {
       "source": "tc",
@@ -23,7 +207,7 @@
       "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
       "time_iso": "2026-10-31T08:21:23+09:00",
       "excerpt": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-      "trend_score": 1.0
+      "trend_score": 0.3333
     },
     {
       "source": "tc",
@@ -31,7 +215,7 @@
       "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "time_iso": "2026-10-31T07:56:13+09:00",
       "excerpt": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down i",
-      "trend_score": 0.9167
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -39,7 +223,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
       "time_iso": "2026-10-31T07:13:43+09:00",
       "excerpt": "Binanceから約60億ドルの暗号資産が流出した事件で、TRM LabsとChainalysisは北朝鮮のサイバー集団「TraderTraitor」の関与を指摘した。過去最大規模の被害に対し、盗難資産の分散洗浄が進む一方、当局や発行元による迅速な資産凍結も進められている。",
-      "trend_score": 1.0
+      "trend_score": 0.8333
     },
     {
       "source": "tc",
@@ -47,7 +231,7 @@
       "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "time_iso": "2026-10-31T06:54:34+09:00",
       "excerpt": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "trend_score": 0.8333
+      "trend_score": 0.1667
     },
     {
       "source": "tc",
@@ -55,151 +239,7 @@
       "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "time_iso": "2026-10-31T06:52:03+09:00",
       "excerpt": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep",
-      "trend_score": 0.75
-    },
-    {
-      "source": "tc",
-      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-      "time_iso": "2026-10-31T06:48:53+09:00",
-      "excerpt": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-      "url": "https://www.firezone.dev/blog/introducing-sanstun",
-      "time_iso": "2026-10-31T06:30:00+09:00",
-      "excerpt": "55 points ・ 6 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "tc",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "time_iso": "2026-10-31T06:26:59+09:00",
-      "excerpt": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "tc",
-      "title": "Cracks are emerging in the AI spending boom",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "time_iso": "2026-10-31T06:17:40+09:00",
-      "excerpt": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sust",
-      "trend_score": 0.5
-    },
-    {
-      "source": "tc",
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "time_iso": "2026-10-31T04:55:13+09:00",
-      "excerpt": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. An",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "hn",
-      "title": "Jules Verne's Lost Novel",
-      "url": "https://blue-continuum.com/verne-paris",
-      "time_iso": "2026-10-31T04:55:10+09:00",
-      "excerpt": "77 points ・ 14 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "hn",
-      "title": "The oldest ice disappears and the Stone Age emerges from it",
-      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "time_iso": "2026-10-31T04:51:33+09:00",
-      "excerpt": "87 points ・ 29 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "hn",
-      "title": "Infinite Mac: BeOS",
-      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "time_iso": "2026-10-31T04:30:09+09:00",
-      "excerpt": "102 points ・ 32 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "tc",
-      "title": "Satlyt takes another step toward turning satellites into space data centers",
-      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-      "time_iso": "2026-10-31T03:01:24+09:00",
-      "excerpt": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers.",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "time_iso": "2026-10-31T02:47:12+09:00",
-      "excerpt": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "hn",
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "time_iso": "2026-10-31T02:25:15+09:00",
-      "excerpt": "237 points ・ 62 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "tc",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "time_iso": "2026-10-31T02:00:00+09:00",
-      "excerpt": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "url": "https://github.com/dbreunig/nesformer",
-      "time_iso": "2026-10-31T01:40:22+09:00",
-      "excerpt": "189 points ・ 110 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "tc",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "time_iso": "2026-10-31T01:03:45+09:00",
-      "excerpt": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar va",
       "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "Florilegium: Procedural Flowers in LaTeX",
-      "url": "https://github.com/kevinraymond/florilegium",
-      "time_iso": "2026-10-31T00:48:12+09:00",
-      "excerpt": "213 points ・ 36 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "hn",
-      "title": "The federated code forge",
-      "url": "https://tangled.org/blog/forge/",
-      "time_iso": "2026-10-31T00:44:29+09:00",
-      "excerpt": "227 points ・ 77 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "hn",
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "time_iso": "2026-10-31T00:10:31+09:00",
-      "excerpt": "355 points ・ 272 comments",
-      "trend_score": 0.7333
-    },
-    {
-      "source": "hn",
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "time_iso": "2026-10-30T21:50:01+09:00",
-      "excerpt": "301 points ・ 212 comments",
-      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -207,7 +247,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002767/",
       "time_iso": "2026-10-30T18:05:54+09:00",
       "excerpt": "モスバーガーの顧客アンケートで、評価する数字に応じてキャラクターの表情が変わる画面設計がX上で話題だ。好意的な反応が目立つ一方、「回答者の評価に影響するのではないか」と懸念する声もみられる。どのような狙いで採用したのか。モスバーガーを運営するモスフードサービスに聞いた。",
-      "trend_score": 0.9167
+      "trend_score": 0.75
     },
     {
       "source": "itm",
@@ -215,7 +255,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002768/",
       "time_iso": "2026-10-30T18:00:59+09:00",
       "excerpt": "セガが運営するスマホRPG「チェインクロニクル」で、10月23日から緊急メンテナンスが続いている。同社は30日、一部システムでセキュリティ上の問題を確認したため、少なくとも1?2カ月、メンテナンスが続く見通しだと発表した。",
-      "trend_score": 0.8333
+      "trend_score": 0.6667
     },
     {
       "source": "itm",
@@ -223,23 +263,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002766/",
       "time_iso": "2026-10-30T17:38:01+09:00",
       "excerpt": "プログラミング言語「PHP」に重大な脆弱（ぜいじゃく）性が見つかった問題で、少なくとも全国31市町村がWebサイトの公開を一時停止・縮小していることが10月30日、分かった。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "itm",
-      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
-      "time_iso": "2026-10-30T17:13:12+09:00",
-      "excerpt": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "time_iso": "2026-10-30T16:09:12+09:00",
-      "excerpt": "767 points ・ 481 comments",
-      "trend_score": 0.8667
+      "trend_score": 0.5833
     },
     {
       "source": "itm",
@@ -247,7 +271,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002756/",
       "time_iso": "2026-10-30T15:18:29+09:00",
       "excerpt": "「無印良品」を展開する良品計画は、同社が運営する「MUJIアプリ」の顧客情報が最大約2726万件流出した可能性があると発表した。退会済みの利用者の情報も含まれる。会員向けセール「無印良品週間」の開催期間中の公表となった。",
-      "trend_score": 0.5833
+      "trend_score": 0.5
     },
     {
       "source": "itm",
@@ -255,7 +279,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002753/",
       "time_iso": "2026-10-30T14:17:49+09:00",
       "excerpt": "松屋フーズホールディングスは10月30日、公式アプリの管理システムへの不正アクセスで、約238万件の個人情報が漏えいしたと発表した。アプリ会員には、サービス停止期間中の補償をする予定という。",
-      "trend_score": 0.5
+      "trend_score": 0.4167
     },
     {
       "source": "itm",
@@ -263,7 +287,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
       "time_iso": "2026-10-30T13:24:33+09:00",
       "excerpt": "イオンとロボット制御ソフトのMujin（ムジン）は10月29日、人工知能（AI）で機械を自律的に動かす「フィジカルAI」を搭載したロボットを活用する配送拠点「イオン川口東XD（クロスドック）」（埼玉県川口市）を報道陣に公開した。",
-      "trend_score": 0.4167
+      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -271,7 +295,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002699/",
       "time_iso": "2026-10-30T13:00:00+09:00",
       "excerpt": "グローバルニッチは高い技術力を持つ一方で、知名度が実力に比べて劣り、ITを駆使して海外でのブランディングや販売に生かしていることも多い。この連載では、こうした企業のIT戦略をインタビューで深堀りする。今回は搬送ロボットなど産業機械の製造・販売を手掛けるニチエツを取り上げる。",
-      "trend_score": 0.3333
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -279,7 +303,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002747/",
       "time_iso": "2026-10-30T12:59:21+09:00",
       "excerpt": "本会議場へのタブレット端末の持ち込みを認める一方、質疑者や答弁者などは外部からの干渉を防ぐため、通信機能を搭載した端末は認めないという。",
-      "trend_score": 0.25
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -287,23 +311,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002749/",
       "time_iso": "2026-10-30T12:52:04+09:00",
       "excerpt": "暗号資産取引所で世界最大手のBinanceは10月30日、セキュリティ上の問題で推定約63億ドルの被害が出たと発表した。初期調査では、エンジニアのノートPCを起点に攻撃者が不正な出金を実行した可能性があるという。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002684/",
-      "time_iso": "2026-10-30T12:00:00+09:00",
-      "excerpt": "イスラエルのテルアビブ大学に所属する研究者らが発表した論文「Watch and Crack: Password Inference from Smart-Glasses Video」は、スマートグラスで撮影された指の動きから、パスワードを解読する手法を実証した研究報告だ。",
       "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "time_iso": "2026-10-29T02:29:23+09:00",
-      "excerpt": "64 points ・ 23 comments",
-      "trend_score": 0.9333
     },
     {
       "source": "pk",
@@ -312,14 +320,6 @@
       "time_iso": "2026-10-29T00:39:53+09:00",
       "excerpt": "オラクルは、社員が業務アプリをAIで自動的に生成しOracle Cloudにデプロイして利用できる「Oracle App Composer」を、米国ラスベガスで開催中の年次イベント「Oracle AI World 2026」で発表しました。...",
       "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Breaking the open web won't stop the bad bots",
-      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "time_iso": "2026-10-28T03:42:55+09:00",
-      "excerpt": "185 points ・ 77 comments",
-      "trend_score": 0.5333
     },
     {
       "source": "pk",
