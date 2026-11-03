@@ -1,6 +1,238 @@
 {
-  "generated_at": "2026-11-02T10:06:50.329448+09:00",
+  "generated_at": "2026-11-03T12:08:20.371734+09:00",
   "items": [
+    {
+      "source": "hn",
+      "title": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
+      "url": "https://hackertimes.ca/",
+      "time_iso": "2026-11-03T10:53:34+09:00",
+      "excerpt": "50 points ・ 15 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "tc",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "time_iso": "2026-11-03T10:49:52+09:00",
+      "excerpt": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "time_iso": "2026-11-03T10:33:43+09:00",
+      "excerpt": "52 points ・ 14 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "tc",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "time_iso": "2026-11-03T10:12:55+09:00",
+      "excerpt": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "itm",
+      "title": "Apple、第4四半期として過去最高の増収増益　ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
+      "time_iso": "2026-11-03T09:44:48+09:00",
+      "excerpt": "Appleの7月?9月期決算は、売上高が前年同期比12％増、純利益も12％増となり、共に同四半期の過去最高を記録した。通期でも過去最高を更新した。新CEOのジョン・ターナス氏による初の会見で、折りたたみ型「iPhone Duo」やAI戦略「Siri AI」の進捗を報告。次期も増収を見込む。",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "time_iso": "2026-11-03T09:35:52+09:00",
+      "excerpt": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with hi",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "time_iso": "2026-11-03T09:14:51+09:00",
+      "excerpt": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "time_iso": "2026-11-03T09:08:53+09:00",
+      "excerpt": "106 points ・ 75 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "itm",
+      "title": "渦中のGMO記者会見、責任の所在はどこに？　熊谷代表が語った“グループ内の力関係”",
+      "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002829/",
+      "time_iso": "2026-11-03T09:00:00+09:00",
+      "excerpt": "GMOインターネットグループが11月2日に開いた記者会見では、過去に指摘された脆弱性への対応の遅れや、熊谷正寿代表のSNS発信、経営責任などを巡り質問が相次いだ。報道陣の質問に経営陣はどう答えたのか。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "time_iso": "2026-11-03T08:47:56+09:00",
+      "excerpt": "43 points ・ 4 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "time_iso": "2026-11-03T08:25:32+09:00",
+      "excerpt": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "Anthropic、IPO申請書を修正　7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+      "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
+      "time_iso": "2026-11-03T08:20:20+09:00",
+      "excerpt": "Anthropicは、証券取引委員会（SEC）にIPOに向けた登録届出書の修正版を提出した。第3四半期の売上高は前年同期比約12.3倍の約169億ドルに拡大した一方、営業損益は赤字に転落。また、AI計算資源やインフラに関する将来の支出約束額が約8954億ドルに上ることも明らかにした。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "time_iso": "2026-11-03T08:13:53+09:00",
+      "excerpt": "The one-year-old startup is now valued at $300 million.",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "tc",
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "time_iso": "2026-11-03T08:04:57+09:00",
+      "excerpt": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "trend_score": 0.5
+    },
+    {
+      "source": "hn",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "time_iso": "2026-11-03T07:30:47+09:00",
+      "excerpt": "226 points ・ 158 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "tc",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "time_iso": "2026-11-03T07:14:50+09:00",
+      "excerpt": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the c",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
+      "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+      "time_iso": "2026-11-03T07:07:56+09:00",
+      "excerpt": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す。",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+      "time_iso": "2026-11-03T06:42:25+09:00",
+      "excerpt": "33 points ・ 3 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "tc",
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "time_iso": "2026-11-03T04:45:54+09:00",
+      "excerpt": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "time_iso": "2026-11-03T04:25:59+09:00",
+      "excerpt": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "trend_score": 0.25
+    },
+    {
+      "source": "tc",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "time_iso": "2026-11-03T04:19:17+09:00",
+      "excerpt": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to ",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "tc",
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "time_iso": "2026-11-03T04:11:49+09:00",
+      "excerpt": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that the",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "time_iso": "2026-11-03T03:21:28+09:00",
+      "excerpt": "2062 points ・ 673 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "time_iso": "2026-11-03T02:47:40+09:00",
+      "excerpt": "119 points ・ 36 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "time_iso": "2026-11-03T02:16:17+09:00",
+      "excerpt": "579 points ・ 311 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "hn",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "time_iso": "2026-11-03T02:05:25+09:00",
+      "excerpt": "131 points ・ 85 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "hn",
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "time_iso": "2026-11-03T01:34:36+09:00",
+      "excerpt": "308 points ・ 322 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "time_iso": "2026-11-03T01:25:26+09:00",
+      "excerpt": "222 points ・ 36 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50338728",
+      "time_iso": "2026-11-03T01:01:37+09:00",
+      "excerpt": "181 points ・ 148 comments",
+      "trend_score": 0.2
+    },
     {
       "source": "pk",
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
@@ -10,308 +242,84 @@
       "trend_score": 1.0
     },
     {
-      "source": "itm",
-      "title": "Google、宇宙のTPUから初のAI応答を受信　「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
-      "time_iso": "2026-11-02T08:59:31+09:00",
-      "excerpt": "Googleは、宇宙AIデータセンター構想「Project Suncatcher」の試作衛星に搭載したTPUから、AIによる最初の応答を受信したと発表した。軌道上のオープンモデル「Gemma 4」にプロンプトを送信し、応答を確認した。今後は宇宙空間でのTPUの動作評価試験を進める。",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "FBI、Binanceからの60億ドル超の暗号資産窃盗は北朝鮮「TraderTraitor」の犯行と発表",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002778/",
-      "time_iso": "2026-11-02T07:28:21+09:00",
-      "excerpt": "FBIは、暗号資産取引所Binanceから60億ドル超の暗号資産が盗まれた事件を北朝鮮のサイバー攻撃活動「TraderTraitor」による犯行と発表した。FBIなどは民間事業者に資金洗浄の阻止を要請。なお、Binance Japanは日本の顧客資産は安全に保管されていると報告し、影響はないとしている。",
-      "trend_score": 0.9167
-    },
-    {
       "source": "hn",
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "time_iso": "2026-11-02T07:10:45+09:00",
-      "excerpt": "135 points ・ 116 comments",
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "time_iso": "2026-11-02T22:25:35+09:00",
+      "excerpt": "428 points ・ 99 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/",
+      "time_iso": "2026-11-02T20:57:33+09:00",
+      "excerpt": "GMOインターネットグループの熊谷正寿代表は11月2日の記者会見で、AIの説明に時間を割いた理由を記者が尋ねると、自身の「命の砂時計」をインターネットとグループに捧げていると語った。Xでの発信を一定期間休止することも表明した。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002823/",
+      "time_iso": "2026-11-02T19:27:04+09:00",
+      "excerpt": "GMOインターネットグループの熊谷正寿代表は11月2日、「お名前.com デスクトップクラウド」への不正アクセスに関する説明会で、身代金を支払わない理由や、AI時代のサイバー攻撃への危機感を語った。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "GMO熊谷代表、会見で改めて謝罪　SNS投稿巡り「配慮が欠けていた」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
+      "time_iso": "2026-11-02T19:20:14+09:00",
+      "excerpt": "GMOインターネットグループの熊谷正寿代表は11月2日、FX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡る記者会見で謝罪した。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "山岳救助を迅速化へ　兵庫県警が登山アプリ「ヤマップ」と協定締結",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002800/",
+      "time_iso": "2026-11-02T15:10:17+09:00",
+      "excerpt": "山岳救助の強化のため兵庫県警は30日、登山アプリ「YAMAP（ヤマップ）」を運営するヤマップ（福岡市）と協定を締結した。登山計画を記入する「登山届」の情報共有などを通して山岳遭難の未然防止や救助活動の迅速化につなげる。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "アットコスメ、会員約300万人分の情報漏えい　不正アクセスで",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002795/",
+      "time_iso": "2026-11-02T14:40:09+09:00",
+      "excerpt": "「@cosme共通ID」に登録された会員情報の一部・約300万人分が漏えいした。名前や住所、生年月日、肌質、髪質などが含まれている。",
       "trend_score": 0.3333
     },
     {
       "source": "itm",
-      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
-      "time_iso": "2026-11-02T07:00:23+09:00",
-      "excerpt": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
-      "trend_score": 0.8333
+      "title": "ニコニコレンタカー、免許証画像の事前登録を廃止　保存済み画像も全削除　サイバー攻撃の増加受け",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002786/",
+      "time_iso": "2026-11-02T12:23:04+09:00",
+      "excerpt": "ニコニコレンタカーは10月27日、公式アプリ「ニコパス」での運転免許証画像の事前登録機能を廃止すると発表した。これまで預かっていた画像データは全て削除済みという。",
+      "trend_score": 0.25
     },
     {
-      "source": "tc",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "time_iso": "2026-11-02T06:55:23+09:00",
-      "excerpt": "Data centers are deeply unpopular. But what if we called them something else?",
-      "trend_score": 1.0
+      "source": "itm",
+      "title": "楽天証券、顧客情報362件が漏えいか　NTTデータ委託先に不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002785/",
+      "time_iso": "2026-11-02T12:02:40+09:00",
+      "excerpt": "漏えいした可能性がある項目は明らかにしていない。",
+      "trend_score": 0.1667
     },
     {
-      "source": "tc",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "time_iso": "2026-11-02T05:57:58+09:00",
-      "excerpt": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "time_iso": "2026-11-02T04:35:27+09:00",
-      "excerpt": "125 points ・ 223 comments",
-      "trend_score": 0.7333
+      "source": "itm",
+      "title": "ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性　「RAGTAG」運営元",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002783/",
+      "time_iso": "2026-11-02T11:06:13+09:00",
+      "excerpt": "氏名、住所、電話番号、生年月日、性別、メールアドレスを含む。",
+      "trend_score": 0.0833
     },
     {
       "source": "hn",
-      "title": "Mathematics has changed. Let's act like it",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "time_iso": "2026-11-02T03:28:42+09:00",
-      "excerpt": "215 points ・ 233 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "tc",
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-      "time_iso": "2026-11-02T02:04:00+09:00",
-      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "tc",
-      "title": "Binance resumes withdrawals following $6.3 billion breach",
-      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "time_iso": "2026-11-02T01:20:10+09:00",
-      "excerpt": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
-      "time_iso": "2026-11-02T00:58:28+09:00",
-      "excerpt": "892 points ・ 175 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "tc",
-      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-      "time_iso": "2026-11-02T00:00:00+09:00",
-      "excerpt": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "time_iso": "2026-11-01T23:34:43+09:00",
-      "excerpt": "388 points ・ 138 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "tc",
-      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "time_iso": "2026-11-01T23:00:00+09:00",
-      "excerpt": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "hn",
-      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-      "url": "https://arxiv.org/abs/2610.39302",
-      "time_iso": "2026-11-01T22:24:49+09:00",
-      "excerpt": "107 points ・ 59 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "url": "https://github.com/ivankovic/omnidiff",
-      "time_iso": "2026-11-01T22:02:30+09:00",
-      "excerpt": "152 points ・ 38 comments",
+      "title": "Resisting Cognitive Surrender",
+      "url": "https://knlb.dev/essays/surrender",
+      "time_iso": "2026-11-01T15:13:30+09:00",
+      "excerpt": "15 points ・ 2 comments",
       "trend_score": 0.4667
-    },
-    {
-      "source": "tc",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "time_iso": "2026-11-01T11:22:10+09:00",
-      "excerpt": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kep",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
-      "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-      "time_iso": "2026-11-01T08:31:07+09:00",
-      "excerpt": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "tc",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "time_iso": "2026-11-01T06:41:00+09:00",
-      "excerpt": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "time_iso": "2026-11-01T06:36:07+09:00",
-      "excerpt": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections tha",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "time_iso": "2026-11-01T06:17:03+09:00",
-      "excerpt": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "hn",
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "time_iso": "2026-11-01T04:56:53+09:00",
-      "excerpt": "2265 points ・ 538 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "The She-Wolves of Jülich",
-      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
-      "time_iso": "2026-11-01T02:29:39+09:00",
-      "excerpt": "13 points ・ 1 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "time_iso": "2026-11-01T01:12:55+09:00",
-      "excerpt": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "time_iso": "2026-11-01T00:41:57+09:00",
-      "excerpt": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "itm",
-      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
-      "time_iso": "2026-10-31T19:02:50+09:00",
-      "excerpt": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Postgres 19 is late, and it's AI's fault",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "time_iso": "2026-10-31T10:38:56+09:00",
-      "excerpt": "32 points ・ 8 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "itm",
-      "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
-      "url": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
-      "time_iso": "2026-10-31T07:13:43+09:00",
-      "excerpt": "Binanceから約60億ドルの暗号資産が流出した事件で、TRM LabsとChainalysisは北朝鮮のサイバー集団「TraderTraitor」の関与を指摘した。過去最大規模の被害に対し、盗難資産の分散洗浄が進む一方、当局や発行元による迅速な資産凍結も進められている。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "hn",
-      "title": "Copper – A minimal low-level programming language with OOP and generics",
-      "url": "https://tibleiz.net/copper/",
-      "time_iso": "2026-10-31T04:09:33+09:00",
-      "excerpt": "122 points ・ 73 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "hn",
-      "title": "Keeping Up Appearances – The women taking over the funeral industry",
-      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
-      "time_iso": "2026-10-30T21:40:08+09:00",
-      "excerpt": "17 points ・ 2 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "itm",
-      "title": "「低評価でキャラが悲しげな目」　モスバーガーのアンケートがSNSで話題　運営会社に狙いを聞いた",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002767/",
-      "time_iso": "2026-10-30T18:05:54+09:00",
-      "excerpt": "モスバーガーの顧客アンケートで、評価する数字に応じてキャラクターの表情が変わる画面設計がX上で話題だ。好意的な反応が目立つ一方、「回答者の評価に影響するのではないか」と懸念する声もみられる。どのような狙いで採用したのか。モスバーガーを運営するモスフードサービスに聞いた。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "セガのスマホゲーム「チェンクロ」、セキュリティ問題で1?2カ月の長期メンテ　13年続く長寿タイトル",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002768/",
-      "time_iso": "2026-10-30T18:00:59+09:00",
-      "excerpt": "セガが運営するスマホRPG「チェインクロニクル」で、10月23日から緊急メンテナンスが続いている。同社は30日、一部システムでセキュリティ上の問題を確認したため、少なくとも1?2カ月、メンテナンスが続く見通しだと発表した。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "「ITノウハウ持つ人材少なく」　PHP脆弱性問題、31市町村でサイト一時停止継続",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002766/",
-      "time_iso": "2026-10-30T17:38:01+09:00",
-      "excerpt": "プログラミング言語「PHP」に重大な脆弱（ぜいじゃく）性が見つかった問題で、少なくとも全国31市町村がWebサイトの公開を一時停止・縮小していることが10月30日、分かった。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "無印良品、不正アクセスで最大2726万件の会員情報漏えいか　退会済みのユーザーも対象",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002756/",
-      "time_iso": "2026-10-30T15:18:29+09:00",
-      "excerpt": "「無印良品」を展開する良品計画は、同社が運営する「MUJIアプリ」の顧客情報が最大約2726万件流出した可能性があると発表した。退会済みの利用者の情報も含まれる。会員向けセール「無印良品週間」の開催期間中の公表となった。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "松屋のアプリに不正アクセス、約238万件の個人情報が漏えい　停止中の補償も予定",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002753/",
-      "time_iso": "2026-10-30T14:17:49+09:00",
-      "excerpt": "松屋フーズホールディングスは10月30日、公式アプリの管理システムへの不正アクセスで、約238万件の個人情報が漏えいしたと発表した。アプリ会員には、サービス停止期間中の補償をする予定という。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "イオン、フィジカルAIで物流改革　配送拠点の自動化率5割達成　深刻な人手不足に対応",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
-      "time_iso": "2026-10-30T13:24:33+09:00",
-      "excerpt": "イオンとロボット制御ソフトのMujin（ムジン）は10月29日、人工知能（AI）で機械を自律的に動かす「フィジカルAI」を搭載したロボットを活用する配送拠点「イオン川口東XD（クロスドック）」（埼玉県川口市）を報道陣に公開した。",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "Nibnib: Image compression with extreme decompression speed",
-      "url": "https://github.com/raphlinus/nibnib",
-      "time_iso": "2026-10-30T13:17:06+09:00",
-      "excerpt": "89 points ・ 11 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "time_iso": "2026-10-30T12:06:52+09:00",
-      "excerpt": "38 points ・ 21 comments",
-      "trend_score": 0.5333
     },
     {
       "source": "pk",
@@ -320,14 +328,6 @@
       "time_iso": "2026-10-29T00:39:53+09:00",
       "excerpt": "オラクルは、社員が業務アプリをAIで自動的に生成しOracle Cloudにデプロイして利用できる「Oracle App Composer」を、米国ラスベガスで開催中の年次イベント「Oracle AI World 2026」で発表しました。...",
       "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "Tips for more effective fuzz testing with AFL++",
-      "url": "https://nullprogram.com/blog/2025/02/05/",
-      "time_iso": "2026-10-28T18:46:12+09:00",
-      "excerpt": "73 points ・ 12 comments",
-      "trend_score": 0.6667
     },
     {
       "source": "pk",
