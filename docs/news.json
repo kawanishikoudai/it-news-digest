@@ -1,253 +1,325 @@
 {
-  "generated_at": "2026-11-05T10:53:08.416443+09:00",
+  "generated_at": "2026-11-06T10:53:55.117255+09:00",
   "items": [
     {
-      "source": "tc",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "time_iso": "2026-11-05T10:26:22+09:00",
-      "excerpt": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "trend_score": 1.0
-    },
-    {
       "source": "itm",
-      "title": "涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？　危機管理広報のプロが分析",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002873/",
-      "time_iso": "2026-11-05T10:05:17+09:00",
-      "excerpt": "GMOインターネットグループの熊谷正寿代表は11月2日、グループ企業で発生した不正アクセス問題を巡り、約3時間半にわたる記者会見を開いた。持論の展開や涙、社員への叱責など、本来の説明とは別の「撮れ高」を生んだ会見から企業は何を学ぶべきか、危機管理広報の視点から検証する。",
+      "title": "Google、ワイオミング州のデータセンターなどに170億ドル投資へ　電力費全額負担を約束",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002936/",
+      "time_iso": "2026-11-06T09:43:37+09:00",
+      "excerpt": "Googleは、ワイオミング州にデータセンターを建設すると発表した。投資額は長期で170億ドルを見込む。米国内でAIデータセンター建設への住民の反発が強まる中、同社は電力費やインフラ整備費の全額負担を約束した。燃料電池やCCS技術を用いた702MWの発電設備も導入し、環境負荷の軽減と地域社会との共存を目指す方針だ。",
       "trend_score": 1.0
     },
     {
       "source": "tc",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "time_iso": "2026-11-05T10:02:14+09:00",
-      "excerpt": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "time_iso": "2026-11-06T09:07:18+09:00",
+      "excerpt": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "time_iso": "2026-11-06T09:01:38+09:00",
+      "excerpt": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "time_iso": "2026-11-06T09:00:24+09:00",
+      "excerpt": "55 points ・ 22 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "itm",
+      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+      "time_iso": "2026-11-06T08:49:28+09:00",
+      "excerpt": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
       "trend_score": 0.9167
     },
     {
       "source": "itm",
-      "title": "仏銀行Credit Mutuel Arkeaにサイバー攻撃　委託先経由で侵入、不正送金の被害は約1億ユーロか",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002891/",
-      "time_iso": "2026-11-05T09:56:19+09:00",
-      "excerpt": "フランスの銀行グループCredit Mutuel Arkeaは、外部委託先のシステム経由でサイバー攻撃を受け、不正送金されたと発表した。被害額は数千万から1億ユーロ規模とみられ、暗号資産に交換された可能性がある。銀行自身の口座が悪用されたため、顧客資産への直接的な被害はないという。",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "itm",
-      "title": "仏血液センターの冷蔵設備にサイバー攻撃　温度設定を不正変更、血液製剤への被害は回避",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002890/",
-      "time_iso": "2026-11-05T09:19:59+09:00",
-      "excerpt": "仏血液機構（EFS）は、冷蔵設備を管理する委託業者がサイバー攻撃を受け、3施設の冷蔵室の温度制御システムで異常が発生したと発表した。監視システムが迅速に検知して製剤を別設備に移したため被害はなかった。同国では10月にもスーパーの冷蔵設備が攻撃される事件が起きているが、関連は不明だ。",
+      "title": "アイリスオーヤマ、非会員含む約770万人分の情報漏えいか　外部クラウドに不審ファイル発見→不正アクセス発覚",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002934/",
+      "time_iso": "2026-11-06T08:48:01+09:00",
+      "excerpt": "10月28日、同社が利用する外部クラウドサービスで不審なファイルを発見し、アイリスプラザと関連システムを停止して調査したところ、第三者による不正アクセスを確認した。",
       "trend_score": 0.8333
     },
     {
-      "source": "hn",
-      "title": "Starfall – Affordable, routine access to microgravity",
-      "url": "https://www.spacex.com/starfall",
-      "time_iso": "2026-11-05T09:18:18+09:00",
-      "excerpt": "57 points ・ 24 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "You'll need nerves of steel to work with AI agents",
-      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-      "time_iso": "2026-11-05T09:01:30+09:00",
-      "excerpt": "20 points ・ 11 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "time_iso": "2026-11-05T08:35:44+09:00",
-      "excerpt": "92 points ・ 78 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "time_iso": "2026-11-05T08:33:14+09:00",
-      "excerpt": "92 points ・ 60 comments",
-      "trend_score": 0.8667
-    },
-    {
       "source": "itm",
-      "title": "SpaceX、Qualcommと複数年契約　「Starlink Mobile」の地上5G網を2027年から全米に展開へ",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002889/",
-      "time_iso": "2026-11-05T08:01:39+09:00",
-      "excerpt": "Qualcommは、SpaceXと複数年契約を結び、モバイル通信サービス「Starlink Mobile」向けに5G基地局用の半導体プラットフォームを提供すると発表した。SpaceXは米国内で地上5Gネットワークの展開を開始し、数万カ所の基地局を設置して衛星通信と地上網の統合を目指す。",
+      "title": "「給与維持の週休3日制」AI効率化で実現　しかし社員が喜ばず……なぜ？　「ライザAI」提供企業で起きたこと",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002867/",
+      "time_iso": "2026-11-06T08:30:00+09:00",
+      "excerpt": "「給与維持の週休3日制」をAI効率化で実現した国内のAIスタートアップ。喜ばれると思ったものの、実際には社員は不安げだったという。いったいなぜ？",
       "trend_score": 0.75
     },
     {
-      "source": "tc",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "time_iso": "2026-11-05T07:45:09+09:00",
-      "excerpt": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "tc",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "time_iso": "2026-11-05T07:13:16+09:00",
-      "excerpt": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity g",
-      "trend_score": 0.75
+      "source": "hn",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "time_iso": "2026-11-06T08:09:57+09:00",
+      "excerpt": "89 points ・ 36 comments",
+      "trend_score": 0.1333
     },
     {
       "source": "itm",
-      "title": "米中間選挙で民主党が上下両院を奪還　AI規制強化に現実味、IT大手の株価は上昇",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002888/",
-      "time_iso": "2026-11-05T07:11:20+09:00",
-      "excerpt": "米中間選挙で民主党が上下両院の過半数を獲得し、トランプ政権のIT政策に影響が及ぶ見通しだ。CNBCなどによると、民主党はAI企業への監視を強める方針で、各自治体でデータセンター建設を制限する動きも強まっている。一方、既存設備の優位性からAmazonやMetaなどの大手IT株は上昇した。",
+      "title": "ドコモ通信障害、約14時間で復旧　原因は「交換機の輻輳」、不正アクセスの形跡なし",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002932/",
+      "time_iso": "2026-11-06T08:04:59+09:00",
+      "excerpt": "原因は、「5G SA」契約者を収容する交換機の輻輳。障害の発生前後を含め、不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。",
       "trend_score": 0.6667
     },
     {
-      "source": "hn",
-      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-      "url": "https://icode4.coffee/?p=1746",
-      "time_iso": "2026-11-05T07:01:49+09:00",
-      "excerpt": "61 points ・ 2 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "time_iso": "2026-11-05T06:56:01+09:00",
-      "excerpt": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "tc",
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-      "time_iso": "2026-11-05T06:49:29+09:00",
-      "excerpt": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring u",
+      "source": "itm",
+      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+      "time_iso": "2026-11-06T07:57:34+09:00",
+      "excerpt": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
       "trend_score": 0.5833
     },
     {
       "source": "itm",
-      "title": "e-Taxに「不審な通信」　緊急メンテで利用停止、再開未定　「年末調整できない」悲鳴",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002887/",
-      "time_iso": "2026-11-05T06:48:42+09:00",
-      "excerpt": "「不審な通信を検知した」ため、確認のための機器メンテナンスを行っていると発表した。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "time_iso": "2026-11-05T06:25:44+09:00",
-      "excerpt": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own",
+      "title": "年収やローン保証額、免許証番号など最大32万人分漏えい　SMBC系、保証業務システムに不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002930/",
+      "time_iso": "2026-11-06T07:43:41+09:00",
+      "excerpt": "SMBCコンシューマーファイナンスは、カードローンなどの保証業務で使っているシステムが第三者による不正アクセスを受け、最大32万118人分の氏名や住所、運転免許証番号、勤務先の年収、ローン保証額などが外部に送信されたと発表した。",
       "trend_score": 0.5
     },
     {
       "source": "tc",
-      "title": "Meta acquires AI coding startup Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "time_iso": "2026-11-05T06:10:56+09:00",
-      "excerpt": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "trend_score": 0.4167
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "time_iso": "2026-11-06T07:40:55+09:00",
+      "excerpt": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "trend_score": 0.8333
     },
     {
       "source": "hn",
-      "title": "Residential proxies detected on White House network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "time_iso": "2026-11-05T05:45:18+09:00",
-      "excerpt": "642 points ・ 210 comments",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "time_iso": "2026-11-06T07:17:15+09:00",
+      "excerpt": "507 points ・ 172 comments",
       "trend_score": 1.0
     },
     {
-      "source": "tc",
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-      "time_iso": "2026-11-05T05:36:57+09:00",
-      "excerpt": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+      "source": "itm",
+      "title": "ドコモ不正アクセス、最大30万件の顧客情報流出　「My docomo」など緊急メンテ、再開未定",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002929/",
+      "time_iso": "2026-11-06T07:08:51+09:00",
+      "excerpt": "My docomoはメンテが続いており、復旧の見込みは未定。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+      "time_iso": "2026-11-06T07:03:55+09:00",
+      "excerpt": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
       "trend_score": 0.3333
     },
     {
-      "source": "hn",
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "time_iso": "2026-11-05T04:55:14+09:00",
-      "excerpt": "100 points ・ 43 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "hn",
-      "title": "Insects don't swarm at LED lights",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "time_iso": "2026-11-05T04:50:23+09:00",
-      "excerpt": "164 points ・ 93 comments",
-      "trend_score": 0.6
-    },
-    {
       "source": "tc",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "time_iso": "2026-11-05T04:30:04+09:00",
-      "excerpt": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexib",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "time_iso": "2026-11-05T04:29:52+09:00",
-      "excerpt": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "trend_score": 0.1667
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "time_iso": "2026-11-06T06:15:00+09:00",
+      "excerpt": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connec",
+      "trend_score": 0.75
     },
     {
       "source": "hn",
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "time_iso": "2026-11-05T03:53:29+09:00",
-      "excerpt": "221 points ・ 78 comments",
-      "trend_score": 0.6667
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "time_iso": "2026-11-06T05:43:42+09:00",
+      "excerpt": "321 points ・ 105 comments",
+      "trend_score": 0.8
     },
     {
       "source": "hn",
-      "title": "Conductor is joining Meta",
-      "url": "https://www.conductor.build/announcement",
-      "time_iso": "2026-11-05T03:22:40+09:00",
-      "excerpt": "106 points ・ 142 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "tc",
-      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-      "time_iso": "2026-11-05T03:12:30+09:00",
-      "excerpt": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "A new Go API for JSON",
-      "url": "https://go.dev/blog/jsonv2",
-      "time_iso": "2026-11-05T02:52:11+09:00",
-      "excerpt": "229 points ・ 95 comments",
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "time_iso": "2026-11-06T05:21:43+09:00",
+      "excerpt": "82 points ・ 2 comments",
       "trend_score": 0.4667
     },
     {
       "source": "hn",
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "time_iso": "2026-11-05T02:31:53+09:00",
-      "excerpt": "70 points ・ 26 comments",
-      "trend_score": 0.1333
+      "title": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
+      "time_iso": "2026-11-06T05:03:34+09:00",
+      "excerpt": "515 points ・ 256 comments",
+      "trend_score": 0.9333
     },
     {
       "source": "hn",
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "time_iso": "2026-11-05T00:30:30+09:00",
-      "excerpt": "373 points ・ 102 comments",
+      "title": "Goodbye from Salon",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "time_iso": "2026-11-06T05:03:29+09:00",
+      "excerpt": "429 points ・ 159 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "time_iso": "2026-11-06T04:48:28+09:00",
+      "excerpt": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "time_iso": "2026-11-06T04:12:39+09:00",
+      "excerpt": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure proje",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "hn",
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "time_iso": "2026-11-06T04:08:22+09:00",
+      "excerpt": "203 points ・ 93 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "time_iso": "2026-11-06T04:06:12+09:00",
+      "excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "trend_score": 0.5
+    },
+    {
+      "source": "tc",
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "time_iso": "2026-11-06T03:48:34+09:00",
+      "excerpt": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "time_iso": "2026-11-06T03:02:27+09:00",
+      "excerpt": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where riv",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "time_iso": "2026-11-06T03:00:00+09:00",
+      "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "trend_score": 0.25
+    },
+    {
+      "source": "tc",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "time_iso": "2026-11-06T03:00:00+09:00",
+      "excerpt": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "tc",
+      "title": "Harbinger raises $240M after expanding into defense",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "time_iso": "2026-11-06T02:52:44+09:00",
+      "excerpt": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the mi",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "time_iso": "2026-11-06T02:17:42+09:00",
+      "excerpt": "75 points ・ 41 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "hn",
+      "title": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "time_iso": "2026-11-06T01:50:14+09:00",
+      "excerpt": "250 points ・ 79 comments",
       "trend_score": 0.5333
+    },
+    {
+      "source": "pk",
+      "title": "Linuxカーネルの深刻な脆弱性／FDEの名前で単なるコンサルティングが販売／TypeScriptをRustに移植した「tsrs」発表ほか、2026年10月の人気記事",
+      "url": "https://www.publickey1.jp/blog/26/linuxfdetypescriptrusttsrs202610.html",
+      "time_iso": "2026-11-06T00:37:44+09:00",
+      "excerpt": "2026年の9月から10月にかけては、タイムズカーから自動車免許証の画像を含む大規模な個人情報の漏洩があり、Linuxの深刻な脆弱性が発見され、PHPの脆弱について高市総理がXにポストするなど、ITの分野で社会的に大きな問題がありました。 ...",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "time_iso": "2026-11-05T23:44:20+09:00",
+      "excerpt": "587 points ・ 124 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "time_iso": "2026-11-05T23:34:18+09:00",
+      "excerpt": "189 points ・ 45 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "url": "https://firenook.dev/",
+      "time_iso": "2026-11-05T22:07:29+09:00",
+      "excerpt": "22 points ・ 3 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "time_iso": "2026-11-05T21:19:02+09:00",
+      "excerpt": "2331 points ・ 572 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "itm",
+      "title": "医療機関のサイバーセキュリティー強化へ　ランサムウエア攻撃で診療への長期影響リスク",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002921/",
+      "time_iso": "2026-11-05T17:19:11+09:00",
+      "excerpt": "厚生労働省は来年度、医療機関のサイバーセキュリティの大幅な強化を進める方針だ。ランサムウェア攻撃の脅威は医療機関にも及んでおり、対策強化が不可欠と判断した。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "【更新】ドコモ、全国で通信障害　通話・データとも利用しづらく",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
+      "time_iso": "2026-11-05T15:27:38+09:00",
+      "excerpt": "音声通話、データ通信、SMSが利用しづらい状態だ。【更新】",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "ドコモ通信障害は「5G SA」契約者のみ　4G選択→再起動で利用できる可能性も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002912/",
+      "time_iso": "2026-11-05T15:20:33+09:00",
+      "excerpt": "5G SAは、5G専用の設備のみで通信するオプション。4G通信が混雑している時もその影響を受けず、快適に通信できるとうたっている。",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "time_iso": "2026-11-05T01:45:11+09:00",
+      "excerpt": "155 points ・ 14 comments",
+      "trend_score": 0.2
     },
     {
       "source": "pk",
@@ -255,7 +327,7 @@
       "url": "https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html",
       "time_iso": "2026-11-05T00:23:21+09:00",
       "excerpt": "調査会社のSynergy Research Groupは、グローバルにおける2026年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...",
-      "trend_score": 1.0
+      "trend_score": 0.9167
     },
     {
       "source": "pk",
@@ -263,7 +335,7 @@
       "url": "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
       "time_iso": "2026-11-05T00:18:02+09:00",
       "excerpt": "GitHubは、この1年のGitHubにおけるGitHubの利用動向やオープンソースの動向などをまとめた年次レポート「Octoverse 2026」を発表しました。 発表によると、GitHubを利用している開発者は総数2億2500万人。国別...",
-      "trend_score": 0.9167
+      "trend_score": 0.8333
     },
     {
       "source": "pk",
@@ -271,63 +343,7 @@
       "url": "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
       "time_iso": "2026-11-05T00:15:49+09:00",
       "excerpt": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Dreaming」をパブリックプレビューとして発表しました。 Copi...",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "hn",
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "time_iso": "2026-11-04T20:52:17+09:00",
-      "excerpt": "1067 points ・ 634 comments",
-      "trend_score": 0.7333
-    },
-    {
-      "source": "itm",
-      "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か　Googleが取引停止",
-      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
-      "time_iso": "2026-11-04T18:51:41+09:00",
-      "excerpt": "Googleは、中国企業が出荷前のAndroid端末にバックドアを仕込み、犯罪者にアクセス権を販売していたと発表した。130万台超に不正ソフトが組み込まれ、広告詐欺や通信中継に悪用していたという。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか　不正アクセスで続報",
-      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002885/",
-      "time_iso": "2026-11-04T18:33:11+09:00",
-      "excerpt": "「無印良品」を展開する良品計画は11月4日、10月30日に公表した公式アプリ「MUJIアプリ」への不正アクセスについて、当初は対象外としていたクレジットカード情報や氏名、住所なども外部からアクセスされた可能性があると発表した。新たに判明した対象には、クレジットカード「MUJI Card」のカード番号全桁を含む会員情報約",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "議事録も資料もAIが作るなら、人間は何をする？　AIエージェントへ舵を切る「Plaud」を試す",
-      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002764/",
-      "time_iso": "2026-11-04T17:39:03+09:00",
-      "excerpt": "ビジネスシーンに浸透したAI文字起こし。AIボイスレコーダーのPlaudは、その先のAIエージェントへと舵を切った。新基盤「Plaud Intelligence」では録音から要約、資料作りまで自動で進み、対談の録音からは字幕ファイルまで作れた。新製品「Plaud One」は声でAIに指示できるイヤフォン型だが、相手の前",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "デニーズアプリに不正アクセス　旧アプリ移行処理で認証情報を不正作成される　個人情報漏えいか",
-      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002878/",
-      "time_iso": "2026-11-04T16:55:18+09:00",
-      "excerpt": "旧デニーズアプリから新アプリへの移行に関するシステム処理で、第三者が認証情報を不正に作成し、一部の利用者のアカウントにアクセスできる状態になっていたという。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "NTTの島田明社長、不正アクセス攻撃者の遮断で法制化求める　事前の想定が重要と強調",
-      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002877/",
-      "time_iso": "2026-11-04T16:36:36+09:00",
-      "excerpt": "政府が攻撃者側のWebサイトへの接続を遮断するよう通信事業者に要請したことについて、NTTの島田明社長は11月4日の決算会見で、法制化について政府に対応を求める方針を明らかにした。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "GMOペイメント、決済支援システムで「不正なユーザーによる行為」　「Vプリカ」69件漏えい、3件はセキュリティコードも",
-      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
-      "time_iso": "2026-11-04T14:35:56+09:00",
-      "excerpt": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。",
-      "trend_score": 0.0833
+      "trend_score": 0.75
     },
     {
       "source": "pk",
@@ -335,7 +351,7 @@
       "url": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
       "time_iso": "2026-11-04T00:16:22+09:00",
       "excerpt": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。 性能向上はGitHubの基盤...",
-      "trend_score": 0.75
+      "trend_score": 0.6667
     },
     {
       "source": "pk",
@@ -343,15 +359,7 @@
       "url": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
       "time_iso": "2026-11-04T00:14:57+09:00",
       "excerpt": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、より高度なコードレビューを行う新機能「Copilot Code Review Max」を発表しました。 Gi...",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "PageScribe: Handwriting and offline dictionary audio for KOReader",
-      "url": "https://aspireai.kiranadimatyam.com/builds/pagescribe/",
-      "time_iso": "2026-11-03T04:23:48+09:00",
-      "excerpt": "7 points ・ 0 comments",
-      "trend_score": 0.0667
+      "trend_score": 0.5833
     },
     {
       "source": "pk",
@@ -359,7 +367,7 @@
       "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "time_iso": "2026-11-02T23:36:38+09:00",
       "excerpt": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi...",
-      "trend_score": 0.5833
+      "trend_score": 0.5
     },
     {
       "source": "pk",
@@ -367,7 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
       "time_iso": "2026-10-29T00:39:53+09:00",
       "excerpt": "オラクルは、社員が業務アプリをAIで自動的に生成しOracle Cloudにデプロイして利用できる「Oracle App Composer」を、米国ラスベガスで開催中の年次イベント「Oracle AI World 2026」で発表しました。...",
-      "trend_score": 0.5
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -375,7 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
       "time_iso": "2026-10-28T01:33:51+09:00",
       "excerpt": "オラクルはGoogleが開発しているAI専用チップのGoogle TPUをOracle Cloud Infrastructure（以下、Oracle Cloud）に導入し、2027年からGoogle TPUのサービスを提供開始すると発表しま...",
-      "trend_score": 0.4167
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -383,7 +391,7 @@
       "url": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
       "time_iso": "2026-10-28T00:27:52+09:00",
       "excerpt": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互...",
-      "trend_score": 0.3333
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -391,7 +399,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
       "time_iso": "2026-10-27T00:59:52+09:00",
       "excerpt": "10月20日と21日に米カリフォルニア州で行われたイベント「PyTorch Conference 2026」において、AWSとGoogle Cloudが相次いでPyTorchの自社AIプロセッサ対応版をオープンソースとして発表しました。 A...",
-      "trend_score": 0.25
+      "trend_score": 0.1667
     },
     {
       "source": "pk",
@@ -399,14 +407,6 @@
       "url": "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
       "time_iso": "2026-10-26T00:44:47+09:00",
       "excerpt": "DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。  Announcing Duck...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
-      "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
-      "time_iso": "2026-10-22T00:42:36+09:00",
-      "excerpt": "Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsrsの開発に関わっています。 ...",
       "trend_score": 0.0833
     }
   ],
