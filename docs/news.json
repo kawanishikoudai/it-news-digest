@@ -1,253 +1,213 @@
 {
-  "generated_at": "2026-11-06T10:53:55.117255+09:00",
+  "generated_at": "2026-11-07T10:25:37.716447+09:00",
   "items": [
     {
-      "source": "itm",
-      "title": "Google、ワイオミング州のデータセンターなどに170億ドル投資へ　電力費全額負担を約束",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002936/",
-      "time_iso": "2026-11-06T09:43:37+09:00",
-      "excerpt": "Googleは、ワイオミング州にデータセンターを建設すると発表した。投資額は長期で170億ドルを見込む。米国内でAIデータセンター建設への住民の反発が強まる中、同社は電力費やインフラ整備費の全額負担を約束した。燃料電池やCCS技術を用いた702MWの発電設備も導入し、環境負荷の軽減と地域社会との共存を目指す方針だ。",
+      "source": "hn",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "time_iso": "2026-11-07T08:30:52+09:00",
+      "excerpt": "117 points ・ 15 comments",
       "trend_score": 1.0
     },
     {
+      "source": "hn",
+      "title": "Outbound SIP calling is now available to all organizations",
+      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "time_iso": "2026-11-07T08:03:55+09:00",
+      "excerpt": "24 points ・ 15 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "hn",
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "time_iso": "2026-11-07T08:00:46+09:00",
+      "excerpt": "113 points ・ 50 comments",
+      "trend_score": 0.5333
+    },
+    {
       "source": "tc",
-      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-      "time_iso": "2026-11-06T09:07:18+09:00",
-      "excerpt": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "time_iso": "2026-11-07T07:53:46+09:00",
+      "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
       "trend_score": 1.0
     },
     {
-      "source": "tc",
-      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-      "time_iso": "2026-11-06T09:01:38+09:00",
-      "excerpt": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
-      "trend_score": 0.9167
-    },
-    {
       "source": "hn",
-      "title": "Inkling 2 Small",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "time_iso": "2026-11-06T09:00:24+09:00",
-      "excerpt": "55 points ・ 22 comments",
-      "trend_score": 0.7333
-    },
-    {
-      "source": "itm",
-      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-      "time_iso": "2026-11-06T08:49:28+09:00",
-      "excerpt": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "itm",
-      "title": "アイリスオーヤマ、非会員含む約770万人分の情報漏えいか　外部クラウドに不審ファイル発見→不正アクセス発覚",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002934/",
-      "time_iso": "2026-11-06T08:48:01+09:00",
-      "excerpt": "10月28日、同社が利用する外部クラウドサービスで不審なファイルを発見し、アイリスプラザと関連システムを停止して調査したところ、第三者による不正アクセスを確認した。",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "itm",
-      "title": "「給与維持の週休3日制」AI効率化で実現　しかし社員が喜ばず……なぜ？　「ライザAI」提供企業で起きたこと",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002867/",
-      "time_iso": "2026-11-06T08:30:00+09:00",
-      "excerpt": "「給与維持の週休3日制」をAI効率化で実現した国内のAIスタートアップ。喜ばれると思ったものの、実際には社員は不安げだったという。いったいなぜ？",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "time_iso": "2026-11-06T08:09:57+09:00",
-      "excerpt": "89 points ・ 36 comments",
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "time_iso": "2026-11-07T07:50:43+09:00",
+      "excerpt": "68 points ・ 26 comments",
       "trend_score": 0.1333
     },
     {
-      "source": "itm",
-      "title": "ドコモ通信障害、約14時間で復旧　原因は「交換機の輻輳」、不正アクセスの形跡なし",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002932/",
-      "time_iso": "2026-11-06T08:04:59+09:00",
-      "excerpt": "原因は、「5G SA」契約者を収容する交換機の輻輳。障害の発生前後を含め、不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。",
+      "source": "tc",
+      "title": "The Duo apps are coming, says Apple",
+      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "time_iso": "2026-11-07T06:38:05+09:00",
+      "excerpt": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "time_iso": "2026-11-07T05:27:23+09:00",
+      "excerpt": "192 points ・ 148 comments",
       "trend_score": 0.6667
     },
     {
-      "source": "itm",
-      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-      "time_iso": "2026-11-06T07:57:34+09:00",
-      "excerpt": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "itm",
-      "title": "年収やローン保証額、免許証番号など最大32万人分漏えい　SMBC系、保証業務システムに不正アクセス",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002930/",
-      "time_iso": "2026-11-06T07:43:41+09:00",
-      "excerpt": "SMBCコンシューマーファイナンスは、カードローンなどの保証業務で使っているシステムが第三者による不正アクセスを受け、最大32万118人分の氏名や住所、運転免許証番号、勤務先の年収、ローン保証額などが外部に送信されたと発表した。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "tc",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "time_iso": "2026-11-06T07:40:55+09:00",
-      "excerpt": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "trend_score": 0.8333
+      "source": "hn",
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "time_iso": "2026-11-07T05:09:14+09:00",
+      "excerpt": "36 points ・ 7 comments",
+      "trend_score": 0.2
     },
     {
       "source": "hn",
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "time_iso": "2026-11-06T07:17:15+09:00",
-      "excerpt": "507 points ・ 172 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "ドコモ不正アクセス、最大30万件の顧客情報流出　「My docomo」など緊急メンテ、再開未定",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002929/",
-      "time_iso": "2026-11-06T07:08:51+09:00",
-      "excerpt": "My docomoはメンテが続いており、復旧の見込みは未定。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
-      "time_iso": "2026-11-06T07:03:55+09:00",
-      "excerpt": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "time_iso": "2026-11-06T06:15:00+09:00",
-      "excerpt": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connec",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "time_iso": "2026-11-06T05:43:42+09:00",
-      "excerpt": "321 points ・ 105 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-      "time_iso": "2026-11-06T05:21:43+09:00",
-      "excerpt": "82 points ・ 2 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "Search for everyone",
-      "url": "https://kagi.com/changelog#11820",
-      "time_iso": "2026-11-06T05:03:34+09:00",
-      "excerpt": "515 points ・ 256 comments",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "time_iso": "2026-11-07T04:48:51+09:00",
+      "excerpt": "323 points ・ 70 comments",
       "trend_score": 0.9333
     },
     {
       "source": "hn",
-      "title": "Goodbye from Salon",
-      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "time_iso": "2026-11-06T05:03:29+09:00",
-      "excerpt": "429 points ・ 159 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "time_iso": "2026-11-06T04:48:28+09:00",
-      "excerpt": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "tc",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "time_iso": "2026-11-06T04:12:39+09:00",
-      "excerpt": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure proje",
-      "trend_score": 0.5833
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "time_iso": "2026-11-07T04:33:38+09:00",
+      "excerpt": "167 points ・ 72 comments",
+      "trend_score": 0.8
     },
     {
       "source": "hn",
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "time_iso": "2026-11-06T04:08:22+09:00",
-      "excerpt": "203 points ・ 93 comments",
-      "trend_score": 0.6
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "time_iso": "2026-11-07T04:19:27+09:00",
+      "excerpt": "86 points ・ 36 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "hn",
+      "title": "Replit rebuilt its sandbox engine with microVMs",
+      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+      "time_iso": "2026-11-07T04:06:10+09:00",
+      "excerpt": "62 points ・ 16 comments",
+      "trend_score": 0.0667
     },
     {
       "source": "tc",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "time_iso": "2026-11-06T04:06:12+09:00",
-      "excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "time_iso": "2026-11-07T03:44:38+09:00",
+      "excerpt": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "time_iso": "2026-11-07T03:44:20+09:00",
+      "excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "Devvm.dev: One VM for every project",
+      "url": "https://devvm.dev/",
+      "time_iso": "2026-11-07T02:30:22+09:00",
+      "excerpt": "112 points ・ 48 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "tc",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "time_iso": "2026-11-07T02:23:52+09:00",
+      "excerpt": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot me",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "time_iso": "2026-11-07T01:50:29+09:00",
+      "excerpt": "185 points ・ 31 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "tc",
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "time_iso": "2026-11-07T01:50:01+09:00",
+      "excerpt": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "tc",
+      "title": "Fox completes its $22B acquisition of Roku",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "time_iso": "2026-11-07T01:05:36+09:00",
+      "excerpt": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
       "trend_score": 0.5
     },
     {
       "source": "tc",
-      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "time_iso": "2026-11-06T03:48:34+09:00",
-      "excerpt": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "time_iso": "2026-11-07T00:54:47+09:00",
+      "excerpt": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI",
       "trend_score": 0.4167
     },
     {
       "source": "tc",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "time_iso": "2026-11-06T03:02:27+09:00",
-      "excerpt": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where riv",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "time_iso": "2026-11-06T23:10:00+09:00",
+      "excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.",
       "trend_score": 0.3333
     },
     {
       "source": "tc",
-      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "time_iso": "2026-11-06T03:00:00+09:00",
-      "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "time_iso": "2026-11-06T22:02:16+09:00",
+      "excerpt": "Despite its small size, Underdog's new model can generate both speech and music.",
       "trend_score": 0.25
     },
     {
       "source": "tc",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "time_iso": "2026-11-06T03:00:00+09:00",
-      "excerpt": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "time_iso": "2026-11-06T22:00:00+09:00",
+      "excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
       "trend_score": 0.1667
     },
     {
+      "source": "hn",
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "time_iso": "2026-11-06T21:13:51+09:00",
+      "excerpt": "832 points ・ 1677 comments",
+      "trend_score": 0.8667
+    },
+    {
       "source": "tc",
-      "title": "Harbinger raises $240M after expanding into defense",
-      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-      "time_iso": "2026-11-06T02:52:44+09:00",
-      "excerpt": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the mi",
+      "title": "Tesla will stop making the Cybertruck in 2027",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "time_iso": "2026-11-06T20:50:10+09:00",
+      "excerpt": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more C",
       "trend_score": 0.0833
     },
     {
       "source": "hn",
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "url": "https://github.com/rivet-dev/rivet",
-      "time_iso": "2026-11-06T02:17:42+09:00",
-      "excerpt": "75 points ・ 41 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "Window Sweaters",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "time_iso": "2026-11-06T01:50:14+09:00",
-      "excerpt": "250 points ・ 79 comments",
-      "trend_score": 0.5333
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "time_iso": "2026-11-06T13:00:28+09:00",
+      "excerpt": "275 points ・ 219 comments",
+      "trend_score": 0.7333
     },
     {
       "source": "pk",
@@ -256,70 +216,6 @@
       "time_iso": "2026-11-06T00:37:44+09:00",
       "excerpt": "2026年の9月から10月にかけては、タイムズカーから自動車免許証の画像を含む大規模な個人情報の漏洩があり、Linuxの深刻な脆弱性が発見され、PHPの脆弱について高市総理がXにポストするなど、ITの分野で社会的に大きな問題がありました。 ...",
       "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "time_iso": "2026-11-05T23:44:20+09:00",
-      "excerpt": "587 points ・ 124 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "time_iso": "2026-11-05T23:34:18+09:00",
-      "excerpt": "189 points ・ 45 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "url": "https://firenook.dev/",
-      "time_iso": "2026-11-05T22:07:29+09:00",
-      "excerpt": "22 points ・ 3 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "hn",
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "time_iso": "2026-11-05T21:19:02+09:00",
-      "excerpt": "2331 points ・ 572 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "itm",
-      "title": "医療機関のサイバーセキュリティー強化へ　ランサムウエア攻撃で診療への長期影響リスク",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002921/",
-      "time_iso": "2026-11-05T17:19:11+09:00",
-      "excerpt": "厚生労働省は来年度、医療機関のサイバーセキュリティの大幅な強化を進める方針だ。ランサムウェア攻撃の脅威は医療機関にも及んでおり、対策強化が不可欠と判断した。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "【更新】ドコモ、全国で通信障害　通話・データとも利用しづらく",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
-      "time_iso": "2026-11-05T15:27:38+09:00",
-      "excerpt": "音声通話、データ通信、SMSが利用しづらい状態だ。【更新】",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "ドコモ通信障害は「5G SA」契約者のみ　4G選択→再起動で利用できる可能性も",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002912/",
-      "time_iso": "2026-11-05T15:20:33+09:00",
-      "excerpt": "5G SAは、5G専用の設備のみで通信するオプション。4G通信が混雑している時もその影響を受けず、快適に通信できるとうたっている。",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
-      "time_iso": "2026-11-05T01:45:11+09:00",
-      "excerpt": "155 points ・ 14 comments",
-      "trend_score": 0.2
     },
     {
       "source": "pk",
@@ -344,6 +240,14 @@
       "time_iso": "2026-11-05T00:15:49+09:00",
       "excerpt": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Dreaming」をパブリックプレビューとして発表しました。 Copi...",
       "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "time_iso": "2026-11-04T01:30:23+09:00",
+      "excerpt": "22 points ・ 0 comments",
+      "trend_score": 0.4667
     },
     {
       "source": "pk",
@@ -411,6 +315,10 @@
     }
   ],
   "errors": [
+    {
+      "source": "itm",
+      "error": "RuntimeError: 0 entries (status=200, len=403, content-type=application/xml, bozo=False, bozo_exception=, head=b'<?xml version=\"1.0\" encoding=\"utf-8\" ?>\\n<rss version=\"2.0\">\\n<channel>\\n<title>ITmedia NEWS \\xe6\\x9c\\x80\\xe6\\x96\\xb0\\xe8\\xa8\\x98\\xe4\\xba\\x8b\\xe4\\xb8\\x80\\xe8\\xa6\\xa7</title>\\n<li')"
+    },
     {
       "source": "enrich_primary",
       "error": "HTTPError: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
