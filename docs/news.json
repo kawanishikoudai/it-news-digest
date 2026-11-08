@@ -1,29 +1,165 @@
 {
-  "generated_at": "2026-11-07T10:25:37.716447+09:00",
+  "generated_at": "2026-11-08T09:57:50.851326+09:00",
   "items": [
     {
       "source": "hn",
-      "title": "Libghostty 1.0",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "time_iso": "2026-11-07T08:30:52+09:00",
-      "excerpt": "117 points ・ 15 comments",
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "time_iso": "2026-11-08T08:09:40+09:00",
+      "excerpt": "41 points ・ 27 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "hn",
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "time_iso": "2026-11-08T07:38:58+09:00",
+      "excerpt": "45 points ・ 8 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "tc",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "time_iso": "2026-11-08T07:07:22+09:00",
+      "excerpt": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "time_iso": "2026-11-08T06:17:08+09:00",
+      "excerpt": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "time_iso": "2026-11-08T05:45:32+09:00",
+      "excerpt": "146 points ・ 106 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "tc",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "time_iso": "2026-11-08T04:00:00+09:00",
+      "excerpt": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-lim",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "time_iso": "2026-11-08T03:12:12+09:00",
+      "excerpt": "316 points ・ 80 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "hn",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "time_iso": "2026-11-08T03:02:17+09:00",
+      "excerpt": "361 points ・ 206 comments",
       "trend_score": 1.0
     },
     {
       "source": "hn",
-      "title": "Outbound SIP calling is now available to all organizations",
-      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
-      "time_iso": "2026-11-07T08:03:55+09:00",
-      "excerpt": "24 points ・ 15 comments",
-      "trend_score": 0.6
+      "title": "Five memorable books about programming (2008)",
+      "url": "https://prog21.dadgum.com/19.html",
+      "time_iso": "2026-11-08T02:30:49+09:00",
+      "excerpt": "81 points ・ 52 comments",
+      "trend_score": 0.2
     },
     {
       "source": "hn",
-      "title": "Sodium-ion batteries approach cost parity with LFP",
-      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-      "time_iso": "2026-11-07T08:00:46+09:00",
-      "excerpt": "113 points ・ 50 comments",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "time_iso": "2026-11-08T02:27:30+09:00",
+      "excerpt": "186 points ・ 39 comments",
       "trend_score": 0.5333
+    },
+    {
+      "source": "tc",
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "time_iso": "2026-11-08T02:24:07+09:00",
+      "excerpt": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "hn",
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "time_iso": "2026-11-08T02:19:00+09:00",
+      "excerpt": "187 points ・ 55 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "tc",
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "time_iso": "2026-11-08T02:18:00+09:00",
+      "excerpt": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "time_iso": "2026-11-08T02:06:36+09:00",
+      "excerpt": "339 points ・ 226 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+      "url": "https://www.retrosongbird.com/",
+      "time_iso": "2026-11-08T00:06:54+09:00",
+      "excerpt": "32 points ・ 10 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "time_iso": "2026-11-07T18:46:03+09:00",
+      "excerpt": "586 points ・ 338 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "hn",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "time_iso": "2026-11-07T18:36:36+09:00",
+      "excerpt": "793 points ・ 225 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "tc",
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "time_iso": "2026-11-07T14:01:54+09:00",
+      "excerpt": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current for",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "tc",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "time_iso": "2026-11-07T13:16:43+09:00",
+      "excerpt": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that im",
+      "trend_score": 0.5
+    },
+    {
+      "source": "tc",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "time_iso": "2026-11-07T10:40:28+09:00",
+      "excerpt": "The deal highlights the challenges of developing massive AI data centers.",
+      "trend_score": 0.4167
     },
     {
       "source": "tc",
@@ -31,15 +167,7 @@
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "time_iso": "2026-11-07T07:53:46+09:00",
       "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-      "time_iso": "2026-11-07T07:50:43+09:00",
-      "excerpt": "68 points ・ 26 comments",
-      "trend_score": 0.1333
+      "trend_score": 0.3333
     },
     {
       "source": "tc",
@@ -47,55 +175,7 @@
       "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
       "time_iso": "2026-11-07T06:38:05+09:00",
       "excerpt": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "time_iso": "2026-11-07T05:27:23+09:00",
-      "excerpt": "192 points ・ 148 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "time_iso": "2026-11-07T05:09:14+09:00",
-      "excerpt": "36 points ・ 7 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "hn",
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "time_iso": "2026-11-07T04:48:51+09:00",
-      "excerpt": "323 points ・ 70 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "time_iso": "2026-11-07T04:33:38+09:00",
-      "excerpt": "167 points ・ 72 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "time_iso": "2026-11-07T04:19:27+09:00",
-      "excerpt": "86 points ・ 36 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "Replit rebuilt its sandbox engine with microVMs",
-      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-      "time_iso": "2026-11-07T04:06:10+09:00",
-      "excerpt": "62 points ・ 16 comments",
-      "trend_score": 0.0667
+      "trend_score": 0.25
     },
     {
       "source": "tc",
@@ -103,7 +183,7 @@
       "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "time_iso": "2026-11-07T03:44:38+09:00",
       "excerpt": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "trend_score": 0.8333
+      "trend_score": 0.1667
     },
     {
       "source": "tc",
@@ -111,103 +191,103 @@
       "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "time_iso": "2026-11-07T03:44:20+09:00",
       "excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Devvm.dev: One VM for every project",
-      "url": "https://devvm.dev/",
-      "time_iso": "2026-11-07T02:30:22+09:00",
-      "excerpt": "112 points ・ 48 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "tc",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "time_iso": "2026-11-07T02:23:52+09:00",
-      "excerpt": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot me",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "First steps in bare-metal programming using UEFI",
-      "url": "https://kevinboone.me/efitest_index.html",
-      "time_iso": "2026-11-07T01:50:29+09:00",
-      "excerpt": "185 points ・ 31 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "tc",
-      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-      "time_iso": "2026-11-07T01:50:01+09:00",
-      "excerpt": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "tc",
-      "title": "Fox completes its $22B acquisition of Roku",
-      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-      "time_iso": "2026-11-07T01:05:36+09:00",
-      "excerpt": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
-      "trend_score": 0.5
-    },
-    {
-      "source": "tc",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "time_iso": "2026-11-07T00:54:47+09:00",
-      "excerpt": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "time_iso": "2026-11-06T23:10:00+09:00",
-      "excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "time_iso": "2026-11-06T22:02:16+09:00",
-      "excerpt": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "time_iso": "2026-11-06T22:00:00+09:00",
-      "excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "hn",
-      "title": "Tesla to wind down Cybertruck production",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "time_iso": "2026-11-06T21:13:51+09:00",
-      "excerpt": "832 points ・ 1677 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "tc",
-      "title": "Tesla will stop making the Cybertruck in 2027",
-      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "time_iso": "2026-11-06T20:50:10+09:00",
-      "excerpt": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more C",
       "trend_score": 0.0833
     },
     {
-      "source": "hn",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "time_iso": "2026-11-06T13:00:28+09:00",
-      "excerpt": "275 points ・ 219 comments",
-      "trend_score": 0.7333
+      "source": "itm",
+      "title": "ロート製薬、約280万人分の個人情報漏えい　9715件は通話音声データとクレカ情報が流出",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
+      "time_iso": "2026-11-06T19:31:25+09:00",
+      "excerpt": "11月6日、ロート製薬は9月11日に公表した通信販売システムへの不正アクセスについて、顧客279万7545人分の個人情報が漏えいしたと発表した。調査の結果、9715人分のクレジットカード情報も不正に取得されていたことが分かったという。",
+      "trend_score": 1.0
+    },
+    {
+      "source": "itm",
+      "title": "政府、相次ぐ情報漏えいで事業者に注意喚起　「基本的な対策が不十分」な事例を複数確認",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002976/",
+      "time_iso": "2026-11-06T17:52:16+09:00",
+      "excerpt": "国家サイバー統括室は、相次ぐ個人情報漏えいを受け、事業者向けに注意喚起を公表した。基本的な対策の不備が原因とみられる事例を複数確認したほか、攻撃者によるAIの悪用も指摘。具体的なセキュリティ対策を示した。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "itm",
+      "title": "セキュリティ啓発団体に不正アクセス　個人情報最大1.5万件漏えいか",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
+      "time_iso": "2026-11-06T17:24:24+09:00",
+      "excerpt": "日本ネットワークセキュリティ協会は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "itm",
+      "title": "複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か　再開めど立たず",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002971/",
+      "time_iso": "2026-11-06T16:03:57+09:00",
+      "excerpt": "大阪シティ信用金庫や広島信用金庫など各地の信用金庫で11月6日午後1時30分ごろから、窓口での取引やATMでの入出金ができなくなっている。広島信用金庫によると、障害はしんきん共同センターの「西日本センター」で起きたという。",
+      "trend_score": 0.75
+    },
+    {
+      "source": "itm",
+      "title": "サイバー攻撃対策で自社通販サイト閉店　ドールのアゾン「個人情報を社内に保管しない」方針へ",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002967/",
+      "time_iso": "2026-11-06T15:25:33+09:00",
+      "excerpt": "個人情報漏えい事案が続いていることを受け、個人情報を「持たない」方向に動く企業が出てきている。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "松屋アプリ、9日ぶり復旧　「お詫び」でポイント最大3倍",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002966/",
+      "time_iso": "2026-11-06T14:38:18+09:00",
+      "excerpt": "11月30日まで、アプリ内の弁当予約サービス「松弁ネット」で、付与される「松屋ポイント」を2倍、モバイルオーダーで3倍にするキャンペーンを行う。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "フジテレビ、27年に全ドラマで生成AI活用へ　一部工程で工数を最大8割削減も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
+      "time_iso": "2026-11-06T14:13:16+09:00",
+      "excerpt": "フジテレビは11月5日、2027年10月までに、同社が制作する全てのドラマで生成AIを活用できる体制を整えると発表した。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "米住民投票でデータセンター建設に反対相次ぐ　規制派民主知事も続々当選、推進に逆風も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
+      "time_iso": "2026-11-06T12:38:10+09:00",
+      "excerpt": "11月3日の米中間選挙に合わせ各地で行われた住民投票で、人工知能（AI）向けデータセンター建設の是非を問う計41件が10州であり、1件を除き建設禁止や規制強化が可決された。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "消防庁「安否情報システム」不正アクセスでサービス停止　委託先の富士ソフトから報告",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002952/",
+      "time_iso": "2026-11-06T12:31:28+09:00",
+      "excerpt": "影響範囲を調査するためサービスを停止し、外部からのアクセスを遮断している。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
+      "time_iso": "2026-11-06T12:00:00+09:00",
+      "excerpt": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネス",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "ソニー、プレステサービスの不正アクセス「措置を講じている」　被害状況は公表せず",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002947/",
+      "time_iso": "2026-11-06T11:58:44+09:00",
+      "excerpt": "ソニーグループの「プレイステーション」のオンラインサービスで、許可なく家族アカウントが追加されている問題で、陶琳最高財務責任者（CFO）は11月5日の決算会見で「措置は講じている」と述べるにとどめた。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "宝くじ公式サイトが一時停止、利用者のパスワードが「意図せず変更」　影響範囲は調査中",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002943/",
+      "time_iso": "2026-11-06T11:11:45+09:00",
+      "excerpt": "宝くじの公式Xアカウントは11月5日、宝くじ公式サイトで利用者のパスワードが意図せず変更される問題を確認し、サイトの利用を一時停止したと発表した。",
+      "trend_score": 0.0833
     },
     {
       "source": "pk",
@@ -216,6 +296,14 @@
       "time_iso": "2026-11-06T00:37:44+09:00",
       "excerpt": "2026年の9月から10月にかけては、タイムズカーから自動車免許証の画像を含む大規模な個人情報の漏洩があり、Linuxの深刻な脆弱性が発見され、PHPの脆弱について高市総理がXにポストするなど、ITの分野で社会的に大きな問題がありました。 ...",
       "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "time_iso": "2026-11-05T19:52:04+09:00",
+      "excerpt": "55 points ・ 14 comments",
+      "trend_score": 0.4667
     },
     {
       "source": "pk",
@@ -243,11 +331,19 @@
     },
     {
       "source": "hn",
-      "title": "Can GROUP BY still be optimized after all these years?",
-      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
-      "time_iso": "2026-11-04T01:30:23+09:00",
-      "excerpt": "22 points ・ 0 comments",
-      "trend_score": 0.4667
+      "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+      "url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
+      "time_iso": "2026-11-04T12:30:28+09:00",
+      "excerpt": "11 points ・ 0 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "Turning Every Radio into a Radar",
+      "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+      "time_iso": "2026-11-04T06:18:48+09:00",
+      "excerpt": "22 points ・ 5 comments",
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -315,10 +411,6 @@
     }
   ],
   "errors": [
-    {
-      "source": "itm",
-      "error": "RuntimeError: 0 entries (status=200, len=403, content-type=application/xml, bozo=False, bozo_exception=, head=b'<?xml version=\"1.0\" encoding=\"utf-8\" ?>\\n<rss version=\"2.0\">\\n<channel>\\n<title>ITmedia NEWS \\xe6\\x9c\\x80\\xe6\\x96\\xb0\\xe8\\xa8\\x98\\xe4\\xba\\x8b\\xe4\\xb8\\x80\\xe8\\xa6\\xa7</title>\\n<li')"
-    },
     {
       "source": "enrich_primary",
       "error": "HTTPError: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
