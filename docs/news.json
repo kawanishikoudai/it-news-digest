@@ -1,205 +1,325 @@
 {
-  "generated_at": "2026-11-11T10:35:23.897367+09:00",
+  "generated_at": "2026-11-12T11:35:29.302841+09:00",
   "items": [
     {
-      "source": "tc",
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-      "time_iso": "2026-11-11T10:02:13+09:00",
-      "excerpt": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "source": "itm",
+      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "time_iso": "2026-11-12T10:49:56+09:00",
+      "excerpt": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
       "trend_score": 1.0
     },
     {
       "source": "itm",
-      "title": "「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
-      "time_iso": "2026-11-11T09:42:26+09:00",
-      "excerpt": "「iCloudアカウントおよびサインイン」「iCloudカレンダー」など6つのサービスが、一部のユーザーで「機能停止」状態だ。",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
-      "time_iso": "2026-11-11T09:33:03+09:00",
-      "excerpt": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」",
+      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+      "time_iso": "2026-11-12T09:56:17+09:00",
+      "excerpt": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
       "trend_score": 0.9167
     },
     {
       "source": "itm",
-      "title": "GMOあおぞらネット銀、「不正な通信」検知でAPI一時停止　「予防的な措置」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003087/",
-      "time_iso": "2026-11-11T09:18:27+09:00",
-      "excerpt": "11月10日夜から11日朝にかけ、銀行APIサービスを2度にわたり一時停止した。「安全確保のための予防的な措置」という。",
+      "title": "ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」　約9時間で復旧",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003125/",
+      "time_iso": "2026-11-12T09:53:56+09:00",
+      "excerpt": "不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "time_iso": "2026-11-12T08:50:00+09:00",
+      "excerpt": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "trend_score": 1.0
+    },
+    {
+      "source": "itm",
+      "title": "Appleサポートコミュニティ、11月20日に閉鎖へ　新規投稿は既に終了",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003124/",
+      "time_iso": "2026-11-12T08:46:34+09:00",
+      "excerpt": "Appleは、「Appleサポートコミュニティ」を11月20日に閉鎖すると発表した。1998年に開設された同フォーラムは、現在すでに新規投稿の受け付けを終了し、閲覧専用となっている。Appleは戦略と顧客ニーズを慎重に評価した結果としており、今後は公式サポートサイトを利用するよう呼び掛けている。",
+      "trend_score": 0.75
+    },
+    {
+      "source": "tc",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "time_iso": "2026-11-12T08:28:45+09:00",
+      "excerpt": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "time_iso": "2026-11-12T08:17:05+09:00",
+      "excerpt": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separa",
       "trend_score": 0.8333
     },
     {
       "source": "hn",
-      "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
-      "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
-      "time_iso": "2026-11-11T08:41:41+09:00",
-      "excerpt": "12 points ・ 0 comments",
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "url": "https://github.com/tylertms/Stela",
+      "time_iso": "2026-11-12T08:02:38+09:00",
+      "excerpt": "60 points ・ 19 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "time_iso": "2026-11-12T07:34:23+09:00",
+      "excerpt": "181 points ・ 26 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "time_iso": "2026-11-12T07:16:41+09:00",
+      "excerpt": "145 points ・ 25 comments",
+      "trend_score": 0.8
+    },
+    {
+      "source": "hn",
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "time_iso": "2026-11-12T07:03:58+09:00",
+      "excerpt": "243 points ・ 247 comments",
       "trend_score": 0.0667
     },
     {
-      "source": "itm",
-      "title": "Anthropic、IPOの仮条件を1株70?78ドルに　調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003085/",
-      "time_iso": "2026-11-11T08:02:05+09:00",
-      "excerpt": "Anthropicは、IPOに向けた修正版登録届出書を提出し、仮条件を1株70?78ドルに設定した。公開株数は8億2500万株で、調達額は最大約644億ドルとなる。Googleなど7社が260億ドル分を別途引き受ける。時価総額は最大約1兆4000億ドルに上る見込みで、11月19日に取引を開始すると報じられている。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "itm",
-      "title": "簿記などの受験者情報最大98万人分漏えいか　合否や得点も　日商ネット試験に不正アクセス",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003084/",
-      "time_iso": "2026-11-11T07:49:32+09:00",
-      "excerpt": "氏名、フリガナ、性別、生年月日、合否結果、試験得点と、任意で入力したメールアドレス、電話番号、住所が漏えいした可能性がある。",
-      "trend_score": 0.6667
-    },
-    {
       "source": "hn",
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "time_iso": "2026-11-11T07:17:56+09:00",
-      "excerpt": "199 points ・ 81 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-      "time_iso": "2026-11-11T07:03:30+09:00",
-      "excerpt": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "time_iso": "2026-11-11T06:08:52+09:00",
-      "excerpt": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "Six Math Essentials by Terence Tao",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "time_iso": "2026-11-11T05:58:44+09:00",
-      "excerpt": "121 points ・ 24 comments",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "time_iso": "2026-11-12T06:24:35+09:00",
+      "excerpt": "409 points ・ 391 comments",
       "trend_score": 0.7333
     },
     {
-      "source": "tc",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "time_iso": "2026-11-11T05:52:13+09:00",
-      "excerpt": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and re",
-      "trend_score": 0.8333
+      "source": "hn",
+      "title": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "time_iso": "2026-11-12T05:26:32+09:00",
+      "excerpt": "150 points ・ 54 comments",
+      "trend_score": 0.4667
     },
     {
       "source": "tc",
-      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-      "time_iso": "2026-11-11T05:47:05+09:00",
-      "excerpt": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "time_iso": "2026-11-12T05:15:15+09:00",
+      "excerpt": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Be",
       "trend_score": 0.75
     },
     {
       "source": "tc",
-      "title": "X-energy gets green light to build its first small modular nuclear reactors",
-      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-      "time_iso": "2026-11-11T05:43:55+09:00",
-      "excerpt": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "time_iso": "2026-11-12T05:12:01+09:00",
+      "excerpt": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
       "trend_score": 0.6667
     },
     {
-      "source": "itm",
-      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡　海外では大ヒットなのに、日本での普及は限定的　ビジネスでの活用事例を探る",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
-      "time_iso": "2026-11-11T05:00:00+09:00",
-      "excerpt": "海外で規制する動きが出ている「AI眼鏡（スマートグラス）」。負の側面が注目されがちだが、ビジネスや医療の現場で活用される事例も出始めている。",
-      "trend_score": 0.5
-    },
-    {
       "source": "tc",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "time_iso": "2026-11-11T04:57:52+09:00",
-      "excerpt": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpo",
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "time_iso": "2026-11-12T05:04:28+09:00",
+      "excerpt": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers ha",
       "trend_score": 0.5833
     },
     {
-      "source": "hn",
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "time_iso": "2026-11-11T04:50:46+09:00",
-      "excerpt": "321 points ・ 239 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "What objective is reasoning solving?",
-      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
-      "time_iso": "2026-11-11T04:25:14+09:00",
-      "excerpt": "100 points ・ 45 comments",
-      "trend_score": 0.1333
-    },
-    {
       "source": "tc",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "time_iso": "2026-11-11T04:23:34+09:00",
-      "excerpt": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "time_iso": "2026-11-12T04:54:00+09:00",
+      "excerpt": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher",
       "trend_score": 0.5
     },
     {
-      "source": "tc",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "time_iso": "2026-11-11T04:03:52+09:00",
-      "excerpt": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "time_iso": "2026-11-11T03:49:52+09:00",
-      "excerpt": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "source": "hn",
+      "title": "The Utah Teapot",
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "time_iso": "2026-11-12T04:45:10+09:00",
+      "excerpt": "87 points ・ 19 comments",
       "trend_score": 0.3333
     },
     {
       "source": "tc",
-      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-      "time_iso": "2026-11-11T03:49:19+09:00",
-      "excerpt": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-      "trend_score": 0.25
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "time_iso": "2026-11-12T04:34:55+09:00",
+      "excerpt": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "tc",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "time_iso": "2026-11-12T04:22:22+09:00",
+      "excerpt": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chi",
+      "trend_score": 0.3333
     },
     {
       "source": "hn",
-      "title": "Starlink Mini 2",
-      "url": "https://starlink.com/mini-2",
-      "time_iso": "2026-11-11T03:22:32+09:00",
-      "excerpt": "228 points ・ 238 comments",
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "url": "https://termsheetplease.com/",
+      "time_iso": "2026-11-12T04:12:16+09:00",
+      "excerpt": "184 points ・ 76 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "hn",
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "time_iso": "2026-11-12T03:32:42+09:00",
+      "excerpt": "287 points ・ 88 comments",
       "trend_score": 0.6
     },
     {
       "source": "hn",
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "time_iso": "2026-11-11T03:02:02+09:00",
-      "excerpt": "292 points ・ 161 comments",
-      "trend_score": 0.6667
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "time_iso": "2026-11-12T03:21:38+09:00",
+      "excerpt": "693 points ・ 219 comments",
+      "trend_score": 0.9333
     },
     {
       "source": "hn",
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "time_iso": "2026-11-11T03:01:15+09:00",
-      "excerpt": "259 points ・ 75 comments",
-      "trend_score": 0.2667
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "time_iso": "2026-11-12T01:57:45+09:00",
+      "excerpt": "162 points ・ 29 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "time_iso": "2026-11-12T01:38:44+09:00",
+      "excerpt": "420 points ・ 215 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "time_iso": "2026-11-12T01:16:07+09:00",
+      "excerpt": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "trend_score": 0.25
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "time_iso": "2026-11-12T01:14:44+09:00",
+      "excerpt": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "pk",
+      "title": "テストフレームワーク「Playwright」がBunを正式サポート。テストランナーの実行を可能に",
+      "url": "https://www.publickey1.jp/blog/26/playwrightbun.html",
+      "time_iso": "2026-11-12T00:07:35+09:00",
+      "excerpt": "Webアプリケーションのテストフレームワーク「Playwright」が、最新バージョンのv1.65.0で、Bunでのテストランナー実行を正式にサポートしました。 PlaywrightのテストランナーはこれまでNode.jsが用いられていまし...",
+      "trend_score": 1.0
+    },
+    {
+      "source": "pk",
+      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "url": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
+      "time_iso": "2026-11-12T00:04:47+09:00",
+      "excerpt": "Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro San...",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "time_iso": "2026-11-12T00:02:47+09:00",
+      "excerpt": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which ",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "pk",
+      "title": "ITエンジニアが選ぶ「ITエンジニア本大賞2027」投票スタート",
+      "url": "https://www.publickey1.jp/blog/26/itit2027.html",
+      "time_iso": "2026-11-12T00:01:02+09:00",
+      "excerpt": "翔泳社が毎年開催している「ITエンジニア本大賞」の今年の投票が開始されました。 「ITエンジニア本大賞2027」投票がスタート！ https://t.co/9elKdpCcVS 今年読んでよかったおすすめ本を投票してみてください&mdash...",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "itm",
+      "title": "靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
+      "time_iso": "2026-11-11T19:11:24+09:00",
+      "excerpt": "靖国神社（東京都千代田区）は11月11日、同神社が運営する通販サイト「オンライン授与品・頒布品サイト」への不正アクセスにより、約1万4500件の個人情報が漏えいしたと発表した。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "続くドコモ通信障害　一部除き復旧も、完全解消には至らず　原因は調査中",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
+      "time_iso": "2026-11-11T18:36:04+09:00",
+      "excerpt": "NTTドコモは11月11日、全国で発生した5G SA契約者向けの通信障害について、一部を除き復旧したと発表した。午後4時30分時点で完全復旧には至っておらず、原因は調査中。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい　JR東海やアイスタイルに影響",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
+      "time_iso": "2026-11-11T17:35:52+09:00",
+      "excerpt": "ユミルリンクは11月11日、不正アクセスにより約4786万件の個人情報が流出したと発表した。10月に公表した最大約5162万件から件数を精査。被害は同社のメール配信サービスを利用するアイスタイルやJR東海などにも広がっている。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
+      "time_iso": "2026-11-11T16:12:21+09:00",
+      "excerpt": "メモリ価格の高騰で、PCの買い替えはますます遠のいた。そんな中で配信されたWindows 11のアップデートは、8GBメモリの非力なマシンにも思わぬ余力を生んだ。それなら9年前のLet’s noteを、原稿執筆のサブ機として使えないか。ネックは日本語入力だ。ライブ変換が追い付かずに入力を取りこぼす問題を、今回はAIに直",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "hn",
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "time_iso": "2026-11-11T16:03:17+09:00",
+      "excerpt": "890 points ・ 94 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "itm",
+      "title": "まるで「自宅警備員」？　室内を自律飛行する防犯ドローン、Amazon傘下が発表　約4万円から",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
+      "time_iso": "2026-11-11T15:43:42+09:00",
+      "excerpt": "米Amazon傘下のRingは、室内を自律飛行する家庭向け防犯ドローンを発表した。AIを活用して屋内を巡回し、センサーが異常を検知すると自動で現場へ移動して撮影する。価格は約4万円。企業向けの自律走行型警備ロボットも発表した。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "itm",
+      "title": "前澤友作氏、Metaの“なりすまし広告”訴訟で控訴検討　東京地裁の請求棄却に「野放しでもOK？」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003108/",
+      "time_iso": "2026-11-11T15:17:18+09:00",
+      "excerpt": "実業家の前澤友作氏は11月10日、自身の名前や顔写真を無断で使った「なりすまし広告」を巡る米Metaとの訴訟で東京地裁が請求を棄却したことを受け、控訴を検討するとXに投稿した。",
+      "trend_score": 0.25
+    },
+    {
+      "source": "itm",
+      "title": "内閣府、メルマガ利用者のメアド6万件超漏えい　氏名なども流出の可能性　アララ不正アクセスで",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
+      "time_iso": "2026-11-11T14:19:36+09:00",
+      "excerpt": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "業界初「水道水を使うアンテナ」モバイル端末との接続に成功　三菱電機",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
+      "time_iso": "2026-11-11T13:50:38+09:00",
+      "excerpt": "一般的な金属製アンテナの接続性能と差分がないことを確認したという。",
+      "trend_score": 0.0833
     },
     {
       "source": "pk",
@@ -207,7 +327,7 @@
       "url": "https://www.publickey1.jp/blog/26/net_11cjitaot.html",
       "time_iso": "2026-11-11T02:58:43+09:00",
       "excerpt": "マイクロソフトは日本時間の11月13日未明からオンラインイベント「.NET Conf 2026」を開催し、同社の包括的なアプリケーションフレームワークの最新版となる「.NET 11」正式版のリリースを発表しました。 Announcing ....",
-      "trend_score": 1.0
+      "trend_score": 0.75
     },
     {
       "source": "pk",
@@ -215,7 +335,7 @@
       "url": "https://www.publickey1.jp/blog/26/net_maui_11xamarinmonocoreclr.html",
       "time_iso": "2026-11-11T02:51:47+09:00",
       "excerpt": "マイクロソフトは.NET 11と合わせてリリースしたUIフレームワーク「.NET MAUI 11」で、ついに内部ランタイムがMonoから脱却し、CoreCLRに統一されたことを明らかにしました。 .NET MAUIはシングルコードでiOS、...",
-      "trend_score": 0.9167
+      "trend_score": 0.6667
     },
     {
       "source": "pk",
@@ -223,103 +343,15 @@
       "url": "https://www.publickey1.jp/blog/26/net_8net_9net_10.html",
       "time_iso": "2026-11-11T02:45:42+09:00",
       "excerpt": "マイクロソフトの包括的なソフトウェアフレームワーク「.NET 8」と「.NET 9」のサポートが昨日（2026年11月10日）終了しました。 .NET 8は今から3年前の2023年11月にリリースされ.NET 9はその1年後の2024年11...",
-      "trend_score": 0.8333
+      "trend_score": 0.5833
     },
     {
       "source": "hn",
-      "title": "Val Town is winding down",
-      "url": "https://blog.val.town/winding-down",
-      "time_iso": "2026-11-11T02:31:14+09:00",
-      "excerpt": "304 points ・ 81 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "tc",
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "time_iso": "2026-11-11T02:30:00+09:00",
-      "excerpt": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected ",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "tc",
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "time_iso": "2026-11-11T02:04:19+09:00",
-      "excerpt": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "trend_score": 0.0833
-    },
-    {
-      "source": "hn",
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
-      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-      "time_iso": "2026-11-11T02:02:32+09:00",
-      "excerpt": "183 points ・ 69 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "hn",
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "time_iso": "2026-11-11T01:37:44+09:00",
-      "excerpt": "677 points ・ 156 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "hn",
-      "title": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "time_iso": "2026-11-11T00:25:20+09:00",
-      "excerpt": "698 points ・ 252 comments",
-      "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "AlphaProof Code",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "time_iso": "2026-11-10T21:11:12+09:00",
-      "excerpt": "577 points ・ 177 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」　7～9月期決算は1兆円超の赤字",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003079/",
-      "time_iso": "2026-11-10T20:01:53+09:00",
-      "excerpt": "ソフトバンクグループの後藤芳光CFOは11月10日の決算説明会で、米SpaceXのイーロン・マスクCEOがXに投稿した「債務不履行」の指摘を「全くの事実無根」と否定した。米中間選挙での民主党勝利については、データセンター事業が遅れる可能性も「シナリオの一つ」とした。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "itm",
-      "title": "スキマバイト「シェアフル」に不正アクセス　最大750万アカウント漏えいか　給与振込用の口座情報なども",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003072/",
-      "time_iso": "2026-11-10T18:50:02+09:00",
-      "excerpt": "スキマバイトアプリ「シェアフル」を運営するシェアフル（東京都港区）は11月9日、社内管理システムへの不正アクセスにより、最大約750万件のユーザーアカウントに関する個人情報が流出した可能性があると発表した。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
-      "time_iso": "2026-11-10T17:23:42+09:00",
-      "excerpt": "ソフトバンクの宮川潤一社長が、子会社IDCフロンティアへの不正アクセスを巡り、脆弱性診断の不備を謝罪した。AIの進化で新たな脆弱性が相次いで見つかる中、サイバー攻撃への対応に苦慮する現状も明かした。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-      "time_iso": "2026-11-10T16:23:08+09:00",
-      "excerpt": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "ケンタッキー、一部メニュー画像に生成AI　実験販売の商品など　SNSは「違和感」の声も",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/",
-      "time_iso": "2026-11-10T16:13:36+09:00",
-      "excerpt": "日本ケンタッキー・フライド・チキンが、実験販売メニューの商品画像の制作に生成AIを用いることがあると、ITmedia NEWSの取材に回答した。フロートの画像が「AI画像ではないか」とXで話題になったことがきっかけだが、利用の意図や狙いは明らかにしていない。",
-      "trend_score": 0.0833
+      "title": "Did Life Begin in an RNA World?",
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "time_iso": "2026-11-10T02:27:24+09:00",
+      "excerpt": "7 points ・ 0 comments",
+      "trend_score": 0.4
     },
     {
       "source": "pk",
@@ -327,7 +359,7 @@
       "url": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
       "time_iso": "2026-11-10T00:25:30+09:00",
       "excerpt": "Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C...",
-      "trend_score": 0.75
+      "trend_score": 0.5
     },
     {
       "source": "pk",
@@ -335,7 +367,7 @@
       "url": "https://www.publickey1.jp/blog/26/150uiblazorinfragisticssyncfusion.html",
       "time_iso": "2026-11-10T00:22:44+09:00",
       "excerpt": "マイクロソフトは、C#などの.NETテクノロジーを用いてWebアプリケーションの開発を可能にするフレームワーク「Blazor」に150以上のオープンソースUIコンポーネントが寄贈されたことを発表しました（発表1、発表2） これはマイクロソフ...",
-      "trend_score": 0.6667
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -343,7 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/excelcsvas-datareportpr.html",
       "time_iso": "2026-11-09T00:16:44+09:00",
       "excerpt": "年度の切り替え時に取引先に提出する見積書のフォーマットが変わる、取引先から納品書のフォーマットを指定されたなど、ビジネスにおいて帳票のレイアウトに新たな要求が寄せられることは珍しくありません。 しかし業務システムをそのたびに作り変えるのは一...",
-      "trend_score": 0.5833
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -351,7 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
       "time_iso": "2026-11-09T00:12:29+09:00",
       "excerpt": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、MCP公式のRuby SDKがMCP仕様を完全にサポートした「M...",
-      "trend_score": 0.5
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -359,23 +391,15 @@
       "url": "https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html",
       "time_iso": "2026-11-09T00:09:07+09:00",
       "excerpt": "ターミナルエミュレータ「Ghostty」のコア部分を汎用ライブラリ化した「Libghostty 1.0」正式版がリリースされました。 「Libghostty」は、HashiCorpの共同創業者であり、同社を退社後は個人開発者としてターミナル...",
-      "trend_score": 0.4167
+      "trend_score": 0.1667
     },
     {
       "source": "hn",
-      "title": "Pinot Noir: inside the criminal gangs making fake wine",
-      "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
-      "time_iso": "2026-11-08T14:13:25+09:00",
-      "excerpt": "28 points ・ 5 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "Hacking the meta ray-ban smartglasses",
-      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-      "time_iso": "2026-11-08T02:19:02+09:00",
-      "excerpt": "39 points ・ 9 comments",
-      "trend_score": 0.4667
+      "title": "How to make a CNC plasma cutter with high-frequency start",
+      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+      "time_iso": "2026-11-08T21:34:04+09:00",
+      "excerpt": "11 points ・ 3 comments",
+      "trend_score": 0.2
     },
     {
       "source": "pk",
@@ -383,30 +407,6 @@
       "url": "https://www.publickey1.jp/blog/26/linuxfdetypescriptrusttsrs202610.html",
       "time_iso": "2026-11-06T00:37:44+09:00",
       "excerpt": "2026年の9月から10月にかけては、タイムズカーから自動車免許証の画像を含む大規模な個人情報の漏洩があり、Linuxの深刻な脆弱性が発見され、PHPの脆弱について高市総理がXにポストするなど、ITの分野で社会的に大きな問題がありました。 ...",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "pk",
-      "title": "クラウドインフラのシェア、AWSが26％に後退、Google Cloudは16％に上昇。クラウドインフラ市場全体は過去最大の高成長率へ。2026年第3四半期、Synergy Research",
-      "url": "https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html",
-      "time_iso": "2026-11-05T00:23:21+09:00",
-      "excerpt": "調査会社のSynergy Research Groupは、グローバルにおける2026年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...",
-      "trend_score": 0.25
-    },
-    {
-      "source": "pk",
-      "title": "GitHubで最も使われている言語は2年連続TypeScript、プルリクの増加率はRust。急成長したOSSはCC Switch、Omarchyなど。GitHub Octoverse 2026",
-      "url": "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
-      "time_iso": "2026-11-05T00:18:02+09:00",
-      "excerpt": "GitHubは、この1年のGitHubにおけるGitHubの利用動向やオープンソースの動向などをまとめた年次レポート「Octoverse 2026」を発表しました。 発表によると、GitHubを利用している開発者は総数2億2500万人。国別...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "「GitHub Copilot Dreaming」発表。作業を振り返ってパーソナルメモリやガイダンスをバックグラウンドで整理、アップデート。GitHub Universe 2026",
-      "url": "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
-      "time_iso": "2026-11-05T00:15:49+09:00",
-      "excerpt": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Dreaming」をパブリックプレビューとして発表しました。 Copi...",
       "trend_score": 0.0833
     }
   ],
