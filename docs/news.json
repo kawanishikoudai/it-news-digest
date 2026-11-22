@@ -1,29 +1,173 @@
 {
-  "generated_at": "2026-11-21T11:54:30.530784+09:00",
+  "generated_at": "2026-11-22T10:46:35.298230+09:00",
   "items": [
     {
-      "source": "hn",
-      "title": "Re: Riemann",
-      "url": "https://borretti.me/article/re-riemann",
-      "time_iso": "2026-11-21T08:42:44+09:00",
-      "excerpt": "145 points ・ 129 comments",
-      "trend_score": 0.2
+      "source": "itm",
+      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
+      "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "time_iso": "2026-11-22T08:21:31+09:00",
+      "excerpt": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+      "trend_score": 1.0
     },
     {
       "source": "hn",
-      "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "time_iso": "2026-11-21T08:19:44+09:00",
-      "excerpt": "45 points ・ 9 comments",
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "time_iso": "2026-11-22T07:09:58+09:00",
+      "excerpt": "55 points ・ 5 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "time_iso": "2026-11-22T06:37:10+09:00",
+      "excerpt": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "time_iso": "2026-11-22T06:17:53+09:00",
+      "excerpt": "89 points ・ 8 comments",
       "trend_score": 0.4667
     },
     {
+      "source": "tc",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "time_iso": "2026-11-22T06:07:42+09:00",
+      "excerpt": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "trend_score": 0.9167
+    },
+    {
       "source": "hn",
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "url": "https://ninlive.com/",
-      "time_iso": "2026-11-21T07:30:47+09:00",
-      "excerpt": "147 points ・ 30 comments",
-      "trend_score": 0.8
+      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+      "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+      "time_iso": "2026-11-22T06:06:14+09:00",
+      "excerpt": "28 points ・ 11 comments",
+      "trend_score": 0.1333
+    },
+    {
+      "source": "hn",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "time_iso": "2026-11-22T05:47:41+09:00",
+      "excerpt": "31 points ・ 6 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "tc",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "time_iso": "2026-11-22T03:44:53+09:00",
+      "excerpt": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "hn",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "time_iso": "2026-11-22T03:29:29+09:00",
+      "excerpt": "78 points ・ 30 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "hn",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "time_iso": "2026-11-22T03:02:19+09:00",
+      "excerpt": "358 points ・ 92 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "hn",
+      "title": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "time_iso": "2026-11-22T02:08:04+09:00",
+      "excerpt": "119 points ・ 20 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "time_iso": "2026-11-22T02:00:00+09:00",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "tc",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "time_iso": "2026-11-22T01:00:00+09:00",
+      "excerpt": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "tc",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "time_iso": "2026-11-22T00:18:29+09:00",
+      "excerpt": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "hn",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "time_iso": "2026-11-21T23:36:45+09:00",
+      "excerpt": "833 points ・ 684 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "hn",
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "time_iso": "2026-11-21T22:23:14+09:00",
+      "excerpt": "524 points ・ 347 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "time_iso": "2026-11-21T19:36:32+09:00",
+      "excerpt": "489 points ・ 232 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "itm",
+      "title": "AIは人並みに動画編集できる？　“バズる切り抜き”からガジェット開封動画まで2つのツールを試す",
+      "url": "https://www.itmedia.co.jp/news/article/2611/21/2000003387/",
+      "time_iso": "2026-11-21T15:38:29+09:00",
+      "excerpt": "ネット動画では、長尺コンテンツから短い動画を大量に切り出す手法が主流になりつつある。ただ、必要なところを自分で拾い上げる編集は一朝一夕には身につかない。ならばAIに任せればいいのでは？　長尺動画を自動で切り抜く「FlexClip」と、AIに指示して編集させる「CutBay」を試した。指示通りに動かないAIを鬼詰めしつつ",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "tc",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "time_iso": "2026-11-21T13:00:00+09:00",
+      "excerpt": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "trend_score": 0.5
+    },
+    {
+      "source": "hn",
+      "title": "Getting the mind to steer the body to steer you",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "time_iso": "2026-11-21T07:11:05+09:00",
+      "excerpt": "153 points ・ 53 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "hn",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "time_iso": "2026-11-21T06:03:12+09:00",
+      "excerpt": "615 points ・ 147 comments",
+      "trend_score": 1.0
     },
     {
       "source": "tc",
@@ -31,31 +175,15 @@
       "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
       "time_iso": "2026-11-21T05:58:29+09:00",
       "excerpt": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-      "trend_score": 1.0
+      "trend_score": 0.4167
     },
     {
       "source": "hn",
       "title": "Inkling 2 Mini",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "time_iso": "2026-11-21T05:12:19+09:00",
-      "excerpt": "729 points ・ 124 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "And yet, it moves",
-      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-      "time_iso": "2026-11-21T05:07:55+09:00",
-      "excerpt": "99 points ・ 51 comments",
+      "excerpt": "1386 points ・ 281 comments",
       "trend_score": 0.2667
-    },
-    {
-      "source": "hn",
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "time_iso": "2026-11-21T05:03:59+09:00",
-      "excerpt": "121 points ・ 21 comments",
-      "trend_score": 0.4
     },
     {
       "source": "tc",
@@ -63,7 +191,7 @@
       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "time_iso": "2026-11-21T04:53:41+09:00",
       "excerpt": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "trend_score": 0.9167
+      "trend_score": 0.3333
     },
     {
       "source": "tc",
@@ -71,7 +199,7 @@
       "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "time_iso": "2026-11-21T04:32:08+09:00",
       "excerpt": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "trend_score": 0.8333
+      "trend_score": 0.25
     },
     {
       "source": "tc",
@@ -79,31 +207,7 @@
       "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
       "time_iso": "2026-11-21T03:34:00+09:00",
       "excerpt": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "time_iso": "2026-11-21T03:33:14+09:00",
-      "excerpt": "1650 points ・ 739 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "time_iso": "2026-11-21T03:17:51+09:00",
-      "excerpt": "323 points ・ 188 comments",
-      "trend_score": 0.7333
-    },
-    {
-      "source": "hn",
-      "title": "Vibecoding an inference chip",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "time_iso": "2026-11-21T03:15:16+09:00",
-      "excerpt": "118 points ・ 42 comments",
-      "trend_score": 0.0667
+      "trend_score": 0.1667
     },
     {
       "source": "tc",
@@ -111,79 +215,7 @@
       "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "time_iso": "2026-11-21T02:40:01+09:00",
       "excerpt": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "time_iso": "2026-11-21T02:21:36+09:00",
-      "excerpt": "356 points ・ 146 comments",
-      "trend_score": 0.6
-    },
-    {
-      "source": "hn",
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "time_iso": "2026-11-21T01:29:06+09:00",
-      "excerpt": "348 points ・ 113 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "tc",
-      "title": "Bending Spoons buys Mailchimp for $3.68B",
-      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-      "time_iso": "2026-11-21T01:16:06+09:00",
-      "excerpt": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "tc",
-      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-      "time_iso": "2026-11-21T00:46:07+09:00",
-      "excerpt": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
-      "trend_score": 0.5
-    },
-    {
-      "source": "hn",
-      "title": "Finite-time blow-up for the Navier–Stokes equations",
-      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "time_iso": "2026-11-21T00:34:31+09:00",
-      "excerpt": "260 points ・ 83 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "time_iso": "2026-11-20T23:16:21+09:00",
-      "excerpt": "2407 points ・ 1623 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "tc",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "time_iso": "2026-11-20T23:00:00+09:00",
-      "excerpt": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-      "time_iso": "2026-11-20T22:25:00+09:00",
-      "excerpt": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-      "time_iso": "2026-11-20T22:21:11+09:00",
-      "excerpt": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob B",
-      "trend_score": 0.25
+      "trend_score": 0.0833
     },
     {
       "source": "itm",
@@ -191,23 +223,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
       "time_iso": "2026-11-20T21:18:07+09:00",
       "excerpt": "デジタル庁は11月20日、政府共通の業務環境「GSS」のファイル共有サービスで、ファイルの一部が外部に漏えいした可能性があると発表した。7月30日から11月12日までの間、正規の共有相手先以外の者によるアクセスがあったことを確認したという。個人情報が含まれることも想定されるとして、個人情報保護委員会に報告した。",
-      "trend_score": 1.0
-    },
-    {
-      "source": "hn",
-      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
-      "time_iso": "2026-11-20T18:42:16+09:00",
-      "excerpt": "519 points ・ 308 comments",
-      "trend_score": 0.1333
-    },
-    {
-      "source": "tc",
-      "title": "The US national cyber director is stepping down",
-      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-      "time_iso": "2026-11-20T18:14:19+09:00",
-      "excerpt": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
-      "trend_score": 0.1667
+      "trend_score": 0.8333
     },
     {
       "source": "itm",
@@ -215,7 +231,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
       "time_iso": "2026-11-20T17:48:50+09:00",
       "excerpt": "韓国教育省は11月20日、19日に実施された大学修学能力試験（修能、日本の大学入学共通テストに相当）で、スマートグラス（AI眼鏡）など電子機器の扱いを巡り111件の不正行為が確認されたと明らかにした。",
-      "trend_score": 0.9167
+      "trend_score": 0.75
     },
     {
       "source": "itm",
@@ -223,7 +239,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
       "time_iso": "2026-11-20T17:13:16+09:00",
       "excerpt": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。",
-      "trend_score": 0.8333
+      "trend_score": 0.6667
     },
     {
       "source": "itm",
@@ -231,7 +247,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
       "time_iso": "2026-11-20T17:09:25+09:00",
       "excerpt": "27年1月11日に打ち上げ予定の11号機は、三菱重工が打ち上げを担う。",
-      "trend_score": 0.75
+      "trend_score": 0.5833
     },
     {
       "source": "itm",
@@ -239,7 +255,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
       "time_iso": "2026-11-20T15:11:05+09:00",
       "excerpt": "ドン・キホーテのAI社員「近藤あい」が11月23日に正式デビューする。実は裏には約20人のAIキャラクターが控えているという。開発に約1年半を費やした舞台裏や、AI社員を導入した狙いを担当者に聞いた。",
-      "trend_score": 0.6667
+      "trend_score": 0.5
     },
     {
       "source": "itm",
@@ -247,7 +263,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
       "time_iso": "2026-11-20T13:29:35+09:00",
       "excerpt": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
-      "trend_score": 0.5833
+      "trend_score": 0.4167
     },
     {
       "source": "itm",
@@ -255,7 +271,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003367/",
       "time_iso": "2026-11-20T13:05:21+09:00",
       "excerpt": "不正アクセスにより決済画面が改ざんされ、顧客が入力したカード情報が外部へ送信される状態になっていた。",
-      "trend_score": 0.5
+      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -263,15 +279,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003362/",
       "time_iso": "2026-11-20T12:01:06+09:00",
       "excerpt": "奈良文化財研究所（奈文研、奈良市）が少子高齢化や人件費高騰が進む中、発掘調査方法の見直しを模索している。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "tc",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "time_iso": "2026-11-20T09:56:01+09:00",
-      "excerpt": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "trend_score": 0.0833
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -279,7 +287,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
       "time_iso": "2026-11-20T09:25:43+09:00",
       "excerpt": "Googleは、衛星軌道上にAIデータセンターを構築する「Project Suncatcher」でジェフ・ベゾス氏率いる米Blue Originと提携したと発表した。2029年第1四半期を目標に、大型ロケット「New Glenn」で衛星を太陽同期軌道へ打ち上げる。各衛星はデータセンターのラック1本分程度の計算能力を持つ",
-      "trend_score": 0.3333
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -287,22 +295,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
       "time_iso": "2026-11-20T09:17:02+09:00",
       "excerpt": "「PHP2Shell」への対応以降、脆弱性の修正に合わせ、サービスを止めてメンテナンスする流れができつつある。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "日本で受け入れられるのか？　ネットにつながらない携帯「INFOBAR ZERO」　KDDIが語った発売の意図",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003330/",
-      "time_iso": "2026-11-20T08:45:00+09:00",
-      "excerpt": "KDDIが11月18日に発表した、音声通話とSMSに機能を絞った携帯電話「INFOBAR ZERO」。スマートフォンが普及したいま、挑戦的とも思える商品だが、売れる見込みはあるのか。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
-      "time_iso": "2026-11-20T08:41:04+09:00",
-      "excerpt": "Googleは、Mac版「Gemini」アプリにAIが画面を認識してアプリを自動操作する「computer use」機能を追加した。隔離されたバックグラウンドウィンドウで動作するため、ユーザーの作業を妨げずにファイルやWebをまたいだ複数手順の業務を代行できる。まずは米国の有料プラン加入者向けに英語版から提供を始める。",
       "trend_score": 0.0833
     },
     {
@@ -312,6 +304,14 @@
       "time_iso": "2026-11-20T00:19:21+09:00",
       "excerpt": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...",
       "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Windows has two settings that bring work back after restart, both off by default",
+      "url": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
+      "time_iso": "2026-11-19T23:00:08+09:00",
+      "excerpt": "38 points ・ 32 comments",
+      "trend_score": 0.2
     },
     {
       "source": "pk",
@@ -379,11 +379,11 @@
     },
     {
       "source": "hn",
-      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "time_iso": "2026-11-18T01:58:30+09:00",
-      "excerpt": "53 points ・ 25 comments",
-      "trend_score": 0.6667
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "time_iso": "2026-11-18T00:22:57+09:00",
+      "excerpt": "753 points ・ 241 comments",
+      "trend_score": 0.8
     },
     {
       "source": "pk",
