@@ -1,293 +1,317 @@
 {
-  "generated_at": "2026-11-25T13:40:30.991234+09:00",
+  "generated_at": "2026-11-26T12:50:26.979866+09:00",
   "items": [
     {
       "source": "itm",
-      "title": "タワレコ、会員情報約1100万件流出　「3年以内の退会者」も対象　通販サイト停止続く",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003439/",
-      "time_iso": "2026-11-25T13:27:21+09:00",
-      "excerpt": "退会後3年以内の人の情報も含まれているという。",
+      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
+      "time_iso": "2026-11-26T12:00:00+09:00",
+      "excerpt": "飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について考える。",
       "trend_score": 1.0
     },
     {
-      "source": "hn",
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "time_iso": "2026-11-25T12:47:42+09:00",
-      "excerpt": "20 points ・ 2 comments",
-      "trend_score": 0.6
+      "source": "itm",
+      "title": "GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
+      "time_iso": "2026-11-26T12:00:00+09:00",
+      "excerpt": "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "itm",
+      "title": "「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/",
+      "time_iso": "2026-11-26T11:27:43+09:00",
+      "excerpt": "PayPayマネーライトを現金化する目的で第三者へ譲渡する行為はPayPayの利用規約違反であり、PayPay残高の利用停止やアカウントの閉鎖などの措置を講じる場合があると警告している。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "itm",
+      "title": "AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定　AI企業間で議論",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
+      "time_iso": "2026-11-26T11:24:00+09:00",
+      "excerpt": "Anthropicのダリオ・アモデイCEOは、超知能AIに人間の意思決定権を委ねるべきだと考えているとしたAxiosの報道をXで否定した。社会の統治と個別タスクの自動化を混同していると反論し、AIは民主的プロセスで管理されるべきだと強調した。超知能時代の主導権を巡っては、OpenAIやMeta幹部も発言しており議論が広",
+      "trend_score": 0.75
+    },
+    {
+      "source": "itm",
+      "title": "都が育児支援で配った「QUOカードPay」が「使えない」「残高減っている」……委託先への不正アクセスが関係か",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003472/",
+      "time_iso": "2026-11-26T10:32:28+09:00",
+      "excerpt": "赤ちゃんファーストコールセンターに「QUOカードPayが利用できない」「残高が少なくなっている」などの相談が寄せられ、リンベルが調べたところ、問題を確認した。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+      "time_iso": "2026-11-26T10:00:00+09:00",
+      "excerpt": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すれ",
+      "trend_score": 0.5833
     },
     {
       "source": "hn",
-      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-      "time_iso": "2026-11-25T12:28:06+09:00",
-      "excerpt": "14 points ・ 5 comments",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "hn",
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com/",
-      "time_iso": "2026-11-25T12:23:07+09:00",
-      "excerpt": "59 points ・ 3 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "Macrohistory in Six Facts",
-      "url": "https://basilhalperin.com/essays/macrohistory.html",
-      "time_iso": "2026-11-25T12:04:46+09:00",
-      "excerpt": "16 points ・ 0 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "hn",
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "time_iso": "2026-11-25T12:04:37+09:00",
-      "excerpt": "27 points ・ 8 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "Lua for Data Representation",
-      "url": "https://citrons.xyz/journal/2025-07-23",
-      "time_iso": "2026-11-25T12:04:12+09:00",
-      "excerpt": "13 points ・ 0 comments",
-      "trend_score": 0.4
-    },
-    {
-      "source": "hn",
-      "title": "I've been drinking wine in my kitchen",
-      "url": "https://scottaaronson.blog/?p=10362",
-      "time_iso": "2026-11-25T12:02:10+09:00",
-      "excerpt": "46 points ・ 17 comments",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "time_iso": "2026-11-26T09:43:34+09:00",
+      "excerpt": "130 points ・ 59 comments",
       "trend_score": 0.8
     },
     {
       "source": "hn",
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "url": "https://www.proofatlas.ai/open-problems/",
-      "time_iso": "2026-11-25T12:01:36+09:00",
-      "excerpt": "12 points ・ 3 comments",
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "time_iso": "2026-11-26T09:40:00+09:00",
+      "excerpt": "29 points ・ 2 comments",
+      "trend_score": 0.4
+    },
+    {
+      "source": "itm",
+      "title": "「サツドラ」顧客情報22万件流出　委託先サイバーエージェントがデータ誤公開、1年以上気づかず",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003469/",
+      "time_iso": "2026-11-26T09:23:25+09:00",
+      "excerpt": "サイバーエージェントが開発環境のクラウド上の保管領域に、顧客の個人情報を含むファイルを誤って公開設定で1年以上にわたって配置しており、第三者が対象のファイルを少なくとも9回にわたって取得していたという。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "itm",
+      "title": "SpaceXの軌道上データセンター衛星「Starmind」、米FCCが最大100万基を承認",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003468/",
+      "time_iso": "2026-11-26T09:15:54+09:00",
+      "excerpt": "米連邦通信委員会（FCC）は、SpaceXによる軌道上データセンター衛星群「Starmind」の配備を条件付きで承認した。宇宙空間のデータセンター群に対する認可は米国初で、最大100万基の軌道コンピュートモジュールで構成する。一方、高度600km超の衛星の一部に関する宇宙デブリ対策については判断を保留した。",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "itm",
+      "title": "M&A検討資料など最大数千社分漏えいか　ミロク情報子会社に不正アクセス　役職員の認証情報取得される",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003467/",
+      "time_iso": "2026-11-26T08:35:38+09:00",
+      "excerpt": "ファイアウォール機器に、第三者が作成したとみられる管理者アカウントなどの不審な設定があった。役職員の認証情報の一部が不正に取得されたことも確認したという。",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "tc",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "time_iso": "2026-11-26T07:44:32+09:00",
+      "excerpt": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "time_iso": "2026-11-26T07:15:34+09:00",
+      "excerpt": "83 points ・ 16 comments",
+      "trend_score": 0.3333
+    },
+    {
+      "source": "hn",
+      "title": "Deploying a payphone on a tiny Pacific Island",
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "time_iso": "2026-11-26T07:12:25+09:00",
+      "excerpt": "52 points ・ 5 comments",
       "trend_score": 0.1333
     },
     {
       "source": "itm",
-      "title": "AIでドーピングしたコンサルの実力は　使わない人材との能力差、BCG約500人で検証　Nature系列誌",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
-      "time_iso": "2026-11-25T12:00:00+09:00",
-      "excerpt": "米ボストン大学、米BCGのヘンダーソン研究所、米OpenAIに所属する研究者らがNature Human Behaviourで発表した論文「Generative AI and the temporary upskilling of knowledge workers」は、生成AIによる一時的なスキルアップの効果と限界を",
-      "trend_score": 0.9167
+      "title": "1Password、一部顧客の氏名やメールアドレスが流出　保管庫内のデータに「影響なし」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003466/",
+      "time_iso": "2026-11-26T07:01:52+09:00",
+      "excerpt": "パスワード管理ツール「1Password」を手掛けるカナダのAgileBitsは、従業員のGitHubアカウントを悪用した不正アクセスにより、一部顧客の氏名やメールアドレスなどが流出したと発表した。保管庫（Vault）内のデータや暗号化鍵に影響はなく、ユーザー側でのパスワード変更は不要だが、フィッシング詐欺への注意を呼",
+      "trend_score": 0.25
     },
     {
       "source": "hn",
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "time_iso": "2026-11-25T11:34:21+09:00",
-      "excerpt": "63 points ・ 22 comments",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "time_iso": "2026-11-26T06:48:10+09:00",
+      "excerpt": "326 points ・ 160 comments",
       "trend_score": 0.8667
     },
     {
-      "source": "itm",
-      "title": "六花亭のカード情報流出、対応が「誠実」と評判　再発行時の「伝え方」まで明記",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003437/",
-      "time_iso": "2026-11-25T11:34:15+09:00",
-      "excerpt": "カード再発行に当たっては、「株式会社六花亭から情報流出の通知を受けたため、カードを再発行したい」と伝えるよう案内するなど、「どうすればいいか」を具体的に示していることが「誠実だ」と評価されている。",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "itm",
-      "title": "楽天証券、金融資産情報など約441万件の漏えい確認　ログインIDなど約1198万口座分も",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003435/",
-      "time_iso": "2026-11-25T11:25:59+09:00",
-      "excerpt": "楽天証券は11月24日、17日に発表した不正アクセスを巡り、情報漏えいを確認したと発表した。ログインIDなどは約1198万口座分、氏名や住所などは約441万件漏えい。入金先口座情報などの漏えいも新たに判明した。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "itm",
-      "title": "復旧費用1000万円超が6割　被害相次ぐサイバー攻撃、保険広がるも中小企業に死角",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003436/",
-      "time_iso": "2026-11-25T11:22:20+09:00",
-      "excerpt": "サイバー攻撃の脅威がが増す中、「サイバー保険」に加入する企業が増えている。特に不正アクセスによる情報漏えいが頻発した10月以降、保険会社への問い合わせが急増している。専門家は「サイバー攻撃は従業員個人の努力だけで防げるものではなくなっている」と警告。組織全体で重層的な対策を施す必要性を強調する。",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "itm",
-      "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ　直近90日の配信楽曲の43％がAI生成",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003433/",
-      "time_iso": "2026-11-25T10:57:02+09:00",
-      "excerpt": "音楽ストリーミングサービスのTIDALは、完全AI生成楽曲の受付を停止し、配信済みの楽曲も削除すると発表した。直近90日間に配信された楽曲の43％が完全AI生成と判定されており、現在カタログの6.3％に当たる約2700万曲が該当する。AIを補助的に使った楽曲は引き続き配信可能だ。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "itm",
-      "title": "JAXAの衛星データ提供システムに不正アクセス　コマンドインジェクション脆弱性悪用、アカウント情報流出",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003432/",
-      "time_iso": "2026-11-25T10:31:48+09:00",
-      "excerpt": "Webアプリケーションプログラムの一部にコマンドインジェクションの脆弱性があったことが判明。攻撃者はこの脆弱性を悪用してバックドアを設置し、システムの探索や情報の窃取を試みていた。",
-      "trend_score": 0.5
-    },
-    {
       "source": "hn",
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "time_iso": "2026-11-25T10:19:26+09:00",
-      "excerpt": "294 points ・ 132 comments",
-      "trend_score": 1.0
-    },
-    {
-      "source": "itm",
-      "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に　全プランでβ提供",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
-      "time_iso": "2026-11-25T10:07:59+09:00",
-      "excerpt": "Anthropicは、AIアシスタント「Claude」で作成したアーティファクトをMac／Windows向けのデスクトップアプリとして導入できる「Install as app」を全プラン向けにβ提供すると発表した。専用ウィンドウで動作し、通知やメニューバー表示、許可に応じたファイル操作にも対応する。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "hn",
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "time_iso": "2026-11-25T09:54:49+09:00",
-      "excerpt": "132 points ・ 20 comments",
-      "trend_score": 0.7333
-    },
-    {
-      "source": "tc",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "time_iso": "2026-11-25T09:12:02+09:00",
-      "excerpt": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a gi",
-      "trend_score": 1.0
-    },
-    {
-      "source": "tc",
-      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-      "time_iso": "2026-11-25T09:10:27+09:00",
-      "excerpt": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a compan",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "itm",
-      "title": "AIエージェントは隙あらばサンドボックスの外に出るのか　Anthropicが評価手法「Siren」を発表",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
-      "time_iso": "2026-11-25T07:41:42+09:00",
-      "excerpt": "Anthropicは、AIエージェントが脆弱なサンドボックスから抜け出すかどうかを測る評価手法「Siren」を発表した。1700以上のシナリオで6モデルを検証し、最新モデル群が外に置かれた認証情報などを不正に使った割合は0.6?1.6％にとどまった。システムプロンプトでのルール明示や報告ツールなどの対策を組み合わせると",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "tc",
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "time_iso": "2026-11-25T07:27:52+09:00",
-      "excerpt": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-      "trend_score": 0.8333
-    },
-    {
-      "source": "itm",
-      "title": "京王、1100万人超の個人情報漏えいか　一部クレカ番号なども　9月のランサム被害で",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003429/",
-      "time_iso": "2026-11-25T07:00:00+09:00",
-      "excerpt": "京王電鉄は11月24日、京王グループが9月に受けたランサムウェア攻撃を巡り、顧客や取引先など約1063万人分の個人情報が漏えいした可能性があると発表した。一部には海外からの宿泊客のパスポートの写しやクレジットカード番号も含まれる。従業員や採用応募者などの一部は漏えいを確認した。二次被害は確認していないという。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "tc",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "time_iso": "2026-11-25T06:48:27+09:00",
-      "excerpt": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-      "trend_score": 0.75
-    },
-    {
-      "source": "tc",
-      "title": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "time_iso": "2026-11-25T06:33:29+09:00",
-      "excerpt": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safel",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "tc",
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "time_iso": "2026-11-25T06:32:38+09:00",
-      "excerpt": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "tc",
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "time_iso": "2026-11-25T06:19:52+09:00",
-      "excerpt": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
-      "trend_score": 0.5
-    },
-    {
-      "source": "tc",
-      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-      "time_iso": "2026-11-25T06:09:04+09:00",
-      "excerpt": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "hn",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "time_iso": "2026-11-25T06:02:22+09:00",
-      "excerpt": "213 points ・ 65 comments",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "time_iso": "2026-11-26T06:18:02+09:00",
+      "excerpt": "248 points ・ 200 comments",
       "trend_score": 0.5333
     },
     {
-      "source": "hn",
-      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-      "url": "https://news.ycombinator.com/item?id=50634426",
-      "time_iso": "2026-11-25T05:44:15+09:00",
-      "excerpt": "77 points ・ 62 comments",
-      "trend_score": 0.2
+      "source": "tc",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "time_iso": "2026-11-26T05:56:44+09:00",
+      "excerpt": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outs",
+      "trend_score": 0.9167
     },
     {
       "source": "hn",
-      "title": "Ternary Bonsai 2.5 27B",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "time_iso": "2026-11-25T05:08:03+09:00",
-      "excerpt": "378 points ・ 128 comments",
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "time_iso": "2026-11-26T05:38:00+09:00",
+      "excerpt": "175 points ・ 86 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "time_iso": "2026-11-26T05:35:50+09:00",
+      "excerpt": "100 points ・ 34 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "tc",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "time_iso": "2026-11-26T05:03:27+09:00",
+      "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "tc",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "time_iso": "2026-11-26T04:54:57+09:00",
+      "excerpt": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "trend_score": 0.75
+    },
+    {
+      "source": "tc",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "time_iso": "2026-11-26T04:54:32+09:00",
+      "excerpt": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
       "trend_score": 0.6667
     },
     {
       "source": "tc",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "time_iso": "2026-11-25T03:30:42+09:00",
-      "excerpt": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "time_iso": "2026-11-26T04:44:24+09:00",
+      "excerpt": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly aut",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "hn",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "time_iso": "2026-11-26T04:11:27+09:00",
+      "excerpt": "1035 points ・ 880 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "tc",
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "time_iso": "2026-11-26T03:49:52+09:00",
+      "excerpt": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+      "trend_score": 0.5
+    },
+    {
+      "source": "tc",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "time_iso": "2026-11-26T03:11:46+09:00",
+      "excerpt": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriat",
+      "trend_score": 0.4167
+    },
+    {
+      "source": "tc",
+      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+      "time_iso": "2026-11-26T02:36:51+09:00",
+      "excerpt": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
       "trend_score": 0.3333
     },
     {
       "source": "tc",
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "time_iso": "2026-11-25T03:02:59+09:00",
-      "excerpt": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "time_iso": "2026-11-26T02:35:58+09:00",
+      "excerpt": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, ",
       "trend_score": 0.25
     },
     {
-      "source": "tc",
-      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-      "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-      "time_iso": "2026-11-25T02:44:34+09:00",
-      "excerpt": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
-      "trend_score": 0.1667
+      "source": "hn",
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "time_iso": "2026-11-26T02:34:34+09:00",
+      "excerpt": "134 points ・ 37 comments",
+      "trend_score": 0.0667
     },
     {
       "source": "tc",
-      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-      "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-      "time_iso": "2026-11-25T02:29:09+09:00",
-      "excerpt": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+      "title": "X’s latest update for creators focuses on vertical video",
+      "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+      "time_iso": "2026-11-26T02:28:29+09:00",
+      "excerpt": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "hn",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "time_iso": "2026-11-26T02:18:26+09:00",
+      "excerpt": "1244 points ・ 526 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "tc",
+      "title": "WhatsApp now lets you schedule messages in group and individual chats",
+      "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+      "time_iso": "2026-11-26T01:57:51+09:00",
+      "excerpt": "Users can schedule messages from 10 minutes later to after 14 days.",
       "trend_score": 0.0833
+    },
+    {
+      "source": "pk",
+      "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+      "url": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
+      "time_iso": "2026-11-26T00:29:05+09:00",
+      "excerpt": "AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、...",
+      "trend_score": 1.0
+    },
+    {
+      "source": "pk",
+      "title": "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース",
+      "url": "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html",
+      "time_iso": "2026-11-26T00:27:15+09:00",
+      "excerpt": "Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しまし...",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "hn",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "time_iso": "2026-11-26T00:14:32+09:00",
+      "excerpt": "452 points ・ 111 comments",
+      "trend_score": 0.6
+    },
+    {
+      "source": "itm",
+      "title": "海外経由の接続は見放題、議論尽くせるか　「ブロッキング」法制化、識者の見方は",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003458/",
+      "time_iso": "2026-11-25T18:16:02+09:00",
+      "excerpt": "総務省は11月20日、漏えいした個人情報の二次被害の抑止策を議論する作業部会の初会合を開き、通信事業者がWebサイトへのアクセスを強制的に遮断する「ブロッキング」の法制化に向けた議論をスタートした。",
+      "trend_score": 0.1667
+    },
+    {
+      "source": "itm",
+      "title": "突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003445/",
+      "time_iso": "2026-11-25T15:12:33+09:00",
+      "excerpt": "22日朝「日曜日なのに、2日後の24日付の約定通知メールが届いた」「誤配信だと思うが不安」という声がXで相次いでいた。",
+      "trend_score": 0.0833
+    },
+    {
+      "source": "hn",
+      "title": "How did pinwheel calculators work?",
+      "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+      "time_iso": "2026-11-25T11:00:08+09:00",
+      "excerpt": "34 points ・ 3 comments",
+      "trend_score": 0.4667
     },
     {
       "source": "pk",
@@ -295,7 +319,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsdynamodbextenddb10.html",
       "time_iso": "2026-11-25T00:19:30+09:00",
       "excerpt": "Amazon Web Services（AWS）は、同社がクラウドサービスとして提供しているNoSQLデータベース「Amazon DynamoDB」の互換データベースを、Windows、Linux、macOSなどのOSに対応したユーザーのロ...",
-      "trend_score": 1.0
+      "trend_score": 0.8333
     },
     {
       "source": "pk",
@@ -303,23 +327,7 @@
       "url": "https://www.publickey1.jp/blog/26/jquery_41queryselectoralljquery_3xjquery_38.html",
       "time_iso": "2026-11-25T00:15:39+09:00",
       "excerpt": "jQuery開発チームは、JavaScriptライブラリ「jQuery」の最新版となる「jQuery 4.1」正式版のリリースを発表しました。 また同時にjQuery 3.x系の最後のリリースとなる「jQuery 3.8」も同時にリリースし...",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "itm",
-      "title": "ソフトバンク、アイティメディアの売却検討か　2社「コメント控える」「決定した事実ない」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003427/",
-      "time_iso": "2026-11-24T21:02:48+09:00",
-      "excerpt": "ソフトバンクが傘下のアイティメディアの売却を検討していると日本経済新聞が報じた。ITmedia NEWSの取材に対し、ソフトバンクは「コメントを控える」、アイティメディアは「現時点で決定した事実はない」と回答した。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "無印良品、不正アクセスで株主優待が“紙に逆戻り”　電子クーポンにはいつ戻る？　広報に聞いた",
-      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003419/",
-      "time_iso": "2026-11-24T18:25:45+09:00",
-      "excerpt": "「無印良品」を展開する良品計画は11月20日、株主優待を電子クーポンから紙のクーポンに切り替えた理由などについて、ITmedia NEWSの取材に回答した。電子クーポンに戻すのは、外部の専門機関の調査を経てネットストアを再開した後を想定しているという。",
-      "trend_score": 0.0833
+      "trend_score": 0.75
     },
     {
       "source": "pk",
@@ -327,7 +335,7 @@
       "url": "https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html",
       "time_iso": "2026-11-24T00:49:45+09:00",
       "excerpt": "Ruby on Railsの作者として知られるDHH氏が主導して開発しているデスクトップ向けのLinux OS「Omarchy」の最新版「Omarchy 4.5」（別名Omarchy Quattro RS）正式版がリリースされました。 Om...",
-      "trend_score": 0.8333
+      "trend_score": 0.6667
     },
     {
       "source": "pk",
@@ -335,15 +343,23 @@
       "url": "https://www.publickey1.jp/blog/26/postgresql_19repackio.html",
       "time_iso": "2026-11-24T00:45:37+09:00",
       "excerpt": "オープンソースのリレーショナルデータベース「PostgreSQL」の最新版となる「PostgreSQL 19」正式版がリリースされました（日本語のプレスリリース）。 PostgreSQLは毎年9月もしくは10月にメジャーバージョンアップが行...",
-      "trend_score": 0.75
+      "trend_score": 0.5833
     },
     {
       "source": "hn",
-      "title": "The Spray Bottle",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "time_iso": "2026-11-22T20:16:30+09:00",
-      "excerpt": "408 points ・ 106 comments",
-      "trend_score": 0.0667
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "time_iso": "2026-11-23T01:44:48+09:00",
+      "excerpt": "278 points ・ 80 comments",
+      "trend_score": 0.7333
+    },
+    {
+      "source": "hn",
+      "title": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "time_iso": "2026-11-21T23:52:41+09:00",
+      "excerpt": "148 points ・ 77 comments",
+      "trend_score": 0.2
     },
     {
       "source": "pk",
@@ -351,7 +367,7 @@
       "url": "https://www.publickey1.jp/blog/26/database_hubai.html",
       "time_iso": "2026-11-20T00:19:21+09:00",
       "excerpt": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...",
-      "trend_score": 0.6667
+      "trend_score": 0.5
     },
     {
       "source": "pk",
@@ -359,7 +375,7 @@
       "url": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
       "time_iso": "2026-11-19T01:00:37+09:00",
       "excerpt": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...",
-      "trend_score": 0.5833
+      "trend_score": 0.4167
     },
     {
       "source": "pk",
@@ -367,7 +383,7 @@
       "url": "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
       "time_iso": "2026-11-19T00:58:32+09:00",
       "excerpt": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリース...",
-      "trend_score": 0.5
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
@@ -375,7 +391,7 @@
       "url": "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
       "time_iso": "2026-11-19T00:55:49+09:00",
       "excerpt": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、次期サーバ向けOSとなるWindows Server 2028のパブリックプレビュー公開を発表しました。 企業内のAI推論基盤へ...",
-      "trend_score": 0.4167
+      "trend_score": 0.25
     },
     {
       "source": "pk",
@@ -383,7 +399,7 @@
       "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
       "time_iso": "2026-11-18T06:48:15+09:00",
       "excerpt": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「...",
-      "trend_score": 0.3333
+      "trend_score": 0.1667
     },
     {
       "source": "pk",
@@ -391,22 +407,6 @@
       "url": "https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html",
       "time_iso": "2026-11-18T06:45:41+09:00",
       "excerpt": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」の正式リリースを発表し...",
-      "trend_score": 0.25
-    },
-    {
-      "source": "pk",
-      "title": "［速報］PostgreSQL互換のサーバレスでOLTPとOLAP両対応を実現する「Microsoft Fabric HorizonDB」パブリックプレビュー",
-      "url": "https://www.publickey1.jp/blog/26/postgresqloltpolapmicrosoft_fabric_horizondb.html",
-      "time_iso": "2026-11-18T06:43:09+09:00",
-      "excerpt": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のサーバレスデータベース「Microsoft Fabric HorizonDB」のパブリックプレビュー版...",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "pk",
-      "title": "［速報］AIがOracle DBからPostgreSQLへの移行を支援、「Azure Database Migration Service」プレビュー",
-      "url": "https://www.publickey1.jp/blog/26/aioracle_dbpostgresqlazure_database_migration_service.html",
-      "time_iso": "2026-11-18T06:40:32+09:00",
-      "excerpt": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Azure Database Migration Service （Azure DMS）におけるOracle DBからPostg...",
       "trend_score": 0.0833
     }
   ],
