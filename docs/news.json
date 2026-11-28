@@ -1,13 +1,133 @@
 {
-  "generated_at": "2026-11-27T12:51:55.983226+09:00",
+  "generated_at": "2026-11-28T12:38:09.317932+09:00",
   "items": [
     {
       "source": "hn",
-      "title": "Google will show solo Android developers' phone numbers and addresses",
-      "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
-      "time_iso": "2026-11-27T12:11:41+09:00",
-      "excerpt": "28 points ・ 6 comments",
+      "title": "Atari Homebrew Awards Cancelled",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "time_iso": "2026-11-28T11:03:25+09:00",
+      "excerpt": "95 points ・ 66 comments",
+      "trend_score": 1.0
+    },
+    {
+      "source": "itm",
+      "title": "そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？　8年続いたバースデークラブ終了の理由を社長に聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/28/2000003529/",
+      "time_iso": "2026-11-28T10:00:00+09:00",
+      "excerpt": "ゆで太郎システムは、個人情報の漏えいリスクを理由に、約4000人が登録する「バースデークラブ」の終了を決めた。8年続けた制度を廃止する理由や、個人情報を持たずに顧客との関係を築く戦略を社長に聞いた。",
+      "trend_score": 1.0
+    },
+    {
+      "source": "hn",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "time_iso": "2026-11-28T08:06:29+09:00",
+      "excerpt": "178 points ・ 59 comments",
+      "trend_score": 0.9333
+    },
+    {
+      "source": "hn",
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "url": "https://tabernet.es/",
+      "time_iso": "2026-11-28T08:00:30+09:00",
+      "excerpt": "48 points ・ 20 comments",
+      "trend_score": 0.0667
+    },
+    {
+      "source": "hn",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "url": "https://progrium.github.io/9ux/",
+      "time_iso": "2026-11-28T06:48:14+09:00",
+      "excerpt": "88 points ・ 22 comments",
+      "trend_score": 0.5333
+    },
+    {
+      "source": "hn",
+      "title": "The AT&T Unix PC (3B1) VM",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "time_iso": "2026-11-28T04:40:33+09:00",
+      "excerpt": "68 points ・ 13 comments",
+      "trend_score": 0.2
+    },
+    {
+      "source": "hn",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "time_iso": "2026-11-28T03:02:45+09:00",
+      "excerpt": "249 points ・ 78 comments",
       "trend_score": 0.6
+    },
+    {
+      "source": "hn",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "time_iso": "2026-11-28T00:40:31+09:00",
+      "excerpt": "457 points ・ 237 comments",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "hn",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "time_iso": "2026-11-28T00:01:50+09:00",
+      "excerpt": "336 points ・ 115 comments",
+      "trend_score": 0.2667
+    },
+    {
+      "source": "itm",
+      "title": "顧客情報を守るため、売上15％の自社ECを閉店　ドールメーカーが明かした「決断」の背景",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003518/",
+      "time_iso": "2026-11-27T16:47:38+09:00",
+      "excerpt": "個人情報保護のため、全社売上高の約15％を占める自社ECサイトの閉店を決めたアゾンインターナショナル。AIによるサイバー攻撃の高度化をどう捉え、なぜ個人情報を「持たない」方針に転換したのか。経営陣に聞いた。",
+      "trend_score": 0.9167
+    },
+    {
+      "source": "itm",
+      "title": "「AI関連の需要強い」京セラ　5年で設備投資9000億円、データセンター需要狙う",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003521/",
+      "time_iso": "2026-11-27T16:19:56+09:00",
+      "excerpt": "京セラは26日、2031年3月期までの5年間で設備投資に計9000億円を投じると発表した。人工知能（AI）の普及に伴って拡大するデータセンターや半導体関連の需要の取り込みを狙う。これとは別に研究開発にも5年間で6500億円を投資する。",
+      "trend_score": 0.8333
+    },
+    {
+      "source": "itm",
+      "title": "「時給1280円?」「在宅勤務」　ローソンが募集する「アバターオペレーター」という謎のお仕事",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003511/",
+      "time_iso": "2026-11-27T15:42:43+09:00",
+      "excerpt": "ローソンは10月16日、在宅でアバターを操作して接客する「ローソンアバターオペレーター」の募集を始めた。導入店舗の数や効果、接客をAIではなく人が担う理由などを同社に聞いた。",
+      "trend_score": 0.75
+    },
+    {
+      "source": "itm",
+      "title": "止まらないKARTE漏えい　契約終了後「削除されたはず」のデータ流出相次ぐ　「人的オペレーションと管理の不備」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003517/",
+      "time_iso": "2026-11-27T14:55:00+09:00",
+      "excerpt": "プレイドによると、契約終了後のデータは「利用規約に則り適切に削除されるべき」だったが、「人的オペレーションおよび管理の不備」により保管されたままだったケースがあるという。",
+      "trend_score": 0.6667
+    },
+    {
+      "source": "itm",
+      "title": "聴覚障害の社員にスマートグラス支給　会話をリアルタイムに文字表示　ソフトバンク、連携アプリも独自開発",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003516/",
+      "time_iso": "2026-11-27T13:41:50+09:00",
+      "excerpt": "外部のサーバを介さずにスマホ内で音声認識処理と文字起こしを完結させ、文字起こしした内容をスマートグラスに表示する。",
+      "trend_score": 0.5833
+    },
+    {
+      "source": "itm",
+      "title": "MCPに新機能「Skills over MCP」登場　ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003513/",
+      "time_iso": "2026-11-27T13:33:51+09:00",
+      "excerpt": "AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。",
+      "trend_score": 0.5
+    },
+    {
+      "source": "hn",
+      "title": "Citroën Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "time_iso": "2026-11-27T12:10:19+09:00",
+      "excerpt": "145 points ・ 50 comments",
+      "trend_score": 0.4667
     },
     {
       "source": "itm",
@@ -15,7 +135,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003503/",
       "time_iso": "2026-11-27T12:00:00+09:00",
       "excerpt": "米スタンフォード大学や米シカゴ大学などに所属する研究者らが5月に発表した論文「Sophisticated Consumers with Inertia: Long-Term Implications from a Large-Scale Field Experiment」は、サブスクリプションのお試し契約における「自動",
-      "trend_score": 1.0
+      "trend_score": 0.4167
     },
     {
       "source": "itm",
@@ -23,15 +143,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003502/",
       "time_iso": "2026-11-27T12:00:00+09:00",
       "excerpt": "米パデュー大学に所属する研究者らが発表した論文「Anti-Phishing Training (Still) Does Not Work: A Large-Scale Reproduction of Phishing Training Inefficacy Grounded in the NIST Phish Scal",
-      "trend_score": 0.9167
-    },
-    {
-      "source": "hn",
-      "title": "Show HN: Sqrin – A better screen share for Mac",
-      "url": "https://sqrin.app",
-      "time_iso": "2026-11-27T11:53:22+09:00",
-      "excerpt": "3 points ・ 0 comments",
-      "trend_score": 0.4
+      "trend_score": 0.3333
     },
     {
       "source": "itm",
@@ -39,7 +151,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003512/",
       "time_iso": "2026-11-27T11:21:41+09:00",
       "excerpt": "募集は2021年以来約5年ぶり。将来の月面探査や地球低軌道活動を担う新たな宇宙飛行士候補者を育成する。",
-      "trend_score": 0.8333
+      "trend_score": 0.25
     },
     {
       "source": "itm",
@@ -47,15 +159,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003510/",
       "time_iso": "2026-11-27T10:33:52+09:00",
       "excerpt": "対象は、氏名、生年月日、住所、メールアドレス、電話番号、性別、会員番号。クレジットカード情報やパスワードは含まない。",
-      "trend_score": 0.75
-    },
-    {
-      "source": "hn",
-      "title": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "time_iso": "2026-11-27T10:13:49+09:00",
-      "excerpt": "114 points ・ 57 comments",
-      "trend_score": 1.0
+      "trend_score": 0.1667
     },
     {
       "source": "itm",
@@ -63,63 +167,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003509/",
       "time_iso": "2026-11-27T09:55:22+09:00",
       "excerpt": "契約終了後、顧客情報は削除されるべきだったが、「プレイドにおける人的オペレーションおよび管理の不備」により残存していたという。Peachはプレイドに「消去証明書」を求める。",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "itm",
-      "title": "文部科学省の入札システムに不正アクセス　最大16万件漏えいか",
-      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003508/",
-      "time_iso": "2026-11-27T09:08:04+09:00",
-      "excerpt": "10月1日に不正アクセスを検知し、外部専門機関と連携して調査した結果、漏えいの可能性が判明した。",
-      "trend_score": 0.5833
-    },
-    {
-      "source": "itm",
-      "title": "SpaceXとマスク氏、米国の子どもに自社株を計2株ずつ贈与へ　トランプ政権の「Trump Account」経由で",
-      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003507/",
-      "time_iso": "2026-11-27T08:52:03+09:00",
-      "excerpt": "SpaceXは、トランプ政権が運用する子ども向け投資口座「Trump Account」の有効な全口座に、新規発行するクラスA普通株式を1株ずつ拠出すると発表した。イーロン・マスクCEOも個人として同数を贈与し、計2株ずつとなる。会社分は12月、マスク氏個人分はロックアップ解除後の2027年6月に移管される予定だ。",
-      "trend_score": 0.5
-    },
-    {
-      "source": "itm",
-      "title": "X、「ペアレンタルコントロール」を導入　メッセージ内容は見られず",
-      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003506/",
-      "time_iso": "2026-11-27T07:25:54+09:00",
-      "excerpt": "Xは、13?17歳のユーザーを対象とした「ペアレンタルコントロール」機能の提供を開始した。保護者は1日の利用上限時間や表示コンテンツ、フォロワー承認、DMの受信相手などを管理できる。設定変更はすべて記録され、子どもも確認可能だが、保護者は子どものメッセージ内容や閲覧履歴は閲覧できない。日本でも利用できる。",
-      "trend_score": 0.4167
-    },
-    {
-      "source": "hn",
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "url": "https://kendell.dev/blog/arkwrapper/",
-      "time_iso": "2026-11-27T06:59:19+09:00",
-      "excerpt": "60 points ・ 10 comments",
-      "trend_score": 0.4667
-    },
-    {
-      "source": "hn",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "time_iso": "2026-11-27T06:47:45+09:00",
-      "excerpt": "403 points ・ 222 comments",
-      "trend_score": 0.9333
-    },
-    {
-      "source": "hn",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "time_iso": "2026-11-27T06:08:05+09:00",
-      "excerpt": "281 points ・ 59 comments",
-      "trend_score": 0.8667
-    },
-    {
-      "source": "hn",
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "time_iso": "2026-11-27T05:49:49+09:00",
-      "excerpt": "163 points ・ 66 comments",
-      "trend_score": 0.3333
+      "trend_score": 0.0833
     },
     {
       "source": "tc",
@@ -147,51 +195,19 @@
     },
     {
       "source": "hn",
-      "title": "Rvoip: VoIP stack in Rust",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "time_iso": "2026-11-27T04:18:09+09:00",
-      "excerpt": "101 points ・ 19 comments",
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "time_iso": "2026-11-27T02:24:37+09:00",
+      "excerpt": "193 points ・ 58 comments",
       "trend_score": 0.1333
     },
     {
       "source": "hn",
-      "title": "An introduction to uncertainty in machine learning",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "time_iso": "2026-11-27T04:04:50+09:00",
-      "excerpt": "28 points ・ 0 comments",
-      "trend_score": 0.2667
-    },
-    {
-      "source": "hn",
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "url": "https://bui.preetham.top/charts/",
-      "time_iso": "2026-11-27T03:37:24+09:00",
-      "excerpt": "77 points ・ 10 comments",
-      "trend_score": 0.2
-    },
-    {
-      "source": "hn",
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "time_iso": "2026-11-27T02:47:45+09:00",
-      "excerpt": "233 points ・ 100 comments",
-      "trend_score": 0.6667
-    },
-    {
-      "source": "hn",
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "time_iso": "2026-11-27T02:36:47+09:00",
-      "excerpt": "299 points ・ 378 comments",
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "time_iso": "2026-11-27T02:20:27+09:00",
+      "excerpt": "120 points ・ 24 comments",
       "trend_score": 0.8
-    },
-    {
-      "source": "hn",
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "time_iso": "2026-11-27T02:11:29+09:00",
-      "excerpt": "301 points ・ 74 comments",
-      "trend_score": 0.7333
     },
     {
       "source": "tc",
@@ -243,51 +259,11 @@
     },
     {
       "source": "hn",
-      "title": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
-      "time_iso": "2026-11-26T19:11:01+09:00",
-      "excerpt": "482 points ・ 244 comments",
-      "trend_score": 0.5333
-    },
-    {
-      "source": "hn",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "time_iso": "2026-11-26T18:44:23+09:00",
-      "excerpt": "273 points ・ 226 comments",
-      "trend_score": 0.0667
-    },
-    {
-      "source": "itm",
-      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
-      "time_iso": "2026-11-26T16:06:43+09:00",
-      "excerpt": "飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について考える。",
-      "trend_score": 0.3333
-    },
-    {
-      "source": "itm",
-      "title": "鉄道運転シミュレーターをマイクロバスに搭載「ライドライブ」　東急テクノシステムが開発",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003492/",
-      "time_iso": "2026-11-26T15:34:12+09:00",
-      "excerpt": "東急電鉄のグループ会社東急テクノシステムは11月26日、マイクロバスに鉄道の運転シミュレーターを搭載した「RideLIVE（ライドライブ）」を開発し、2027年11月から販売すると発表した。",
-      "trend_score": 0.25
-    },
-    {
-      "source": "itm",
-      "title": "アディーレ法律事務所、個人情報約1828件漏えい　氏名や問い合わせ内容など……委託先「メール商人」に不正アクセス",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003484/",
-      "time_iso": "2026-11-26T14:31:18+09:00",
-      "excerpt": "氏名、メールアドレス、電話番号、都道府県、性別、生年月日、法人名・業種・担当者名、学校名・自治体名、問い合わせの内容、連絡に関する希望などが漏えいしたという。",
-      "trend_score": 0.1667
-    },
-    {
-      "source": "itm",
-      "title": "KDDI、Xのデータ利用で包括契約　通信品質向上や法人向けサービスに活用へ",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
-      "time_iso": "2026-11-26T14:11:44+09:00",
-      "excerpt": "データは個人を特定できない形で活用する。KDDIが保有するデータアセットをXに提供することはなく、XのアカウントとKDDIの顧客の情報を個人単位でひもづけることもない。",
-      "trend_score": 0.0833
+      "title": "How WinHelp Files Work",
+      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "time_iso": "2026-11-26T21:51:37+09:00",
+      "excerpt": "15 points ・ 8 comments",
+      "trend_score": 0.4
     },
     {
       "source": "tc",
@@ -346,6 +322,14 @@
       "trend_score": 0.0833
     },
     {
+      "source": "hn",
+      "title": "Cyberpunk Television Shows",
+      "url": "https://shellzine.net/cyberpunk-television/",
+      "time_iso": "2026-11-26T01:32:28+09:00",
+      "excerpt": "42 points ・ 37 comments",
+      "trend_score": 0.7333
+    },
+    {
       "source": "pk",
       "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
       "url": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
@@ -360,6 +344,22 @@
       "time_iso": "2026-11-26T00:27:15+09:00",
       "excerpt": "Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しまし...",
       "trend_score": 0.5833
+    },
+    {
+      "source": "hn",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "time_iso": "2026-11-26T00:16:53+09:00",
+      "excerpt": "356 points ・ 225 comments",
+      "trend_score": 0.8667
+    },
+    {
+      "source": "hn",
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "time_iso": "2026-11-25T02:55:27+09:00",
+      "excerpt": "54 points ・ 15 comments",
+      "trend_score": 0.3333
     },
     {
       "source": "pk",
